@@ -1,237 +1,37 @@
 {
   "schema_version": "1.0",
   "feed": "kiflowstate-daily-ai-news",
-  "title": "KIFlowState Daily AI News",
-  "description": "Source-based German AI news feed curated for KIFlowState website integrations.",
+  "title": "DailyNews",
+  "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-11T12:53:48.117975+00:00",
-  "count": 9,
+  "updated_at": "2026-06-11T15:23:34.743543+02:00",
+  "count": 1,
   "latest_date": "2026-06-11",
-  "base_url": "https://juliankarge.github.io/DailyNews/data/api",
+  "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
     {
       "id": "2026-06-11",
       "date": "2026-06-11",
       "weekday": "Donnerstag",
       "date_label": "Donnerstag, 11.06.2026",
-      "title": "AI Digest — 11.06.2026 Europe/Berlin",
-      "dek": "Heute ist das Muster: weniger „neues Supermodell“, mehr Agenten in echte Arbeitsumgebungen bringen — Coding, Cloud, Voice, CI und Demo-Workflows. Gmail-Signale konnten wegen eines Script-Fehlers nicht gelesen werden HTTP 400, daher basiert der Digest heute auf",
+      "title": "Daily AI News — Donnerstag, 11.06.2026",
+      "dek": "Ein öffentlich lesbarer, source-basierter Kurz-Digest zu wichtigen AI-Entwicklungen.",
       "language": "de",
       "status": "published",
       "tags": [
-        "OpenAI",
-        "Google",
-        "Agents"
+        "AI News",
+        "Claude",
+        "Modelle"
       ],
       "hero": {
-        "topic": "OpenAI",
+        "topic": "Claude Fable 5",
         "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Donnerstag, 11.06.2026"
+        "image_alt": "Abstrakte AI-News-Karte zu Claude Fable 5"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-11.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-11.html",
-      "item_count": 5,
-      "source_count": 5
-    },
-    {
-      "id": "2026-06-10",
-      "date": "2026-06-10",
-      "weekday": "Mittwoch",
-      "date_label": "Mittwoch, 10.06.2026",
-      "title": "AI Digest — Mittwoch, 10. Juni 2026",
-      "dek": "Heute ist das Muster ziemlich klar: weniger „neues Modell!“, mehr Infrastruktur, Agenten und operative KI-Workflows. Also genau die Ecke, in der KIFlowState praktisch Geld sparen oder bessere Prozesse bauen kann.",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Agents",
-        "Microsoft"
-      ],
-      "hero": {
-        "topic": "OpenAI",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Mittwoch, 10.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-10.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-10.html",
-      "item_count": 4,
-      "source_count": 0
-    },
-    {
-      "id": "2026-06-09",
-      "date": "2026-06-09",
-      "weekday": "Dienstag",
-      "date_label": "Dienstag, 09.06.2026",
-      "title": "AI Digest — 2026-06-09 Europe/Berlin",
-      "dek": "Heute ist das Muster: weniger „neues Modell“, mehr Infrastruktur + Agenten im Produktivbetrieb. Also: Wer bekommt Compute, wer bekommt Always-on-Agenten, und wie übersetzt man das in echte Kunden-Workflows?",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "OpenAI",
-        "Google",
-        "Agents",
-        "Microsoft"
-      ],
-      "hero": {
-        "topic": "OpenAI",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Dienstag, 09.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-09.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-09.html",
-      "item_count": 4,
-      "source_count": 2
-    },
-    {
-      "id": "2026-06-08",
-      "date": "2026-06-08",
-      "weekday": "Montag",
-      "date_label": "Montag, 08.06.2026",
-      "title": "AI Digest — 08.06.2026 Europe/Berlin",
-      "dek": "Heute gab es keine neuen Gmail-/Newsletter-Signale im Script. Das Muster aus der Watchlist: weniger „neues Modell!“, mehr Agenten-Infrastruktur, Tooling, Partner-Ökosysteme und sichere Workflows. Also genau der Kram, der im echten Kundenprojekt nicht sofort Fe",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "Agents"
-      ],
-      "hero": {
-        "topic": "OpenAI",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Montag, 08.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-08.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-08.html",
-      "item_count": 5,
-      "source_count": 7
-    },
-    {
-      "id": "2026-06-07",
-      "date": "2026-06-07",
-      "weekday": "Sonntag",
-      "date_label": "Sonntag, 07.06.2026",
-      "title": "AI Digest — 2026-06-07 Europe/Berlin",
-      "dek": "Heute ist das Muster ziemlich klar: weniger „neues Modell!“, mehr Infrastruktur und Agenten-Betrieb — also genau die langweilig-nützliche Ecke, aus der echte Kunden-Workflows entstehen.",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "Agents"
-      ],
-      "hero": {
-        "topic": "OpenAI",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Sonntag, 07.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-07.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-07.html",
-      "item_count": 4,
+      "item_count": 1,
       "source_count": 1
-    },
-    {
-      "id": "2026-06-06",
-      "date": "2026-06-06",
-      "weekday": "Samstag",
-      "date_label": "Samstag, 06.06.2026",
-      "title": "AI Digest — 2026-06-06 Europe/Berlin",
-      "dek": "Heute ist das Muster ziemlich klar: weniger „neues Modell!“, mehr Infrastruktur und Agenten-Betrieb — also genau die langweilig-nützliche Schicht, auf der KIFlowState-Projekte am Ende funktionieren oder scheitern.",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "Anthropic",
-        "Google",
-        "Agents",
-        "Meta"
-      ],
-      "hero": {
-        "topic": "Anthropic",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Samstag, 06.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-06.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-06.html",
-      "item_count": 5,
-      "source_count": 0
-    },
-    {
-      "id": "2026-06-05",
-      "date": "2026-06-05",
-      "weekday": "Freitag",
-      "date_label": "Freitag, 05.06.2026",
-      "title": "AI Digest — 05.06.2026 Europe/Berlin",
-      "dek": "Heute ist das Muster ziemlich klar: Agenten wandern weiter aus der Demo-Ecke in konkrete Business-Flows — Support, Messaging, Testing, lokale Modelle. Nicht alles ist öffentlich sauber bestätigt, aber als Scanner-Signal für KIFlowState ist es brauchbar.",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "Google",
-        "Agents",
-        "Meta"
-      ],
-      "hero": {
-        "topic": "Google",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Freitag, 05.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-05.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-05.html",
-      "item_count": 4,
-      "source_count": 1
-    },
-    {
-      "id": "2026-06-04",
-      "date": "2026-06-04",
-      "weekday": "Donnerstag",
-      "date_label": "Donnerstag, 04.06.2026",
-      "title": "AI Digest — 04.06.2026 Europe/Berlin",
-      "dek": "Heute ist das Muster ziemlich klar: AI wird gerade stärker enterprise-tauglich verpackt — mehr Cloud-Vertrieb, Governance, große Open-Weight-Modelle und Kapitalmarkt-Reife. Weniger „neues Spielzeug“, mehr „wie kriegen Firmen das sicher in echte Workflows?“",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "OpenAI",
-        "Anthropic",
-        "Agents",
-        "NVIDIA"
-      ],
-      "hero": {
-        "topic": "OpenAI",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Donnerstag, 04.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-04.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-04.html",
-      "item_count": 4,
-      "source_count": 2
-    },
-    {
-      "id": "2026-06-03",
-      "date": "2026-06-03",
-      "weekday": "Mittwoch",
-      "date_label": "Mittwoch, 03.06.2026",
-      "title": "Testlauf Daily AI News — 03.06.2026",
-      "dek": "Temporärer Testeintrag für die KIFlowState-Website-Integration: source-basierte Modell- und Produkt-Releases aus dem neuen Recherche-Setup.",
-      "language": "de",
-      "status": "published",
-      "tags": [
-        "Anthropic",
-        "OpenAI",
-        "Google",
-        "Mistral",
-        "Qwen"
-      ],
-      "hero": {
-        "topic": "Model Releases",
-        "accent": "#3b82f6",
-        "image_alt": "Abstrakte KI-News Grafik für Mittwoch, 03.06.2026"
-      },
-      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-03.json",
-      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-03.html",
-      "item_count": 5,
-      "source_count": 5
     }
   ]
 }
