@@ -1,6 +1,6 @@
 # DailyNews
 
-Schönes, ruhiges Archiv für Julians tägliche KI-News.
+Öffentliches, source-basiertes Archiv für tägliche AI-News auf Deutsch.
 
 ## Was hier liegt
 
