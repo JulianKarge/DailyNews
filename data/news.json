@@ -1,0 +1,436 @@
+[
+  {
+    "date": "2026-06-11",
+    "title": "AI Digest — 11.06.2026 Europe/Berlin",
+    "summary": "Heute ist das Muster: weniger „neues Supermodell“, mehr Agenten in echte Arbeitsumgebungen bringen — Coding, Cloud, Voice, CI und Demo-Workflows. Gmail-Signale konnten wegen eines Script-Fehlers nicht gelesen werden HTTP 400, daher basiert der Digest heute auf",
+    "file": "news/2026-06-11.md",
+    "links": [
+      "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "https://openai.com/index/openai-on-oracle-cloud",
+      "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+    ],
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "title": "AI Digest — Mittwoch, 10. Juni 2026",
+    "summary": "Heute ist das Muster ziemlich klar: weniger „neues Modell!“, mehr Infrastruktur, Agenten und operative KI-Workflows. Also genau die Ecke, in der KIFlowState praktisch Geld sparen oder bessere Prozesse bauen kann.",
+    "file": "news/2026-06-10.md",
+    "links": [],
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Agents",
+      "Microsoft"
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "title": "AI Digest — 2026-06-09 Europe/Berlin",
+    "summary": "Heute ist das Muster: weniger „neues Modell“, mehr Infrastruktur + Agenten im Produktivbetrieb. Also: Wer bekommt Compute, wer bekommt Always-on-Agenten, und wie übersetzt man das in echte Kunden-Workflows?",
+    "file": "news/2026-06-09.md",
+    "links": [
+      "https://cloud.google.com/blog/topics/ai-machine-learning",
+      "https://blogs.microsoft.com/ai/"
+    ],
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Agents",
+      "Microsoft"
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "title": "AI Digest — 08.06.2026 Europe/Berlin",
+    "summary": "Heute gab es keine neuen Gmail-/Newsletter-Signale im Script. Das Muster aus der Watchlist: weniger „neues Modell!“, mehr Agenten-Infrastruktur, Tooling, Partner-Ökosysteme und sichere Workflows. Also genau der Kram, der im echten Kundenprojekt nicht sofort Fe",
+    "file": "news/2026-06-08.md",
+    "links": [
+      "https://www.anthropic.com/news/claude-opus-4-8",
+      "https://www.anthropic.com/news/services-track-partner-hub",
+      "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+      "https://mistral.ai/news/",
+      "https://mistral.ai/news/news/search-toolkit",
+      "https://huggingface.co/blog/OpenClaw/clawhub-security-signals"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "title": "AI Digest — 2026-06-07 Europe/Berlin",
+    "summary": "Heute ist das Muster ziemlich klar: weniger „neues Modell!“, mehr Infrastruktur und Agenten-Betrieb — also genau die langweilig-nützliche Ecke, aus der echte Kunden-Workflows entstehen.",
+    "file": "news/2026-06-07.md",
+    "links": [
+      "https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-standby-buffers"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "title": "AI Digest — 2026-06-06 Europe/Berlin",
+    "summary": "Heute ist das Muster ziemlich klar: weniger „neues Modell!“, mehr Infrastruktur und Agenten-Betrieb — also genau die langweilig-nützliche Schicht, auf der KIFlowState-Projekte am Ende funktionieren oder scheitern.",
+    "file": "news/2026-06-06.md",
+    "links": [],
+    "tags": [
+      "Anthropic",
+      "Google",
+      "Agents",
+      "Meta"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "title": "AI Digest — 05.06.2026 Europe/Berlin",
+    "summary": "Heute ist das Muster ziemlich klar: Agenten wandern weiter aus der Demo-Ecke in konkrete Business-Flows — Support, Messaging, Testing, lokale Modelle. Nicht alles ist öffentlich sauber bestätigt, aber als Scanner-Signal für KIFlowState ist es brauchbar.",
+    "file": "news/2026-06-05.md",
+    "links": [
+      "https://www.qawolf.com/"
+    ],
+    "tags": [
+      "Google",
+      "Agents",
+      "Meta"
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "title": "AI Digest — 04.06.2026 Europe/Berlin",
+    "summary": "Heute ist das Muster ziemlich klar: AI wird gerade stärker enterprise-tauglich verpackt — mehr Cloud-Vertrieb, Governance, große Open-Weight-Modelle und Kapitalmarkt-Reife. Weniger „neues Spielzeug“, mehr „wie kriegen Firmen das sicher in echte Workflows?“",
+    "file": "news/2026-06-04.md",
+    "links": [
+      "https://aws.amazon.com/blogs/aws/",
+      "https://developer.nvidia.com/blog/"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Agents",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "title": "AI Digest — 03.06.2026 Europe/Berlin",
+    "summary": "Kurzer Morgen-Check: Heute leider ohne Newsletter-Signale, weil der Gmail-Pre-Run mit HTTP 400 fehlgeschlagen ist. Dafür gibt’s einen kompakten Blick auf öffentliche Quellen — Kaffee rein, Agenten raus. ☕🤖",
+    "file": "news/2026-06-03.md",
+    "links": [
+      "https://www.anthropic.com/news",
+      "https://www.anthropic.com/news",
+      "https://deepmind.google/discover/blog/",
+      "https://mistral.ai/news/",
+      "https://github.blog/ai-and-ml/"
+    ],
+    "tags": [
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "title": "AI Digest — 02.06.2026",
+    "summary": "Guten Morgen Julian — heute ohne Newsletter-Signale, weil der Content-Account-Lauf mit HTTP 400 abgebrochen ist. Also: kompakter Public-Source-Digest, ohne Glaskugel und ohne KI-Konfetti-Kanone.",
+    "file": "news/2026-06-02.md",
+    "links": [
+      "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
+    ],
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Agents",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "title": "AI Digest — 1. Juni 2026",
+    "summary": "Guten Morgen Julian — heute leider ohne Newsletter-Signale, weil der Gmail-Pre-Run mit HTTP 400 ausgestiegen ist. Dafür gibt’s einen kompakten Public-Source-Digest aus offiziellen Feeds. Kaffee an, Agenten los. ☕🤖",
+    "file": "news/2026-06-01.md",
+    "links": [
+      "https://www.anthropic.com/news",
+      "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "https://openai.com/index/braintrust",
+      "https://huggingface.co/blog/ibm-research/itbench-aa"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub"
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "title": "AI Digest — 2026-05-31",
+    "summary": "Kurzer Sonntags-Digest: Der Mail-/Newsletter-Scraper ist heute mit HTTP 400 ausgestiegen, daher basiert das hier nur auf öffentlich abrufbaren offiziellen Feeds. Kein Drama, nur weniger “Inbox-Gewürz”. 🌶️",
+    "file": "news/2026-05-31.md",
+    "links": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "https://openai.com/index/braintrust",
+      "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
+    ],
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-05-26",
+    "title": "AI Digest — 26. Mai 2026 Europe/Berlin",
+    "summary": "Kurzer Hinweis: Das Mail-/Newsletter-Script ist heute mit HTTP 400 ausgestiegen — also kein persönlicher Newsletter-Input. Ich nehme deshalb nur öffentliche Watchlist-Signale. Kein Drama, nur weniger Inbox-Magie. 🛠️",
+    "file": "news/2026-05-26.md",
+    "links": [
+      "https://mistral.ai/news/news/vibe-remote-agents-mistral-medium-3-5",
+      "https://huggingface.co/blog/agent-glossary",
+      "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "https://openai.com/index/virgin-atlantic",
+      "https://www.anthropic.com/news/news/claude-opus-4-7"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "title": "AI Digest — 25.05.2026 Europe/Berlin",
+    "summary": "Guten Morgen Julian — heute ohne Newsletter-Signale, weil der Gmail-Pre-Run mit HTTP 400 rausgeflogen ist. Deshalb: kompakter Digest aus öffentlichen Quellen, ohne Glaskugel und ohne KI-Konfetti. 🥐🤖",
+    "file": "news/2026-05-25.md",
+    "links": [
+      "https://mistral.ai/news/news/vibe-remote-agents-mistral-medium-3-5",
+      "https://www.anthropic.com/news/research/glasswing-initial-update",
+      "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "https://ai.meta.com/blog/segment-anything-model-3/",
+      "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "Meta",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "title": "AI Digest — 24.05.2026 Europe/Berlin",
+    "summary": "Kurzer Sonntags-Digest: Der Mail-/Newsletter-Collector hatte heute einen 400er-Schluckauf, daher nur öffentliche Quellen — weniger Inbox, mehr Frischluft.",
+    "file": "news/2026-05-24.md",
+    "links": [
+      "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "https://github.blog/changelog/2026-05-20-auto-model-selection-now-routes-based-on-your-task-in-vs-code",
+      "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "https://www.anthropic.com/research/glasswing-initial-update"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "title": "AI Digest — 23.05.2026",
+    "summary": "Guten Morgen Julian — heute eher „AI wird zum Praktikanten in Design, Marketing und Browser-Workflows“ als Weltuntergang. Sehr KIFlowState-relevant.",
+    "file": "news/2026-05-23.md",
+    "links": [],
+    "tags": [
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "title": "AI Digest — 22.05.2026",
+    "summary": "Guten Morgen Julian — heute klarer Schwerpunkt: Agenten werden weniger „Chatbot-Spielerei“ und mehr Infrastruktur-/Produkt-Layer. Also: weniger Magie, mehr Stromrechnung. ⚡",
+    "file": "news/2026-05-22.md",
+    "links": [
+      "https://blog.google/technology/ai/",
+      "https://blog.google/technology/ai/",
+      "https://openai.com/news/",
+      "https://developers.cloudflare.com/agents/"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "title": "AI Digest — 2026-05-21",
+    "summary": "☕ KI-News Frühstück — 21.05.2026",
+    "file": "news/2026-05-21.md",
+    "links": [
+      "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "https://deepmind.google/blog/introducing-gemini-omni/",
+      "https://blog.cloudflare.com/claude-managed-agents/",
+      "https://openai.com/index/ramp",
+      "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "title": "AI Digest — 2026-05-20",
+    "summary": "☕ KI-News Frühstück — 20. Mai 2026",
+    "file": "news/2026-05-20.md",
+    "links": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "https://openai.com/index/dell-codex-enterprise-partnership",
+      "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "title": "AI Digest — 2026-05-19",
+    "summary": "☕ KI-News Frühstück — 19. Mai 2026",
+    "file": "news/2026-05-19.md",
+    "links": [
+      "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "https://openai.com/index/dell-codex-enterprise-partnership",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
+      "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub",
+      "NVIDIA"
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "title": "AI Digest — 2026-05-18",
+    "summary": "☕ KI-News Frühstück — 18.05.2026",
+    "file": "news/2026-05-18.md",
+    "links": [
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/",
+      "https://www.pymnts.com/artificial-intelligence-2/2026/openai-adds-voice-ai-startup-weights-gg-to-its-stable/",
+      "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
+      "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/",
+      "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub"
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "title": "AI Digest — 2026-05-17",
+    "summary": "☕ KI-News Frühstück — 17.05.2026",
+    "file": "news/2026-05-17.md",
+    "links": [
+      "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "https://openai.com/index/work-with-codex-from-anywhere",
+      "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Agents",
+      "GitHub"
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "title": "AI Digest — 2026-05-16",
+    "summary": "☕ KI-News Frühstück — 16. Mai 2026",
+    "file": "news/2026-05-16.md",
+    "links": [
+      "https://openai.com/index/personal-finance-chatgpt",
+      "https://openai.com/index/work-with-codex-from-anywhere",
+      "https://openai.com/index/databricks",
+      "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+    ],
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Agents"
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "title": "AI Digest — 2026-05-16",
+    "summary": "☕ KI-News Frühstück — 16. Mai 2026",
+    "file": "news/2026-05-16.md",
+    "links": [
+      "https://openai.com/index/work-with-codex-from-anywhere",
+      "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "https://www.anthropic.com/news/claude-for-small-business",
+      "https://blog.google/products-and-platforms/products/education/ai-policy-guidance-labs/",
+      "https://huggingface.co/blog/FINAL-Bench/darwin-papers",
+      "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
+    ],
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Agents",
+      "GitHub"
+    ]
+  }
+]

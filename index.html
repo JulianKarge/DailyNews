@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily AI News · KIFlowState</title>
+  <meta name="description" content="Julians tägliches KI-News Archiv: kompakt, durchsuchbar, GitHub Pages-ready." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <nav class="topbar">
+        <div class="brand"><span class="mark">KF</span><span>KIFlowState Daily News</span></div>
+        <a class="repo-link" href="https://github.com/JulianKarge/DailyNews" target="_blank" rel="noreferrer">GitHub Repo</a>
+      </nav>
+
+      <section class="hero-grid">
+        <div>
+          <p class="eyebrow">AI Signals · Research · Content Angles</p>
+          <h1>Dein ruhiges Archiv für tägliche KI-News.</h1>
+          <p class="hero-copy">Telegram bleibt leerer. Die täglichen Digests landen hier als übersichtliche Karten mit Archiv, Suche, Quellen und Markdown-Dateien.</p>
+          <div class="actions">
+            <a class="button primary" href="#latest">Neueste News ansehen</a>
+            <a class="button ghost" href="./data/news.json">Rohdaten öffnen</a>
+          </div>
+        </div>
+        <aside class="stats-card" aria-label="News Statistiken">
+          <div class="stat"><strong id="stat-count">–</strong><span>Digests</span></div>
+          <div class="stat"><strong id="stat-links">–</strong><span>Quellenlinks</span></div>
+          <div class="stat"><strong id="stat-latest">–</strong><span>Letztes Update</span></div>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section class="panel controls" id="latest">
+        <div>
+          <p class="section-kicker">Archiv</p>
+          <h2>Alle Daily News</h2>
+        </div>
+        <div class="search-wrap">
+          <input id="search" type="search" placeholder="Suche nach OpenAI, Agents, GitHub…" autocomplete="off" />
+        </div>
+      </section>
+
+      <section id="featured" class="featured"></section>
+      <section id="cards" class="cards" aria-live="polite"></section>
+      <p id="empty" class="empty" hidden>Keine News für diese Suche gefunden.</p>
+    </main>
+
+    <footer>
+      <span>Built for Julian · powered by Hermes Agent</span>
+      <span>Static GitHub Pages site</span>
+    </footer>
+  </div>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
