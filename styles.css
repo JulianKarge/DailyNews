@@ -47,16 +47,34 @@ h2 { margin: 0; font-size: 34px; letter-spacing: -0.055em; }
 input { width: 100%; border: 1px solid var(--line); border-radius: 18px; padding: 15px 16px; font: inherit; font-weight: 600; outline: none; background: white; }
 input:focus { border-color: rgba(59,130,246,.55); box-shadow: 0 0 0 4px rgba(59,130,246,.12); }
 .featured { margin-bottom: 20px; }
-.featured-card { display: grid; grid-template-columns: 1fr auto; gap: 24px; padding: 28px; border-radius: 32px; color: white; background: linear-gradient(135deg, var(--blue-dark), var(--accent)); box-shadow: 0 26px 80px rgba(30,58,138,.28); }
+.featured-card { display: grid; grid-template-columns: 220px 1fr auto; gap: 24px; padding: 28px; border-radius: 32px; color: white; background: linear-gradient(135deg, var(--blue-dark), var(--accent)); box-shadow: 0 26px 80px rgba(30,58,138,.28); }
 .featured-card p { color: rgba(255,255,255,.82); }
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
 .card { display: flex; flex-direction: column; min-height: 310px; padding: 22px; border: 1px solid var(--line); border-radius: 28px; background: var(--card); box-shadow: 0 18px 44px rgba(15,23,42,.08); backdrop-filter: blur(18px); transition: transform .18s ease, box-shadow .18s ease; }
 .card:hover { transform: translateY(-3px); box-shadow: 0 28px 70px rgba(15,23,42,.13); }
-.date { color: var(--blue-dark); font-weight: 800; font-size: 13px; }
+.date-block { display: grid; gap: 3px; margin-top: 14px; }
+.date-block.inverted { margin: 0 0 8px; }
+.weekday { color: var(--blue-dark); font-weight: 900; font-size: 13px; text-transform: uppercase; letter-spacing: .08em; }
+.inverted .weekday, .inverted .date { color: rgba(255,255,255,.82); }
+.date { color: var(--muted); font-weight: 800; font-size: 14px; }
 .card h3, .featured-card h3 { margin: 12px 0; font-size: 23px; line-height: 1.12; letter-spacing: -0.05em; }
 .card p { color: var(--muted); line-height: 1.55; margin: 0 0 18px; }
-.tags { display: flex; flex-wrap: wrap; gap: 7px; margin: auto 0 18px; }
+.tags { display: flex; flex-wrap: wrap; gap: 7px; margin: 0 0 16px; }
 .tag { font-size: 12px; font-weight: 800; color: var(--blue-dark); padding: 7px 9px; border-radius: 999px; background: rgba(59,130,246,.1); }
+.visual { position: relative; min-height: 132px; border-radius: 24px; overflow: hidden; padding: 18px; display: flex; flex-direction: column; justify-content: space-between; color: white; background:
+  radial-gradient(circle at 20% 20%, rgba(255,255,255,.34), transparent 9rem),
+  radial-gradient(circle at 80% 80%, rgba(255,255,255,.16), transparent 8rem),
+  linear-gradient(135deg, #3b82f6, #1e3a8a); }
+.visual::before { content: ""; position: absolute; inset: 18px; border: 1px solid rgba(255,255,255,.22); border-radius: 18px; }
+.visual::after { content: ""; position: absolute; width: 94px; height: 94px; right: -20px; bottom: -24px; border-radius: 999px; background: rgba(255,255,255,.16); }
+.visual span { position: relative; font-size: 24px; font-weight: 900; letter-spacing: -.06em; }
+.visual small { position: relative; font-weight: 800; opacity: .78; text-transform: uppercase; letter-spacing: .1em; }
+.featured-card .visual { min-height: 100%; background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.18); }
+.sources { display: flex; flex-wrap: wrap; gap: 8px; margin: auto 0 18px; }
+.source-pill, .source-note { display: inline-flex; align-items: center; max-width: 100%; border-radius: 999px; padding: 8px 10px; font-size: 12px; font-weight: 800; text-decoration: none; color: var(--blue-dark); background: rgba(15,23,42,.06); }
+.source-pill { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sources.light .source-pill { color: white; background: rgba(255,255,255,.16); }
+.source-note { color: var(--muted); border-radius: 14px; }
 .card-actions { display: flex; gap: 10px; flex-wrap: wrap; }
 .mini-link { font-weight: 800; font-size: 14px; color: var(--blue-dark); text-decoration: none; }
 .empty { text-align: center; color: var(--muted); padding: 40px; font-weight: 700; }
