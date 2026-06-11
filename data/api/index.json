@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-11T15:23:34.743543+02:00",
+  "updated_at": "2026-06-11T15:27:44.033292+02:00",
   "count": 1,
   "latest_date": "2026-06-11",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,23 +15,28 @@
       "weekday": "Donnerstag",
       "date_label": "Donnerstag, 11.06.2026",
       "title": "Daily AI News — Donnerstag, 11.06.2026",
-      "dek": "Ein öffentlich lesbarer, source-basierter Kurz-Digest zu wichtigen AI-Entwicklungen.",
+      "dek": "Source-basierter Kurz-Digest zu wichtigen AI-, Modell- und Agenten-Entwicklungen.",
       "language": "de",
       "status": "published",
       "tags": [
-        "AI News",
+        "Anthropic",
         "Claude",
-        "Modelle"
+        "Frontier Models",
+        "Coding",
+        "AI Safety",
+        "Google",
+        "Gemma",
+        "Open Models"
       ],
       "hero": {
-        "topic": "Claude Fable 5",
+        "topic": "AI Models & Agents",
         "accent": "#3b82f6",
-        "image_alt": "Abstrakte AI-News-Karte zu Claude Fable 5"
+        "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 11.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-11.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-11.html",
-      "item_count": 1,
-      "source_count": 1
+      "item_count": 5,
+      "source_count": 5
     }
   ]
 }

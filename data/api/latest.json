@@ -5,30 +5,35 @@
   "weekday": "Donnerstag",
   "date_label": "Donnerstag, 11.06.2026",
   "title": "Daily AI News — Donnerstag, 11.06.2026",
-  "dek": "Ein öffentlich lesbarer, source-basierter Kurz-Digest zu wichtigen AI-Entwicklungen.",
+  "dek": "Source-basierter Kurz-Digest zu wichtigen AI-, Modell- und Agenten-Entwicklungen.",
   "language": "de",
   "status": "published",
   "tags": [
-    "AI News",
+    "Anthropic",
     "Claude",
-    "Modelle"
+    "Frontier Models",
+    "Coding",
+    "AI Safety",
+    "Google",
+    "Gemma",
+    "Open Models"
   ],
   "hero": {
-    "topic": "Claude Fable 5",
+    "topic": "AI Models & Agents",
     "accent": "#3b82f6",
-    "image_alt": "Abstrakte AI-News-Karte zu Claude Fable 5"
+    "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 11.06.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-11.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-11.html",
-  "item_count": 1,
-  "source_count": 1,
-  "summary": "Anthropic bringt mit Claude Fable 5 ein neues allgemein verfügbares Spitzenmodell und mit Claude Mythos 5 eine kontrollierte Variante für ausgewählte Sicherheitsanwendungen.",
-  "generated_at": "2026-06-11T15:23:34.743543+02:00",
+  "item_count": 5,
+  "source_count": 5,
+  "summary": "Heute im Fokus: neue Modellgenerationen, lokalere multimodale Modelle, Live-Übersetzung und produktivere Coding-Agenten.",
+  "generated_at": "2026-06-11T15:27:44.033292+02:00",
   "items": [
     {
       "title": "Anthropic stellt Claude Fable 5 und Claude Mythos 5 vor",
       "summary": "Anthropic hat mit Claude Fable 5 ein neues, allgemein verfügbares Spitzenmodell angekündigt. Für ausgewählte Cyberdefense-Partner gibt es außerdem Claude Mythos 5, eine Variante mit angepassten Schutzmechanismen für vertrauenswürdige Sicherheitsanwendungen.",
-      "why_it_matters": "Der Launch zeigt, wohin sich frontier Modelle bewegen: längere autonome Arbeit, stärkere Coding- und Analysefähigkeiten, aber auch deutlich strengere Zugriffsschichten für riskante Einsatzbereiche. Für Teams wird damit wichtiger, nicht nur Modellleistung zu bewerten, sondern auch Governance, Preisstruktur und Einsatzgrenzen mitzudenken.",
+      "why_it_matters": "Der Launch zeigt, wohin sich Frontier-Modelle bewegen: längere autonome Arbeit, stärkere Coding- und Analysefähigkeiten, aber auch deutlich strengere Zugriffsschichten für riskante Einsatzbereiche. Für Teams wird damit wichtiger, nicht nur Modellleistung zu bewerten, sondern auch Governance, Preisstruktur und Einsatzgrenzen mitzudenken.",
       "source": {
         "name": "Anthropic",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
@@ -47,12 +52,116 @@
         "AI Safety"
       ],
       "confidence": "high"
+    },
+    {
+      "title": "Google kündigt Gemma 4 12B für lokale multimodale Anwendungen an",
+      "summary": "Google beschreibt Gemma 4 12B als Modell für leistungsfähige multimodale Intelligenz direkt auf Laptops und kleineren lokalen Setups.",
+      "why_it_matters": "Open-Weight- und lokal lauffähige Modelle werden für Datenschutz, Kostenkontrolle und Offline-Demos wichtiger. Für Teams, Creator und kleine Unternehmen ist das ein Signal, dass nicht jede nützliche AI-Funktion zwingend über eine große Cloud-API laufen muss.",
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+      },
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemma",
+        "Open Models",
+        "Multimodal"
+      ],
+      "confidence": "high"
+    },
+    {
+      "title": "Gemini 3.5 Live Translate bringt Echtzeit-Sprachübersetzung in Google-Tools",
+      "summary": "Google stellt Gemini 3.5 Live Translate für nahezu Echtzeit-Übersetzung natürlicher Sprache in Google AI Studio, Google Translate und Google Meet vor.",
+      "why_it_matters": "Live-Übersetzung rückt näher an alltägliche Meetings, Support-Gespräche und internationale Creator-Workflows. Praktisch relevant ist dabei nicht nur die Modellqualität, sondern auch, wo die Funktion direkt in bestehende Arbeitsumgebungen eingebettet wird.",
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+      },
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemini",
+        "Voice",
+        "Translation"
+      ],
+      "confidence": "high"
+    },
+    {
+      "title": "Cohere veröffentlicht North Mini Code als erstes Entwickler-Modell",
+      "summary": "Cohere Labs stellt auf Hugging Face North Mini Code vor, ein Modell, das speziell auf Entwickler- und Coding-Aufgaben ausgerichtet ist.",
+      "why_it_matters": "Der Coding-Modellmarkt wird breiter: Neben den großen Frontier-Anbietern entstehen stärker fokussierte Modelle für einzelne Arbeitsbereiche. Für Unternehmen kann das die Auswahl zwischen allgemeiner Spitzenleistung, Kosten, Hosting-Optionen und Spezialisierung verändern.",
+      "source": {
+        "name": "Hugging Face / Cohere Labs",
+        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+      },
+      "sources": [
+        {
+          "name": "Hugging Face / Cohere Labs",
+          "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+        }
+      ],
+      "tags": [
+        "Cohere",
+        "Coding",
+        "Developer Tools",
+        "Models"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "GitHub zeigt Custom Agents für wiederholbare Copilot-CLI-Workflows",
+      "summary": "GitHub erklärt, wie Custom Agents in Copilot CLI Team-Kontext, Stack-Wissen und wiederholbare Terminal-Workflows abbilden können.",
+      "why_it_matters": "Agenten werden nützlicher, wenn sie nicht nur einzelne Prompts beantworten, sondern wiederholbare Prozesse mit klaren Regeln und Review-Punkten ausführen. Das ist besonders relevant für Teams, die AI-Assistenz in bestehende Entwicklungsabläufe integrieren wollen.",
+      "source": {
+        "name": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
+      },
+      "sources": [
+        {
+          "name": "GitHub Blog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
+        }
+      ],
+      "tags": [
+        "GitHub",
+        "Copilot",
+        "Agents",
+        "Developer Tools"
+      ],
+      "confidence": "high"
     }
   ],
   "sources": [
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+    },
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+    },
+    {
+      "name": "Hugging Face / Cohere Labs",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+    },
+    {
+      "name": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
     }
   ],
   "legacy": {

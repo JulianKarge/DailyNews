@@ -4,19 +4,40 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 11.06.2026",
     "title": "Daily AI News — Donnerstag, 11.06.2026",
-    "summary": "Anthropic bringt mit Claude Fable 5 ein neues allgemein verfügbares Spitzenmodell und mit Claude Mythos 5 eine kontrollierte Variante für ausgewählte Sicherheitsanwendungen.",
+    "summary": "Heute im Fokus: neue Modellgenerationen, lokalere multimodale Modelle, Live-Übersetzung und produktivere Coding-Agenten.",
     "file": "pages/2026-06-11.html",
     "markdownFile": "news/2026-06-11.md",
     "tags": [
-      "AI News",
+      "Anthropic",
       "Claude",
-      "Modelle"
+      "Frontier Models",
+      "Coding",
+      "AI Safety",
+      "Google",
+      "Gemma",
+      "Open Models"
     ],
-    "visualTag": "Claude",
+    "visualTag": "AI Models",
     "sources": [
       {
         "label": "Anthropic",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+      },
+      {
+        "label": "Hugging Face / Cohere Labs",
+        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+      },
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
       }
     ]
   }
