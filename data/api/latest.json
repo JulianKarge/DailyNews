@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-06-11",
+  "date": "2026-06-11",
+  "weekday": "Donnerstag",
+  "date_label": "Donnerstag, 11.06.2026",
+  "title": "AI Digest — 11.06.2026 Europe/Berlin",
+  "dek": "Heute ist das Muster: weniger „neues Supermodell“, mehr Agenten in echte Arbeitsumgebungen bringen — Coding, Cloud, Voice, CI und Demo-Workflows. Gmail-Signale konnten wegen eines Script-Fehlers nicht gelesen werden HTTP 400, daher basiert der Digest heute auf",
+  "summary": "Heute ist das Muster: weniger „neues Supermodell“, mehr Agenten in echte Arbeitsumgebungen bringen — Coding, Cloud, Voice, CI und Demo-Workflows. Gmail-Signale konnten wegen eines Script-Fehlers nicht gelesen werden HTTP 400, daher basiert der Digest heute auf",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T09:18:09.720160+00:00",
+  "tags": [
+    "OpenAI",
+    "Google",
+    "Agents"
+  ],
+  "hero": {
+    "topic": "OpenAI",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Donnerstag, 11.06.2026"
+  },
+  "items": [
+    {
+      "title": "OpenAI zeigt Codex als praktisches Coding-/Research-Werkzeug am Beispiel wissenschaftlicher Simulationen",
+      "summary": "OpenAI zeigt Codex als praktisches Coding-/Research-Werkzeug am Beispiel wissenschaftlicher Simulationen",
+      "why_it_matters": "Guter Aufhänger für KIFlowState: nicht „KI schreibt Code“, sondern „KI hilft Fachleuten, komplexe Workflows schneller zu iterieren“. Das lässt sich gut auf Kundenprozesse übertragen: Datenanalyse, interne Tools, Prototyping, Automationslogik. **Quelle:** https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": {
+        "name": "openai.com",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+      },
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "OpenAI-Modelle und Codex werden über Oracle Cloud Commitments zugänglich gemacht",
+      "summary": "OpenAI-Modelle und Codex werden über Oracle Cloud Commitments zugänglich gemacht",
+      "why_it_matters": "Für B2B-Kunden wichtig: AI wird stärker in bestehende Cloud-/Enterprise-Verträge eingebettet. Gesprächspunkt: „Welche AI-Funktionen könnt ihr nutzen, ohne neue Tool-Silos aufzubauen?“ **Quelle:** https://openai.com/index/openai-on-oracle-cloud",
+      "source": {
+        "name": "openai.com",
+        "url": "https://openai.com/index/openai-on-oracle-cloud"
+      },
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/index/openai-on-oracle-cloud"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Hugging Face hebt Voice-Agenten für bilinguale Kundenkommunikation hervor, inklusive Benchmarking von Speech Recognition bei Code-Switching",
+      "summary": "Hugging Face hebt Voice-Agenten für bilinguale Kundenkommunikation hervor, inklusive Benchmarking von Speech Recognition bei Code-Switching",
+      "why_it_matters": "Sehr praktisch für Automationen im Kundenservice: Viele echte Gespräche sind nicht sauber einsprachig. Für Julian spannend als Demo-/Beratungswinkel: „Warum Voice-Agenten im Labor gut aussehen, aber im echten Support an Sprache, Akzent und Mischsprache scheitern können.“ **Quelle:** https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": {
+        "name": "huggingface.co",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+      },
+      "sources": [
+        {
+          "name": "huggingface.co",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Hugging Face zeigt einen Agenten, der mehrere Spaces verkettet, um eine 3D-Galerie zu bauen",
+      "summary": "Hugging Face zeigt einen Agenten, der mehrere Spaces verkettet, um eine 3D-Galerie zu bauen",
+      "why_it_matters": "Das ist eine schöne Agenten-Demo-Idee jenseits von Chatbots: Tools/Modelle als kleine Bausteine, die ein Agent zu einem Ergebnis kombiniert. Für KIFlowState: ideal für Website- oder LinkedIn-Content über „Agenten = Workflow-Orchestrierung, nicht Magie“. **Quelle:** https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": {
+        "name": "huggingface.co",
+        "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+      },
+      "sources": [
+        {
+          "name": "huggingface.co",
+          "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Google fasst seine AI-Updates aus Mai 2026 zusammen, u. a. rund um Gemini, AI Studio und I/O-Demos",
+      "summary": "Google fasst seine AI-Updates aus Mai 2026 zusammen, u. a. rund um Gemini, AI Studio und I/O-Demos",
+      "why_it_matters": "Kein einzelner Knaller, aber guter Radar-Punkt: Google positioniert AI Studio/Gemini weiter als Baukasten für Prototypen. Für Julian relevant, wenn Kunden schnelle Demos sehen wollen, bevor man saubere Automationen baut. **Quelle:** https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/ ### 2) Content-Chancen 1. **LinkedIn-/Website-Post:** „Warum gute AI-Agenten nicht mit dem Modell starten, sondern mit dem Workflow“ Aufhänger: Hugging Face Spaces-Agent + Codex-Beispiel. Kernaussage: Agenten werden nützlich, wenn sie klar definierte Tools, Daten und Entscheidungspunkte haben. 2. **Längeres Video:** „Voice Agents im echten Kundenservice: Was passiert bei Dialekt, Englisch-Deutsch-Mix und schlechter Audioqualität?“ Praktisch, kundennah, nicht hype-lastig. Du kannst zeigen, welche Tests vor einem Voice-Agent-Projekt Pflicht sind. 3. **Demo-Aufhänger:** „Vom Kundenproblem zum Mini-Agenten in 30 Minuten“ Beispiel: Eingehende Anfrage → Klassifikation → Wissensdatenbank prüfen → Antwortentwurf → CRM-Notiz → Übergabe an Mensch. ### 3) Workflow-Chance Baue einen kleinen **„Agenten-Demo-Generator“** für KIFlowState: - Input: Branche + typischer Kundenprozess + vorhandene Tools - Agent erstellt: - 1 konkreten Automations-Use-Case - Prozessdiagramm in Textform - Demo-Skript - Risiken/Prüffragen - LinkedIn-Post-Entwurf Das wäre direkt nutzbar für Erstgespräche: Statt abstrakt über KI zu reden, bekommt der Kunde nach 10 Minuten eine greifbare Workflow-Idee. ### 4) Empfehlung Heute sinnvollster nächster Schritt: **Erstelle eine kurze LinkedIn-Notiz oder Website-Mini-Case zum Thema „Agenten sind keine Chatbots — sie sind Workflow-Orchestrierer“.** Nutze als Beispiele Codex für Fach-Workflows und Hugging Face Spaces-Agenten für Tool-Verkettung. Das trifft genau KIFlowState: praktisch, erklärbar, kundennah — und ohne „AGI kommt morgen früh um 9“-Vibes.",
+      "source": {
+        "name": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+      },
+      "sources": [
+        {
+          "name": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "openai.com",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+    },
+    {
+      "name": "openai.com",
+      "url": "https://openai.com/index/openai-on-oracle-cloud"
+    },
+    {
+      "name": "huggingface.co",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+    },
+    {
+      "name": "huggingface.co",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+    },
+    {
+      "name": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-11.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-11.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-06-11.md",
+    "html_page": "pages/2026-06-11.html"
+  }
+}

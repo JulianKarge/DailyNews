@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-05-26",
+  "date": "2026-05-26",
+  "weekday": "Dienstag",
+  "date_label": "Dienstag, 26.05.2026",
+  "title": "AI Digest — 26. Mai 2026 Europe/Berlin",
+  "dek": "Kurzer Hinweis: Das Mail-/Newsletter-Script ist heute mit HTTP 400 ausgestiegen — also kein persönlicher Newsletter-Input. Ich nehme deshalb nur öffentliche Watchlist-Signale. Kein Drama, nur weniger Inbox-Magie. 🛠️",
+  "summary": "Kurzer Hinweis: Das Mail-/Newsletter-Script ist heute mit HTTP 400 ausgestiegen — also kein persönlicher Newsletter-Input. Ich nehme deshalb nur öffentliche Watchlist-Signale. Kein Drama, nur weniger Inbox-Magie. 🛠️",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T09:18:09.724165+00:00",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Agents"
+  ],
+  "hero": {
+    "topic": "OpenAI",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Dienstag, 26.05.2026"
+  },
+  "items": [
+    {
+      "title": "Signal von mistral.ai",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "mistral.ai",
+        "url": "https://mistral.ai/news/news/vibe-remote-agents-mistral-medium-3-5"
+      },
+      "sources": [
+        {
+          "name": "mistral.ai",
+          "url": "https://mistral.ai/news/news/vibe-remote-agents-mistral-medium-3-5"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von huggingface.co",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "huggingface.co",
+        "url": "https://huggingface.co/blog/agent-glossary"
+      },
+      "sources": [
+        {
+          "name": "huggingface.co",
+          "url": "https://huggingface.co/blog/agent-glossary"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von blog.google",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/"
+      },
+      "sources": [
+        {
+          "name": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von openai.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "openai.com",
+        "url": "https://openai.com/index/virgin-atlantic"
+      },
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/index/virgin-atlantic"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von anthropic.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "anthropic.com",
+        "url": "https://www.anthropic.com/news/news/claude-opus-4-7"
+      },
+      "sources": [
+        {
+          "name": "anthropic.com",
+          "url": "https://www.anthropic.com/news/news/claude-opus-4-7"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "mistral.ai",
+      "url": "https://mistral.ai/news/news/vibe-remote-agents-mistral-medium-3-5"
+    },
+    {
+      "name": "huggingface.co",
+      "url": "https://huggingface.co/blog/agent-glossary"
+    },
+    {
+      "name": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/"
+    },
+    {
+      "name": "openai.com",
+      "url": "https://openai.com/index/virgin-atlantic"
+    },
+    {
+      "name": "anthropic.com",
+      "url": "https://www.anthropic.com/news/news/claude-opus-4-7"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-05-26.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-05-26.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-05-26.md",
+    "html_page": "pages/2026-05-26.html"
+  }
+}

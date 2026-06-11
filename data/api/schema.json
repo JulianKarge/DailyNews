@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://juliankarge.github.io/DailyNews/data/api/schema.json",
+  "title": "KIFlowState Daily AI News API",
+  "type": "object",
+  "oneOf": [
+    { "$ref": "#/$defs/index" },
+    { "$ref": "#/$defs/day" }
+  ],
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["name", "url"],
+      "properties": {
+        "name": { "type": "string" },
+        "url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "hero": {
+      "type": "object",
+      "required": ["topic", "accent", "image_alt"],
+      "properties": {
+        "topic": { "type": "string" },
+        "accent": { "type": "string" },
+        "image_alt": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "item": {
+      "type": "object",
+      "required": ["title", "summary", "why_it_matters", "source", "sources", "tags", "confidence"],
+      "properties": {
+        "title": { "type": "string" },
+        "summary": { "type": "string" },
+        "why_it_matters": { "type": "string" },
+        "source": { "$ref": "#/$defs/source" },
+        "sources": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "confidence": { "enum": ["high", "medium", "low"] }
+      },
+      "additionalProperties": false
+    },
+    "daySummary": {
+      "type": "object",
+      "required": ["id", "date", "weekday", "date_label", "title", "dek", "language", "status", "tags", "hero", "canonical_url", "web_url", "item_count", "source_count"],
+      "properties": {
+        "id": { "type": "string" },
+        "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "weekday": { "type": "string" },
+        "date_label": { "type": "string" },
+        "title": { "type": "string" },
+        "dek": { "type": "string" },
+        "language": { "const": "de" },
+        "status": { "enum": ["published", "draft"] },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "hero": { "$ref": "#/$defs/hero" },
+        "canonical_url": { "type": "string", "format": "uri" },
+        "web_url": { "type": "string", "format": "uri" },
+        "item_count": { "type": "integer", "minimum": 0 },
+        "source_count": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "index": {
+      "type": "object",
+      "required": ["schema_version", "feed", "title", "description", "language", "updated_at", "count", "latest_date", "base_url", "days"],
+      "properties": {
+        "schema_version": { "const": "1.0" },
+        "feed": { "const": "kiflowstate-daily-ai-news" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "language": { "const": "de" },
+        "updated_at": { "type": "string" },
+        "count": { "type": "integer", "minimum": 0 },
+        "latest_date": { "type": "string" },
+        "base_url": { "type": "string", "format": "uri" },
+        "days": { "type": "array", "items": { "$ref": "#/$defs/daySummary" } }
+      }
+    },
+    "day": {
+      "allOf": [
+        { "$ref": "#/$defs/daySummary" },
+        {
+          "type": "object",
+          "required": ["schema_version", "summary", "generated_at", "items", "sources"],
+          "properties": {
+            "schema_version": { "const": "1.0" },
+            "summary": { "type": "string" },
+            "generated_at": { "type": "string" },
+            "items": { "type": "array", "items": { "$ref": "#/$defs/item" } },
+            "sources": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+            "legacy": { "type": "object" }
+          }
+        }
+      ]
+    }
+  }
+}

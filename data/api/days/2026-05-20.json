@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-05-20",
+  "date": "2026-05-20",
+  "weekday": "Mittwoch",
+  "date_label": "Mittwoch, 20.05.2026",
+  "title": "AI Digest — 2026-05-20",
+  "dek": "☕ KI-News Frühstück — 20. Mai 2026",
+  "summary": "☕ KI-News Frühstück — 20. Mai 2026",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T09:18:09.725598+00:00",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Agents",
+    "GitHub",
+    "NVIDIA"
+  ],
+  "hero": {
+    "topic": "OpenAI",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Mittwoch, 20.05.2026"
+  },
+  "items": [
+    {
+      "title": "Signal von blog.google",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+      },
+      "sources": [
+        {
+          "name": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub",
+        "NVIDIA"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von anthropic.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "anthropic.com",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+      },
+      "sources": [
+        {
+          "name": "anthropic.com",
+          "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub",
+        "NVIDIA"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von openai.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "openai.com",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+      },
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub",
+        "NVIDIA"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von huggingface.co",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "huggingface.co",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+      },
+      "sources": [
+        {
+          "name": "huggingface.co",
+          "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub",
+        "NVIDIA"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von huggingface.co",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "huggingface.co",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+      },
+      "sources": [
+        {
+          "name": "huggingface.co",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub",
+        "NVIDIA"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+    },
+    {
+      "name": "anthropic.com",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+    },
+    {
+      "name": "openai.com",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+    },
+    {
+      "name": "huggingface.co",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+    },
+    {
+      "name": "huggingface.co",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+    },
+    {
+      "name": "github.blog",
+      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-05-20.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-05-20.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-05-20.md",
+    "html_page": "pages/2026-05-20.html"
+  }
+}

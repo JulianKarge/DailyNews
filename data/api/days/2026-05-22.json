@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-05-22",
+  "date": "2026-05-22",
+  "weekday": "Freitag",
+  "date_label": "Freitag, 22.05.2026",
+  "title": "AI Digest — 22.05.2026",
+  "dek": "Guten Morgen Julian — heute klarer Schwerpunkt: Agenten werden weniger „Chatbot-Spielerei“ und mehr Infrastruktur-/Produkt-Layer. Also: weniger Magie, mehr Stromrechnung. ⚡",
+  "summary": "Guten Morgen Julian — heute klarer Schwerpunkt: Agenten werden weniger „Chatbot-Spielerei“ und mehr Infrastruktur-/Produkt-Layer. Also: weniger Magie, mehr Stromrechnung. ⚡",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T09:18:09.725282+00:00",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Agents"
+  ],
+  "hero": {
+    "topic": "OpenAI",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Freitag, 22.05.2026"
+  },
+  "items": [
+    {
+      "title": "Signal von blog.google",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "blog.google",
+        "url": "https://blog.google/technology/ai/"
+      },
+      "sources": [
+        {
+          "name": "blog.google",
+          "url": "https://blog.google/technology/ai/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von openai.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "openai.com",
+        "url": "https://openai.com/news/"
+      },
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/news/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von developers.cloudflare.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "developers.cloudflare.com",
+        "url": "https://developers.cloudflare.com/agents/"
+      },
+      "sources": [
+        {
+          "name": "developers.cloudflare.com",
+          "url": "https://developers.cloudflare.com/agents/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "blog.google",
+      "url": "https://blog.google/technology/ai/"
+    },
+    {
+      "name": "openai.com",
+      "url": "https://openai.com/news/"
+    },
+    {
+      "name": "developers.cloudflare.com",
+      "url": "https://developers.cloudflare.com/agents/"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-05-22.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-05-22.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-05-22.md",
+    "html_page": "pages/2026-05-22.html"
+  }
+}

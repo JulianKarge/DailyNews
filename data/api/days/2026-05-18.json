@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-05-18",
+  "date": "2026-05-18",
+  "weekday": "Montag",
+  "date_label": "Montag, 18.05.2026",
+  "title": "AI Digest — 2026-05-18",
+  "dek": "☕ KI-News Frühstück — 18.05.2026",
+  "summary": "☕ KI-News Frühstück — 18.05.2026",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T09:18:09.725995+00:00",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Agents",
+    "GitHub"
+  ],
+  "hero": {
+    "topic": "OpenAI",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Montag, 18.05.2026"
+  },
+  "items": [
+    {
+      "title": "Signal von blog.google",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/"
+      },
+      "sources": [
+        {
+          "name": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von pymnts.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "pymnts.com",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-adds-voice-ai-startup-weights-gg-to-its-stable/"
+      },
+      "sources": [
+        {
+          "name": "pymnts.com",
+          "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-adds-voice-ai-startup-weights-gg-to-its-stable/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von the-decoder.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "the-decoder.com",
+        "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/"
+      },
+      "sources": [
+        {
+          "name": "the-decoder.com",
+          "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von siliconangle.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "siliconangle.com",
+        "url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+      },
+      "sources": [
+        {
+          "name": "siliconangle.com",
+          "url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von github.blog",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "github.blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/"
+      },
+      "sources": [
+        {
+          "name": "github.blog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/"
+    },
+    {
+      "name": "pymnts.com",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-adds-voice-ai-startup-weights-gg-to-its-stable/"
+    },
+    {
+      "name": "the-decoder.com",
+      "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/"
+    },
+    {
+      "name": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/05/17/eval-engineering-missing-piece-agentic-ai-governance/"
+    },
+    {
+      "name": "github.blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-05-18.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-05-18.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-05-18.md",
+    "html_page": "pages/2026-05-18.html"
+  }
+}

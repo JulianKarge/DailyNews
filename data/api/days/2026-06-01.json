@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-06-01",
+  "date": "2026-06-01",
+  "weekday": "Montag",
+  "date_label": "Montag, 01.06.2026",
+  "title": "AI Digest — 1. Juni 2026",
+  "dek": "Guten Morgen Julian — heute leider ohne Newsletter-Signale, weil der Gmail-Pre-Run mit HTTP 400 ausgestiegen ist. Dafür gibt’s einen kompakten Public-Source-Digest aus offiziellen Feeds. Kaffee an, Agenten los. ☕🤖",
+  "summary": "Guten Morgen Julian — heute leider ohne Newsletter-Signale, weil der Gmail-Pre-Run mit HTTP 400 ausgestiegen ist. Dafür gibt’s einen kompakten Public-Source-Digest aus offiziellen Feeds. Kaffee an, Agenten los. ☕🤖",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T09:18:09.723743+00:00",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Agents",
+    "GitHub"
+  ],
+  "hero": {
+    "topic": "OpenAI",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Montag, 01.06.2026"
+  },
+  "items": [
+    {
+      "title": "Signal von anthropic.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "anthropic.com",
+        "url": "https://www.anthropic.com/news"
+      },
+      "sources": [
+        {
+          "name": "anthropic.com",
+          "url": "https://www.anthropic.com/news"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von github.blog",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "github.blog",
+        "url": "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot"
+      },
+      "sources": [
+        {
+          "name": "github.blog",
+          "url": "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von blog.google",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "blog.google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
+      },
+      "sources": [
+        {
+          "name": "blog.google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von openai.com",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "openai.com",
+        "url": "https://openai.com/index/braintrust"
+      },
+      "sources": [
+        {
+          "name": "openai.com",
+          "url": "https://openai.com/index/braintrust"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Signal von huggingface.co",
+      "summary": "Quelle aus dem Daily Digest. Künftige Digests werden granularer strukturiert.",
+      "why_it_matters": "",
+      "source": {
+        "name": "huggingface.co",
+        "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
+      },
+      "sources": [
+        {
+          "name": "huggingface.co",
+          "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Agents",
+        "GitHub"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "anthropic.com",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "name": "github.blog",
+      "url": "https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot"
+    },
+    {
+      "name": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
+    },
+    {
+      "name": "openai.com",
+      "url": "https://openai.com/index/braintrust"
+    },
+    {
+      "name": "huggingface.co",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-01.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-01.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-06-01.md",
+    "html_page": "pages/2026-06-01.html"
+  }
+}
