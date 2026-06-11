@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-06-03",
+  "date": "2026-06-03",
+  "weekday": "Mittwoch",
+  "date_label": "Mittwoch, 03.06.2026",
+  "title": "Testlauf Daily AI News — 03.06.2026",
+  "dek": "Temporärer Testeintrag für die KIFlowState-Website-Integration: source-basierte Modell- und Produkt-Releases aus dem neuen Recherche-Setup.",
+  "summary": "Temporärer Testeintrag für die KIFlowState-Website-Integration: source-basierte Modell- und Produkt-Releases aus dem neuen Recherche-Setup.",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-06-11T12:53:48.117581+00:00",
+  "tags": [
+    "Anthropic",
+    "OpenAI",
+    "Google",
+    "Mistral",
+    "Qwen"
+  ],
+  "hero": {
+    "topic": "Model Releases",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte KI-News Grafik für Mittwoch, 03.06.2026"
+  },
+  "items": [
+    {
+      "title": "Claude Fable 5 und Claude Mythos 5 erscheinen als großer Anthropic-Launch",
+      "summary": "Anthropic kündigt Claude Fable 5 als allgemein nutzbares Mythos-Class-Modell an und nennt starke Fähigkeiten bei Software Engineering, Knowledge Work, Vision und Research.",
+      "why_it_matters": "Genau solche Modell-Releases sollen im Digest zuverlässig auftauchen: relevant für Coding-Agenten, lange Aufgaben und KIFlowState-Content über Agenten-Workflows.",
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      },
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Model Release"
+      ],
+      "confidence": "high"
+    },
+    {
+      "title": "OpenAI-Newsfeed zeigt neue GPT-/Codex-/Produkt-Updates als Pflichtquelle",
+      "summary": "Der OpenAI-Newsfeed listet aktuelle Produkt- und Research-Updates, darunter neue Modell-/Codex- und Workflow-Themen.",
+      "why_it_matters": "OpenAI bleibt eine Kernquelle für Automations- und Coding-Agent-Themen; der neue Cron prüft diese Quelle aktiv statt nur Newsletter-Signale zu nutzen.",
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/news/"
+      },
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/news/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "Workflow"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Google DeepMind bündelt Gemini-, Gemma- und Multimodal-Updates im offiziellen Blog",
+      "summary": "Der DeepMind-Blog zeigt aktuelle Modellthemen wie Gemini, Gemma, schnellere Textgeneration und Voice-/Multimodal-Funktionen.",
+      "why_it_matters": "Für KIFlowState sind diese Updates wichtig, wenn Google-Funktionen in Workspace-, Voice- oder Agenten-Workflows landen.",
+      "source": {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/discover/blog/"
+      },
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/discover/blog/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemini",
+        "Gemma"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Mistral priorisiert Agenten- und Coding-Produktivität",
+      "summary": "Mistral zeigt im Newsbereich Updates rund um Vibe, Work/Code-Modi und Produktivitäts-/Coding-Agenten.",
+      "why_it_matters": "Relevant für europäische AI-Alternativen, Enterprise-Gespräche und Agenten-Demos jenseits von OpenAI/Anthropic.",
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/"
+      },
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news/"
+        }
+      ],
+      "tags": [
+        "Mistral",
+        "Agents",
+        "Coding"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Qwen bleibt als Open-Model-/Alibaba-Ökosystem auf der Watchlist",
+      "summary": "Der Qwen-Blog dient als Quelle für neue Qwen-Modelle, Safety-/Multimodal-Updates und GitHub/Hugging-Face-Veröffentlichungen.",
+      "why_it_matters": "DeepSeek/Qwen/Kimi/GLM dürfen im Digest nicht fehlen, weil Open-/China-Modelle oft schnell praktische Alternativen für Entwickler und Automatisierung liefern.",
+      "source": {
+        "name": "Qwen",
+        "url": "https://qwenlm.github.io/blog/"
+      },
+      "sources": [
+        {
+          "name": "Qwen",
+          "url": "https://qwenlm.github.io/blog/"
+        }
+      ],
+      "tags": [
+        "Qwen",
+        "Open Models",
+        "Alibaba"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/news/"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/"
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/news/"
+    },
+    {
+      "name": "Qwen",
+      "url": "https://qwenlm.github.io/blog/"
+    }
+  ],
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-03.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-03.html",
+  "legacy": {
+    "markdown_url": "https://juliankarge.github.io/DailyNews/news/2026-06-03.md",
+    "html_page": "pages/2026-06-03.html"
+  },
+  "test_note": "Temporärer Testeintrag; nach Website-Prüfung wieder löschen."
+}

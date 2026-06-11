@@ -250,5 +250,52 @@
     "visualTag": "OpenAI",
     "visualSeed": "59c75e88",
     "markdownFile": "news/2026-06-04.md"
+  },
+  {
+    "date": "2026-06-03",
+    "title": "Testlauf Daily AI News — 03.06.2026",
+    "summary": "Temporärer Testeintrag für die KIFlowState-Website-Integration: source-basierte Modell- und Produkt-Releases aus dem neuen Recherche-Setup.",
+    "file": "pages/2026-06-03.html",
+    "links": [
+      "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "https://openai.com/news/",
+      "https://deepmind.google/discover/blog/",
+      "https://mistral.ai/news/",
+      "https://qwenlm.github.io/blog/"
+    ],
+    "tags": [
+      "Anthropic",
+      "OpenAI",
+      "Google",
+      "Mistral",
+      "Qwen"
+    ],
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 03.06.2026",
+    "sources": [
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/news/"
+      },
+      {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/discover/blog/"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/news/"
+      },
+      {
+        "label": "Qwen",
+        "url": "https://qwenlm.github.io/blog/"
+      }
+    ],
+    "visualTag": "Model Releases",
+    "visualSeed": "20547581",
+    "markdownFile": "news/2026-06-03.md"
   }
 ]
