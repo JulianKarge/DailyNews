@@ -16,7 +16,9 @@
     "xAI",
     "Mistral",
     "GLM",
-    "AI Safety"
+    "AI Transparency",
+    "AI Safety",
+    "Policy"
   ],
   "hero": {
     "topic": "Agents & Model Releases",
@@ -25,10 +27,10 @@
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-12.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-12.html",
-  "item_count": 6,
-  "source_count": 6,
-  "summary": "Heute im Fokus: neue Agenten-Infrastruktur für Codex, sichtbare Fortschritte bei DeepSeek und GLM sowie praktischere Coding- und Build-Agenten.",
-  "generated_at": "2026-06-12T02:03:26.982931+02:00",
+  "item_count": 7,
+  "source_count": 7,
+  "summary": "Heute im Fokus: neue Agenten-Infrastruktur für Codex, Fortschritte bei Reasoning- und Coding-Modellen sowie mehr Transparenz und Sicherheitsfragen rund um AI-Plattformen.",
+  "generated_at": "2026-06-12T14:04:31.570087+02:00",
   "items": [
     {
       "title": "OpenAI will Ona übernehmen und Codex mit persistenten Cloud-Umgebungen ausbauen",
@@ -141,6 +143,28 @@
       "confidence": "medium"
     },
     {
+      "title": "OpenAI unterstützt EU-Regeln für mehr Transparenz bei AI-Inhalten",
+      "summary": "OpenAI erklärt Unterstützung für den EU Code of Practice zu AI-Content-Transparenz und verweist auf Provenance-Standards sowie Werkzeuge, die Menschen helfen sollen, AI-generierte Inhalte besser zu erkennen.",
+      "why_it_matters": "Transparenz über Herkunft und Erzeugung von Inhalten wird für Plattformen, Medien, Creator und Unternehmen zu einer praktischen Compliance- und Vertrauensfrage. Wer AI-Inhalte veröffentlicht oder verarbeitet, muss stärker mit Kennzeichnung, Herkunftssignalen und nachvollziehbaren Prozessen planen.",
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+      },
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "EU",
+        "AI Transparency",
+        "Policy"
+      ],
+      "confidence": "high"
+    },
+    {
       "title": "OpenAI warnt vor PRC-verknüpften Einflussoperationen rund um AI-Debatten",
       "summary": "OpenAI veröffentlicht einen Bericht über PRC-verknüpfte Einflussoperationen, die AI-Debatten in den USA, Narrative zu Rechenzentren, Zöllen und falsche Behauptungen über ChatGPT adressieren.",
       "why_it_matters": "AI-Plattformen werden nicht nur als Produktivitätswerkzeuge genutzt, sondern auch als Infrastruktur für Informationskampagnen. Für Medien, Unternehmen und öffentliche Institutionen wird es wichtiger, Herkunft, Automatisierungsmuster und Manipulationsrisiken systematisch zu prüfen.",
@@ -183,6 +207,10 @@
     {
       "name": "Z.ai / Zhipu AI",
       "url": "https://www.zhipuai.cn/"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
     },
     {
       "name": "OpenAI",

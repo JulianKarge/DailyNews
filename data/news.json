@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 12.06.2026",
     "title": "Daily AI News — Freitag, 12.06.2026",
-    "summary": "Heute im Fokus: neue Agenten-Infrastruktur für Codex, sichtbare Fortschritte bei DeepSeek und GLM sowie praktischere Coding- und Build-Agenten.",
+    "summary": "Heute im Fokus: neue Agenten-Infrastruktur für Codex, Fortschritte bei Reasoning- und Coding-Modellen sowie mehr Transparenz und Sicherheitsfragen rund um AI-Plattformen.",
     "file": "pages/2026-06-12.html",
     "markdownFile": "news/2026-06-12.md",
     "tags": [
@@ -15,7 +15,9 @@
       "xAI",
       "Mistral",
       "GLM",
-      "AI Safety"
+      "AI Transparency",
+      "AI Safety",
+      "Policy"
     ],
     "visualTag": "AI Agents",
     "sources": [
@@ -38,6 +40,10 @@
       {
         "label": "Z.ai / Zhipu AI",
         "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
       },
       {
         "label": "OpenAI",
