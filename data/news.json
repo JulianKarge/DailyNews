@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-06-12",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 12.06.2026",
+    "title": "Daily AI News — Freitag, 12.06.2026",
+    "summary": "Heute im Fokus: neue Agenten-Infrastruktur für Codex, sichtbare Fortschritte bei DeepSeek und GLM sowie praktischere Coding- und Build-Agenten.",
+    "file": "pages/2026-06-12.html",
+    "markdownFile": "news/2026-06-12.md",
+    "tags": [
+      "OpenAI",
+      "Codex",
+      "Agents",
+      "DeepSeek",
+      "xAI",
+      "Mistral",
+      "GLM",
+      "AI Safety"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/openai-to-acquire-ona"
+      },
+      {
+        "label": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-plugin-marketplace"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/products/vibe/code/"
+      },
+      {
+        "label": "Z.ai / Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+      }
+    ]
+  },
+  {
     "date": "2026-06-11",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 11.06.2026",

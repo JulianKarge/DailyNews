@@ -4,11 +4,40 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-11T15:27:44.033292+02:00",
-  "count": 1,
-  "latest_date": "2026-06-11",
+  "updated_at": "2026-06-12T02:03:26.982931+02:00",
+  "count": 2,
+  "latest_date": "2026-06-12",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-06-12",
+      "date": "2026-06-12",
+      "weekday": "Freitag",
+      "date_label": "Freitag, 12.06.2026",
+      "title": "Daily AI News — Freitag, 12.06.2026",
+      "dek": "Source-basierter Kurz-Digest zu wichtigen AI-, Modell- und Agenten-Entwicklungen.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "Agents",
+        "DeepSeek",
+        "xAI",
+        "Mistral",
+        "GLM",
+        "AI Safety"
+      ],
+      "hero": {
+        "topic": "Agents & Model Releases",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Freitag, 12.06.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-12.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-12.html",
+      "item_count": 6,
+      "source_count": 6
+    },
     {
       "id": "2026-06-11",
       "date": "2026-06-11",
