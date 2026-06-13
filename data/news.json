@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-06-13",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 13.06.2026",
+    "title": "Daily AI News — Samstag, 13.06.2026",
+    "summary": "Heute im Fokus: neue Lernpfade für AI-Arbeit, Code-Review-Agenten, spezialisierte Coding-Modelle und robustere Voice-Agent-Benchmarks.",
+    "file": "pages/2026-06-13.html",
+    "markdownFile": "news/2026-06-13.md",
+    "tags": [
+      "OpenAI",
+      "AI Literacy",
+      "Agents",
+      "Workflows",
+      "Hugging Face",
+      "Coding",
+      "Code Review",
+      "Developer Tools",
+      "Cohere",
+      "Models",
+      "Enterprise AI",
+      "Voice Agents",
+      "ASR",
+      "Benchmarks",
+      "Automation",
+      "Banking",
+      "Adoption"
+    ],
+    "visualTag": "AI Workflows",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/blog/huggingface/serge"
+      },
+      {
+        "label": "Cohere",
+        "url": "https://cohere.com/blog/north-mini-code"
+      },
+      {
+        "label": "Hugging Face / ServiceNow AI",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/bbva"
+      }
+    ]
+  },
+  {
     "date": "2026-06-12",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 12.06.2026",
