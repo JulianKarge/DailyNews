@@ -5,16 +5,25 @@
   "weekday": "Samstag",
   "date_label": "Samstag, 13.06.2026",
   "title": "Daily AI News — Samstag, 13.06.2026",
-  "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten- und Automations-Updates.",
+  "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
   "language": "de",
   "status": "published",
   "tags": [
+    "Anthropic",
+    "Claude",
+    "Frontier Models",
+    "Policy",
+    "Reliability",
+    "Kimi",
+    "Moonshot AI",
+    "Open Models",
+    "Coding",
+    "Pricing",
     "OpenAI",
     "AI Literacy",
     "Agents",
     "Workflows",
     "Hugging Face",
-    "Coding",
     "Code Review",
     "Developer Tools",
     "Cohere",
@@ -28,17 +37,71 @@
     "Adoption"
   ],
   "hero": {
-    "topic": "AI Workflows & Developer Tools",
+    "topic": "AI Models, Policy & Developer Tools",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Samstag, 13.06.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-13.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-13.html",
-  "item_count": 5,
-  "source_count": 5,
-  "summary": "Heute im Fokus: neue Lernpfade für AI-Arbeit, Code-Review-Agenten, spezialisierte Coding-Modelle und robustere Voice-Agent-Benchmarks.",
-  "generated_at": "2026-06-13T02:03:22.247292+02:00",
+  "item_count": 7,
+  "source_count": 9,
+  "summary": "Heute im Fokus: Anthropic sperrt Fable/Mythos vorerst, Coding-Modelle werden stärker über Preis-Leistung bewertet, dazu praktische AI-Workflows und Developer-Tools.",
+  "generated_at": "2026-06-13T14:03:01.473424+02:00",
   "items": [
+    {
+      "title": "Anthropic muss Claude Fable 5 und Mythos 5 vorerst sperren",
+      "summary": "Anthropic erklärt, dass eine US-Regierungsanordnung den Zugriff auf Claude Fable 5 und Claude Mythos 5 aus Exportkontrollgründen vorerst aussetzt. Die Modellseite verweist ebenfalls darauf, dass beide Systeme aktuell nicht verfügbar sind.",
+      "why_it_matters": "Der Vorgang zeigt, dass Frontier-Modelle nicht nur technisch, sondern auch regulatorisch fragiler werden: Verfügbarkeit kann sich kurzfristig ändern, selbst nach einem großen Launch. Teams, die sehr neue Modelle in produktive Workflows einbauen, brauchen deshalb Fallback-Modelle, klare Provider-Risiken und Tests, die Modellwechsel schnell auffangen.",
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/fable-mythos-access"
+      },
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/fable-mythos-access"
+        },
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Frontier Models",
+        "Policy",
+        "Reliability"
+      ],
+      "confidence": "high"
+    },
+    {
+      "title": "Kimi K2.7 Code rückt Preis-Leistung bei Coding-Modellen in den Fokus",
+      "summary": "THE DECODER berichtet über Moonshots offenes Modell Kimi K2.7 Code und hebt besonders die deutlich niedrigeren Tokenpreise im Vergleich zu GPT-5.5, Claude Opus 4.8 und Claude Fable 5 hervor.",
+      "why_it_matters": "Bei Coding-Agenten zählt nicht nur Spitzenleistung, sondern auch wie viele Iterationen, Tests und Reparaturschleifen wirtschaftlich möglich sind. Günstigere spezialisierte Coding-Modelle können mehr Experimente, längere Agentenläufe und breitere Automatisierung erlauben, solange Qualität, Lizenz, Hosting und Datenschutz zur eigenen Anwendung passen.",
+      "source": {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/"
+      },
+      "sources": [
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/"
+        },
+        {
+          "name": "Moonshot AI",
+          "url": "https://www.moonshot.cn/"
+        }
+      ],
+      "tags": [
+        "Kimi",
+        "Moonshot AI",
+        "Open Models",
+        "Coding",
+        "Pricing"
+      ],
+      "confidence": "medium"
+    },
     {
       "title": "OpenAI veröffentlicht Academy-Kurse für praktische AI-Arbeit und Agenten-Workflows",
       "summary": "OpenAI stellt drei neue Academy-Kurse vor, die auf praktische AI-Kompetenzen, wiederholbare Workflows und den Einsatz von Agenten im Arbeitsalltag zielen.",
@@ -152,6 +215,22 @@
   ],
   "sources": [
     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-mythos-access"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/"
+    },
+    {
+      "name": "Moonshot AI",
+      "url": "https://www.moonshot.cn/"
+    },
+    {
       "name": "OpenAI",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
     },
@@ -171,5 +250,9 @@
       "name": "OpenAI",
       "url": "https://openai.com/index/bbva"
     }
-  ]
+  ],
+  "legacy": {
+    "markdown_url": "news/2026-06-13.md",
+    "html_page": "pages/2026-06-13.html"
+  }
 }

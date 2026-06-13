@@ -4,16 +4,25 @@
     "weekday": "Samstag",
     "dateLabel": "Samstag, 13.06.2026",
     "title": "Daily AI News — Samstag, 13.06.2026",
-    "summary": "Heute im Fokus: neue Lernpfade für AI-Arbeit, Code-Review-Agenten, spezialisierte Coding-Modelle und robustere Voice-Agent-Benchmarks.",
+    "summary": "Heute im Fokus: Anthropic sperrt Fable/Mythos vorerst, Coding-Modelle werden stärker über Preis-Leistung bewertet, dazu praktische AI-Workflows und Developer-Tools.",
     "file": "pages/2026-06-13.html",
     "markdownFile": "news/2026-06-13.md",
     "tags": [
+      "Anthropic",
+      "Claude",
+      "Frontier Models",
+      "Policy",
+      "Reliability",
+      "Kimi",
+      "Moonshot AI",
+      "Open Models",
+      "Coding",
+      "Pricing",
       "OpenAI",
       "AI Literacy",
       "Agents",
       "Workflows",
       "Hugging Face",
-      "Coding",
       "Code Review",
       "Developer Tools",
       "Cohere",
@@ -26,8 +35,24 @@
       "Banking",
       "Adoption"
     ],
-    "visualTag": "AI Workflows",
+    "visualTag": "AI Models",
     "sources": [
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/fable-mythos-access"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/"
+      },
+      {
+        "label": "Moonshot AI",
+        "url": "https://www.moonshot.cn/"
+      },
       {
         "label": "OpenAI",
         "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
