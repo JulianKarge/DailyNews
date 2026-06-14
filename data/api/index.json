@@ -4,11 +4,45 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-13T14:03:01.473424+02:00",
-  "count": 3,
-  "latest_date": "2026-06-13",
+  "updated_at": "2026-06-14T02:03:14.855007+02:00",
+  "count": 4,
+  "latest_date": "2026-06-14",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-06-14",
+      "date": "2026-06-14",
+      "weekday": "Sonntag",
+      "date_label": "Sonntag, 14.06.2026",
+      "title": "Daily AI News — Sonntag, 14.06.2026",
+      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Text-to-SQL",
+        "Data Agents",
+        "Benchmarks",
+        "Microsoft",
+        "Agents",
+        "Prompt Engineering",
+        "Workflow Automation",
+        "Research",
+        "Computer Vision",
+        "Open Source",
+        "Automation"
+      ],
+      "hero": {
+        "topic": "Data Agents, Agent Skills & Computer Vision",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Sonntag, 14.06.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-14.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-14.html",
+      "item_count": 3,
+      "source_count": 7
+    },
     {
       "id": "2026-06-13",
       "date": "2026-06-13",

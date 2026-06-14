@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-06-14",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 14.06.2026",
+    "title": "Daily AI News — Sonntag, 14.06.2026",
+    "summary": "Heute im Fokus: bessere Text-to-SQL-Agenten, optimierbare Skill-Dokumente für Agenten und ein offenes Computer-Vision-Modell zum flexiblen Objektzählen.",
+    "file": "pages/2026-06-14.html",
+    "markdownFile": "news/2026-06-14.md",
+    "tags": [
+      "Google",
+      "Gemini",
+      "Text-to-SQL",
+      "Data Agents",
+      "Benchmarks",
+      "Microsoft",
+      "Agents",
+      "Prompt Engineering",
+      "Workflow Automation",
+      "Research",
+      "Computer Vision",
+      "Open Source",
+      "Automation"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/"
+      },
+      {
+        "label": "Google Research",
+        "url": "https://x.com/GoogleResearch/status/2065475343205740911"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2605.23904"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2605.30846"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Mengqi-Lei/count-anything"
+      }
+    ]
+  },
+  {
     "date": "2026-06-13",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 13.06.2026",
