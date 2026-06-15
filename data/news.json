@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-06-15",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 15.06.2026",
+    "title": "Daily AI News — Montag, 15.06.2026",
+    "summary": "Heute im Fokus: Enterprise-Zugänge zu OpenAI-Modellen, konkrete Commerce-Agenten, AI-Ausbildung für Nonprofits und skalierte ChatGPT-Nutzung im Banking.",
+    "file": "pages/2026-06-15.html",
+    "markdownFile": "news/2026-06-15.md",
+    "tags": [
+      "OpenAI",
+      "Oracle Cloud",
+      "Codex",
+      "Enterprise AI",
+      "Procurement",
+      "xAI",
+      "Grok",
+      "Agents",
+      "Commerce",
+      "Automation",
+      "Anthropic",
+      "Claude",
+      "AI Literacy",
+      "Nonprofits",
+      "Workforce",
+      "ChatGPT Enterprise",
+      "Banking",
+      "Adoption"
+    ],
+    "visualTag": "Enterprise AI",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/openai-on-oracle-cloud"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-gopuff"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-corps"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/bbva"
+      }
+    ]
+  },
+  {
     "date": "2026-06-14",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 14.06.2026",
