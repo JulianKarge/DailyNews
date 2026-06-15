@@ -10,9 +10,12 @@
   "status": "published",
   "tags": [
     "OpenAI",
+    "Partner Network",
+    "Enterprise AI",
+    "Implementation",
+    "Ecosystem",
     "Oracle Cloud",
     "Codex",
-    "Enterprise AI",
     "Procurement",
     "xAI",
     "Grok",
@@ -36,6 +39,29 @@
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-15.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-15.html",
   "items": [
+    {
+      "title": "OpenAI startet Partner Network mit 150 Millionen Dollar für Enterprise-AI-Einführung",
+      "summary": "OpenAI stellt das OpenAI Partner Network vor und kündigt Investitionen von 150 Millionen Dollar an, um globale Partner bei AI-Einführung, Deployment und Transformation in Unternehmen zu unterstützen.",
+      "why_it_matters": "Enterprise-AI skaliert selten allein über Modellzugang. Partnerprogramme können entscheidend werden, weil Unternehmen Hilfe bei Integration, Change Management, Sicherheit, Datenanbindung und messbaren Workflows brauchen. Für Teams und Anbieter zeigt der Schritt, dass sich der Wettbewerb stärker auf Implementierungsökosysteme verlagert.",
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-openai-partner-network"
+      },
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-openai-partner-network"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Partner Network",
+        "Enterprise AI",
+        "Implementation",
+        "Ecosystem"
+      ],
+      "confidence": "high"
+    },
     {
       "title": "OpenAI macht Modelle und Codex über bestehende Oracle-Cloud-Verträge zugänglich",
       "summary": "OpenAI kündigt an, dass Unternehmen OpenAI-Modelle und Codex über bestehende Oracle-Cloud-Commitments beziehen können. Der Schritt zielt auf Beschaffung, Governance und Enterprise-Sicherheit für Teams, die bereits stark in Oracle Cloud investieren.",
@@ -129,11 +155,15 @@
       "confidence": "high"
     }
   ],
-  "item_count": 4,
-  "source_count": 4,
-  "summary": "Heute im Fokus: Enterprise-Zugänge zu OpenAI-Modellen, konkrete Commerce-Agenten, AI-Ausbildung für Nonprofits und skalierte ChatGPT-Nutzung im Banking.",
-  "generated_at": "2026-06-15T02:03:11.217252+02:00",
+  "item_count": 5,
+  "source_count": 5,
+  "summary": "Heute im Fokus: OpenAIs neues Partnernetzwerk, Enterprise-Zugänge zu OpenAI-Modellen, konkrete Commerce-Agenten, AI-Ausbildung für Nonprofits und skalierte ChatGPT-Nutzung im Banking.",
+  "generated_at": "2026-06-15T14:02:30.220378+02:00",
   "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-partner-network"
+    },
     {
       "name": "OpenAI",
       "url": "https://openai.com/index/openai-on-oracle-cloud"

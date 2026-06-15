@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-15T02:03:11.217252+02:00",
+  "updated_at": "2026-06-15T14:02:30.220378+02:00",
   "count": 5,
   "latest_date": "2026-06-15",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -20,9 +20,12 @@
       "status": "published",
       "tags": [
         "OpenAI",
+        "Partner Network",
+        "Enterprise AI",
+        "Implementation",
+        "Ecosystem",
         "Oracle Cloud",
         "Codex",
-        "Enterprise AI",
         "Procurement",
         "xAI",
         "Grok",
@@ -45,8 +48,8 @@
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-15.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-15.html",
-      "item_count": 4,
-      "source_count": 4
+      "item_count": 5,
+      "source_count": 5
     },
     {
       "id": "2026-06-14",

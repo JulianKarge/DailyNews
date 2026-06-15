@@ -4,14 +4,17 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 15.06.2026",
     "title": "Daily AI News — Montag, 15.06.2026",
-    "summary": "Heute im Fokus: Enterprise-Zugänge zu OpenAI-Modellen, konkrete Commerce-Agenten, AI-Ausbildung für Nonprofits und skalierte ChatGPT-Nutzung im Banking.",
+    "summary": "Heute im Fokus: OpenAIs neues Partnernetzwerk, Enterprise-Zugänge zu OpenAI-Modellen, konkrete Commerce-Agenten, AI-Ausbildung für Nonprofits und skalierte ChatGPT-Nutzung im Banking.",
     "file": "pages/2026-06-15.html",
     "markdownFile": "news/2026-06-15.md",
     "tags": [
       "OpenAI",
+      "Partner Network",
+      "Enterprise AI",
+      "Implementation",
+      "Ecosystem",
       "Oracle Cloud",
       "Codex",
-      "Enterprise AI",
       "Procurement",
       "xAI",
       "Grok",
@@ -29,6 +32,10 @@
     ],
     "visualTag": "Enterprise AI",
     "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-openai-partner-network"
+      },
       {
         "label": "OpenAI",
         "url": "https://openai.com/index/openai-on-oracle-cloud"
