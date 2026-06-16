@@ -16,10 +16,21 @@
     "Automation",
     "Open Data",
     "Multilingual AI",
-    "LLMs"
+    "LLMs",
+    "xAI",
+    "Grok",
+    "Coding",
+    "Mistral",
+    "Models",
+    "Reasoning",
+    "Benchmarks",
+    "AI Safety",
+    "Information Integrity",
+    "Evaluation",
+    "Research"
   ],
   "hero": {
-    "topic": "GitHub Copilot CLI & mehrsprachige AI-Daten",
+    "topic": "Coding-Agenten, Modelle & AI-Robustheit",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 16.06.2026"
   },
@@ -71,12 +82,90 @@
         "Developer Tools"
       ],
       "confidence": "high"
+    },
+    {
+      "title": "xAI ergänzt Grok Build um ein Dashboard für mehrere Coding-Agenten-Sessions",
+      "summary": "xAI kündigt ein Agent Dashboard für Grok Build an. Die Oberfläche soll mehrere Coding-Sessions parallel sichtbar machen, ihren Status zeigen, Rückfragen bündeln und neue Aufgaben direkt aus dem Dashboard heraus starten lassen.",
+      "why_it_matters": "Coding-Agenten bewegen sich damit von einzelnen Chat-Sitzungen hin zu einer Kontrolloberfläche für parallele Hintergrundarbeit. Für Entwicklerteams ist das ein wichtiges Muster: produktive Agentennutzung braucht nicht nur Modellleistung, sondern Statusübersicht, Übergaben, Priorisierung und klare Eingriffspunkte für Menschen.",
+      "source": {
+        "name": "xAI",
+        "url": "https://x.ai/news/agent-dashboard"
+      },
+      "sources": [
+        {
+          "name": "xAI",
+          "url": "https://x.ai/news/agent-dashboard"
+        }
+      ],
+      "tags": [
+        "xAI",
+        "Grok",
+        "Agents",
+        "Coding",
+        "Developer Tools",
+        "Automation"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Mistral Medium 3.5 rückt als kombiniertes Chat-, Reasoning- und Code-Modell in den Fokus",
+      "summary": "Mistral führt Medium 3.5 in der eigenen Modellübersicht als aktuelles Modell. THE DECODER ordnet den Launch als Flaggschiff-Update ein, das Chat, Reasoning und Code stärker in einem Modell zusammenführt.",
+      "why_it_matters": "Viele Teams möchten weniger Modell-Routing und weniger Spezialfälle in ihren AI-Stacks. Wenn leistungsfähige Modelle Chat, Reasoning und Coding zuverlässiger gemeinsam abdecken, können Prototypen, Agenten und interne Assistenten einfacher aufgebaut und betrieben werden — vorausgesetzt, Evaluation und Kosten passen zum konkreten Einsatz.",
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news"
+      },
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/"
+        }
+      ],
+      "tags": [
+        "Mistral",
+        "Models",
+        "Reasoning",
+        "Coding",
+        "LLMs"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "title": "Neuer Benchmark prüft, wie robust AI-Modelle gegenüber russischer Propaganda sind",
+      "summary": "THE DECODER berichtet über einen Propaganda-Resistance-Benchmark des Institute of the Estonian Language. Der Benchmark untersucht, wie gut AI-Modelle manipulative oder propagandistische Inhalte erkennen beziehungsweise ihnen widerstehen.",
+      "why_it_matters": "Für öffentliche Kommunikation, Recherche, Support und Wissensarbeit reicht reine Antwortqualität nicht aus. Teams brauchen belastbare Hinweise darauf, wie Modelle mit Desinformation, politischer Manipulation und konfliktbezogenen Narrativen umgehen — besonders wenn AI-Systeme Inhalte zusammenfassen, moderieren oder Entscheidungen vorbereiten.",
+      "source": {
+        "name": "Institute of the Estonian Language",
+        "url": "https://moodupuu.eki.ee/benchmark/propaganda_resistance"
+      },
+      "sources": [
+        {
+          "name": "Institute of the Estonian Language",
+          "url": "https://moodupuu.eki.ee/benchmark/propaganda_resistance"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/"
+        }
+      ],
+      "tags": [
+        "Benchmarks",
+        "AI Safety",
+        "Information Integrity",
+        "Evaluation",
+        "Research"
+      ],
+      "confidence": "medium"
     }
   ],
-  "item_count": 2,
-  "source_count": 2,
-  "summary": "Heute im Fokus: GitHub Copilot CLI wird über Slash-Commands greifbarer steuerbar, und ein offener Datensatz soll mehrsprachige Developer-AI verbessern.",
-  "generated_at": "2026-06-16T02:07:38.660322+02:00",
+  "item_count": 5,
+  "source_count": 7,
+  "summary": "Heute im Fokus: steuerbarere Coding-Agenten, mehrsprachige Developer-AI, neue Modelloptionen, Agenten-Dashboards und Robustheitstests gegen Desinformation.",
+  "generated_at": "2026-06-16T14:03:52.515970+02:00",
   "sources": [
     {
       "name": "GitHub Blog",
@@ -85,6 +174,26 @@
     {
       "name": "GitHub Blog",
       "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
+    },
+    {
+      "name": "xAI",
+      "url": "https://x.ai/news/agent-dashboard"
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/news"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/"
+    },
+    {
+      "name": "Institute of the Estonian Language",
+      "url": "https://moodupuu.eki.ee/benchmark/propaganda_resistance"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/"
     }
   ],
   "legacy": {

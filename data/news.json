@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 16.06.2026",
     "title": "Daily AI News — Dienstag, 16.06.2026",
-    "summary": "Heute im Fokus: GitHub Copilot CLI wird über Slash-Commands greifbarer steuerbar, und ein offener Datensatz soll mehrsprachige Developer-AI verbessern.",
+    "summary": "Heute im Fokus: steuerbarere Coding-Agenten, mehrsprachige Developer-AI, neue Modelloptionen, Agenten-Dashboards und Robustheitstests gegen Desinformation.",
     "file": "pages/2026-06-16.html",
     "markdownFile": "news/2026-06-16.md",
     "tags": [
@@ -15,7 +15,18 @@
       "Automation",
       "Open Data",
       "Multilingual AI",
-      "LLMs"
+      "LLMs",
+      "xAI",
+      "Grok",
+      "Coding",
+      "Mistral",
+      "Models",
+      "Reasoning",
+      "Benchmarks",
+      "AI Safety",
+      "Information Integrity",
+      "Evaluation",
+      "Research"
     ],
     "visualTag": "AI Agents",
     "sources": [
@@ -26,6 +37,26 @@
       {
         "label": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/agent-dashboard"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/news"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/"
+      },
+      {
+        "label": "Institute of the Estonian Language",
+        "url": "https://moodupuu.eki.ee/benchmark/propaganda_resistance"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/"
       }
     ]
   },
