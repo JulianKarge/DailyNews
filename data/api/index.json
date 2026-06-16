@@ -4,11 +4,40 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-15T14:02:30.220378+02:00",
-  "count": 5,
-  "latest_date": "2026-06-15",
+  "updated_at": "2026-06-16T02:07:38.660322+02:00",
+  "count": 6,
+  "latest_date": "2026-06-16",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-06-16",
+      "date": "2026-06-16",
+      "weekday": "Dienstag",
+      "date_label": "Dienstag, 16.06.2026",
+      "title": "Daily AI News — Dienstag, 16.06.2026",
+      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "GitHub",
+        "Copilot CLI",
+        "Agents",
+        "Developer Tools",
+        "Automation",
+        "Open Data",
+        "Multilingual AI",
+        "LLMs"
+      ],
+      "hero": {
+        "topic": "GitHub Copilot CLI & mehrsprachige AI-Daten",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Dienstag, 16.06.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-16.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-16.html",
+      "item_count": 2,
+      "source_count": 2
+    },
     {
       "id": "2026-06-15",
       "date": "2026-06-15",

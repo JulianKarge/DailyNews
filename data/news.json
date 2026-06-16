@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-06-16",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 16.06.2026",
+    "title": "Daily AI News — Dienstag, 16.06.2026",
+    "summary": "Heute im Fokus: GitHub Copilot CLI wird über Slash-Commands greifbarer steuerbar, und ein offener Datensatz soll mehrsprachige Developer-AI verbessern.",
+    "file": "pages/2026-06-16.html",
+    "markdownFile": "news/2026-06-16.md",
+    "tags": [
+      "GitHub",
+      "Copilot CLI",
+      "Agents",
+      "Developer Tools",
+      "Automation",
+      "Open Data",
+      "Multilingual AI",
+      "LLMs"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/"
+      },
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-15",
     "weekday": "Montag",
     "dateLabel": "Montag, 15.06.2026",
