@@ -24,6 +24,8 @@
     "PowerPoint",
     "Productivity",
     "Creator Tools",
+    "Video",
+    "Generative AI",
     "Mistral",
     "Coding Agents",
     "Developer Tools",
@@ -114,6 +116,33 @@
       "confidence": "high"
     },
     {
+      "title": "xAI aktualisiert Grok Imagine mit schnellerer Videoerzeugung",
+      "summary": "xAI kündigt Grok Imagine Video 1.5 an und beschreibt das Update als Qualitätsverbesserung bei gleichzeitig höherer Geschwindigkeit für die Videoerzeugung in Grok Imagine.",
+      "why_it_matters": "Generative Video-Tools werden für Creator, Marketingteams und Produktkommunikation praktischer, wenn Entwürfe schneller entstehen und Iterationen weniger Wartezeit kosten. Entscheidend bleibt, solche Werkzeuge in klare Review-, Rechte- und Markenprozesse einzubetten, statt Rohoutputs ungeprüft zu veröffentlichen.",
+      "source": {
+        "name": "xAI",
+        "url": "https://x.ai/news/grok-imagine-video-1-5"
+      },
+      "sources": [
+        {
+          "name": "xAI",
+          "url": "https://x.ai/news/grok-imagine-video-1-5"
+        },
+        {
+          "name": "xAI News",
+          "url": "https://x.ai/news"
+        }
+      ],
+      "tags": [
+        "xAI",
+        "Grok",
+        "Video",
+        "Creator Tools",
+        "Generative AI"
+      ],
+      "confidence": "medium"
+    },
+    {
       "title": "Mistral positioniert Vibe for code als Coding-Agent für Terminal, IDE und Hintergrundaufgaben",
       "summary": "Mistral beschreibt Vibe for code als Coding-Agenten, der im Terminal, in der IDE und im Hintergrund arbeiten kann. Das Produkt ist Teil einer breiteren Vibe-Linie für länger laufende Agentenarbeit.",
       "why_it_matters": "Coding-Agenten werden zunehmend als Arbeitsumgebung statt als einzelne Chat-Funktion verpackt. Praktisch relevant sind dabei Ausführungsumgebung, Review-Schleifen, Statuskontrolle und Integration in vorhandene Entwicklungsprozesse — nicht nur die Modellqualität im Hintergrund.",
@@ -191,10 +220,10 @@
       "confidence": "medium"
     }
   ],
-  "item_count": 6,
-  "source_count": 8,
-  "summary": "Heute im Fokus: bessere Pre-Release-Evaluierung bei OpenAI, neue Reasoning- und Agentenmodelle, AI direkt in Präsentationssoftware sowie Guardrails für Echtzeit-Anwendungen.",
-  "generated_at": "2026-06-17T02:02:46.022464+02:00",
+  "item_count": 7,
+  "source_count": 10,
+  "summary": "Heute im Fokus: bessere Pre-Release-Evaluierung bei OpenAI, neue Reasoning- und Agentenmodelle, AI direkt in Präsentations- und Video-Workflows sowie Guardrails für Echtzeit-Anwendungen.",
+  "generated_at": "2026-06-17T14:02:32.387614+02:00",
   "sources": [
     {
       "name": "OpenAI",
@@ -207,6 +236,14 @@
     {
       "name": "xAI",
       "url": "https://x.ai/news/introducing-powerpoint-addin"
+    },
+    {
+      "name": "xAI",
+      "url": "https://x.ai/news/grok-imagine-video-1-5"
+    },
+    {
+      "name": "xAI News",
+      "url": "https://x.ai/news"
     },
     {
       "name": "Mistral AI",

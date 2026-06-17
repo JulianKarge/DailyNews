@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-17T02:02:46.022464+02:00",
+  "updated_at": "2026-06-17T14:02:32.387614+02:00",
   "count": 7,
   "latest_date": "2026-06-17",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -34,6 +34,8 @@
         "PowerPoint",
         "Productivity",
         "Creator Tools",
+        "Video",
+        "Generative AI",
         "Mistral",
         "Coding Agents",
         "Developer Tools",
@@ -53,8 +55,8 @@
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-17.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-17.html",
-      "item_count": 6,
-      "source_count": 8
+      "item_count": 7,
+      "source_count": 10
     },
     {
       "id": "2026-06-16",

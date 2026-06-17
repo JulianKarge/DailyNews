@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 17.06.2026",
     "title": "Daily AI News — Mittwoch, 17.06.2026",
-    "summary": "Heute im Fokus: bessere Pre-Release-Evaluierung bei OpenAI, neue Reasoning- und Agentenmodelle, AI direkt in Präsentationssoftware sowie Guardrails für Echtzeit-Anwendungen.",
+    "summary": "Heute im Fokus: bessere Pre-Release-Evaluierung bei OpenAI, neue Reasoning- und Agentenmodelle, AI direkt in Präsentations- und Video-Workflows sowie Guardrails für Echtzeit-Anwendungen.",
     "file": "pages/2026-06-17.html",
     "markdownFile": "news/2026-06-17.md",
     "tags": [
@@ -23,6 +23,8 @@
       "PowerPoint",
       "Productivity",
       "Creator Tools",
+      "Video",
+      "Generative AI",
       "Mistral",
       "Coding Agents",
       "Developer Tools",
@@ -48,6 +50,14 @@
       {
         "label": "xAI",
         "url": "https://x.ai/news/introducing-powerpoint-addin"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-imagine-video-1-5"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
       },
       {
         "label": "Mistral AI",
