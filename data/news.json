@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-06-17",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 17.06.2026",
+    "title": "Daily AI News — Mittwoch, 17.06.2026",
+    "summary": "Heute im Fokus: bessere Pre-Release-Evaluierung bei OpenAI, neue Reasoning- und Agentenmodelle, AI direkt in Präsentationssoftware sowie Guardrails für Echtzeit-Anwendungen.",
+    "file": "pages/2026-06-17.html",
+    "markdownFile": "news/2026-06-17.md",
+    "tags": [
+      "OpenAI",
+      "Evaluation",
+      "AI Safety",
+      "Model Releases",
+      "Governance",
+      "DeepSeek",
+      "Models",
+      "Reasoning",
+      "Agents",
+      "API",
+      "xAI",
+      "Grok",
+      "PowerPoint",
+      "Productivity",
+      "Creator Tools",
+      "Mistral",
+      "Coding Agents",
+      "Developer Tools",
+      "Automation",
+      "Qwen",
+      "Guardrails",
+      "Open Models",
+      "Moderation",
+      "Z.ai",
+      "GLM",
+      "Coding"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/deployment-simulation"
+      },
+      {
+        "label": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/introducing-powerpoint-addin"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/products/vibe/code/"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/products/vibe/"
+      },
+      {
+        "label": "Qwen",
+        "url": "https://qwenlm.github.io/blog/qwen3guard/"
+      },
+      {
+        "label": "Qwen",
+        "url": "https://qwen.ai/blog"
+      },
+      {
+        "label": "Z.ai",
+        "url": "https://www.zhipuai.cn/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-16",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 16.06.2026",
