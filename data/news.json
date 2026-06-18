@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-06-18",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 18.06.2026",
+    "title": "Daily AI News — Donnerstag, 18.06.2026",
+    "summary": "Heute im Fokus: Grok in AWS Bedrock sowie neue OpenAI-Beispiele für spezialisierte Benchmarks und agentische Forschungsautomation in Life Sciences und Chemie.",
+    "file": "pages/2026-06-18.html",
+    "markdownFile": "news/2026-06-18.md",
+    "tags": [
+      "xAI",
+      "Grok",
+      "Amazon Bedrock",
+      "Enterprise AI",
+      "Cloud",
+      "API",
+      "OpenAI",
+      "Life Sciences",
+      "Benchmarks",
+      "Evaluation",
+      "Research",
+      "Agents",
+      "Chemistry",
+      "Research Automation"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-amazon-bedrock"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-life-sci-bench"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction"
+      }
+    ]
+  },
+  {
     "date": "2026-06-17",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 17.06.2026",
