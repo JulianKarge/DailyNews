@@ -15,17 +15,20 @@
     "Enterprise AI",
     "Cloud",
     "API",
+    "Google",
+    "Medical AI",
+    "Research",
+    "Healthcare",
+    "Evaluation",
     "OpenAI",
     "Life Sciences",
     "Benchmarks",
-    "Evaluation",
-    "Research",
     "Agents",
     "Chemistry",
     "Research Automation"
   ],
   "hero": {
-    "topic": "Enterprise-Modelle, Benchmarks & Research Agents",
+    "topic": "Enterprise-Modelle, Medical AI und Research Agents",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 18.06.2026"
   },
@@ -57,6 +60,33 @@
         "Enterprise AI",
         "Cloud",
         "API"
+      ],
+      "confidence": "high"
+    },
+    {
+      "title": "Google beschreibt AMIE als medizinischen AI-Assistenten für komplexes Disease Management",
+      "summary": "Google berichtet über eine in Nature veröffentlichte Studie zu AMIE, einem dialogorientierten medizinischen AI-System. In der Untersuchung habe AMIE bei komplexem Krankheitsmanagement das Niveau von Hausärztinnen und Hausärzten erreicht beziehungsweise in Teilen übertroffen.",
+      "why_it_matters": "Medizinische AI bewegt sich von einfachen Symptom-Checks hin zu längeren, kontextreichen Beratungssituationen. Für Gesundheitssysteme, Forschungsteams und Produktanbieter bleibt entscheidend, solche Systeme nicht als Ersatz für Versorgung zu behandeln, sondern ihre Grenzen, Aufsicht, Haftung und praktische Integration sorgfältig zu prüfen.",
+      "source": {
+        "name": "Google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      },
+      "sources": [
+        {
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+        },
+        {
+          "name": "Google AI Blog RSS",
+          "url": "https://blog.google/technology/ai/rss/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Medical AI",
+        "Research",
+        "Healthcare",
+        "Evaluation"
       ],
       "confidence": "high"
     },
@@ -115,10 +145,10 @@
       "confidence": "high"
     }
   ],
-  "item_count": 3,
-  "source_count": 5,
-  "summary": "Heute im Fokus: Grok in AWS Bedrock sowie neue OpenAI-Beispiele für spezialisierte Benchmarks und agentische Forschungsautomation in Life Sciences und Chemie.",
-  "generated_at": "2026-06-18T02:04:56.869955+02:00",
+  "item_count": 4,
+  "source_count": 7,
+  "summary": "Heute im Fokus: Grok in AWS Bedrock, medizinische AI-Forschung von Google sowie neue OpenAI-Beispiele für spezialisierte Benchmarks und agentische Forschungsautomation.",
+  "generated_at": "2026-06-18T14:03:16.223329+02:00",
   "sources": [
     {
       "name": "xAI",
@@ -127,6 +157,14 @@
     {
       "name": "xAI News",
       "url": "https://x.ai/news"
+    },
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+    },
+    {
+      "name": "Google AI Blog RSS",
+      "url": "https://blog.google/technology/ai/rss/"
     },
     {
       "name": "OpenAI",

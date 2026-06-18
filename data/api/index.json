@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-18T02:04:56.869955+02:00",
+  "updated_at": "2026-06-18T14:03:16.223329+02:00",
   "count": 8,
   "latest_date": "2026-06-18",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -25,24 +25,27 @@
         "Enterprise AI",
         "Cloud",
         "API",
+        "Google",
+        "Medical AI",
+        "Research",
+        "Healthcare",
+        "Evaluation",
         "OpenAI",
         "Life Sciences",
         "Benchmarks",
-        "Evaluation",
-        "Research",
         "Agents",
         "Chemistry",
         "Research Automation"
       ],
       "hero": {
-        "topic": "Enterprise-Modelle, Benchmarks & Research Agents",
+        "topic": "Enterprise-Modelle, Medical AI und Research Agents",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 18.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-18.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-18.html",
-      "item_count": 3,
-      "source_count": 5
+      "item_count": 4,
+      "source_count": 7
     },
     {
       "id": "2026-06-17",

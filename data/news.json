@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 18.06.2026",
     "title": "Daily AI News — Donnerstag, 18.06.2026",
-    "summary": "Heute im Fokus: Grok in AWS Bedrock sowie neue OpenAI-Beispiele für spezialisierte Benchmarks und agentische Forschungsautomation in Life Sciences und Chemie.",
+    "summary": "Heute im Fokus: Grok in AWS Bedrock, medizinische AI-Forschung von Google sowie neue OpenAI-Beispiele für spezialisierte Benchmarks und agentische Forschungsautomation.",
     "file": "pages/2026-06-18.html",
     "markdownFile": "news/2026-06-18.md",
     "tags": [
@@ -14,11 +14,14 @@
       "Enterprise AI",
       "Cloud",
       "API",
+      "Google",
+      "Medical AI",
+      "Research",
+      "Healthcare",
+      "Evaluation",
       "OpenAI",
       "Life Sciences",
       "Benchmarks",
-      "Evaluation",
-      "Research",
       "Agents",
       "Chemistry",
       "Research Automation"
@@ -32,6 +35,14 @@
       {
         "label": "xAI News",
         "url": "https://x.ai/news"
+      },
+      {
+        "label": "Google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      },
+      {
+        "label": "Google AI Blog RSS",
+        "url": "https://blog.google/technology/ai/rss/"
       },
       {
         "label": "OpenAI",
