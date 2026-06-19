@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 19.06.2026",
     "title": "Daily AI News — Freitag, 19.06.2026",
-    "summary": "Heute im Fokus: Grok in Office- und Datenworkflows, neue Enterprise-Governance für ChatGPT sowie OpenAI-Updates zu Gesundheitsantworten und seltenen Krankheiten.",
+    "summary": "Heute im Fokus: Grok in Office- und Datenworkflows, neue Enterprise-Governance für ChatGPT, OpenAI-Forschung zu robusterem Modellverhalten sowie Medical-AI-Updates.",
     "file": "pages/2026-06-19.html",
     "markdownFile": "news/2026-06-19.md",
     "tags": [
@@ -19,14 +19,17 @@
       "Analytics",
       "Spend Controls",
       "Governance",
+      "Alignment",
+      "AI Safety",
+      "Reinforcement Learning",
+      "Evaluation",
+      "Research",
       "GPT-5.5 Instant",
       "ChatGPT",
       "Healthcare",
-      "Evaluation",
       "Safety",
       "Reasoning Models",
       "Rare Diseases",
-      "Research",
       "Diagnostics"
     ],
     "visualTag": "AI Agents",
@@ -50,6 +53,18 @@
       {
         "label": "OpenAI News RSS",
         "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "label": "OpenAI Alignment",
+        "url": "https://alignment.openai.com/beneficial-rl/"
+      },
+      {
+        "label": "OpenAI Paper",
+        "url": "https://cdn.openai.com/pdf/beneficial-rl.pdf"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/"
       },
       {
         "label": "OpenAI",

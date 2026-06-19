@@ -20,18 +20,21 @@
     "Analytics",
     "Spend Controls",
     "Governance",
+    "Alignment",
+    "AI Safety",
+    "Reinforcement Learning",
+    "Evaluation",
+    "Research",
     "GPT-5.5 Instant",
     "ChatGPT",
     "Healthcare",
-    "Evaluation",
     "Safety",
     "Reasoning Models",
     "Rare Diseases",
-    "Research",
     "Diagnostics"
   ],
   "hero": {
-    "topic": "Enterprise-Produktivität, Governance und Medical AI",
+    "topic": "Enterprise-Produktivität, AI Safety und Medical AI",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 19.06.2026"
   },
@@ -99,6 +102,38 @@
       "confidence": "high"
     },
     {
+      "title": "OpenAI zeigt Beneficial-RL-Ansatz für robustere Modellverhalten",
+      "summary": "OpenAI beschreibt auf der eigenen Alignment-Seite einen Forschungsansatz, bei dem kleine Mengen gezielter Reinforcement-Learning-Daten erwünschte Eigenschaften wie Wahrhaftigkeit, Transparenz, Fairness und Korrigierbarkeit stärken sollen. THE DECODER berichtet, dass sich diese Verhaltensmuster laut Paper auch auf nicht direkt trainierte Domänen und adversarielle Situationen übertragen.",
+      "why_it_matters": "Für produktive AI-Systeme reicht es nicht, Modelle nur leistungsfähiger zu machen; sie müssen unter Druck, in neuen Aufgabenfeldern und bei manipulativen Prompts stabiler bleiben. Der Ansatz ist ein praktisches Signal dafür, dass Safety-Training stärker als übertragbare Verhaltensschulung und nicht nur als nachgelagerter Filter verstanden wird.",
+      "source": {
+        "name": "OpenAI Alignment",
+        "url": "https://alignment.openai.com/beneficial-rl/"
+      },
+      "sources": [
+        {
+          "name": "OpenAI Alignment",
+          "url": "https://alignment.openai.com/beneficial-rl/"
+        },
+        {
+          "name": "OpenAI Paper",
+          "url": "https://cdn.openai.com/pdf/beneficial-rl.pdf"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Alignment",
+        "AI Safety",
+        "Reinforcement Learning",
+        "Evaluation",
+        "Research"
+      ],
+      "confidence": "medium"
+    },
+    {
       "title": "OpenAI beschreibt bessere Gesundheitsantworten in GPT-5.5 Instant",
       "summary": "OpenAI berichtet, dass GPT-5.5 Instant Gesundheits- und Wellness-Antworten in ChatGPT verbessert. Genannt werden stärkeres Reasoning, bessere Kontextnutzung, klarere Kommunikation und ärztlich informierte Evaluationen.",
       "why_it_matters": "Viele Menschen nutzen allgemeine AI-Assistenten bereits für Gesundheitsfragen. Verbesserungen bei Verständlichkeit, Kontext und Vorsicht sind deshalb praktisch relevant, ersetzen aber keine medizinische Beratung und müssen weiterhin mit klaren Grenzen, Quellen- und Sicherheitsmechanismen verbunden bleiben.",
@@ -155,10 +190,10 @@
       "confidence": "high"
     }
   ],
-  "item_count": 4,
-  "source_count": 7,
-  "summary": "Heute im Fokus: Grok in Office- und Datenworkflows, neue Enterprise-Governance für ChatGPT sowie OpenAI-Updates zu Gesundheitsantworten und seltenen Krankheiten.",
-  "generated_at": "2026-06-19T02:02:38.089985+02:00",
+  "item_count": 5,
+  "source_count": 10,
+  "summary": "Heute im Fokus: Grok in Office- und Datenworkflows, neue Enterprise-Governance für ChatGPT, OpenAI-Forschung zu robusterem Modellverhalten sowie Medical-AI-Updates.",
+  "generated_at": "2026-06-19T14:03:26.353917+02:00",
   "sources": [
     {
       "name": "xAI",
@@ -179,6 +214,18 @@
     {
       "name": "OpenAI News RSS",
       "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "OpenAI Alignment",
+      "url": "https://alignment.openai.com/beneficial-rl/"
+    },
+    {
+      "name": "OpenAI Paper",
+      "url": "https://cdn.openai.com/pdf/beneficial-rl.pdf"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/"
     },
     {
       "name": "OpenAI",

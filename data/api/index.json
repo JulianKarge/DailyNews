@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-19T02:02:38.089985+02:00",
+  "updated_at": "2026-06-19T14:03:26.353917+02:00",
   "count": 9,
   "latest_date": "2026-06-19",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -30,25 +30,28 @@
         "Analytics",
         "Spend Controls",
         "Governance",
+        "Alignment",
+        "AI Safety",
+        "Reinforcement Learning",
+        "Evaluation",
+        "Research",
         "GPT-5.5 Instant",
         "ChatGPT",
         "Healthcare",
-        "Evaluation",
         "Safety",
         "Reasoning Models",
         "Rare Diseases",
-        "Research",
         "Diagnostics"
       ],
       "hero": {
-        "topic": "Enterprise-Produktivität, Governance und Medical AI",
+        "topic": "Enterprise-Produktivität, AI Safety und Medical AI",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Freitag, 19.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-19.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-19.html",
-      "item_count": 4,
-      "source_count": 7
+      "item_count": 5,
+      "source_count": 10
     },
     {
       "id": "2026-06-18",
