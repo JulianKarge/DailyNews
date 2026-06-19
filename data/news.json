@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-06-19",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 19.06.2026",
+    "title": "Daily AI News — Freitag, 19.06.2026",
+    "summary": "Heute im Fokus: Grok in Office- und Datenworkflows, neue Enterprise-Governance für ChatGPT sowie OpenAI-Updates zu Gesundheitsantworten und seltenen Krankheiten.",
+    "file": "pages/2026-06-19.html",
+    "markdownFile": "news/2026-06-19.md",
+    "tags": [
+      "xAI",
+      "Grok",
+      "Microsoft Word",
+      "Databricks",
+      "Enterprise AI",
+      "Productivity",
+      "OpenAI",
+      "ChatGPT Enterprise",
+      "Analytics",
+      "Spend Controls",
+      "Governance",
+      "GPT-5.5 Instant",
+      "ChatGPT",
+      "Healthcare",
+      "Evaluation",
+      "Safety",
+      "Reasoning Models",
+      "Rare Diseases",
+      "Research",
+      "Diagnostics"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/introducing-word-addin"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-databricks"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      }
+    ]
+  },
+  {
     "date": "2026-06-18",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 18.06.2026",
