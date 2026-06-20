@@ -4,11 +4,44 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-19T14:03:26.353917+02:00",
-  "count": 9,
-  "latest_date": "2026-06-19",
+  "updated_at": "2026-06-20T02:03:57+02:00",
+  "count": 10,
+  "latest_date": "2026-06-20",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-06-20",
+      "date": "2026-06-20",
+      "weekday": "Samstag",
+      "date_label": "Samstag, 20.06.2026",
+      "title": "Daily AI News — Samstag, 20.06.2026",
+      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "Agents",
+        "Evaluation",
+        "Knowledge Work",
+        "Benchmarks",
+        "Productivity",
+        "AI Safety",
+        "OpenAI",
+        "Google",
+        "Gemini",
+        "AI Labs",
+        "Talent",
+        "Ecosystem"
+      ],
+      "hero": {
+        "topic": "Agenten-Evaluation und AI-Lab-Ökosystem",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Samstag, 20.06.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-20.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-20.html",
+      "item_count": 2,
+      "source_count": 3
+    },
     {
       "id": "2026-06-19",
       "date": "2026-06-19",

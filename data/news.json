@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-06-20",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 20.06.2026",
+    "title": "Daily AI News — Samstag, 20.06.2026",
+    "summary": "Heute im Fokus: realistischere Benchmarks für agentische Wissensarbeit und ein prominenter Wechsel aus dem Gemini-Umfeld zu OpenAI.",
+    "file": "pages/2026-06-20.html",
+    "markdownFile": "news/2026-06-20.md",
+    "tags": [
+      "Agents",
+      "Evaluation",
+      "Knowledge Work",
+      "Benchmarks",
+      "Productivity",
+      "AI Safety",
+      "OpenAI",
+      "Google",
+      "Gemini",
+      "AI Labs",
+      "Talent",
+      "Ecosystem"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "Artificial Analysis",
+        "url": "https://artificialanalysis.ai/articles/aa-briefcase"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/googles-gemini-co-lead-noam-shazeer-joins-openai-after-two-year-return-stint/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-19",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 19.06.2026",
