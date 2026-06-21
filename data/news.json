@@ -4,16 +4,21 @@
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 21.06.2026",
     "title": "Daily AI News — Sonntag, 21.06.2026",
-    "summary": "Heute im Fokus: interne Analytics-Agenten, realistischere Agenten-Evaluation, Datenschutzrisiken bei Deep Research und effizienteres Copilot-Routing.",
+    "summary": "Heute im Fokus: geplante Codex-Automationen, interne Analytics-Agenten, realistischere Agenten-Evaluation, Datenschutzrisiken bei Deep Research und effizienteres Copilot-Routing.",
     "file": "pages/2026-06-21.html",
     "markdownFile": "news/2026-06-21.md",
     "tags": [
+      "OpenAI",
+      "Codex",
+      "Coding Agents",
+      "Automation",
+      "Developer Tools",
+      "Remote Workflows",
       "GitHub",
       "Copilot",
       "Agents",
       "Data Analytics",
       "Enterprise AI",
-      "Automation",
       "Hugging Face",
       "Open Models",
       "Evaluation",
@@ -23,14 +28,24 @@
       "Security",
       "Deep Research",
       "GitHub Copilot",
-      "Coding Agents",
       "Model Routing",
       "Context",
-      "Developer Tools",
       "Cost Control"
     ],
     "visualTag": "AI Agents",
     "sources": [
+      {
+        "label": "OpenAI Developers",
+        "url": "https://developers.openai.com/codex/app/automations"
+      },
+      {
+        "label": "OpenAI Developers",
+        "url": "https://developers.openai.com/codex/remote-connections"
+      },
+      {
+        "label": "OpenAI Developers",
+        "url": "https://developers.openai.com/codex/changelog"
+      },
       {
         "label": "GitHub Blog",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"

@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-21T02:05:00+02:00",
+  "updated_at": "2026-06-21T14:03:18+02:00",
   "count": 10,
   "latest_date": "2026-06-21",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -19,12 +19,17 @@
       "language": "de",
       "status": "published",
       "tags": [
+        "OpenAI",
+        "Codex",
+        "Coding Agents",
+        "Automation",
+        "Developer Tools",
+        "Remote Workflows",
         "GitHub",
         "Copilot",
         "Agents",
         "Data Analytics",
         "Enterprise AI",
-        "Automation",
         "Hugging Face",
         "Open Models",
         "Evaluation",
@@ -34,21 +39,19 @@
         "Security",
         "Deep Research",
         "GitHub Copilot",
-        "Coding Agents",
         "Model Routing",
         "Context",
-        "Developer Tools",
         "Cost Control"
       ],
       "hero": {
-        "topic": "Agenten-Evaluation, Analytics und sichere Research-Workflows",
+        "topic": "Coding-Automationen, Agenten-Evaluation und sichere Research-Workflows",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Sonntag, 21.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-21.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-21.html",
-      "item_count": 4,
-      "source_count": 4
+      "item_count": 5,
+      "source_count": 7
     },
     {
       "id": "2026-06-20",

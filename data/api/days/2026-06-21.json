@@ -9,12 +9,17 @@
   "language": "de",
   "status": "published",
   "tags": [
+    "OpenAI",
+    "Codex",
+    "Coding Agents",
+    "Automation",
+    "Developer Tools",
+    "Remote Workflows",
     "GitHub",
     "Copilot",
     "Agents",
     "Data Analytics",
     "Enterprise AI",
-    "Automation",
     "Hugging Face",
     "Open Models",
     "Evaluation",
@@ -24,20 +29,50 @@
     "Security",
     "Deep Research",
     "GitHub Copilot",
-    "Coding Agents",
     "Model Routing",
     "Context",
-    "Developer Tools",
     "Cost Control"
   ],
   "hero": {
-    "topic": "Agenten-Evaluation, Analytics und sichere Research-Workflows",
+    "topic": "Coding-Automationen, Agenten-Evaluation und sichere Research-Workflows",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Sonntag, 21.06.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-21.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-21.html",
   "items": [
+    {
+      "title": "OpenAI dokumentiert geplante Codex-Automationen und Remote-Verbindungen",
+      "summary": "OpenAI beschreibt in den Codex-Developer-Dokumenten Automations, mit denen wiederkehrende Codex-Aufgaben im Hintergrund geplant werden können. Ergebnisse landen im Inbox-Flow oder werden automatisch archiviert, wenn es nichts zu berichten gibt; ergänzend dokumentiert OpenAI Remote Connections für die Steuerung eines Codex-Hosts von anderen Geräten oder per SSH.",
+      "why_it_matters": "Coding-Agenten bewegen sich damit stärker von einzelnen Chat-Sitzungen zu wiederkehrenden, betreibbaren Arbeitsabläufen. Für Teams und Automatisierer werden Zeitplanung, getrennte Worktrees, Genehmigungsmodi, laufende Maschinen, Zugriffskontrolle und nachvollziehbare Ergebnisse wichtiger als nur die reine Modellqualität.",
+      "source": {
+        "name": "OpenAI Developers",
+        "url": "https://developers.openai.com/codex/app/automations"
+      },
+      "sources": [
+        {
+          "name": "OpenAI Developers",
+          "url": "https://developers.openai.com/codex/app/automations"
+        },
+        {
+          "name": "OpenAI Developers",
+          "url": "https://developers.openai.com/codex/remote-connections"
+        },
+        {
+          "name": "OpenAI Developers",
+          "url": "https://developers.openai.com/codex/changelog"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "Coding Agents",
+        "Automation",
+        "Developer Tools",
+        "Remote Workflows"
+      ],
+      "confidence": "high"
+    },
     {
       "title": "GitHub beschreibt internen Analytics-Agenten für natürliche Datenfragen",
       "summary": "GitHub zeigt mit Qubot einen intern gebauten, Copilot-gestützten Datenanalyse-Agenten. Beschäftigte sollen damit Fragen zu Unternehmensdaten in natürlicher Sprache stellen können, statt für jede Analyse manuell SQL, Dashboards oder Datenpipelines zu bedienen.",
@@ -135,11 +170,23 @@
       "confidence": "high"
     }
   ],
-  "item_count": 4,
-  "source_count": 4,
-  "summary": "Heute im Fokus: interne Analytics-Agenten, realistischere Agenten-Evaluation, Datenschutzrisiken bei Deep Research und effizienteres Copilot-Routing.",
-  "generated_at": "2026-06-21T02:05:00+02:00",
+  "item_count": 5,
+  "source_count": 7,
+  "summary": "Heute im Fokus: geplante Codex-Automationen, interne Analytics-Agenten, realistischere Agenten-Evaluation, Datenschutzrisiken bei Deep Research und effizienteres Copilot-Routing.",
+  "generated_at": "2026-06-21T14:03:18+02:00",
   "sources": [
+    {
+      "name": "OpenAI Developers",
+      "url": "https://developers.openai.com/codex/app/automations"
+    },
+    {
+      "name": "OpenAI Developers",
+      "url": "https://developers.openai.com/codex/remote-connections"
+    },
+    {
+      "name": "OpenAI Developers",
+      "url": "https://developers.openai.com/codex/changelog"
+    },
     {
       "name": "GitHub Blog",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
@@ -156,5 +203,9 @@
       "name": "GitHub Blog",
       "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
     }
-  ]
+  ],
+  "legacy": {
+    "markdown_url": "news/2026-06-21.md",
+    "html_url": "pages/2026-06-21.html"
+  }
 }
