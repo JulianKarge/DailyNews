@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-06-21",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 21.06.2026",
+    "title": "Daily AI News — Sonntag, 21.06.2026",
+    "summary": "Heute im Fokus: interne Analytics-Agenten, realistischere Agenten-Evaluation, Datenschutzrisiken bei Deep Research und effizienteres Copilot-Routing.",
+    "file": "pages/2026-06-21.html",
+    "markdownFile": "news/2026-06-21.md",
+    "tags": [
+      "GitHub",
+      "Copilot",
+      "Agents",
+      "Data Analytics",
+      "Enterprise AI",
+      "Automation",
+      "Hugging Face",
+      "Open Models",
+      "Evaluation",
+      "Tool Use",
+      "Benchmarks",
+      "Privacy",
+      "Security",
+      "Deep Research",
+      "GitHub Copilot",
+      "Coding Agents",
+      "Model Routing",
+      "Context",
+      "Developer Tools",
+      "Cost Control"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/is-it-agentic-enough"
+      },
+      {
+        "label": "Hugging Face Blog / ServiceNow",
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      },
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-20",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 20.06.2026",
@@ -551,48 +601,6 @@
       {
         "label": "OpenAI",
         "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "weekday": "Donnerstag",
-    "dateLabel": "Donnerstag, 11.06.2026",
-    "title": "Daily AI News — Donnerstag, 11.06.2026",
-    "summary": "Heute im Fokus: neue Modellgenerationen, lokalere multimodale Modelle, Live-Übersetzung und produktivere Coding-Agenten.",
-    "file": "pages/2026-06-11.html",
-    "markdownFile": "news/2026-06-11.md",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Frontier Models",
-      "Coding",
-      "AI Safety",
-      "Google",
-      "Gemma",
-      "Open Models"
-    ],
-    "visualTag": "AI Models",
-    "sources": [
-      {
-        "label": "Anthropic",
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-      },
-      {
-        "label": "Google Blog",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
-      },
-      {
-        "label": "Google Blog",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
-      },
-      {
-        "label": "Hugging Face / Cohere Labs",
-        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
-      },
-      {
-        "label": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/"
       }
     ]
   }
