@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026-06-22",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 22.06.2026",
+    "title": "Daily AI News — Montag, 22.06.2026",
+    "summary": "Heute im Fokus: ein großer Enterprise-Rollout von ChatGPT und Codex, ein Long-Horizon-Modell von Z.AI sowie neue Ansätze für Tool- und Agenten-Discovery.",
+    "file": "pages/2026-06-22.html",
+    "markdownFile": "news/2026-06-22.md",
+    "tags": [
+      "OpenAI",
+      "ChatGPT Enterprise",
+      "Codex",
+      "Samsung",
+      "Enterprise AI",
+      "Coding Agents",
+      "Z.AI",
+      "GLM-5.2",
+      "Open Models",
+      "Long Context",
+      "Agents",
+      "Coding",
+      "Hugging Face",
+      "MCP",
+      "Skills",
+      "Tool Discovery",
+      "Automation"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+      },
+      {
+        "label": "Hugging Face / Z.AI",
+        "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/agentic-resource-discovery-launch"
+      }
+    ]
+  },
+  {
     "date": "2026-06-21",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 21.06.2026",
