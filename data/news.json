@@ -4,7 +4,7 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 22.06.2026",
     "title": "Daily AI News — Montag, 22.06.2026",
-    "summary": "Heute im Fokus: ein großer Enterprise-Rollout von ChatGPT und Codex, ein Long-Horizon-Modell von Z.AI sowie neue Ansätze für Tool- und Agenten-Discovery.",
+    "summary": "Heute im Fokus: ein großer Enterprise-Rollout von ChatGPT und Codex, ein Long-Horizon-Modell von Z.AI, Sakana Fugu als Multi-Agent-Orchestrierung sowie neue Ansätze für Tool- und Agenten-Discovery.",
     "file": "pages/2026-06-22.html",
     "markdownFile": "news/2026-06-22.md",
     "tags": [
@@ -20,11 +20,16 @@
       "Long Context",
       "Agents",
       "Coding",
+      "Sakana AI",
+      "Fugu",
+      "Multi-Agent",
+      "Model Orchestration",
+      "API",
+      "Automation",
       "Hugging Face",
       "MCP",
       "Skills",
-      "Tool Discovery",
-      "Automation"
+      "Tool Discovery"
     ],
     "visualTag": "AI Agents",
     "sources": [
@@ -35,6 +40,14 @@
       {
         "label": "Hugging Face / Z.AI",
         "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
+      },
+      {
+        "label": "Sakana AI",
+        "url": "https://sakana.ai/fugu/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/"
       },
       {
         "label": "Hugging Face Blog",

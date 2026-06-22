@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-22T02:02:46+02:00",
+  "updated_at": "2026-06-22T14:03:33+02:00",
   "count": 11,
   "latest_date": "2026-06-22",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -31,21 +31,26 @@
         "Long Context",
         "Agents",
         "Coding",
+        "Sakana AI",
+        "Fugu",
+        "Multi-Agent",
+        "Model Orchestration",
+        "API",
+        "Automation",
         "Hugging Face",
         "MCP",
         "Skills",
-        "Tool Discovery",
-        "Automation"
+        "Tool Discovery"
       ],
       "hero": {
-        "topic": "Enterprise-AI, Long-Horizon-Modelle und Agenten-Discovery",
+        "topic": "Enterprise-AI, Long-Horizon-Modelle und Multi-Agent-Orchestrierung",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Montag, 22.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-22.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-22.html",
-      "item_count": 3,
-      "source_count": 3
+      "item_count": 4,
+      "source_count": 5
     },
     {
       "id": "2026-06-21",

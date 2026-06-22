@@ -21,14 +21,19 @@
     "Long Context",
     "Agents",
     "Coding",
+    "Sakana AI",
+    "Fugu",
+    "Multi-Agent",
+    "Model Orchestration",
+    "API",
+    "Automation",
     "Hugging Face",
     "MCP",
     "Skills",
-    "Tool Discovery",
-    "Automation"
+    "Tool Discovery"
   ],
   "hero": {
-    "topic": "Enterprise-AI, Long-Horizon-Modelle und Agenten-Discovery",
+    "topic": "Enterprise-AI, Long-Horizon-Modelle und Multi-Agent-Orchestrierung",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 22.06.2026"
   },
@@ -84,6 +89,34 @@
       "confidence": "high"
     },
     {
+      "title": "Sakana AI stellt Fugu als Multi-Agent-System hinter einer API vor",
+      "summary": "Sakana AI beschreibt Fugu als System, das mehrere führende Modelle dynamisch orchestriert und komplexe mehrstufige Aufgaben über eine einzelne API bearbeiten soll. THE DECODER ordnet den Ansatz als Versuch ein, starke Benchmark-Ergebnisse ohne Abhängigkeit von einem einzelnen Modellanbieter zu erreichen.",
+      "why_it_matters": "Für Teams und Automatisierer zeigt Fugu einen wichtigen Architekturtrend: Leistungsfähigkeit entsteht zunehmend durch Orchestrierung, Modellwahl und Aufgabenaufteilung statt nur durch ein einzelnes Basismodell. Praktisch relevant werden damit Monitoring, Kostenkontrolle, Datenschutzgrenzen und nachvollziehbare Entscheidungen darüber, welches Modell welche Teilaufgabe übernimmt.",
+      "source": {
+        "name": "Sakana AI",
+        "url": "https://sakana.ai/fugu/"
+      },
+      "sources": [
+        {
+          "name": "Sakana AI",
+          "url": "https://sakana.ai/fugu/"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/"
+        }
+      ],
+      "tags": [
+        "Sakana AI",
+        "Fugu",
+        "Multi-Agent",
+        "Model Orchestration",
+        "API",
+        "Automation"
+      ],
+      "confidence": "high"
+    },
+    {
       "title": "Hugging Face skizziert Agentic Resource Discovery für Tool- und Agenten-Suche",
       "summary": "Hugging Face beschreibt Agentic Resource Discovery als Ansatz, mit dem Agenten nach Tools, Skills und anderen Agenten suchen können. Der Beitrag ordnet ARD neben MCP, Skills und Agent-to-Agent-Kommunikation ein und verweist auf eine REST API sowie ein MCP-Tool.",
       "why_it_matters": "Wenn Agenten produktiv eingesetzt werden, reicht es nicht, einzelne Tools fest zu verdrahten. Eine Such- und Discovery-Schicht kann helfen, passende Fähigkeiten dynamisch zu finden; gleichzeitig steigen Anforderungen an Berechtigungen, Qualitätssignale, Vertrauensgrenzen und reproduzierbare Tool-Auswahl.",
@@ -108,10 +141,10 @@
       "confidence": "high"
     }
   ],
-  "item_count": 3,
-  "source_count": 3,
-  "summary": "Heute im Fokus: ein großer Enterprise-Rollout von ChatGPT und Codex, ein Long-Horizon-Modell von Z.AI sowie neue Ansätze für Tool- und Agenten-Discovery.",
-  "generated_at": "2026-06-22T02:02:46+02:00",
+  "item_count": 4,
+  "source_count": 5,
+  "summary": "Heute im Fokus: ein großer Enterprise-Rollout von ChatGPT und Codex, ein Long-Horizon-Modell von Z.AI, Sakana Fugu als Multi-Agent-Orchestrierung sowie neue Ansätze für Tool- und Agenten-Discovery.",
+  "generated_at": "2026-06-22T14:03:33+02:00",
   "sources": [
     {
       "name": "OpenAI",
@@ -120,6 +153,14 @@
     {
       "name": "Hugging Face / Z.AI",
       "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
+    },
+    {
+      "name": "Sakana AI",
+      "url": "https://sakana.ai/fugu/"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/"
     },
     {
       "name": "Hugging Face Blog",
