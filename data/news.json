@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 23.06.2026",
     "title": "Daily AI News — Dienstag, 23.06.2026",
-    "summary": "Heute im Fokus: OpenAIs neue Daybreak-Sicherheitswerkzeuge, xAIs /goal für länger laufende Grok-Build-Aufgaben und Googles Interactions API als Standard für Gemini-Apps und Agenten.",
+    "summary": "Heute im Fokus: OpenAIs Daybreak-Sicherheitswerkzeuge, xAIs /goal für länger laufende Grok-Build-Aufgaben, Googles Interactions API sowie neue Hugging-Face-Beispiele für lokale Repository-Automation und Human-in-the-Loop-Releases.",
     "file": "pages/2026-06-23.html",
     "markdownFile": "news/2026-06-23.md",
     "tags": [
@@ -24,7 +24,13 @@
       "Gemini",
       "Interactions API",
       "Developer Tools",
-      "API"
+      "API",
+      "Hugging Face",
+      "Open Models",
+      "Code Review",
+      "Human-in-the-Loop",
+      "Developer Workflow",
+      "CI/CD"
     ],
     "visualTag": "AI Agents",
     "sources": [
@@ -47,6 +53,14 @@
       {
         "label": "THE DECODER",
         "url": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/local-models-pr-triage"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
       }
     ]
   },

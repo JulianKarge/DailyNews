@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-23T02:03:52+02:00",
+  "updated_at": "2026-06-23T14:03:11+02:00",
   "count": 12,
   "latest_date": "2026-06-23",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -35,17 +35,23 @@
         "Gemini",
         "Interactions API",
         "Developer Tools",
-        "API"
+        "API",
+        "Hugging Face",
+        "Open Models",
+        "Code Review",
+        "Human-in-the-Loop",
+        "Developer Workflow",
+        "CI/CD"
       ],
       "hero": {
-        "topic": "AI-Security, Long-Running Agents und Gemini-API-Workflows",
+        "topic": "AI-Security, Long-Running Agents, Gemini-API und Open-Source-Automation",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 23.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-23.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-23.html",
-      "item_count": 3,
-      "source_count": 5
+      "item_count": 5,
+      "source_count": 7
     },
     {
       "id": "2026-06-22",
