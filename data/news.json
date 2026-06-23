@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-06-23",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 23.06.2026",
+    "title": "Daily AI News — Dienstag, 23.06.2026",
+    "summary": "Heute im Fokus: OpenAIs neue Daybreak-Sicherheitswerkzeuge, xAIs /goal für länger laufende Grok-Build-Aufgaben und Googles Interactions API als Standard für Gemini-Apps und Agenten.",
+    "file": "pages/2026-06-23.html",
+    "markdownFile": "news/2026-06-23.md",
+    "tags": [
+      "OpenAI",
+      "Daybreak",
+      "Codex",
+      "Cybersecurity",
+      "Open Source",
+      "Coding Agents",
+      "xAI",
+      "Grok",
+      "Agents",
+      "Automation",
+      "Grok Build",
+      "Long-running Tasks",
+      "Google",
+      "Gemini",
+      "Interactions API",
+      "Developer Tools",
+      "API"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/daybreak-securing-the-world"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/patch-the-planet"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/introducing-goal"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "weekday": "Montag",
     "dateLabel": "Montag, 22.06.2026",
