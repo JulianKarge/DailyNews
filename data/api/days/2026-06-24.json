@@ -15,6 +15,12 @@
     "Agents",
     "Team Workflows",
     "Automation",
+    "Mistral",
+    "OCR",
+    "Document AI",
+    "Enterprise AI",
+    "Multilingual",
+    "Self-hosting",
     "OpenAI",
     "GPT-5",
     "Research",
@@ -28,10 +34,14 @@
     "AI Safety",
     "Standards",
     "Governance",
-    "Evaluation"
+    "Evaluation",
+    "Hugging Face",
+    "Coding Agents",
+    "Buckets",
+    "Developer Workflow"
   ],
   "hero": {
-    "topic": "Team-Agenten, Forschungsassistenz, Guardrails und AI-Governance",
+    "topic": "Team-Agenten, Dokumentenintelligenz, Forschungsassistenz und Guardrails",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 24.06.2026"
   },
@@ -59,6 +69,30 @@
         "Agents",
         "Team Workflows",
         "Automation"
+      ],
+      "confidence": "high"
+    },
+    {
+      "title": "Mistral stellt OCR 4 für Enterprise-Dokumentenintelligenz vor",
+      "summary": "Mistral AI kündigt Mistral OCR 4 als neues Modell für Dokumentenintelligenz an. Laut Anbieter unterstützt es 170 Sprachen, Bounding Boxes für Layout- und Positionsinformationen sowie Self-Hosted-Deployment für Organisationen mit strengeren Daten- und Infrastrukturvorgaben.",
+      "why_it_matters": "Dokumentenverarbeitung ist einer der praktischsten AI-Einsatzbereiche in Unternehmen, weil viele Prozesse weiterhin an PDFs, Scans, Formularen und mehrsprachigen Unterlagen hängen. Für Teams wird wichtiger, OCR nicht nur als Textextraktion zu behandeln, sondern als strukturierte Pipeline mit Layout, Nachprüfung, Datenschutz und klaren Qualitätsmetriken.",
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/ocr-4/"
+      },
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news/ocr-4/"
+        }
+      ],
+      "tags": [
+        "Mistral",
+        "OCR",
+        "Document AI",
+        "Enterprise AI",
+        "Multilingual",
+        "Self-hosting"
       ],
       "confidence": "high"
     },
@@ -130,16 +164,44 @@
         "Evaluation"
       ],
       "confidence": "medium"
+    },
+    {
+      "title": "Hugging Face zeigt Moon Bot als Slack-nativen Coding-Agenten",
+      "summary": "Hugging Face beschreibt Moon Bot als Slack-nativen Coding-Agenten, der auf Hugging Face Buckets aufsetzt. Der Beitrag positioniert den Bot als Beispiel dafür, wie Code-bezogene Agenten näher an bestehende Team-Kommunikation, Artefaktablage und Review-Schleifen rücken können.",
+      "why_it_matters": "Coding-Agenten werden nützlicher, wenn sie nicht isoliert in einer IDE laufen, sondern in die Orte eingebettet sind, an denen Aufgaben, Dateien und Entscheidungen ohnehin entstehen. Für Teams bleibt entscheidend, wie Berechtigungen, Review-Pfade, Auditierbarkeit und klare Übergaben zwischen Agent und Mensch gestaltet werden.",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface/moon-bot"
+      },
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/huggingface/moon-bot"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Coding Agents",
+        "Slack",
+        "Buckets",
+        "Developer Workflow",
+        "Team Workflows"
+      ],
+      "confidence": "high"
     }
   ],
-  "item_count": 4,
-  "source_count": 4,
-  "summary": "Heute im Fokus: Claude als Team-Agent in Slack, GPT-5 Pro als Forschungshelfer in der Immunologie, Qwen3Guard für Safety-Klassifikation und neue Standards für fortgeschrittene AI-Systeme.",
-  "generated_at": "2026-06-24T02:03:03+02:00",
+  "item_count": 6,
+  "source_count": 6,
+  "summary": "Heute im Fokus: Claude als Team-Agent in Slack, Mistral OCR 4 für Dokumentenintelligenz, GPT-5 Pro als Forschungshelfer, Qwen3Guard für Safety-Klassifikation, Moon Bot von Hugging Face und AI-Governance-Standards.",
+  "generated_at": "2026-06-24T14:02:38+02:00",
   "sources": [
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com/news/introducing-claude-tag"
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/news/ocr-4/"
     },
     {
       "name": "OpenAI",
@@ -152,6 +214,10 @@
     {
       "name": "OpenAI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface/moon-bot"
     }
   ],
   "legacy": {

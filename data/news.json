@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 24.06.2026",
     "title": "Daily AI News — Mittwoch, 24.06.2026",
-    "summary": "Heute im Fokus: Claude als Team-Agent in Slack, GPT-5 Pro als Forschungshelfer in der Immunologie, Qwen3Guard für Safety-Klassifikation und neue Standards für fortgeschrittene AI-Systeme.",
+    "summary": "Heute im Fokus: Claude als Team-Agent in Slack, Mistral OCR 4 für Dokumentenintelligenz, GPT-5 Pro als Forschungshelfer, Qwen3Guard für Safety-Klassifikation, Moon Bot von Hugging Face und AI-Governance-Standards.",
     "file": "pages/2026-06-24.html",
     "markdownFile": "news/2026-06-24.md",
     "tags": [
@@ -14,6 +14,12 @@
       "Agents",
       "Team Workflows",
       "Automation",
+      "Mistral",
+      "OCR",
+      "Document AI",
+      "Enterprise AI",
+      "Multilingual",
+      "Self-hosting",
       "OpenAI",
       "GPT-5",
       "Research",
@@ -27,13 +33,21 @@
       "AI Safety",
       "Standards",
       "Governance",
-      "Evaluation"
+      "Evaluation",
+      "Hugging Face",
+      "Coding Agents",
+      "Buckets",
+      "Developer Workflow"
     ],
     "visualTag": "AI Agents",
     "sources": [
       {
         "label": "Anthropic",
         "url": "https://www.anthropic.com/news/introducing-claude-tag"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/news/ocr-4/"
       },
       {
         "label": "OpenAI",
@@ -46,6 +60,10 @@
       {
         "label": "OpenAI",
         "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface/moon-bot"
       }
     ]
   },

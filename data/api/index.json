@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-24T02:03:03+02:00",
+  "updated_at": "2026-06-24T14:02:38+02:00",
   "count": 13,
   "latest_date": "2026-06-24",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -25,6 +25,12 @@
         "Agents",
         "Team Workflows",
         "Automation",
+        "Mistral",
+        "OCR",
+        "Document AI",
+        "Enterprise AI",
+        "Multilingual",
+        "Self-hosting",
         "OpenAI",
         "GPT-5",
         "Research",
@@ -38,17 +44,21 @@
         "AI Safety",
         "Standards",
         "Governance",
-        "Evaluation"
+        "Evaluation",
+        "Hugging Face",
+        "Coding Agents",
+        "Buckets",
+        "Developer Workflow"
       ],
       "hero": {
-        "topic": "Team-Agenten, Forschungsassistenz, Guardrails und AI-Governance",
+        "topic": "Team-Agenten, Dokumentenintelligenz, Forschungsassistenz und Guardrails",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 24.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-24.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-24.html",
-      "item_count": 4,
-      "source_count": 4
+      "item_count": 6,
+      "source_count": 6
     },
     {
       "id": "2026-06-23",
