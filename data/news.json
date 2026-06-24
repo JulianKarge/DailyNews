@@ -1,5 +1,55 @@
 [
   {
+    "date": "2026-06-24",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 24.06.2026",
+    "title": "Daily AI News — Mittwoch, 24.06.2026",
+    "summary": "Heute im Fokus: Claude als Team-Agent in Slack, GPT-5 Pro als Forschungshelfer in der Immunologie, Qwen3Guard für Safety-Klassifikation und neue Standards für fortgeschrittene AI-Systeme.",
+    "file": "pages/2026-06-24.html",
+    "markdownFile": "news/2026-06-24.md",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Slack",
+      "Agents",
+      "Team Workflows",
+      "Automation",
+      "OpenAI",
+      "GPT-5",
+      "Research",
+      "Life Sciences",
+      "Immunology",
+      "Qwen",
+      "Safety",
+      "Guardrails",
+      "Open Models",
+      "Moderation",
+      "AI Safety",
+      "Standards",
+      "Governance",
+      "Evaluation"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/introducing-claude-tag"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery"
+      },
+      {
+        "label": "Qwen",
+        "url": "https://qwenlm.github.io/blog/qwen3guard/"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 23.06.2026",
