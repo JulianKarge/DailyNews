@@ -1,5 +1,72 @@
 [
   {
+    "date": "2026-06-25",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 25.06.2026",
+    "title": "Daily AI News — Donnerstag, 25.06.2026",
+    "summary": "Heute im Fokus: Gemini 3.5 Flash mit Computer-Use-Werkzeug, DeepSeek-V4 als Preview, Anthropic Fable/Mythos mit Verfügbarkeitsrisiko, Cohere North Mini Code und ein kleines ChatGPT-Intent-Update.",
+    "file": "pages/2026-06-25.html",
+    "markdownFile": "news/2026-06-25.md",
+    "tags": [
+      "Google",
+      "Gemini",
+      "Computer Use",
+      "Agents",
+      "Automation",
+      "Developer Tools",
+      "DeepSeek",
+      "DeepSeek-V4",
+      "Model Release",
+      "API",
+      "Reasoning",
+      "Anthropic",
+      "Claude",
+      "Fable 5",
+      "Mythos 5",
+      "Model Availability",
+      "Governance",
+      "Cohere",
+      "North Mini Code",
+      "Coding Agents",
+      "OpenAI",
+      "ChatGPT",
+      "Product Update",
+      "Intent Recognition",
+      "Assistants"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      },
+      {
+        "label": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/fable-mythos-access"
+      },
+      {
+        "label": "Cohere",
+        "url": "https://cohere.com/blog/north-mini-code"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
+      },
+      {
+        "label": "OpenAI Help Center",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+      }
+    ]
+  },
+  {
     "date": "2026-06-24",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 24.06.2026",
