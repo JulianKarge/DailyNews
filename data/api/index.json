@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-25T02:05:16+02:00",
+  "updated_at": "2026-06-25T14:05:23+02:00",
   "count": 14,
   "latest_date": "2026-06-25",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -43,17 +43,22 @@
         "ChatGPT",
         "Product Update",
         "Intent Recognition",
-        "Assistants"
+        "Assistants",
+        "xAI",
+        "Grok",
+        "Interactive Brokers",
+        "Finance",
+        "Workflow Integration"
       ],
       "hero": {
-        "topic": "Computer-Use-Agenten, neue Modelle, Modellverfügbarkeit und Coding-Tools",
+        "topic": "Computer-Use-Agenten, neue Modelle, Coding-Tools und AI-Assistenten in Arbeitsumgebungen",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 25.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-25.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-25.html",
-      "item_count": 5,
-      "source_count": 7
+      "item_count": 6,
+      "source_count": 8
     },
     {
       "id": "2026-06-24",

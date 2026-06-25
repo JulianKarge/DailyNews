@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 25.06.2026",
     "title": "Daily AI News — Donnerstag, 25.06.2026",
-    "summary": "Heute im Fokus: Gemini 3.5 Flash mit Computer-Use-Werkzeug, DeepSeek-V4 als Preview, Anthropic Fable/Mythos mit Verfügbarkeitsrisiko, Cohere North Mini Code und ein kleines ChatGPT-Intent-Update.",
+    "summary": "Heute im Fokus: Gemini 3.5 Flash mit Computer-Use-Werkzeug, DeepSeek-V4 als Preview, Anthropic Fable/Mythos mit Verfügbarkeitsrisiko, Cohere North Mini Code, ein ChatGPT-Intent-Update und Grok in Interactive Brokers.",
     "file": "pages/2026-06-25.html",
     "markdownFile": "news/2026-06-25.md",
     "tags": [
@@ -32,7 +32,12 @@
       "ChatGPT",
       "Product Update",
       "Intent Recognition",
-      "Assistants"
+      "Assistants",
+      "xAI",
+      "Grok",
+      "Interactive Brokers",
+      "Finance",
+      "Workflow Integration"
     ],
     "visualTag": "AI Agents",
     "sources": [
@@ -63,6 +68,10 @@
       {
         "label": "OpenAI Help Center",
         "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-interactive-brokers"
       }
     ]
   },

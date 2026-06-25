@@ -33,10 +33,15 @@
     "ChatGPT",
     "Product Update",
     "Intent Recognition",
-    "Assistants"
+    "Assistants",
+    "xAI",
+    "Grok",
+    "Interactive Brokers",
+    "Finance",
+    "Workflow Integration"
   ],
   "hero": {
-    "topic": "Computer-Use-Agenten, neue Modelle, Modellverfügbarkeit und Coding-Tools",
+    "topic": "Computer-Use-Agenten, neue Modelle, Coding-Tools und AI-Assistenten in Arbeitsumgebungen",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 25.06.2026"
   },
@@ -168,12 +173,36 @@
         "Assistants"
       ],
       "confidence": "medium"
+    },
+    {
+      "title": "xAI bringt Grok in Interactive Brokers für Marktanalyse und Order-Workflows",
+      "summary": "xAI meldet eine Integration von Grok in Interactive Brokers. Laut Ankündigung soll Grok direkt in der Trading-Umgebung bei Portfolioanalyse, Szenario-Modellierung, Research und Order-Instruktionen unterstützen.",
+      "why_it_matters": "Die Integration zeigt, wie AI-Assistenten aus separaten Chat-Oberflächen in spezialisierte Arbeitsumgebungen wandern. Gerade in regulierten und risikoreichen Domänen wie Finanzmärkten werden Quellenprüfung, Auditierbarkeit, klare Freigaben und menschliche Kontrolle wichtiger als die reine Bequemlichkeit der Assistenz.",
+      "source": {
+        "name": "xAI",
+        "url": "https://x.ai/news/grok-interactive-brokers"
+      },
+      "sources": [
+        {
+          "name": "xAI",
+          "url": "https://x.ai/news/grok-interactive-brokers"
+        }
+      ],
+      "tags": [
+        "xAI",
+        "Grok",
+        "Interactive Brokers",
+        "Finance",
+        "Assistants",
+        "Workflow Integration"
+      ],
+      "confidence": "high"
     }
   ],
-  "item_count": 5,
-  "source_count": 7,
-  "summary": "Heute im Fokus: Gemini 3.5 Flash mit Computer-Use-Werkzeug, DeepSeek-V4 als Preview, Anthropic Fable/Mythos mit Verfügbarkeitsrisiko, Cohere North Mini Code und ein kleines ChatGPT-Intent-Update.",
-  "generated_at": "2026-06-25T02:05:16+02:00",
+  "item_count": 6,
+  "source_count": 8,
+  "summary": "Heute im Fokus: Gemini 3.5 Flash mit Computer-Use-Werkzeug, DeepSeek-V4 als Preview, Anthropic Fable/Mythos mit Verfügbarkeitsrisiko, Cohere North Mini Code, ein ChatGPT-Intent-Update und Grok in Interactive Brokers.",
+  "generated_at": "2026-06-25T14:05:23+02:00",
   "sources": [
     {
       "name": "Google Blog",
@@ -202,6 +231,10 @@
     {
       "name": "OpenAI Help Center",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+    },
+    {
+      "name": "xAI",
+      "url": "https://x.ai/news/grok-interactive-brokers"
     }
   ],
   "legacy": {
