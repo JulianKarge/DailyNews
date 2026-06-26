@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-06-26",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 26.06.2026",
+    "title": "Daily AI News — Freitag, 26.06.2026",
+    "summary": "Heute im Fokus: OpenAI zeigt neue Agenten-Arbeitsmuster, GitHub verbessert Copilot-Code-Reviews und Jira-Integration, Hugging Face vereinfacht vLLM-Deployments, GitHub Actions bekommt parallele Steps und Google Finance verlässt mit AI-Funktionen die Beta.",
+    "file": "pages/2026-06-26.html",
+    "markdownFile": "news/2026-06-26.md",
+    "tags": [
+      "OpenAI",
+      "Agents",
+      "Future of Work",
+      "Automation",
+      "Research",
+      "GitHub",
+      "Copilot",
+      "Code Review",
+      "Developer Tools",
+      "Coding Agents",
+      "Hugging Face",
+      "vLLM",
+      "Inference",
+      "Deployment",
+      "Open Models",
+      "GitHub Actions",
+      "CI/CD",
+      "Developer Workflow",
+      "Jira",
+      "Team Workflows",
+      "Google",
+      "Google Finance",
+      "Product Update",
+      "Assistants",
+      "Finance"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/how-agents-are-transforming-work"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vllm-jobs"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-06-25-github-copilot-for-jira-is-now-generally-available"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 25.06.2026",
