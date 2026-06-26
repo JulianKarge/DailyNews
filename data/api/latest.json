@@ -14,6 +14,11 @@
     "Future of Work",
     "Automation",
     "Research",
+    "Broadcom",
+    "AI Chips",
+    "Inference",
+    "Infrastructure",
+    "LLM",
     "GitHub",
     "Copilot",
     "Code Review",
@@ -21,7 +26,6 @@
     "Coding Agents",
     "Hugging Face",
     "vLLM",
-    "Inference",
     "Deployment",
     "Open Models",
     "GitHub Actions",
@@ -36,7 +40,7 @@
     "Finance"
   ],
   "hero": {
-    "topic": "Agenten-Arbeit, Copilot-Reviews, Inferenz-Deployments, CI-Automation und AI in Finanzprodukten",
+    "topic": "Agenten-Arbeit, AI-Inferenzchips, Copilot-Reviews, Inferenz-Deployments und Workflow-Automation",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 26.06.2026"
   },
@@ -64,6 +68,30 @@
       "source": {
         "name": "OpenAI",
         "url": "https://openai.com/index/how-agents-are-transforming-work"
+      }
+    },
+    {
+      "title": "OpenAI und Broadcom stellen LLM-optimierten Inferenzchip Jalapeño vor",
+      "summary": "OpenAI meldet gemeinsam mit Broadcom einen auf LLM-Inferenz optimierten Chip namens Jalapeño. Laut OpenAI soll der speziell entwickelte Beschleuniger Leistung, Effizienz und Skalierung für AI-Systeme verbessern; die Meldung ist auf den 24. Juni 2026 datiert.",
+      "why_it_matters": "Die Nachricht zeigt, dass der Wettbewerb um leistungsfähige AI-Systeme zunehmend auf Infrastruktur, Energieeffizienz und spezialisierte Chips verlagert wird. Für Unternehmen und Plattformteams bedeutet das: Modellqualität bleibt wichtig, aber Kosten pro Anfrage, Verfügbarkeit, Latenz und Lieferketten werden zu ebenso strategischen Faktoren.",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Broadcom",
+        "AI Chips",
+        "Inference",
+        "Infrastructure",
+        "LLM"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
       }
     },
     {
@@ -181,14 +209,18 @@
       }
     }
   ],
-  "item_count": 6,
-  "source_count": 6,
-  "summary": "Heute im Fokus: OpenAI zeigt neue Agenten-Arbeitsmuster, GitHub verbessert Copilot-Code-Reviews und Jira-Integration, Hugging Face vereinfacht vLLM-Deployments, GitHub Actions bekommt parallele Steps und Google Finance verlässt mit AI-Funktionen die Beta.",
-  "generated_at": "2026-06-26T02:02:00+02:00",
+  "item_count": 7,
+  "source_count": 7,
+  "summary": "Heute im Fokus: OpenAI zeigt neue Agenten-Arbeitsmuster und einen Broadcom-Inferenzchip, GitHub verbessert Copilot-Code-Reviews und Jira-Integration, Hugging Face vereinfacht vLLM-Deployments, GitHub Actions bekommt parallele Steps und Google Finance verlässt mit AI-Funktionen die Beta.",
+  "generated_at": "2026-06-26T14:02:58+02:00",
   "sources": [
     {
       "name": "OpenAI",
       "url": "https://openai.com/index/how-agents-are-transforming-work"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
     },
     {
       "name": "GitHub Changelog",

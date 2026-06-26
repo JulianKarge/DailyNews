@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 26.06.2026",
     "title": "Daily AI News — Freitag, 26.06.2026",
-    "summary": "Heute im Fokus: OpenAI zeigt neue Agenten-Arbeitsmuster, GitHub verbessert Copilot-Code-Reviews und Jira-Integration, Hugging Face vereinfacht vLLM-Deployments, GitHub Actions bekommt parallele Steps und Google Finance verlässt mit AI-Funktionen die Beta.",
+    "summary": "Heute im Fokus: OpenAI zeigt neue Agenten-Arbeitsmuster und einen Broadcom-Inferenzchip, GitHub verbessert Copilot-Code-Reviews und Jira-Integration, Hugging Face vereinfacht vLLM-Deployments, GitHub Actions bekommt parallele Steps und Google Finance verlässt mit AI-Funktionen die Beta.",
     "file": "pages/2026-06-26.html",
     "markdownFile": "news/2026-06-26.md",
     "tags": [
@@ -13,6 +13,11 @@
       "Future of Work",
       "Automation",
       "Research",
+      "Broadcom",
+      "AI Chips",
+      "Inference",
+      "Infrastructure",
+      "LLM",
       "GitHub",
       "Copilot",
       "Code Review",
@@ -20,7 +25,6 @@
       "Coding Agents",
       "Hugging Face",
       "vLLM",
-      "Inference",
       "Deployment",
       "Open Models",
       "GitHub Actions",
@@ -39,6 +43,10 @@
       {
         "label": "OpenAI",
         "url": "https://openai.com/index/how-agents-are-transforming-work"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
       },
       {
         "label": "GitHub Changelog",
