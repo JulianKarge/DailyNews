@@ -15,6 +15,12 @@
     "Coding",
     "Cybersecurity",
     "Frontier Models",
+    "Anthropic",
+    "Claude Mythos 5",
+    "Fable 5",
+    "AI Governance",
+    "Export Controls",
+    "Critical Infrastructure",
     "GitHub",
     "Copilot",
     "Microsoft AI",
@@ -43,7 +49,7 @@
     "Efficiency"
   ],
   "hero": {
-    "topic": "Frontier-Modelle, Copilot-Modellauswahl, Coding-Agenten und AI-Kosteneffizienz",
+    "topic": "Frontier-Modelle, Modellverfügbarkeit, Copilot-Workflows, Coding-Agenten und AI-Kosteneffizienz",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Samstag, 27.06.2026"
   },
@@ -72,6 +78,38 @@
       "source": {
         "name": "OpenAI News RSS",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+      }
+    },
+    {
+      "title": "Anthropic erhält Ausnahme für Claude Mythos 5, Fable 5 bleibt unsicher",
+      "summary": "THE DECODER und The Verge berichten, dass Anthropic eine US-Ausnahmegenehmigung erhalten hat, um Claude Mythos 5 für Organisationen im Bereich kritischer Infrastruktur wieder bereitzustellen. Der breitere Zugang und die Rückkehr von Fable 5 bleiben demnach weiter offen.",
+      "why_it_matters": "Der Fall zeigt, dass leistungsstarke Modelle nicht nur technisch, sondern auch regulatorisch und geopolitisch gesteuert werden. Für Unternehmen mit sensiblen AI-Einsätzen werden Verfügbarkeit, Exportkontrollen, Fallback-Modelle und Vertragszusagen damit zu praktischen Architekturfragen – besonders bei Sicherheits-, Infrastruktur- und Behörden-Workflows.",
+      "sources": [
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
+        },
+        {
+          "name": "Anthropic News",
+          "url": "https://www.anthropic.com/news/fable-mythos-access"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude Mythos 5",
+        "Fable 5",
+        "AI Governance",
+        "Export Controls",
+        "Critical Infrastructure"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/"
       }
     },
     {
@@ -203,14 +241,26 @@
       }
     }
   ],
-  "item_count": 6,
-  "source_count": 8,
-  "summary": "Heute im Fokus: OpenAI previewt GPT-5.6 Sol, GitHub erweitert Copilot um Microsofts MAI-Code-1-Flash und neue Desktop-Funktionen, Copilot-Agenten werden messbarer, Hugging Face zeigt einen Slack-nativen Coding-Agenten, und steigender Kostendruck verschiebt Modellentscheidungen stärker Richtung Effizienz.",
-  "generated_at": "2026-06-27T02:02:17+02:00",
+  "item_count": 7,
+  "source_count": 11,
+  "summary": "Heute im Fokus: OpenAI previewt GPT-5.6 Sol, Anthropic bekommt eine begrenzte Ausnahme für Claude Mythos 5, GitHub erweitert Copilot und Desktop-Workflows, Copilot-Agenten werden messbarer, Hugging Face zeigt einen Slack-nativen Coding-Agenten, und Kostendruck verschiebt Modellentscheidungen Richtung Effizienz.",
+  "generated_at": "2026-06-27T14:02:59+02:00",
   "sources": [
     {
       "name": "OpenAI News RSS",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
+    },
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news/fable-mythos-access"
     },
     {
       "name": "GitHub Changelog",

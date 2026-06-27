@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-27T02:02:17+02:00",
+  "updated_at": "2026-06-27T14:02:59+02:00",
   "count": 16,
   "latest_date": "2026-06-27",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -25,6 +25,12 @@
         "Coding",
         "Cybersecurity",
         "Frontier Models",
+        "Anthropic",
+        "Claude Mythos 5",
+        "Fable 5",
+        "AI Governance",
+        "Export Controls",
+        "Critical Infrastructure",
         "GitHub",
         "Copilot",
         "Microsoft AI",
@@ -53,14 +59,14 @@
         "Efficiency"
       ],
       "hero": {
-        "topic": "Frontier-Modelle, Copilot-Modellauswahl, Coding-Agenten und AI-Kosteneffizienz",
+        "topic": "Frontier-Modelle, Modellverfügbarkeit, Copilot-Workflows, Coding-Agenten und AI-Kosteneffizienz",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Samstag, 27.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-27.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-27.html",
-      "item_count": 6,
-      "source_count": 8
+      "item_count": 7,
+      "source_count": 11
     },
     {
       "id": "2026-06-26",
