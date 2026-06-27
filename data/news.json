@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-06-27",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 27.06.2026",
+    "title": "Daily AI News — Samstag, 27.06.2026",
+    "summary": "Heute im Fokus: OpenAI previewt GPT-5.6 Sol, GitHub erweitert Copilot um Microsofts MAI-Code-1-Flash und neue Desktop-Funktionen, Copilot-Agenten werden messbarer, Hugging Face zeigt einen Slack-nativen Coding-Agenten, und steigender Kostendruck verschiebt Modellentscheidungen stärker Richtung Effizienz.",
+    "file": "pages/2026-06-27.html",
+    "markdownFile": "news/2026-06-27.md",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6 Sol",
+      "Model Release",
+      "Coding",
+      "Cybersecurity",
+      "Frontier Models",
+      "GitHub",
+      "Copilot",
+      "Microsoft AI",
+      "MAI-Code-1-Flash",
+      "Developer Tools",
+      "Coding Models",
+      "GitHub Desktop",
+      "Git",
+      "Worktrees",
+      "Developer Workflow",
+      "Automation",
+      "Agents",
+      "Evaluation",
+      "Benchmarks",
+      "Token Efficiency",
+      "Hugging Face",
+      "Coding Agents",
+      "Slack",
+      "Buckets",
+      "Team Workflows",
+      "AI Costs",
+      "Model Routing",
+      "DeepSeek",
+      "GLM-5.2",
+      "Enterprise AI",
+      "Efficiency"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration"
+      },
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface/moon-bot"
+      },
+      {
+        "label": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 26.06.2026",
