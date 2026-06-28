@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-06-28",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 28.06.2026",
+    "title": "Daily AI News — Sonntag, 28.06.2026",
+    "summary": "Heute im Fokus: agentische App-Beispiele von Hugging Face und IBM, schnelleres Fine-Tuning mit NVIDIA NeMo AutoModel, GitHub-Governance für Copilot CLI und VS Code, Googles AMIE-Forschung sowie neue Grok-Integrationen von xAI.",
+    "file": "pages/2026-06-28.html",
+    "markdownFile": "news/2026-06-28.md",
+    "tags": [
+      "Hugging Face",
+      "IBM Research",
+      "Agents",
+      "Agentic Apps",
+      "Developer Tools",
+      "Automation",
+      "NVIDIA",
+      "Fine-Tuning",
+      "Transformers",
+      "NeMo",
+      "ML Workflows",
+      "GitHub",
+      "Copilot CLI",
+      "VS Code",
+      "Enterprise AI",
+      "Governance",
+      "Google",
+      "AMIE",
+      "Medical AI",
+      "Research",
+      "Healthcare",
+      "Evaluation",
+      "xAI",
+      "Grok",
+      "Databricks",
+      "Amazon Bedrock",
+      "Productivity",
+      "Integrations"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news/grok-databricks"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news/grok-interactive-brokers"
+      }
+    ]
+  },
+  {
     "date": "2026-06-27",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 27.06.2026",
