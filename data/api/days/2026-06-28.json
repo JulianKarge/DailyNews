@@ -9,12 +9,16 @@
   "language": "de",
   "status": "published",
   "tags": [
+    "Agents",
+    "Benchmarks",
+    "Evaluation",
+    "Long-Horizon Tasks",
+    "Automation",
+    "Research",
     "Hugging Face",
     "IBM Research",
-    "Agents",
     "Agentic Apps",
     "Developer Tools",
-    "Automation",
     "NVIDIA",
     "Fine-Tuning",
     "Transformers",
@@ -28,9 +32,7 @@
     "Google",
     "AMIE",
     "Medical AI",
-    "Research",
     "Healthcare",
-    "Evaluation",
     "xAI",
     "Grok",
     "Databricks",
@@ -39,13 +41,41 @@
     "Integrations"
   ],
   "hero": {
-    "topic": "Agentische Apps, Fine-Tuning, Enterprise-Governance, medizinische AI und Grok-Integrationen",
+    "topic": "Agenten-Benchmarks, agentische Apps, Fine-Tuning, Enterprise-Governance, medizinische AI und Grok-Integrationen",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Sonntag, 28.06.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-28.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-28.html",
   "items": [
+    {
+      "title": "CEO-Bench testet, wie lange AI-Agenten eine Startup-Simulation steuern können",
+      "summary": "Ein neues arXiv-Paper stellt CEO-Bench vor: Agenten führen ein fiktives Softwareunternehmen über 500 simulierte Tage und müssen unter anderem Preise, Marketing, Budget und Kundeninformationen über eine Python-Schnittstelle steuern. Laut Abstract schaffen nur Claude Opus 4.8 und GPT-5.5 Läufe oberhalb des Startkapitals; THE DECODER berichtet zusätzlich, dass Claude Fable 5 in der Auswertung den höchsten Einzelwert erreichte.",
+      "why_it_matters": "Der Benchmark verschiebt die Diskussion über Agenten von kurzen Tool-Aufgaben hin zu langfristiger, adaptiver Steuerung unter Unsicherheit. Für Teams und Automatisierer ist das ein nützlicher Realitätscheck: Ein Agent, der einzelne Tickets löst, ist noch nicht automatisch gut darin, Prioritäten, Budgets, Risiken und Strategie über viele Schritte hinweg stabil zu managen.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2606.18543"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
+        }
+      ],
+      "tags": [
+        "Agents",
+        "Benchmarks",
+        "Evaluation",
+        "Long-Horizon Tasks",
+        "Automation",
+        "Research"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2606.18543"
+      }
+    },
     {
       "title": "Hugging Face und IBM zeigen CUGA-Beispiele für agentische Apps",
       "summary": "Hugging Face veröffentlicht mit IBM Research zwei Dutzend Beispielanwendungen für CUGA, einen leichtgewichtigen Harness zum Bau agentischer Apps. Die Beispiele sollen zeigen, wie Tool-Nutzung, Interaktion und Agentenlogik in realen Mini-Anwendungen zusammengeführt werden können.",
@@ -175,11 +205,19 @@
       }
     }
   ],
-  "item_count": 5,
-  "source_count": 7,
-  "summary": "Heute im Fokus: agentische App-Beispiele von Hugging Face und IBM, schnelleres Fine-Tuning mit NVIDIA NeMo AutoModel, GitHub-Governance für Copilot CLI und VS Code, Googles AMIE-Forschung sowie neue Grok-Integrationen von xAI.",
-  "generated_at": "2026-06-28T02:00:55+02:00",
+  "item_count": 6,
+  "source_count": 9,
+  "summary": "Heute im Fokus: CEO-Bench als Realitätscheck für langfristige AI-Agenten, agentische App-Beispiele von Hugging Face und IBM, schnelleres Fine-Tuning mit NVIDIA NeMo AutoModel, GitHub-Governance für Copilot CLI und VS Code, Googles AMIE-Forschung sowie neue Grok-Integrationen von xAI.",
+  "generated_at": "2026-06-28T14:04:00+02:00",
   "sources": [
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2606.18543"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
+    },
     {
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
@@ -208,5 +246,9 @@
       "name": "xAI News",
       "url": "https://x.ai/news/grok-interactive-brokers"
     }
-  ]
+  ],
+  "legacy": {
+    "markdown_url": "news/2026-06-28.md",
+    "html_url": "pages/2026-06-28.html"
+  }
 }

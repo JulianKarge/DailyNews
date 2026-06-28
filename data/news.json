@@ -4,16 +4,20 @@
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 28.06.2026",
     "title": "Daily AI News — Sonntag, 28.06.2026",
-    "summary": "Heute im Fokus: agentische App-Beispiele von Hugging Face und IBM, schnelleres Fine-Tuning mit NVIDIA NeMo AutoModel, GitHub-Governance für Copilot CLI und VS Code, Googles AMIE-Forschung sowie neue Grok-Integrationen von xAI.",
+    "summary": "Heute im Fokus: CEO-Bench als Realitätscheck für langfristige AI-Agenten, agentische App-Beispiele von Hugging Face und IBM, schnelleres Fine-Tuning mit NVIDIA NeMo AutoModel, GitHub-Governance für Copilot CLI und VS Code, Googles AMIE-Forschung sowie neue Grok-Integrationen von xAI.",
     "file": "pages/2026-06-28.html",
     "markdownFile": "news/2026-06-28.md",
     "tags": [
+      "Agents",
+      "Benchmarks",
+      "Evaluation",
+      "Long-Horizon Tasks",
+      "Automation",
+      "Research",
       "Hugging Face",
       "IBM Research",
-      "Agents",
       "Agentic Apps",
       "Developer Tools",
-      "Automation",
       "NVIDIA",
       "Fine-Tuning",
       "Transformers",
@@ -27,9 +31,7 @@
       "Google",
       "AMIE",
       "Medical AI",
-      "Research",
       "Healthcare",
-      "Evaluation",
       "xAI",
       "Grok",
       "Databricks",
@@ -39,6 +41,14 @@
     ],
     "visualTag": "AI Agents",
     "sources": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2606.18543"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
+      },
       {
         "label": "Hugging Face Blog",
         "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
