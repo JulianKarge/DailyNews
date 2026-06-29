@@ -14,10 +14,24 @@
     "Frontier Models",
     "Pricing",
     "Model Access",
-    "Infrastructure"
+    "Infrastructure",
+    "Arbeitsmarkt",
+    "EU",
+    "AI Adoption",
+    "Skills",
+    "Meta",
+    "Research",
+    "Brain-Computer Interface",
+    "Accessibility",
+    "Human-Computer Interaction",
+    "Anthropic",
+    "Claude Code",
+    "Coding Agents",
+    "Security",
+    "Developer Tools"
   ],
   "hero": {
-    "topic": "GPT-5.6 Sol, Modellzugang, Preise und Frontier-Infrastruktur",
+    "topic": "GPT-5.6 Sol, AI-Arbeitsmarkt, Brain2Qwerty und Coding-Agent-Sicherheit",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 29.06.2026"
   },
@@ -51,12 +65,81 @@
         "name": "THE DECODER",
         "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/"
       }
+    },
+    {
+      "title": "OpenAI kartiert Europas AI-Arbeitsmarkt und den möglichen Aufgabenwandel",
+      "summary": "OpenAI veröffentlicht einen Bericht zu Europas AI-Arbeitsmarkt. Laut RSS-Zusammenfassung ordnet die Analyse ein, welche Berufe und Tätigkeiten durch AI eher automatisiert, erweitert oder in ihren Arbeitsabläufen verändert werden könnten.",
+      "why_it_matters": "Solche Arbeitsmarktanalysen sind weniger Produkt-News als Planungsgrundlage: Teams, Bildungseinrichtungen und Unternehmen bekommen Hinweise, wo Weiterbildung, Prozessdesign und verantwortliche Einführung von AI zuerst ansetzen sollten. Wichtig ist dabei die Aufgabenebene, nicht nur die Berufsbezeichnung.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Arbeitsmarkt",
+        "EU",
+        "AI Adoption",
+        "Skills"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      }
+    },
+    {
+      "title": "Meta zeigt Brain2Qwerty als Forschungsweg für nicht-invasive Kommunikation",
+      "summary": "Meta AI stellt auf seiner Blog-Startseite den neuen Research-Beitrag „From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery“ vor. Der Beitrag beschreibt Brain2Qwerty als Forschungsansatz, der Gehirnsignale in Wörter beziehungsweise Texteingaben übertragen soll, ohne dafür einen chirurgischen Eingriff vorauszusetzen.",
+      "why_it_matters": "Der praktische Nutzen liegt noch in der Forschung, aber die Richtung ist relevant: Wenn nicht-invasive Interfaces robuster werden, könnten Assistive-Tech, Barrierefreiheit und neue Mensch-Computer-Schnittstellen langfristig deutlich zugänglicher werden. Für AI-Produkte bleibt die Einordnung wichtig, dass solche Ansätze sorgfältige Validierung und Datenschutz brauchen.",
+      "sources": [
+        {
+          "name": "Meta AI Blog",
+          "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/"
+        }
+      ],
+      "tags": [
+        "Meta",
+        "Research",
+        "Brain-Computer Interface",
+        "Accessibility",
+        "Human-Computer Interaction"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/"
+      }
+    },
+    {
+      "title": "Claude-Code-Vorfall zeigt Sicherheitsrisiken bei Coding-Agenten",
+      "summary": "THE DECODER berichtet über eine Demonstration auf Mozillas 0DIN-Plattform: Ein kompromittiertes GitHub-Repository konnte Claude Code dazu bringen, versteckte Malware auszuführen und Angreifern weitreichende Kontrolle zu geben. Der Fall betrifft weniger ein einzelnes UI-Feature als die Grundfrage, wie Coding-Agenten fremden Code prüfen, ausführen und absichern.",
+      "why_it_matters": "Autonome Coding-Tools verschieben Sicherheitsgrenzen: Wer Agenten Repositorys klonen, Skripte starten oder Abhängigkeiten installieren lässt, braucht Sandboxen, Least-Privilege-Rechte, Review-Schritte und klare Regeln für Tool-Ausführung. Für Teams ist das ein Signal, Agenten nicht wie normale Chatbots, sondern wie ausführende Entwicklungsumgebungen zu behandeln.",
+      "sources": [
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude Code",
+        "Coding Agents",
+        "Security",
+        "Developer Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
+      }
     }
   ],
-  "item_count": 1,
-  "source_count": 2,
-  "summary": "Heute im Fokus: GPT-5.6 Sol mit neuen Details zu kontrolliertem Zugang, Preisen, Prompt-Caching und praktischer Einsetzbarkeit von Frontier-Modellen.",
-  "generated_at": "2026-06-29T02:01:00+02:00",
+  "item_count": 4,
+  "source_count": 5,
+  "summary": "Heute im Fokus: GPT-5.6 Sol mit Zugang und Infrastruktur, OpenAIs EU-Arbeitsmarktanalyse, Metas Brain2Qwerty-Forschung und Sicherheitsrisiken bei Coding-Agenten.",
+  "generated_at": "2026-06-29T14:02:50+02:00",
   "sources": [
     {
       "name": "THE DECODER",
@@ -65,6 +148,18 @@
     {
       "name": "OpenAI News RSS",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+    },
+    {
+      "name": "Meta AI Blog",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
     }
   ],
   "legacy": {

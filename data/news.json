@@ -4,7 +4,7 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 29.06.2026",
     "title": "Daily AI News — Montag, 29.06.2026",
-    "summary": "Heute im Fokus: GPT-5.6 Sol mit neuen Details zu kontrolliertem Zugang, Preisen, Prompt-Caching und praktischer Einsetzbarkeit von Frontier-Modellen.",
+    "summary": "Heute im Fokus: GPT-5.6 Sol mit Zugang und Infrastruktur, OpenAIs EU-Arbeitsmarktanalyse, Metas Brain2Qwerty-Forschung und Sicherheitsrisiken bei Coding-Agenten.",
     "file": "pages/2026-06-29.html",
     "markdownFile": "news/2026-06-29.md",
     "tags": [
@@ -13,9 +13,23 @@
       "Frontier Models",
       "Pricing",
       "Model Access",
-      "Infrastructure"
+      "Infrastructure",
+      "Arbeitsmarkt",
+      "EU",
+      "AI Adoption",
+      "Skills",
+      "Meta",
+      "Research",
+      "Brain-Computer Interface",
+      "Accessibility",
+      "Human-Computer Interaction",
+      "Anthropic",
+      "Claude Code",
+      "Coding Agents",
+      "Security",
+      "Developer Tools"
     ],
-    "visualTag": "AI Models",
+    "visualTag": "AI News",
     "sources": [
       {
         "label": "THE DECODER",
@@ -24,6 +38,18 @@
       {
         "label": "OpenAI News RSS",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      {
+        "label": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
       }
     ]
   },
