@@ -4,11 +4,38 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-28T14:04:00+02:00",
-  "count": 17,
-  "latest_date": "2026-06-28",
+  "updated_at": "2026-06-29T02:01:00+02:00",
+  "count": 18,
+  "latest_date": "2026-06-29",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-06-29",
+      "date": "2026-06-29",
+      "weekday": "Montag",
+      "date_label": "Montag, 29.06.2026",
+      "title": "Daily AI News — Montag, 29.06.2026",
+      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6 Sol",
+        "Frontier Models",
+        "Pricing",
+        "Model Access",
+        "Infrastructure"
+      ],
+      "hero": {
+        "topic": "GPT-5.6 Sol, Modellzugang, Preise und Frontier-Infrastruktur",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Montag, 29.06.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-29.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-29.html",
+      "item_count": 1,
+      "source_count": 2
+    },
     {
       "id": "2026-06-28",
       "date": "2026-06-28",
