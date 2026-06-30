@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-06-30",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 30.06.2026",
+    "title": "Daily AI News — Dienstag, 30.06.2026",
+    "summary": "Heute im Fokus: Google ordnet Full-Stack AI als integrierten Ansatz von Infrastruktur, Modellen, Tools und Produktentwicklung ein.",
+    "file": "pages/2026-06-30.html",
+    "markdownFile": "news/2026-06-30.md",
+    "tags": [
+      "Google",
+      "Full-Stack AI",
+      "AI Strategy",
+      "Infrastructure",
+      "Product Development"
+    ],
+    "visualTag": "AI News",
+    "sources": [
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "weekday": "Montag",
     "dateLabel": "Montag, 29.06.2026",

@@ -4,11 +4,37 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-29T14:02:50+02:00",
-  "count": 18,
-  "latest_date": "2026-06-29",
+  "updated_at": "2026-06-30T00:03:25+00:00",
+  "count": 19,
+  "latest_date": "2026-06-30",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-06-30",
+      "date": "2026-06-30",
+      "weekday": "Dienstag",
+      "date_label": "Dienstag, 30.06.2026",
+      "title": "Daily AI News — Dienstag, 30.06.2026",
+      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "Google",
+        "Full-Stack AI",
+        "AI Strategy",
+        "Infrastructure",
+        "Product Development"
+      ],
+      "hero": {
+        "topic": "Full-Stack AI und Produktstrategie",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Dienstag, 30.06.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-30.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-30.html",
+      "item_count": 1,
+      "source_count": 1
+    },
     {
       "id": "2026-06-29",
       "date": "2026-06-29",
