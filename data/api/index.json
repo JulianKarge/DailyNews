@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-06-30T00:03:25+00:00",
+  "updated_at": "2026-06-30T12:03:15+00:00",
   "count": 19,
   "latest_date": "2026-06-30",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -19,21 +19,31 @@
       "language": "de",
       "status": "published",
       "tags": [
+        "Mistral",
+        "Agents",
+        "Coding Agents",
+        "Developer Tools",
+        "Automation",
         "Google",
         "Full-Stack AI",
         "AI Strategy",
         "Infrastructure",
-        "Product Development"
+        "Product Development",
+        "OpenAI",
+        "HP",
+        "Enterprise AI",
+        "AI Adoption",
+        "Software Development"
       ],
       "hero": {
-        "topic": "Full-Stack AI und Produktstrategie",
+        "topic": "Mistral Vibe, Full-Stack AI und Enterprise-Adoption",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 30.06.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-30.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-30.html",
-      "item_count": 1,
-      "source_count": 1
+      "item_count": 3,
+      "source_count": 4
     },
     {
       "id": "2026-06-29",

@@ -4,21 +4,43 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 30.06.2026",
     "title": "Daily AI News — Dienstag, 30.06.2026",
-    "summary": "Heute im Fokus: Google ordnet Full-Stack AI als integrierten Ansatz von Infrastruktur, Modellen, Tools und Produktentwicklung ein.",
+    "summary": "Heute im Fokus: Mistrals Vibe-Agent für Arbeit und Code, Googles Full-Stack-AI-Einordnung und OpenAIs Enterprise-Partnerschaft mit HP.",
     "file": "pages/2026-06-30.html",
     "markdownFile": "news/2026-06-30.md",
     "tags": [
+      "Mistral",
+      "Agents",
+      "Coding Agents",
+      "Developer Tools",
+      "Automation",
       "Google",
       "Full-Stack AI",
       "AI Strategy",
       "Infrastructure",
-      "Product Development"
+      "Product Development",
+      "OpenAI",
+      "HP",
+      "Enterprise AI",
+      "AI Adoption",
+      "Software Development"
     ],
-    "visualTag": "AI News",
+    "visualTag": "AI Agents",
     "sources": [
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/products/vibe/"
+      },
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/products/vibe/code/"
+      },
       {
         "label": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/hp-frontier-partnership"
       }
     ]
   },

@@ -9,20 +9,57 @@
   "language": "de",
   "status": "published",
   "tags": [
+    "Mistral",
+    "Agents",
+    "Coding Agents",
+    "Developer Tools",
+    "Automation",
     "Google",
     "Full-Stack AI",
     "AI Strategy",
     "Infrastructure",
-    "Product Development"
+    "Product Development",
+    "OpenAI",
+    "HP",
+    "Enterprise AI",
+    "AI Adoption",
+    "Software Development"
   ],
   "hero": {
-    "topic": "Full-Stack AI und Produktstrategie",
+    "topic": "Mistral Vibe, Full-Stack AI und Enterprise-Adoption",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 30.06.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-06-30.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-06-30.html",
   "items": [
+    {
+      "title": "Mistral positioniert Vibe als Arbeits- und Coding-Agent",
+      "summary": "Mistral beschreibt Vibe als AI-Agenten für Arbeit und Code: Die Produktseite spricht von Chat, Denken, Suche, Schreiben, Coding und Automation, während „Vibe for code“ agentisches Coding in Terminal und IDE verspricht und ganze Codebasen verstehen, bauen, testen und modernisieren soll.",
+      "why_it_matters": "Das zeigt, dass Frontier-Anbieter zunehmend nicht nur Modelle und APIs verkaufen, sondern komplette Agenten-Oberflächen für Wissensarbeit und Softwareentwicklung. Für Teams wird dadurch wichtiger, Agentenprodukte nach Codezugriff, Testbarkeit, Governance und Integrationsfähigkeit zu bewerten statt nur nach Modellnamen.",
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/products/vibe/"
+        },
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/products/vibe/code/"
+        }
+      ],
+      "tags": [
+        "Mistral",
+        "Agents",
+        "Coding Agents",
+        "Developer Tools",
+        "Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/products/vibe/"
+      }
+    },
     {
       "title": "Google erklärt Full-Stack AI als integrierten Ansatz von Infrastruktur bis Produkt",
       "summary": "Google veröffentlicht einen offiziellen Erklärbeitrag dazu, was „Full-Stack AI“ bedeutet: Gemeint ist die integrierte Arbeit über Infrastruktur, Modelle, Entwicklerwerkzeuge und Nutzerprodukte hinweg. Der Beitrag positioniert diesen Ansatz als Grundlage dafür, AI-Funktionen nicht isoliert, sondern entlang der gesamten technischen Wertschöpfung zu entwickeln.",
@@ -45,16 +82,51 @@
         "name": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
       }
+    },
+    {
+      "title": "OpenAI meldet ausgeweitete Frontier-Partnerschaft mit HP",
+      "summary": "OpenAI führt in seinem offiziellen News-RSS eine ausgeweitete Frontier-Partnerschaft mit HP Inc. auf. Laut RSS-Zusammenfassung soll HP OpenAI-Technologie breiter für Kundenerlebnisse, Softwareentwicklung und Unternehmensabläufe einsetzen.",
+      "why_it_matters": "Der Punkt ist weniger ein einzelnes neues Tool als ein Signal für Enterprise-Adoption: Große Unternehmen verschieben AI-Projekte zunehmend von Pilotphasen in interne Entwicklungs-, Support- und Operationsprozesse. Für andere Organisationen erhöht das den Druck, Nutzung, Sicherheit, Kostenkontrolle und messbare Produktivitätsgewinne gemeinsam zu planen.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/hp-frontier-partnership"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "HP",
+        "Enterprise AI",
+        "AI Adoption",
+        "Software Development"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/hp-frontier-partnership"
+      }
     }
   ],
-  "item_count": 1,
-  "source_count": 1,
-  "summary": "Heute im Fokus: Google ordnet Full-Stack AI als integrierten Ansatz von Infrastruktur, Modellen, Tools und Produktentwicklung ein.",
-  "generated_at": "2026-06-30T00:03:25+00:00",
+  "item_count": 3,
+  "source_count": 4,
+  "summary": "Heute im Fokus: Mistrals Vibe-Agent für Arbeit und Code, Googles Full-Stack-AI-Einordnung und OpenAIs Enterprise-Partnerschaft mit HP.",
+  "generated_at": "2026-06-30T12:03:15+00:00",
   "sources": [
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/products/vibe/"
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/products/vibe/code/"
+    },
     {
       "name": "Google Blog",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/hp-frontier-partnership"
     }
   ],
   "legacy": {
