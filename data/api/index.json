@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-01T00:03:07+00:00",
+  "updated_at": "2026-07-01T12:03:39+00:00",
   "count": 20,
   "latest_date": "2026-07-01",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -24,6 +24,10 @@
         "Frontier Models",
         "Coding Agents",
         "Enterprise AI",
+        "Claude Fable 5",
+        "AI Safety",
+        "Model Access",
+        "Governance",
         "Google",
         "Gemini Omni Flash",
         "Nano Banana",
@@ -33,10 +37,12 @@
         "Research Tools",
         "Scientific AI",
         "Workflows",
+        "NVIDIA",
+        "BioNeMo",
+        "Life Sciences",
         "OpenAI",
         "GeneBench-Pro",
         "Benchmarks",
-        "Life Sciences",
         "Evaluation",
         "ChatGPT",
         "AI Adoption",
@@ -44,14 +50,14 @@
         "Market Signals"
       ],
       "hero": {
-        "topic": "Claude Sonnet 5, multimodale Google-APIs, Claude Science und AI-Evaluation",
+        "topic": "Claude Sonnet 5, Fable 5, multimodale Google-APIs, Claude Science und AI-Evaluation",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 01.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-01.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-01.html",
-      "item_count": 5,
-      "source_count": 5
+      "item_count": 6,
+      "source_count": 7
     },
     {
       "id": "2026-06-30",

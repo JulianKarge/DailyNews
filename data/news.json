@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 01.07.2026",
     "title": "Daily AI News — Mittwoch, 01.07.2026",
-    "summary": "Heute im Fokus: Claude Sonnet 5 für Coding und Agenten, neue Google-Medienmodelle in der API, Claude Science als Forschungs-Workbench sowie OpenAIs GeneBench-Pro und ChatGPT-Adoptionsdaten.",
+    "summary": "Heute im Fokus: Claude Sonnet 5 für Coding und Agenten, die globale Rückkehr von Claude Fable 5, neue Google-Medienmodelle in der API, Claude Science mit NVIDIA-BioNeMo-Kontext sowie OpenAIs GeneBench-Pro und ChatGPT-Adoptionsdaten.",
     "file": "pages/2026-07-01.html",
     "markdownFile": "news/2026-07-01.md",
     "tags": [
@@ -13,6 +13,10 @@
       "Frontier Models",
       "Coding Agents",
       "Enterprise AI",
+      "Claude Fable 5",
+      "AI Safety",
+      "Model Access",
+      "Governance",
       "Google",
       "Gemini Omni Flash",
       "Nano Banana",
@@ -22,10 +26,12 @@
       "Research Tools",
       "Scientific AI",
       "Workflows",
+      "NVIDIA",
+      "BioNeMo",
+      "Life Sciences",
       "OpenAI",
       "GeneBench-Pro",
       "Benchmarks",
-      "Life Sciences",
       "Evaluation",
       "ChatGPT",
       "AI Adoption",
@@ -39,12 +45,20 @@
         "url": "https://www.anthropic.com/news/claude-sonnet-5"
       },
       {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5"
+      },
+      {
         "label": "THE DECODER",
         "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/"
       },
       {
         "label": "Anthropic",
         "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
+      },
+      {
+        "label": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/"
       },
       {
         "label": "OpenAI News RSS",
