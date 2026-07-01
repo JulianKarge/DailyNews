@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-07-01",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 01.07.2026",
+    "title": "Daily AI News — Mittwoch, 01.07.2026",
+    "summary": "Heute im Fokus: Claude Sonnet 5 für Coding und Agenten, neue Google-Medienmodelle in der API, Claude Science als Forschungs-Workbench sowie OpenAIs GeneBench-Pro und ChatGPT-Adoptionsdaten.",
+    "file": "pages/2026-07-01.html",
+    "markdownFile": "news/2026-07-01.md",
+    "tags": [
+      "Anthropic",
+      "Claude Sonnet 5",
+      "Frontier Models",
+      "Coding Agents",
+      "Enterprise AI",
+      "Google",
+      "Gemini Omni Flash",
+      "Nano Banana",
+      "Generative Media",
+      "API",
+      "Claude Science",
+      "Research Tools",
+      "Scientific AI",
+      "Workflows",
+      "OpenAI",
+      "GeneBench-Pro",
+      "Benchmarks",
+      "Life Sciences",
+      "Evaluation",
+      "ChatGPT",
+      "AI Adoption",
+      "Workforce",
+      "Market Signals"
+    ],
+    "visualTag": "AI News",
+    "sources": [
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/introducing-genebench-pro"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+      }
+    ]
+  },
+  {
     "date": "2026-06-30",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 30.06.2026",
