@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 02.07.2026",
     "title": "Daily AI News — Donnerstag, 02.07.2026",
-    "summary": "Heute im Fokus: xAI macht Grok-basierte Sprachagenten mit einem No-Code-Builder leichter prototypisierbar.",
+    "summary": "Heute im Fokus: xAIs No-Code-Builder für Voice-Agents, eine offene Gemma-4-Speech-to-Speech-Demo von Hugging Face und Cerebras sowie Kimi K2.7 Code in GitHub Copilot.",
     "file": "pages/2026-07-02.html",
     "markdownFile": "news/2026-07-02.md",
     "tags": [
@@ -12,7 +12,19 @@
       "Grok",
       "Voice Agents",
       "No-Code",
-      "Automation"
+      "Automation",
+      "Hugging Face",
+      "Cerebras",
+      "Gemma 4",
+      "Voice AI",
+      "Open Source",
+      "Inference",
+      "GitHub",
+      "Copilot",
+      "Kimi K2.7 Code",
+      "Coding Agents",
+      "Open Weights",
+      "Developer Tools"
     ],
     "visualTag": "AI Agents",
     "sources": [
@@ -23,6 +35,14 @@
       {
         "label": "xAI",
         "url": "https://x.ai/news/grok-voice-agent-builder"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot"
       }
     ]
   },

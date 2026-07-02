@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-02T00:03:29+00:00",
+  "updated_at": "2026-07-02T14:03:58+02:00",
   "count": 21,
   "latest_date": "2026-07-02",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -23,17 +23,29 @@
         "Grok",
         "Voice Agents",
         "No-Code",
-        "Automation"
+        "Automation",
+        "Hugging Face",
+        "Cerebras",
+        "Gemma 4",
+        "Voice AI",
+        "Open Source",
+        "Inference",
+        "GitHub",
+        "Copilot",
+        "Kimi K2.7 Code",
+        "Coding Agents",
+        "Open Weights",
+        "Developer Tools"
       ],
       "hero": {
-        "topic": "xAI Voice Agent Builder und No-Code-Sprachagenten",
+        "topic": "xAI Voice Agent Builder, offene Voice-AI und Coding-Modellwahl",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 02.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-02.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-02.html",
-      "item_count": 1,
-      "source_count": 2
+      "item_count": 3,
+      "source_count": 4
     },
     {
       "id": "2026-07-01",

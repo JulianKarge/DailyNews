@@ -13,10 +13,22 @@
     "Grok",
     "Voice Agents",
     "No-Code",
-    "Automation"
+    "Automation",
+    "Hugging Face",
+    "Cerebras",
+    "Gemma 4",
+    "Voice AI",
+    "Open Source",
+    "Inference",
+    "GitHub",
+    "Copilot",
+    "Kimi K2.7 Code",
+    "Coding Agents",
+    "Open Weights",
+    "Developer Tools"
   ],
   "hero": {
-    "topic": "xAI Voice Agent Builder und No-Code-Sprachagenten",
+    "topic": "xAI Voice Agent Builder, offene Voice-AI und Coding-Modellwahl",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 02.07.2026"
   },
@@ -49,12 +61,60 @@
         "name": "xAI News",
         "url": "https://x.ai/news"
       }
+    },
+    {
+      "title": "Hugging Face und Cerebras zeigen offene Speech-to-Speech-Architektur mit Gemma 4",
+      "summary": "Hugging Face beschreibt gemeinsam mit Cerebras eine offene, modulare Voice-AI-Demo: Spracheingabe wird mit NVIDIAs Parakeet erkannt, Gemma 4 31B läuft für die Modellantwort auf Cerebras-Inferenz, und Qwen3TTS erzeugt die gesprochene Antwort. Der Beitrag stellt niedrige und stabilere Latenz als Kernfaktor für natürlichere Echtzeit-Dialoge heraus.",
+      "why_it_matters": "Voice-AI wird praktisch erst dann überzeugend, wenn Antworten nicht nur korrekt, sondern auch schnell und vorhersehbar kommen. Offene, austauschbare Speech-to-Speech-Pipelines geben Teams und Entwicklern mehr Kontrolle über Modell, Inferenz, Datenschutz und Anpassbarkeit als geschlossene Komplettsysteme.",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Cerebras",
+        "Gemma 4",
+        "Voice AI",
+        "Open Source",
+        "Inference"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+      }
+    },
+    {
+      "title": "Kimi K2.7 Code ist als erstes Open-Weight-Modell in GitHub Copilot verfügbar",
+      "summary": "GitHub meldet, dass Kimi K2.7 Code allgemein in GitHub Copilot verfügbar ist. Laut Changelog ist es das erste Open-Weight-Modell, das im Copilot-Model-Picker auswählbar ist; GitHub hostet das Modell auf Microsoft Azure und positioniert es als zusätzliche, kostengünstigere Option für Coding-Workflows.",
+      "why_it_matters": "Für Entwicklerteams wird Modellwahl in Coding-Assistenten granularer: Neben geschlossenen Frontier-Modellen rücken offene oder open-weight-nahe Spezialmodelle direkt in verbreitete Arbeitsumgebungen. Das kann Kosten, Governance und Experimente mit agentischen Coding-Workflows verändern, bleibt aber an die Policies und Hosting-Entscheidungen der Plattform gebunden.",
+      "sources": [
+        {
+          "name": "GitHub Changelog",
+          "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot"
+        }
+      ],
+      "tags": [
+        "GitHub",
+        "Copilot",
+        "Kimi K2.7 Code",
+        "Coding Agents",
+        "Open Weights",
+        "Developer Tools"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot"
+      }
     }
   ],
-  "item_count": 1,
-  "source_count": 2,
-  "summary": "Heute im Fokus: xAI macht Grok-basierte Sprachagenten mit einem No-Code-Builder leichter prototypisierbar.",
-  "generated_at": "2026-07-02T00:03:29+00:00",
+  "item_count": 3,
+  "source_count": 4,
+  "summary": "Heute im Fokus: xAIs No-Code-Builder für Voice-Agents, eine offene Gemma-4-Speech-to-Speech-Demo von Hugging Face und Cerebras sowie Kimi K2.7 Code in GitHub Copilot.",
+  "generated_at": "2026-07-02T14:03:58+02:00",
   "sources": [
     {
       "name": "xAI News",
@@ -63,6 +123,14 @@
     {
       "name": "xAI",
       "url": "https://x.ai/news/grok-voice-agent-builder"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+    },
+    {
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot"
     }
   ],
   "legacy": {
