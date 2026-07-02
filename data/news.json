@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-07-02",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 02.07.2026",
+    "title": "Daily AI News — Donnerstag, 02.07.2026",
+    "summary": "Heute im Fokus: xAI macht Grok-basierte Sprachagenten mit einem No-Code-Builder leichter prototypisierbar.",
+    "file": "pages/2026-07-02.html",
+    "markdownFile": "news/2026-07-02.md",
+    "tags": [
+      "xAI",
+      "Grok",
+      "Voice Agents",
+      "No-Code",
+      "Automation"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "xAI",
+        "url": "https://x.ai/news/grok-voice-agent-builder"
+      }
+    ]
+  },
+  {
     "date": "2026-07-01",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 01.07.2026",
