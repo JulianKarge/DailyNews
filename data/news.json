@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-07-03",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 03.07.2026",
+    "title": "Daily AI News — Freitag, 03.07.2026",
+    "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet AI-Agenten an Enterprise-Java-Migrationen, und OpenAI zeigt Infrastruktur-Learnings aus Core-Dump-Analysen.",
+    "file": "pages/2026-07-03.html",
+    "markdownFile": "news/2026-07-03.md",
+    "tags": [
+      "Anthropic",
+      "Claude Fable 5",
+      "AI Safety",
+      "Jailbreaks",
+      "Governance",
+      "Model Access",
+      "Hugging Face",
+      "IBM Research",
+      "ScarfBench",
+      "AI Agents",
+      "Benchmarks",
+      "Enterprise Java",
+      "OpenAI",
+      "Infrastructure",
+      "Reliability",
+      "Debugging",
+      "AI Platforms"
+    ],
+    "visualTag": "AI Safety",
+    "sources": [
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      }
+    ]
+  },
+  {
     "date": "2026-07-02",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 02.07.2026",
