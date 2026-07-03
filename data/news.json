@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 03.07.2026",
     "title": "Daily AI News — Freitag, 03.07.2026",
-    "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet AI-Agenten an Enterprise-Java-Migrationen, und OpenAI zeigt Infrastruktur-Learnings aus Core-Dump-Analysen.",
+    "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet Enterprise-Java-Agenten, OpenAI zeigt Infrastruktur-Learnings, Agenten-Arbeitsforschung und GPT-5.6 Sol als neues Frontier-Signal.",
     "file": "pages/2026-07-03.html",
     "markdownFile": "news/2026-07-03.md",
     "tags": [
@@ -24,9 +24,17 @@
       "Infrastructure",
       "Reliability",
       "Debugging",
-      "AI Platforms"
+      "AI Platforms",
+      "Future of Work",
+      "Productivity",
+      "Automation",
+      "GPT-5.6 Sol",
+      "Frontier Models",
+      "Coding",
+      "Science",
+      "Cybersecurity"
     ],
-    "visualTag": "AI Safety",
+    "visualTag": "AI Agents",
     "sources": [
       {
         "label": "Anthropic",
@@ -43,6 +51,14 @@
       {
         "label": "OpenAI News RSS",
         "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/how-agents-are-transforming-work"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol"
       }
     ]
   },

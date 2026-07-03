@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-03T02:03:55+02:00",
+  "updated_at": "2026-07-03T11:49:01+02:00",
   "count": 22,
   "latest_date": "2026-07-03",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -35,17 +35,25 @@
         "Infrastructure",
         "Reliability",
         "Debugging",
-        "AI Platforms"
+        "AI Platforms",
+        "Future of Work",
+        "Productivity",
+        "Automation",
+        "GPT-5.6 Sol",
+        "Frontier Models",
+        "Coding",
+        "Science",
+        "Cybersecurity"
       ],
       "hero": {
-        "topic": "Fable-5-Safeguards, ScarfBench-Agenten und AI-Infrastruktur-Debugging",
+        "topic": "Fable-5-Safeguards, ScarfBench, AI-Infrastruktur und neue OpenAI-Agenten-/Modell-Signale",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Freitag, 03.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-03.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-03.html",
-      "item_count": 3,
-      "source_count": 4
+      "item_count": 5,
+      "source_count": 6
     },
     {
       "id": "2026-07-02",

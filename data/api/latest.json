@@ -25,10 +25,18 @@
     "Infrastructure",
     "Reliability",
     "Debugging",
-    "AI Platforms"
+    "AI Platforms",
+    "Future of Work",
+    "Productivity",
+    "Automation",
+    "GPT-5.6 Sol",
+    "Frontier Models",
+    "Coding",
+    "Science",
+    "Cybersecurity"
   ],
   "hero": {
-    "topic": "Fable-5-Safeguards, ScarfBench-Agenten und AI-Infrastruktur-Debugging",
+    "topic": "Fable-5-Safeguards, ScarfBench, AI-Infrastruktur und neue OpenAI-Agenten-/Modell-Signale",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 03.07.2026"
   },
@@ -109,12 +117,59 @@
         "name": "OpenAI News RSS",
         "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
       }
+    },
+    {
+      "title": "OpenAI beschreibt, wie Agenten längere Arbeitsaufgaben übernehmen",
+      "summary": "OpenAI führt in seinem offiziellen News-RSS einen Research-Beitrag dazu, wie AI-Agenten Arbeit verändern: Sie sollen zunehmend längere, komplexere Aufgabenketten bearbeiten und dadurch Produktivität über unterschiedliche Rollen hinweg erweitern.",
+      "why_it_matters": "Für Unternehmen und Creator ist das ein wichtiger Shift von Chat-Antworten zu delegierbaren Workflows. Entscheidend wird, welche Aufgaben sauber in Agenten-Schritte zerlegt werden können, wo Review-Punkte nötig sind und wie Teams Qualität, Kosten und Verantwortung über längere Automationsläufe steuern.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/how-agents-are-transforming-work"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "AI Agents",
+        "Future of Work",
+        "Productivity",
+        "Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/how-agents-are-transforming-work"
+      }
+    },
+    {
+      "title": "OpenAI previewt GPT-5.6 Sol mit Fokus auf Coding, Science und Cybersecurity",
+      "summary": "OpenAI beschreibt GPT-5.6 Sol im offiziellen News-RSS als Next-Generation-Modell mit stärkeren Fähigkeiten in Coding, Wissenschaft und Cybersecurity. Die Preview wird außerdem mit einer weiterentwickelten Safety-Stack-Einordnung verbunden.",
+      "why_it_matters": "Auch wenn Zugang und Verfügbarkeit bei Frontier-Modellen schrittweise erfolgen, ist die Stoßrichtung praktisch relevant: Coding, wissenschaftliche Analyse und Security bleiben die Felder, in denen neue Modelle zuerst echten Hebel zeigen müssen. Für Teams heißt das: Benchmarks allein reichen nicht; Tests sollten konkrete Workflows, Sicherheitsgrenzen und Kosten pro Ergebnis messen.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "GPT-5.6 Sol",
+        "Frontier Models",
+        "Coding",
+        "Science",
+        "Cybersecurity"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+      }
     }
   ],
-  "item_count": 3,
-  "source_count": 4,
-  "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet AI-Agenten an Enterprise-Java-Migrationen, und OpenAI zeigt Infrastruktur-Learnings aus Core-Dump-Analysen.",
-  "generated_at": "2026-07-03T02:03:55+02:00",
+  "item_count": 5,
+  "source_count": 6,
+  "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet Enterprise-Java-Agenten, OpenAI zeigt Infrastruktur-Learnings, Agenten-Arbeitsforschung und GPT-5.6 Sol als neues Frontier-Signal.",
+  "generated_at": "2026-07-03T11:49:01+02:00",
   "sources": [
     {
       "name": "Anthropic",
@@ -131,6 +186,14 @@
     {
       "name": "OpenAI News RSS",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/how-agents-are-transforming-work"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol"
     }
   ],
   "legacy": {
