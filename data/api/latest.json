@@ -9,40 +9,68 @@
   "language": "de",
   "status": "published",
   "tags": [
-    "Anthropic",
-    "Claude Fable 5",
+    "AI Agents",
+    "AI Platforms",
     "AI Safety",
-    "Jailbreaks",
+    "Anthropic",
+    "Automation",
+    "Benchmarks",
+    "Claude Fable 5",
+    "Coding",
+    "Cybersecurity",
+    "Debugging",
+    "Domain-Specific AI",
+    "Enterprise Java",
+    "Evaluation",
+    "Finance AI",
+    "Fine-Tuning",
+    "Frontier Models",
+    "Future of Work",
+    "GPT-5.6 Sol",
     "Governance",
-    "Model Access",
     "Hugging Face",
     "IBM Research",
-    "ScarfBench",
-    "AI Agents",
-    "Benchmarks",
-    "Enterprise Java",
-    "OpenAI",
     "Infrastructure",
-    "Reliability",
-    "Debugging",
-    "AI Platforms",
-    "Future of Work",
+    "Jailbreaks",
+    "Model Access",
+    "Open-Weights",
+    "OpenAI",
     "Productivity",
-    "Automation",
-    "GPT-5.6 Sol",
-    "Frontier Models",
-    "Coding",
-    "Science",
-    "Cybersecurity"
+    "Reliability",
+    "ScarfBench",
+    "Science"
   ],
   "hero": {
-    "topic": "Fable-5-Safeguards, ScarfBench, AI-Infrastruktur und neue OpenAI-Agenten-/Modell-Signale",
+    "topic": "Open-Weight-Durchbruch in Finanzanalyse, Fable-5-Safeguards, ScarfBench und neue Agenten-/Modell-Signale",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 03.07.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-03.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-03.html",
   "items": [
+    {
+      "title": "Bridgewater und Thinking Machines Lab: Offenes Modell schlägt GPT und Claude bei Finanzdokument-Analyse",
+      "summary": "THE DECODER berichtet über eine gemeinsame Analyse des Hedgefonds Bridgewater und Thinking Machines Lab: Ein feinabgestimmtes Open-Weight-Modell übertrifft demnach die leistungsfähigsten Frontier-Modelle von OpenAI und Anthropic bei der Bewertung von Finanzdokumenten – und das zu einem Bruchteil der Kosten.",
+      "why_it_matters": "Das Ergebnis zeigt praktisch, dass domänenspezifische Feinabstimmung offener Modelle Frontier-Systeme in engen Fachaufgaben überholen kann. Für Teams mit spezialisierten Daten und klar umrissenen Analyseaufgaben wird Modellauswahl damit weniger eine Frage des allgemeinen Benchmark-Rankings, sondern von Trainingskontrolle, Datenhoheit und Kosten pro qualitätsgesichertem Ergebnis.",
+      "sources": [
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
+        }
+      ],
+      "tags": [
+        "Open-Weights",
+        "Fine-Tuning",
+        "Finance AI",
+        "Evaluation",
+        "Domain-Specific AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
+      }
+    },
     {
       "title": "Anthropic ergänzt Fable 5 um detailliertere Cyber-Safeguards und Jailbreak-Bewertung",
       "summary": "Anthropic hat am 2. Juli 2026 weitere Details zur globalen Wiederbereitstellung von Claude Fable 5 veröffentlicht. Der Beitrag beschreibt zusätzliche Cybersecurity-Klassifikatoren, die gefährliche oder potenziell gefährliche Anfragen erkennen und blockieren sollen, sowie ein Framework zur Einstufung von Jailbreak-Schweregraden.",
@@ -166,11 +194,15 @@
       }
     }
   ],
-  "item_count": 5,
-  "source_count": 6,
-  "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet Enterprise-Java-Agenten, OpenAI zeigt Infrastruktur-Learnings, Agenten-Arbeitsforschung und GPT-5.6 Sol als neues Frontier-Signal.",
-  "generated_at": "2026-07-03T11:49:01+02:00",
+  "item_count": 6,
+  "source_count": 7,
+  "summary": "Nachmittags-Update: Bridgewater-Analyse zeigt domänenspezifische Open-Weight-Überlegenheit, plus Anthropics Fable-5-Safeguards, ScarfBench, AI-Infrastruktur-Learnings, Agenten-Forschung und GPT-5.6 Sol.",
+  "generated_at": "2026-07-03T12:05:53.083419+00:00",
   "sources": [
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
+    },
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"

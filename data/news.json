@@ -4,60 +4,43 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 03.07.2026",
     "title": "Daily AI News — Freitag, 03.07.2026",
-    "summary": "Heute im Fokus: Anthropic erläutert Fable-5-Safeguards, ScarfBench testet Enterprise-Java-Agenten, OpenAI zeigt Infrastruktur-Learnings, Agenten-Arbeitsforschung und GPT-5.6 Sol als neues Frontier-Signal.",
+    "summary": "Nachmittags-Update: Bridgewater-Analyse zeigt domänenspezifische Open-Weight-Überlegenheit, plus Anthropics Fable-5-Safeguards, ScarfBench, AI-Infrastruktur-Learnings, Agenten-Forschung und GPT-5.6 Sol.",
     "file": "pages/2026-07-03.html",
     "markdownFile": "news/2026-07-03.md",
     "tags": [
-      "Anthropic",
-      "Claude Fable 5",
-      "AI Safety",
-      "Jailbreaks",
-      "Governance",
-      "Model Access",
-      "Hugging Face",
-      "IBM Research",
-      "ScarfBench",
       "AI Agents",
-      "Benchmarks",
-      "Enterprise Java",
-      "OpenAI",
-      "Infrastructure",
-      "Reliability",
-      "Debugging",
       "AI Platforms",
-      "Future of Work",
-      "Productivity",
-      "Automation",
-      "GPT-5.6 Sol",
-      "Frontier Models",
-      "Coding",
-      "Science",
-      "Cybersecurity"
+      "AI Safety",
+      "Anthropic",
+      "Automation"
     ],
-    "visualTag": "AI Agents",
     "sources": [
       {
-        "label": "Anthropic",
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
+      },
+      {
+        "name": "Anthropic",
         "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
       },
       {
-        "label": "Anthropic",
+        "name": "Anthropic",
         "url": "https://www.anthropic.com/news/redeploying-fable-5"
       },
       {
-        "label": "Hugging Face Blog",
+        "name": "Hugging Face Blog",
         "url": "https://huggingface.co/blog/ibm-research/scarfbench"
       },
       {
-        "label": "OpenAI News RSS",
+        "name": "OpenAI News RSS",
         "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
       },
       {
-        "label": "OpenAI News RSS",
+        "name": "OpenAI News RSS",
         "url": "https://openai.com/index/how-agents-are-transforming-work"
       },
       {
-        "label": "OpenAI News RSS",
+        "name": "OpenAI News RSS",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol"
       }
     ]
