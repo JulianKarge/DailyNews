@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-07-04",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 04.07.2026",
+    "title": "Daily AI News — Samstag, 04.07.2026",
+    "summary": "Heute im Fokus: neue Frontier- und Coding-Modelle aus China, Mistral OCR 4 für strukturierte Dokumenten-Automation, Cohere North Mini Code und Googles Computer-Use-Ansatz für Gemini 3.5 Flash.",
+    "file": "pages/2026-07-04.html",
+    "markdownFile": "news/2026-07-04.md",
+    "tags": [
+      "DeepSeek",
+      "Frontier Models",
+      "AI Agents",
+      "Reasoning",
+      "API",
+      "Zhipu AI",
+      "GLM-5.2",
+      "Open-Weights",
+      "Coding",
+      "Long Context",
+      "Mistral",
+      "Document AI",
+      "OCR",
+      "RAG",
+      "Enterprise AI",
+      "Cohere",
+      "North Mini Code",
+      "Coding Agents",
+      "Developer Tools",
+      "Google",
+      "Gemini 3.5 Flash",
+      "Computer Use",
+      "Automation"
+    ],
+    "visualTag": "AI Models",
+    "sources": [
+      {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "name": "Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/ocr-4"
+      },
+      {
+        "name": "Cohere",
+        "url": "https://cohere.com/blog/north-mini-code"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 03.07.2026",

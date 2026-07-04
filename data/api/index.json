@@ -4,11 +4,42 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-03T12:05:53Z",
-  "count": 22,
-  "latest_date": "2026-07-03",
+  "updated_at": "2026-07-04T00:07:05.143803Z",
+  "count": 23,
+  "latest_date": "2026-07-04",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-07-04",
+      "date": "2026-07-04",
+      "weekday": "Samstag",
+      "date_label": "Samstag, 04.07.2026",
+      "title": "Daily AI News — Samstag, 04.07.2026",
+      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "DeepSeek",
+        "Frontier Models",
+        "AI Agents",
+        "Reasoning",
+        "API",
+        "Zhipu AI",
+        "GLM-5.2",
+        "Open-Weights",
+        "Coding",
+        "Long Context"
+      ],
+      "hero": {
+        "topic": "DeepSeek-V4, GLM-5.2, Mistral OCR 4, North Mini Code und Gemini Computer Use",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Samstag, 04.07.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-04.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-04.html",
+      "item_count": 5,
+      "source_count": 5
+    },
     {
       "id": "2026-07-03",
       "date": "2026-07-03",
