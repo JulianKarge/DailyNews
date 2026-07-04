@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-04T00:07:05.143803Z",
+  "updated_at": "2026-07-04T12:04:12.331441Z",
   "count": 23,
   "latest_date": "2026-07-04",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -28,17 +28,34 @@
         "GLM-5.2",
         "Open-Weights",
         "Coding",
-        "Long Context"
+        "Long Context",
+        "Mistral",
+        "Document AI",
+        "OCR",
+        "RAG",
+        "Enterprise AI",
+        "Cohere",
+        "North Mini Code",
+        "Coding Agents",
+        "Developer Tools",
+        "Google",
+        "Gemini 3.5 Flash",
+        "Computer Use",
+        "Automation",
+        "Perplexity",
+        "Local AI",
+        "Workflow Automation",
+        "Multi-Model"
       ],
       "hero": {
-        "topic": "DeepSeek-V4, GLM-5.2, Mistral OCR 4, North Mini Code und Gemini Computer Use",
+        "topic": "DeepSeek-V4, GLM-5.2, Mistral OCR 4, North Mini Code, Gemini Computer Use und Perplexity Personal Computer",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Samstag, 04.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-04.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-04.html",
-      "item_count": 5,
-      "source_count": 5
+      "item_count": 6,
+      "source_count": 6
     },
     {
       "id": "2026-07-03",

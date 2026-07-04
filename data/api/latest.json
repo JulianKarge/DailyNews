@@ -31,10 +31,14 @@
     "Google",
     "Gemini 3.5 Flash",
     "Computer Use",
-    "Automation"
+    "Automation",
+    "Perplexity",
+    "Local AI",
+    "Workflow Automation",
+    "Multi-Model"
   ],
   "hero": {
-    "topic": "DeepSeek-V4, GLM-5.2, Mistral OCR 4, North Mini Code und Gemini Computer Use",
+    "topic": "DeepSeek-V4, GLM-5.2, Mistral OCR 4, North Mini Code, Gemini Computer Use und Perplexity Personal Computer",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Samstag, 04.07.2026"
   },
@@ -155,12 +159,35 @@
         "name": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
       }
+    },
+    {
+      "title": "Perplexity stellt Personal Computer für lokale, app-übergreifende Agentenarbeit vor",
+      "summary": "Perplexity bewirbt „Personal Computer“ auf seiner offiziellen Blog-Übersicht als lokalen AI-Assistenten, der die Multi-Modell-Orchestrierung von Perplexity Computer auf den eigenen Rechner bringen und über Dateien, Apps und Web-Kontext hinweg arbeiten soll.",
+      "why_it_matters": "Der Schritt zeigt einen wichtigen Trend bei Agentenprodukten: Nützliche Automation soll nicht nur im Browser oder in einer Cloud-App stattfinden, sondern näher an den persönlichen Arbeitskontext rücken. Für Teams, Creator und kleine Unternehmen werden dabei Berechtigungen, Datenschutz, Auditierbarkeit und menschliche Kontrolle besonders wichtig, weil solche Systeme potenziell mehr lokale Arbeitsoberflächen verbinden.",
+      "sources": [
+        {
+          "name": "Perplexity Blog",
+          "url": "https://www.perplexity.ai/hub/blog/personal-computer-is-here"
+        }
+      ],
+      "tags": [
+        "Perplexity",
+        "AI Agents",
+        "Local AI",
+        "Workflow Automation",
+        "Multi-Model"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Perplexity Blog",
+        "url": "https://www.perplexity.ai/hub/blog/personal-computer-is-here"
+      }
     }
   ],
-  "item_count": 5,
-  "source_count": 5,
-  "summary": "Heute im Fokus: neue Frontier- und Coding-Modelle aus China, Mistral OCR 4 für strukturierte Dokumenten-Automation, Cohere North Mini Code und Googles Computer-Use-Ansatz für Gemini 3.5 Flash.",
-  "generated_at": "2026-07-04T00:07:05.143803Z",
+  "item_count": 6,
+  "source_count": 6,
+  "summary": "Heute im Fokus: neue Frontier- und Coding-Modelle aus China, Mistral OCR 4 für strukturierte Dokumenten-Automation, Cohere North Mini Code, Googles Computer-Use-Ansatz und Perplexitys lokaler Personal-Computer-Agent.",
+  "generated_at": "2026-07-04T12:04:12.331441Z",
   "sources": [
     {
       "name": "DeepSeek",
@@ -181,6 +208,10 @@
     {
       "name": "Google Blog",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "name": "Perplexity Blog",
+      "url": "https://www.perplexity.ai/hub/blog/personal-computer-is-here"
     }
   ],
   "legacy": {

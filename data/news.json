@@ -4,7 +4,7 @@
     "weekday": "Samstag",
     "dateLabel": "Samstag, 04.07.2026",
     "title": "Daily AI News — Samstag, 04.07.2026",
-    "summary": "Heute im Fokus: neue Frontier- und Coding-Modelle aus China, Mistral OCR 4 für strukturierte Dokumenten-Automation, Cohere North Mini Code und Googles Computer-Use-Ansatz für Gemini 3.5 Flash.",
+    "summary": "Heute im Fokus: neue Frontier- und Coding-Modelle aus China, Mistral OCR 4 für strukturierte Dokumenten-Automation, Cohere North Mini Code, Googles Computer-Use-Ansatz und Perplexitys lokaler Personal-Computer-Agent.",
     "file": "pages/2026-07-04.html",
     "markdownFile": "news/2026-07-04.md",
     "tags": [
@@ -30,9 +30,13 @@
       "Google",
       "Gemini 3.5 Flash",
       "Computer Use",
-      "Automation"
+      "Automation",
+      "Perplexity",
+      "Local AI",
+      "Workflow Automation",
+      "Multi-Model"
     ],
-    "visualTag": "AI Models",
+    "visualTag": "AI Agents",
     "sources": [
       {
         "name": "DeepSeek",
@@ -53,6 +57,10 @@
       {
         "name": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      },
+      {
+        "name": "Perplexity Blog",
+        "url": "https://www.perplexity.ai/hub/blog/personal-computer-is-here"
       }
     ]
   },
