@@ -5,7 +5,7 @@
   "weekday": "Sonntag",
   "date_label": "Sonntag, 05.07.2026",
   "title": "Daily AI News — Sonntag, 05.07.2026",
-  "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+  "dek": "Fünf AI-Updates mit mehr Praxisbreite: von verifizierbarer Code-Logik über Agenten-Auditdaten bis zu ChatGPT-Adoption und Enterprise-Modellen.",
   "language": "de",
   "status": "published",
   "tags": [
@@ -20,10 +20,19 @@
     "Enterprise AI",
     "Token Costs",
     "Claude Code",
-    "Developer Tools"
+    "Developer Tools",
+    "OpenAI",
+    "ChatGPT",
+    "AI Adoption",
+    "Workflows",
+    "Business AI",
+    "Cohere",
+    "Command",
+    "Agents",
+    "Multilingual AI"
   ],
   "hero": {
-    "topic": "Leanstral 1.5, Copilot-Agent-Auditdaten und Token-Kompression für Coding-Agenten",
+    "topic": "Leanstral 1.5, AI-Adoption, Cohere Command und Agenten-Governance",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Sonntag, 05.07.2026"
   },
@@ -114,12 +123,58 @@
         "name": "GitHub: pxpipe",
         "url": "https://github.com/teamchong/pxpipe"
       }
+    },
+    {
+      "title": "OpenAI zeigt, wie breit ChatGPT inzwischen in Arbeit und Alltag angekommen ist",
+      "summary": "OpenAI beschreibt, dass ChatGPT von einem Experimentierwerkzeug zu einem alltäglichen Arbeitsbegleiter geworden ist: mehr Nutzergruppen, mehr Anwendungsfälle und mehr Einsatz in Wissensarbeit, Lernen und Organisation. Der eigentliche Punkt ist nicht die nächste Modellnummer, sondern die stille Normalisierung von AI im Tagesgeschäft.",
+      "why_it_matters": "Für Unternehmen wird AI damit weniger zu einer Frage von ‚ob‘ und mehr zu einer Frage von ‚wie sauber‘: Welche Aufgaben dürfen automatisiert werden, wo braucht es Regeln, und welche Mitarbeitenden bekommen gute Vorlagen statt nur ein leeres Chatfenster? Kurz gesagt: Der Praktikant heißt jetzt manchmal Prompt, braucht aber immer noch Einarbeitung.",
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI Adoption",
+        "Workflows",
+        "Business AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+      }
+    },
+    {
+      "title": "Cohere positioniert Command als Modellfamilie für agentische und mehrsprachige Workflows",
+      "summary": "Cohere stellt die Command-Modellfamilie als Grundlage für agentische, multimodale und mehrsprachige Anwendungen dar. Für Teams ist daran besonders interessant, dass der Fokus nicht nur auf Demo-Chats liegt, sondern auf robusten Unternehmens-Workflows, Tool-Nutzung und internationaler Sprache.",
+      "why_it_matters": "Der Markt bewegt sich weg vom einen großen Chatbot und hin zu spezialisierten Modell-Stacks für echte Abläufe: suchen, prüfen, schreiben, entscheiden, weitergeben. Wer Kundensupport, interne Assistenz oder Dokumentenprozesse baut, sollte deshalb nicht nur fragen, welches Modell am lautesten wirkt, sondern welches im Prozess am wenigsten Theater macht. Auch AI darf mal professionell unauffällig sein.",
+      "sources": [
+        {
+          "name": "Cohere Command",
+          "url": "https://cohere.com/command"
+        }
+      ],
+      "tags": [
+        "Cohere",
+        "Command",
+        "Enterprise AI",
+        "Agents",
+        "Multilingual AI"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Cohere Command",
+        "url": "https://cohere.com/command"
+      }
     }
   ],
-  "item_count": 3,
-  "source_count": 7,
-  "summary": "Heute im Fokus: Mistrals Leanstral 1.5 für formale Beweise und Code-Verifikation, Audit-Daten für Copilot-Agentensitzungen und ein Open-Source-Ansatz zur Token-Kompression bei Coding-Agenten.",
-  "generated_at": "2026-07-05T00:05:43.237571Z",
+  "item_count": 5,
+  "source_count": 9,
+  "summary": "Heute im Fokus: Mistrals Leanstral 1.5, Copilot-Agent-Auditdaten, Token-Kompression für Coding-Agenten, OpenAIs Blick auf ChatGPT-Adoption und Cohere Command für agentische Enterprise-Workflows.",
+  "generated_at": "2026-07-05T21:00:10.436465Z",
   "sources": [
     {
       "name": "Mistral AI Docs",
@@ -148,6 +203,14 @@
     {
       "name": "THE DECODER",
       "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/"
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+    },
+    {
+      "name": "Cohere Command",
+      "url": "https://cohere.com/command"
     }
   ],
   "legacy": {

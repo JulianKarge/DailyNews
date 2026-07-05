@@ -4,7 +4,7 @@
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 05.07.2026",
     "title": "Daily AI News — Sonntag, 05.07.2026",
-    "summary": "Heute im Fokus: Mistrals Leanstral 1.5 für formale Beweise und Code-Verifikation, Audit-Daten für Copilot-Agentensitzungen und ein Open-Source-Ansatz zur Token-Kompression bei Coding-Agenten.",
+    "summary": "Heute im Fokus: Mistrals Leanstral 1.5, Copilot-Agent-Auditdaten, Token-Kompression für Coding-Agenten, OpenAIs Blick auf ChatGPT-Adoption und Cohere Command für agentische Enterprise-Workflows.",
     "file": "pages/2026-07-05.html",
     "markdownFile": "news/2026-07-05.md",
     "tags": [
@@ -19,9 +19,18 @@
       "Enterprise AI",
       "Token Costs",
       "Claude Code",
-      "Developer Tools"
+      "Developer Tools",
+      "OpenAI",
+      "ChatGPT",
+      "AI Adoption",
+      "Workflows",
+      "Business AI",
+      "Cohere",
+      "Command",
+      "Agents",
+      "Multilingual AI"
     ],
-    "visualTag": "AI Agents",
+    "visualTag": "Daily AI News",
     "sources": [
       {
         "name": "Mistral AI Docs",
@@ -50,6 +59,14 @@
       {
         "name": "THE DECODER",
         "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/"
+      },
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+      },
+      {
+        "name": "Cohere Command",
+        "url": "https://cohere.com/command"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-05T00:05:43.237571Z",
+  "updated_at": "2026-07-05T21:00:10.436465Z",
   "count": 24,
   "latest_date": "2026-07-05",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Sonntag",
       "date_label": "Sonntag, 05.07.2026",
       "title": "Daily AI News — Sonntag, 05.07.2026",
-      "dek": "Source-basierter Kurz-Digest zu praktischen AI-, Agenten-, Modell- und Automations-Updates.",
+      "dek": "Fünf AI-Updates mit mehr Praxisbreite: von verifizierbarer Code-Logik über Agenten-Auditdaten bis zu ChatGPT-Adoption und Enterprise-Modellen.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -30,17 +30,26 @@
         "Enterprise AI",
         "Token Costs",
         "Claude Code",
-        "Developer Tools"
+        "Developer Tools",
+        "OpenAI",
+        "ChatGPT",
+        "AI Adoption",
+        "Workflows",
+        "Business AI",
+        "Cohere",
+        "Command",
+        "Agents",
+        "Multilingual AI"
       ],
       "hero": {
-        "topic": "Leanstral 1.5, Copilot-Agent-Auditdaten und Token-Kompression für Coding-Agenten",
+        "topic": "Leanstral 1.5, AI-Adoption, Cohere Command und Agenten-Governance",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Sonntag, 05.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-05.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-05.html",
-      "item_count": 3,
-      "source_count": 7
+      "item_count": 5,
+      "source_count": 9
     },
     {
       "id": "2026-07-04",
