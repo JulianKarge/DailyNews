@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily AI News — Sonntag, 05.07.2026</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../day.css">
+</head>
+<body>
+  <header>
+    <h1>Sonntag, 05.07.2026 · Daily AI News</h1>
+    <p class="dek">Heute im Fokus: Mistrals Leanstral 1.5 für formale Beweise und Code-Verifikation, Audit-Daten für Copilot-Agentensitzungen und ein Open-Source-Ansatz zur Token-Kompression bei Coding-Agenten.</p>
+  </header>
+  <main>
+    <article class="news-item">
+      <h2>Mistral veröffentlicht Leanstral 1.5 für formale Beweise und Code-Verifikation</h2>
+      <p class="summary">Mistral beschreibt Leanstral 1.5 als aktualisiertes, offen verfügbares Modell für Lean-4-Proof-Engineering, automatisiertes Theorem Proving und Autoformalization. Die Model Card nennt 119B Gesamtparameter, 6,5B aktive Parameter und bis zu 256k Kontext; Hugging Face führt das Modell unter Apache-2.0 und beschreibt es als open-source Code-Agent-Modell für mathematische Beweise und Software-Spezifikationen.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Formale Beweise und verifizierbare Spezifikationen rücken näher an praktische Entwickler-Workflows heran. Wenn spezialisierte Modelle Bugs in Code und Eigenschaften von Systemen besser in formale Prüfungen übersetzen können, entstehen neue Bausteine für sicherheitskritische Software, Forschung, automatisierte Reviews und agentische Coding-Pipelines.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://docs.mistral.ai/models/model-cards/leanstral-1-5" class="source-pill" target="_blank" rel="noopener">Mistral AI Docs</a>
+<a href="https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B" class="source-pill" target="_blank" rel="noopener">Hugging Face</a>
+<a href="https://mistral.ai/news/leanstral-1-5/" class="source-pill" target="_blank" rel="noopener">Mistral AI News</a></div>
+        <div class="tags-row"><span class="tag">Mistral</span> <span class="tag">Leanstral 1.5</span> <span class="tag">Formal Methods</span> <span class="tag">Coding Agents</span> <span class="tag">Open Source</span></div>
+        <span class="confidence confidence-high">high</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>GitHub öffnet Streaming und API für Copilot-Agentensitzungen</h2>
+      <p class="summary">GitHub stellt Copilot Agent Session Streaming als Public Preview bereit. Enterprise-Cloud-Kunden mit Enterprise Managed Users können damit Sitzungsdaten aus Copilot-Clients wie GitHub.com-Cloud-Agenten, Copilot CLI, VS Code, Visual Studio und Partner-IDEs abrufen; die Daten umfassen laut GitHub unter anderem Prompts, Antworten und Tool Calls und lassen sich über Streaming-Endpunkte oder eine REST API auswerten.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Coding-Agenten werden produktiver, aber auch schwerer zu kontrollieren. Sichtbarkeit in Prompts, Antworten und Tool-Nutzung ist ein wichtiger Schritt für Auditierbarkeit, Compliance, Kostenkontrolle und Incident-Analyse, besonders wenn Unternehmen Agenten über mehrere Entwicklungsumgebungen hinweg einsetzen.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview" class="source-pill" target="_blank" rel="noopener">GitHub Changelog</a></div>
+        <div class="tags-row"><span class="tag">GitHub</span> <span class="tag">Copilot</span> <span class="tag">Coding Agents</span> <span class="tag">Governance</span> <span class="tag">Enterprise AI</span></div>
+        <span class="confidence confidence-high">high</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>pxpipe zeigt Token-Kompression per Bild-Kontext für Claude-Code-Workflows</h2>
+      <p class="summary">Das Open-Source-Projekt pxpipe rendert große Textkontexte wie Systemprompts, Tool-Dokumentation und Verlauf lokal als PNGs, bevor Requests an Claude Code weitergegeben werden. Der README beschreibt den Ansatz als lokalen Proxy und nennt deutlich niedrigere Eingabetoken auf dichten Coding-Kontexten; die Projekt-Findings betonen zugleich, dass es sich um eine verlustbehaftete Kompression mit Grenzen bei exakter Textwiedergabe handelt.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Der Ansatz ist weniger eine fertige Best Practice als ein Signal: Lange Agenten-Kontexte bleiben teuer und technisch fragil. Teams, die Coding-Agenten einsetzen, brauchen Messung, Kostenkontrolle und klare Qualitätsgrenzen, bevor sie Kontext-Kompression oder multimodale Workarounds in produktive Workflows übernehmen.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://github.com/teamchong/pxpipe" class="source-pill" target="_blank" rel="noopener">GitHub: pxpipe</a>
+<a href="https://github.com/teamchong/pxpipe/blob/main/FINDINGS.md" class="source-pill" target="_blank" rel="noopener">GitHub: pxpipe Findings</a>
+<a href="https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/" class="source-pill" target="_blank" rel="noopener">THE DECODER</a></div>
+        <div class="tags-row"><span class="tag">Coding Agents</span> <span class="tag">Token Costs</span> <span class="tag">Claude Code</span> <span class="tag">Open Source</span> <span class="tag">Developer Tools</span></div>
+        <span class="confidence confidence-medium">medium</span>
+      </div>
+    </article>
+  </main>
+  <footer>
+    <p><a href="../index.html">← Zurück zur Übersicht</a></p>
+  </footer>
+</body>
+</html>

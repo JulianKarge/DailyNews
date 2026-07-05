@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-05",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 05.07.2026",
+    "title": "Daily AI News — Sonntag, 05.07.2026",
+    "summary": "Heute im Fokus: Mistrals Leanstral 1.5 für formale Beweise und Code-Verifikation, Audit-Daten für Copilot-Agentensitzungen und ein Open-Source-Ansatz zur Token-Kompression bei Coding-Agenten.",
+    "file": "pages/2026-07-05.html",
+    "markdownFile": "news/2026-07-05.md",
+    "tags": [
+      "Mistral",
+      "Leanstral 1.5",
+      "Formal Methods",
+      "Coding Agents",
+      "Open Source",
+      "GitHub",
+      "Copilot",
+      "Governance",
+      "Enterprise AI",
+      "Token Costs",
+      "Claude Code",
+      "Developer Tools"
+    ],
+    "visualTag": "AI Agents",
+    "sources": [
+      {
+        "name": "Mistral AI Docs",
+        "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B"
+      },
+      {
+        "name": "Mistral AI News",
+        "url": "https://mistral.ai/news/leanstral-1-5/"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview"
+      },
+      {
+        "name": "GitHub: pxpipe",
+        "url": "https://github.com/teamchong/pxpipe"
+      },
+      {
+        "name": "GitHub: pxpipe Findings",
+        "url": "https://github.com/teamchong/pxpipe/blob/main/FINDINGS.md"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-04",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 04.07.2026",
