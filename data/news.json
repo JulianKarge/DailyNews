@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-06",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 06.07.2026",
+    "title": "Daily AI News — Montag, 06.07.2026",
+    "summary": "Heute im Fokus: Meta zeigt nicht-invasive Gehirn-zu-Text-Forschung, Hugging Face stärkt Kernel-Infrastruktur und OpenAI/Broadcom adressieren LLM-Inferenz auf Chip-Ebene.",
+    "file": "pages/2026-07-06.html",
+    "markdownFile": "news/2026-07-06.md",
+    "tags": [
+      "Meta",
+      "Brain2Qwerty",
+      "NeuroAI",
+      "Assistive AI",
+      "Research",
+      "Hugging Face",
+      "Inference",
+      "AI Infrastructure",
+      "Kernels",
+      "Developer Tools",
+      "OpenAI",
+      "Broadcom",
+      "AI Chips",
+      "Infrastructure"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/revamped-kernels"
+      },
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+      }
+    ]
+  },
+  {
     "date": "2026-07-05",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 05.07.2026",
