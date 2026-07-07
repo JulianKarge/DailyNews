@@ -1,5 +1,39 @@
 [
   {
+    "date": "2026-07-07",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 07.07.2026",
+    "title": "Daily AI News — Dienstag, 07.07.2026",
+    "summary": "Heute im Fokus: Hugging Face veröffentlicht LeRobot 0.6 für iterativere Robotics-Experimente, während Anthropic zeigt, wie Claude Code in Alberta für großflächige Code-Sicherheitsprüfungen eingesetzt wird.",
+    "file": "pages/2026-07-07.html",
+    "markdownFile": "news/2026-07-07.md",
+    "tags": [
+      "Hugging Face",
+      "LeRobot",
+      "Robotics",
+      "Open Source",
+      "Evaluation",
+      "Automation",
+      "Anthropic",
+      "Claude Code",
+      "Cybersecurity",
+      "Government",
+      "Coding Agents",
+      "Enterprise AI"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lerobot-release-v060"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "weekday": "Montag",
     "dateLabel": "Montag, 06.07.2026",

@@ -4,11 +4,44 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-06T12:08:20Z",
-  "count": 25,
-  "latest_date": "2026-07-06",
+  "updated_at": "2026-07-07T00:05:06Z",
+  "count": 26,
+  "latest_date": "2026-07-07",
   "base_url": "https://juliankarge.github.io/DailyNews/",
   "days": [
+    {
+      "id": "2026-07-07",
+      "date": "2026-07-07",
+      "weekday": "Dienstag",
+      "date_label": "Dienstag, 07.07.2026",
+      "title": "Daily AI News — Dienstag, 07.07.2026",
+      "dek": "Zwei frische AI-Updates mit Praxisnähe: offene Robotics-Workflows bei Hugging Face und Claude Code als Sicherheitshelfer in der öffentlichen Verwaltung.",
+      "language": "de",
+      "status": "published",
+      "tags": [
+        "Hugging Face",
+        "LeRobot",
+        "Robotics",
+        "Open Source",
+        "Evaluation",
+        "Automation",
+        "Anthropic",
+        "Claude Code",
+        "Cybersecurity",
+        "Government",
+        "Coding Agents",
+        "Enterprise AI"
+      ],
+      "hero": {
+        "topic": "LeRobot 0.6 und Claude Code in Cybersecurity-Prüfungen",
+        "accent": "#3b82f6",
+        "image_alt": "Abstrakte AI-News-Karte für Dienstag, 07.07.2026"
+      },
+      "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-07.json",
+      "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-07.html",
+      "item_count": 2,
+      "source_count": 2
+    },
     {
       "id": "2026-07-06",
       "date": "2026-07-06",
