@@ -1,5 +1,6 @@
 const cardsEl = document.querySelector('#cards');
 const featuredEl = document.querySelector('#featured');
+const archiveListEl = document.querySelector('#archive-list');
 const searchEl = document.querySelector('#search');
 const emptyEl = document.querySelector('#empty');
 
@@ -20,7 +21,10 @@ const tagMarkup = (tags = []) => tags.map(tag => `<span class="tag">${escapeHtml
 const sourceMarkup = (sources = [], limit = 3) => {
   const visible = sources.slice(0, limit);
   if (!visible.length) return '<span class="source-note">Quellen werden im nächsten Digest sichtbarer erfasst.</span>';
-  return visible.map(source => `<a class="source-pill" href="${source.url}" target="_blank" rel="noreferrer">${escapeHtml(source.label)} ↗</a>`).join('');
+  return visible.map(source => {
+    const label = source.label || source.name || 'Quelle';
+    return `<a class="source-pill" href="${source.url}" target="_blank" rel="noreferrer">${escapeHtml(label)} ↗</a>`;
+  }).join('');
 };
 
 const visualMarkup = (item) => `
@@ -45,6 +49,12 @@ const cardMarkup = (item) => `
     </div>
   </article>`;
 
+const archiveLinkMarkup = (item, index) => `
+  <a class="archive-link${index === 0 ? ' current' : ''}" href="${item.file}">
+    <span>${escapeHtml(item.dateLabel || fmtDate(item.date))}</span>
+    <strong>${escapeHtml(item.title || 'Daily AI News')}</strong>
+  </a>`;
+
 function render(items) {
   const [latest, ...rest] = items;
   featuredEl.innerHTML = latest ? `
@@ -61,11 +71,12 @@ function render(items) {
       </div>
       <a class="button primary" href="${latest.file}">Tagesseite öffnen →</a>
     </article>` : '';
+  archiveListEl.innerHTML = items.map(archiveLinkMarkup).join('');
   cardsEl.innerHTML = rest.map(cardMarkup).join('');
   emptyEl.hidden = items.length !== 0;
 }
 
-const response = await fetch('./data/news.json', { cache: 'no-store' });
+const response = await fetch(`./data/news.json?v=${Date.now()}`, { cache: 'no-store' });
 const news = await response.json();
 
 const sourceCount = news.reduce((sum, item) => sum + (item.sources?.length || item.links?.length || 0), 0);

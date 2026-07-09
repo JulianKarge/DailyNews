@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Daily AI News · KIFlowState</title>
   <meta name="description" content="Julians tägliches KI-News Archiv: kompakt, durchsuchbar, GitHub Pages-ready." />
+  <link rel="icon" href="data:,">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -48,6 +49,13 @@
       </section>
 
       <section id="featured" class="featured"></section>
+      <section class="panel archive-panel" aria-labelledby="archive-title">
+        <div class="archive-heading">
+          <p class="section-kicker">Timeline</p>
+          <h2 id="archive-title">Alle Tage</h2>
+        </div>
+        <nav id="archive-list" class="archive-list" aria-label="Alle Daily News Tage"></nav>
+      </section>
       <section id="cards" class="cards" aria-live="polite"></section>
       <p id="empty" class="empty" hidden>Keine News für diese Suche gefunden.</p>
     </main>
@@ -58,6 +66,6 @@
     </footer>
   </div>
 
-  <script src="app.js" type="module"></script>
+  <script src="app.js?v=20260709-archive-list" type="module"></script>
 </body>
 </html>

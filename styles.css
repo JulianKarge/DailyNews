@@ -49,6 +49,15 @@ input:focus { border-color: rgba(59,130,246,.55); box-shadow: 0 0 0 4px rgba(59,
 .featured { margin-bottom: 20px; }
 .featured-card { display: grid; grid-template-columns: 220px 1fr auto; gap: 24px; padding: 28px; border-radius: 32px; color: white; background: linear-gradient(135deg, var(--blue-dark), var(--accent)); box-shadow: 0 26px 80px rgba(30,58,138,.28); }
 .featured-card p { color: rgba(255,255,255,.82); }
+.archive-panel { padding: 24px; margin: 0 0 24px; }
+.archive-heading { display: flex; align-items: end; justify-content: space-between; gap: 18px; margin-bottom: 16px; }
+.archive-list { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+.archive-link { display: grid; gap: 5px; min-height: 84px; padding: 14px; border: 1px solid var(--line); border-radius: 18px; text-decoration: none; background: rgba(248,250,252,.9); }
+.archive-link:hover { border-color: rgba(59,130,246,.4); background: white; }
+.archive-link span { color: var(--muted); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
+.archive-link strong { font-size: 15px; line-height: 1.2; letter-spacing: -0.03em; }
+.archive-link.current { color: white; background: linear-gradient(135deg, var(--blue), var(--blue-dark)); }
+.archive-link.current span { color: rgba(255,255,255,.78); }
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
 .card { display: flex; flex-direction: column; min-height: 310px; padding: 22px; border: 1px solid var(--line); border-radius: 28px; background: var(--card); box-shadow: 0 18px 44px rgba(15,23,42,.08); backdrop-filter: blur(18px); transition: transform .18s ease, box-shadow .18s ease; }
 .card:hover { transform: translateY(-3px); box-shadow: 0 28px 70px rgba(15,23,42,.13); }
@@ -83,6 +92,6 @@ footer { display: flex; justify-content: space-between; gap: 12px; color: var(--
   .hero-grid, .featured-card { grid-template-columns: 1fr; }
   .topbar, .controls, footer { align-items: flex-start; flex-direction: column; }
   .search-wrap { max-width: none; width: 100%; }
-  .cards { grid-template-columns: 1fr; }
+  .cards, .archive-list { grid-template-columns: 1fr; }
   .topbar { margin-bottom: 44px; }
 }
