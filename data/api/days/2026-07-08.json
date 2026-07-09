@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-07-08",
+  "date": "2026-07-08",
+  "weekday": "Mittwoch",
+  "date_label": "Mittwoch, 08.07.2026",
+  "title": "Daily AI News — Mittwoch, 08.07.2026",
+  "dek": "Kompakter Archiv-Nachtrag: Grok 4.5 für Coding und Agenten, OpenAI-Schulungen für Lehrkräfte und offene Datenbausteine für Agenten.",
+  "language": "de",
+  "status": "published",
+  "tags": [
+    "xAI",
+    "Grok 4.5",
+    "Coding",
+    "Agents",
+    "Knowledge Work",
+    "Office AI",
+    "OpenAI",
+    "Education",
+    "AI Literacy",
+    "OpenAI Academy",
+    "K-12",
+    "Responsible AI",
+    "Hugging Face",
+    "NVIDIA",
+    "Agent Data",
+    "Open Models",
+    "Synthetic Data",
+    "Evaluation"
+  ],
+  "hero": {
+    "topic": "Grok 4.5, OpenAI AI Skills Jam und offene Agenten-Daten",
+    "accent": "#3b82f6",
+    "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 08.07.2026"
+  },
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-08.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-08.html",
+  "items": [
+    {
+      "title": "xAI bringt Grok 4.5 für Coding, Agenten und Office-Arbeit",
+      "summary": "xAI stellt Grok 4.5 als neues Modell für Coding, agentische Aufgaben und Wissensarbeit vor. Die Ankündigung hebt Engineering-Benchmarks, schnellere Ausgabe, geringere Token-Nutzung und Integrationen in Grok Build, Cursor und die xAI-API hervor.",
+      "why_it_matters": "Für Teams wird Modellwahl praktischer und kompetitiver: Neben reiner Intelligenz zählen Kosten pro Aufgabe, Tool-Integration und wie stabil ein Modell längere Arbeitsabläufe erledigt. Gerade für Coding- und Office-Agenten wird damit Benchmark-Marketing schneller zu Beschaffungsarbeit.",
+      "sources": [
+        {
+          "name": "xAI News",
+          "url": "https://x.ai/news/grok-4-5"
+        },
+        {
+          "name": "xAI News Übersicht",
+          "url": "https://x.ai/news"
+        }
+      ],
+      "tags": [
+        "xAI",
+        "Grok 4.5",
+        "Coding",
+        "Agents",
+        "Knowledge Work",
+        "Office AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "xAI News",
+        "url": "https://x.ai/news/grok-4-5"
+      }
+    },
+    {
+      "title": "OpenAI startet AI Skills Jam für K-12-Lehrkräfte",
+      "summary": "OpenAI Academy kündigt gemeinsam mit der Walton Family Foundation praktische AI-Workshops für mehr als 1.600 Lehrkräfte, Administratoren und Schulverantwortliche an. Der Fokus liegt auf Unterrichtsplanung, Kommunikation, Verwaltung und verantwortlicher AI-Nutzung im Schulalltag.",
+      "why_it_matters": "AI-Adoption wird nicht nur über neue Modelle entschieden, sondern darüber, ob normale Organisationen genug Wissen und Vertrauen aufbauen. Für Schulen ist das besonders relevant: gute Leitplanken, konkrete Übungen und lokale Partner sind nützlicher als abstrakte Grundsatzdebatten.",
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/k-12-educators-practical-skills/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Education",
+        "AI Literacy",
+        "OpenAI Academy",
+        "K-12",
+        "Responsible AI"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/k-12-educators-practical-skills/"
+      }
+    },
+    {
+      "title": "Hugging Face und NVIDIA ordnen offene Daten für Agenten ein",
+      "summary": "Ein NVIDIA-Beitrag auf Hugging Face beschreibt, warum offene und synthetische Datensätze für agentische Systeme wichtiger werden. Der Artikel verweist unter anderem auf Nemotron-Daten und darauf, wie offene Modelle und Datensätze in der Forschung breiter genutzt werden.",
+      "why_it_matters": "Agenten werden nicht nur durch bessere Prompts besser. Sie brauchen Trainings- und Evaluationsdaten, die komplexe Aufgaben, Tool-Nutzung und mehrstufige Entscheidungen abbilden. Für Unternehmen und Entwickler ist das ein Hinweis, dass Datenstrategie für Agenten ein eigenes Thema wird.",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "NVIDIA",
+        "Agent Data",
+        "Open Models",
+        "Synthetic Data",
+        "Evaluation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+      }
+    }
+  ],
+  "item_count": 3,
+  "source_count": 4,
+  "summary": "Heute im Fokus: xAI positioniert Grok 4.5 für Coding- und Agentenarbeit, OpenAI bringt praktische AI-Skills in K-12-Schulen, und Hugging Face/NVIDIA zeigen, warum Daten für Agenten zur Kernfrage werden.",
+  "generated_at": "2026-07-09T18:25:00Z",
+  "sources": [
+    {
+      "name": "xAI News",
+      "url": "https://x.ai/news/grok-4-5"
+    },
+    {
+      "name": "xAI News Übersicht",
+      "url": "https://x.ai/news"
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/index/k-12-educators-practical-skills/"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+    }
+  ]
+}
