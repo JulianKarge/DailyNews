@@ -70,16 +70,10 @@
       "weekday": "Mittwoch",
       "date_label": "Mittwoch, 08.07.2026",
       "title": "Daily AI News — Mittwoch, 08.07.2026",
-      "dek": "Kompakter Archiv-Nachtrag: Grok 4.5 für Coding und Agenten, OpenAI-Schulungen für Lehrkräfte und offene Datenbausteine für Agenten.",
+      "dek": "Kompakter Archiv-Nachtrag: OpenAI-Schulungen für Lehrkräfte und offene Datenbausteine für Agenten.",
       "language": "de",
       "status": "published",
       "tags": [
-        "xAI",
-        "Grok 4.5",
-        "Coding",
-        "Agents",
-        "Knowledge Work",
-        "Office AI",
         "OpenAI",
         "Education",
         "AI Literacy",
@@ -94,14 +88,14 @@
         "Evaluation"
       ],
       "hero": {
-        "topic": "Grok 4.5, OpenAI AI Skills Jam und offene Agenten-Daten",
+        "topic": "OpenAI AI Skills Jam und offene Agenten-Daten",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 08.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-08.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-08.html",
-      "item_count": 3,
-      "source_count": 4
+      "item_count": 2,
+      "source_count": 2
     },
     {
       "id": "2026-07-07",

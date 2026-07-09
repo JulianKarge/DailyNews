@@ -84,16 +84,10 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 08.07.2026",
     "title": "Daily AI News — Mittwoch, 08.07.2026",
-    "summary": "Heute im Fokus: xAI positioniert Grok 4.5 für Coding- und Agentenarbeit, OpenAI bringt praktische AI-Skills in K-12-Schulen, und Hugging Face/NVIDIA zeigen, warum Daten für Agenten zur Kernfrage werden.",
+    "summary": "Heute im Fokus: OpenAI bringt praktische AI-Skills in K-12-Schulen, und Hugging Face/NVIDIA zeigen, warum Daten für Agenten zur Kernfrage werden.",
     "file": "pages/2026-07-08.html",
     "markdownFile": "news/2026-07-08.md",
     "tags": [
-      "xAI",
-      "Grok 4.5",
-      "Coding",
-      "Agents",
-      "Knowledge Work",
-      "Office AI",
       "OpenAI",
       "Education",
       "AI Literacy",
@@ -109,14 +103,6 @@
     ],
     "visualTag": "Daily AI News",
     "sources": [
-      {
-        "name": "xAI News",
-        "url": "https://x.ai/news/grok-4-5"
-      },
-      {
-        "name": "xAI News Übersicht",
-        "url": "https://x.ai/news"
-      },
       {
         "name": "OpenAI News",
         "url": "https://openai.com/index/k-12-educators-practical-skills/"
