@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-10",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 10.07.2026",
+    "title": "Daily AI News — Freitag, 10.07.2026",
+    "summary": "Heute im Fokus: GPT-5.6 landet tiefer in Microsoft 365, OpenAI startet eine Bio-Safety-Bounty, Coding-Benchmarks bekommen Gegenwind, Anthropic sammelt harte öffentliche AI-Fragen und Cohere baut Speech-to-Text als Enterprise-Baustein aus.",
+    "file": "pages/2026-07-10.html",
+    "markdownFile": "news/2026-07-10.md",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "Microsoft 365 Copilot",
+      "Productivity",
+      "Office AI",
+      "Enterprise AI",
+      "Bio Safety",
+      "Bug Bounty",
+      "AI Governance",
+      "Risk Management",
+      "GPT-5.5",
+      "Coding Agents",
+      "Benchmarks",
+      "SWE-Bench Pro",
+      "Evaluation",
+      "Developer Tools",
+      "Anthropic",
+      "Transparency",
+      "Public Questions",
+      "Responsible AI",
+      "Trust",
+      "Cohere",
+      "Transcribe",
+      "Speech Recognition",
+      "Voice AI",
+      "Workflow Automation"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/bio-bug-bounty"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+      },
+      {
+        "name": "Anthropic News",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "name": "Cohere Transcribe",
+        "url": "https://cohere.com/transcribe"
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 09.07.2026",
