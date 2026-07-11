@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-07-11",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 11.07.2026",
+    "title": "Daily AI News — Samstag, 11.07.2026",
+    "summary": "Heute im Fokus: Ein neues World-Model für Robotik, OpenAI als Telco-Betriebssystem-Baustein und ein ehrlicher Blick darauf, warum bessere Agenten-Tools nicht automatisch bessere Code-Reviews machen.",
+    "file": "pages/2026-07-11.html",
+    "markdownFile": "news/2026-07-11.md",
+    "tags": [
+      "World Models",
+      "Robotics",
+      "BAAI",
+      "Orca",
+      "Embodied AI",
+      "Research",
+      "OpenAI",
+      "Deutsche Telekom",
+      "Enterprise AI",
+      "Customer Service",
+      "Voice AI",
+      "Network Operations",
+      "GitHub",
+      "Copilot",
+      "Code Review",
+      "Coding Agents",
+      "Developer Tools",
+      "Agent Workflows"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2606.30534"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/deutsche-telekom"
+      },
+      {
+        "name": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 10.07.2026",
