@@ -1,5 +1,59 @@
 [
   {
+    "date": "2026-07-12",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 12.07.2026",
+    "title": "Daily AI News — Sonntag, 12.07.2026",
+    "summary": "Heute im Fokus: OpenAIs Infrastrukturwette wird finanzmarktrelevant, Sora bewegt sich Richtung wiederholbarer Creator-Workflows, Claude Cowork zeigt die Bürorealität von AI und Meta schärft Bild- und Video-KI mit Muse.",
+    "file": "pages/2026-07-12.html",
+    "markdownFile": "news/2026-07-12.md",
+    "tags": [
+      "OpenAI",
+      "Oracle",
+      "AI Infrastructure",
+      "Data Centers",
+      "Finance",
+      "Enterprise AI",
+      "Sora",
+      "Video AI",
+      "Creator Tools",
+      "Marketing",
+      "Multimodal AI",
+      "Anthropic",
+      "Claude Cowork",
+      "Productivity",
+      "Office AI",
+      "Workflow Automation",
+      "Meta",
+      "Muse Image",
+      "Muse Video",
+      "Image AI"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "THE DECODER / S&P Global",
+        "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/"
+      },
+      {
+        "name": "THE DECODER / SoftBank",
+        "url": "https://the-decoder.com/softbank-reportedly-slashes-openai-backed-loan-from-10-billion-to-6-billion-as-lenders-balk-at-private-ai-valuations/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/openai-adds-character-cameos-and-video-stitching-to-its-sora-generator/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/"
+      },
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 11.07.2026",
