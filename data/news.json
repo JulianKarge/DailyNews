@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-07-13",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 13.07.2026",
+    "title": "Daily AI News — Montag, 13.07.2026",
+    "summary": "Heute im Fokus: Claude Code rückt mit Browser-Bedienung näher an echte Web-Arbeit, Meta zieht bei Muse eine Consent-Grenze, AgenticSTS zeigt bessere Agenten-Erinnerung und LinkedIn wird zum Prüfstand für generischen AI-Content.",
+    "file": "pages/2026-07-13.html",
+    "markdownFile": "news/2026-07-13.md",
+    "tags": [
+      "Anthropic",
+      "Claude Code",
+      "Browser Automation",
+      "AI Agents",
+      "Workflow Automation",
+      "Developer Tools",
+      "Meta",
+      "Muse Image",
+      "Instagram",
+      "Image AI",
+      "Privacy",
+      "Creator Tools",
+      "AI Governance",
+      "Agent Memory",
+      "Research",
+      "Prompt Engineering",
+      "Automation",
+      "Open Source",
+      "LinkedIn",
+      "AI Content",
+      "Marketing",
+      "Social Media",
+      "Detection"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/"
+      },
+      {
+        "name": "Claude Code Docs",
+        "url": "https://code.claude.com/docs/en/chrome"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/"
+      },
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
+      },
+      {
+        "name": "STS2-Agent GitHub",
+        "url": "https://github.com/CharTyr/STS2-Agent"
+      },
+      {
+        "name": "AgenticSTS trajectories",
+        "url": "https://huggingface.co/datasets/ShandaAI/AgenticSTS-trajectories"
+      },
+      {
+        "name": "Pangram",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 12.07.2026",
