@@ -5,7 +5,7 @@
   "weekday": "Montag",
   "date_label": "Montag, 13.07.2026",
   "title": "Daily AI News — Montag, 13.07.2026",
-  "dek": "Vier frische AI-Updates mit Praxisnähe: Claude Code bekommt Web-Bedienung, Meta korrigiert Muse nach Consent-Kritik, Agenten lernen strukturierteres Gedächtnis und LinkedIn bekommt ein AI-Content-Problem.",
+  "dek": "Fünf frische AI-Updates mit Praxisnähe: Claude Code bedient Webseiten, Meta zieht bei Muse eine Consent-Grenze, Agenten lernen besseres Gedächtnis, Soofi S stärkt offene deutschsprachige Modelle und LinkedIn bekommt ein AI-Content-Problem.",
   "language": "de",
   "status": "published",
   "tags": [
@@ -27,6 +27,13 @@
     "Prompt Engineering",
     "Automation",
     "Open Source",
+    "Soofi S",
+    "Open Models",
+    "Germany",
+    "Sovereign AI",
+    "Hugging Face",
+    "Multilingual AI",
+    "Enterprise AI",
     "LinkedIn",
     "AI Content",
     "Marketing",
@@ -34,7 +41,7 @@
     "Detection"
   ],
   "hero": {
-    "topic": "Claude Code Browser, Meta Muse Consent, AgenticSTS Memory und LinkedIn AI-Slop",
+    "topic": "Claude Code Browser, Meta Muse Consent, AgenticSTS Memory, Soofi S und LinkedIn AI-Slop",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 13.07.2026"
   },
@@ -131,6 +138,39 @@
       }
     },
     {
+      "title": "Soofi S zeigt: offene europäische Modelle werden praktischer – und deutscher",
+      "summary": "Ein deutsches Forschungskonsortium hat Soofi S als offene 30B-Modellfamilie auf Hugging Face veröffentlicht. THE DECODER ordnet das Modell als deutsch- und englischstarkes Release ein; die Hugging-Face-Modellseiten nennen unter anderem Mamba-2/MoE-Architektur, Preview-Status sowie Varianten für Instruct, Reasoning und GGUF-Deployment.",
+      "why_it_matters": "Für Unternehmen, öffentliche Stellen und Automatisierer ist das weniger Schlagwort-Romantik als Beschaffungsrealität: Mehr gute Open-Weight-Modelle mit Deutsch-Fokus bedeuten mehr Optionen für lokale Tests, europäische Cloud-Setups und spezialisiertes Feintuning. Nicht jedes Team braucht sofort das größte Frontier-Modell – manchmal reicht ein Modell, das die Sprache der eigenen Dokumente wirklich trifft.",
+      "sources": [
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+        },
+        {
+          "name": "Hugging Face: Soofi-S-Instruct-Preview",
+          "url": "https://huggingface.co/Soofi-Project/Soofi-S-Instruct-Preview"
+        },
+        {
+          "name": "Hugging Face: Soofi-S-Base",
+          "url": "https://huggingface.co/Soofi-Project/Soofi-S-Base"
+        }
+      ],
+      "tags": [
+        "Soofi S",
+        "Open Models",
+        "Germany",
+        "Sovereign AI",
+        "Hugging Face",
+        "Multilingual AI",
+        "Enterprise AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+      }
+    },
+    {
       "title": "LinkedIn wird zum Stresstest für AI-Content: Pangram findet besonders viel Langform-Slop",
       "summary": "Eine Pangram-Auswertung, über die THE DECODER berichtet, sieht rund ein Viertel längerer Social-Media-Beiträge als vollständig AI-generiert. LinkedIn sticht heraus: 41 Prozent der längeren Posts sollen als AI-geschrieben erkannt worden sein, obwohl die Plattform nur etwa ein Drittel der untersuchten Beiträge ausmachte.",
       "why_it_matters": "Für Marketing, Vertrieb und Personal Branding reicht es nicht mehr, einfach mehr AI-Text zu produzieren. Wenn Feeds mit generischer Automationsprosa geflutet werden, gewinnen klarere Positionierung, echte Beispiele und redaktionelle Auswahl. Kurz: Der beste Prompt ist manchmal immer noch ein eigener Gedanke.",
@@ -159,10 +199,10 @@
       }
     }
   ],
-  "item_count": 4,
-  "source_count": 9,
-  "summary": "Heute im Fokus: Claude Code rückt mit Browser-Bedienung näher an echte Web-Arbeit, Meta zieht bei Muse eine Consent-Grenze, AgenticSTS zeigt bessere Agenten-Erinnerung und LinkedIn wird zum Prüfstand für generischen AI-Content.",
-  "generated_at": "2026-07-13T00:04:34Z",
+  "item_count": 5,
+  "source_count": 12,
+  "summary": "Heute im Fokus: Claude Code rückt mit Browser-Bedienung näher an echte Web-Arbeit, Meta zieht bei Muse eine Consent-Grenze, AgenticSTS zeigt bessere Agenten-Erinnerung, Soofi S stärkt offene deutschsprachige Modelle und LinkedIn wird zum Prüfstand für generischen AI-Content.",
+  "generated_at": "2026-07-13T13:51:49Z",
   "sources": [
     {
       "name": "THE DECODER",
@@ -191,6 +231,18 @@
     {
       "name": "AgenticSTS trajectories",
       "url": "https://huggingface.co/datasets/ShandaAI/AgenticSTS-trajectories"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+    },
+    {
+      "name": "Hugging Face: Soofi-S-Instruct-Preview",
+      "url": "https://huggingface.co/Soofi-Project/Soofi-S-Instruct-Preview"
+    },
+    {
+      "name": "Hugging Face: Soofi-S-Base",
+      "url": "https://huggingface.co/Soofi-Project/Soofi-S-Base"
     },
     {
       "name": "Pangram",

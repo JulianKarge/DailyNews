@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-13T00:04:34Z",
+  "updated_at": "2026-07-13T13:51:49Z",
   "count": 32,
   "latest_date": "2026-07-13",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Montag",
       "date_label": "Montag, 13.07.2026",
       "title": "Daily AI News — Montag, 13.07.2026",
-      "dek": "Vier frische AI-Updates mit Praxisnähe: Claude Code bekommt Web-Bedienung, Meta korrigiert Muse nach Consent-Kritik, Agenten lernen strukturierteres Gedächtnis und LinkedIn bekommt ein AI-Content-Problem.",
+      "dek": "Fünf frische AI-Updates mit Praxisnähe: Claude Code bedient Webseiten, Meta zieht bei Muse eine Consent-Grenze, Agenten lernen besseres Gedächtnis, Soofi S stärkt offene deutschsprachige Modelle und LinkedIn bekommt ein AI-Content-Problem.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -37,6 +37,13 @@
         "Prompt Engineering",
         "Automation",
         "Open Source",
+        "Soofi S",
+        "Open Models",
+        "Germany",
+        "Sovereign AI",
+        "Hugging Face",
+        "Multilingual AI",
+        "Enterprise AI",
         "LinkedIn",
         "AI Content",
         "Marketing",
@@ -44,14 +51,14 @@
         "Detection"
       ],
       "hero": {
-        "topic": "Claude Code Browser, Meta Muse Consent, AgenticSTS Memory und LinkedIn AI-Slop",
+        "topic": "Claude Code Browser, Meta Muse Consent, AgenticSTS Memory, Soofi S und LinkedIn AI-Slop",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Montag, 13.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-13.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-13.html",
-      "item_count": 4,
-      "source_count": 9
+      "item_count": 5,
+      "source_count": 12
     },
     {
       "id": "2026-07-12",

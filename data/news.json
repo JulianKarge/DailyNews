@@ -4,7 +4,7 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 13.07.2026",
     "title": "Daily AI News — Montag, 13.07.2026",
-    "summary": "Heute im Fokus: Claude Code rückt mit Browser-Bedienung näher an echte Web-Arbeit, Meta zieht bei Muse eine Consent-Grenze, AgenticSTS zeigt bessere Agenten-Erinnerung und LinkedIn wird zum Prüfstand für generischen AI-Content.",
+    "summary": "Heute im Fokus: Claude Code rückt mit Browser-Bedienung näher an echte Web-Arbeit, Meta zieht bei Muse eine Consent-Grenze, AgenticSTS zeigt bessere Agenten-Erinnerung, Soofi S stärkt offene deutschsprachige Modelle und LinkedIn wird zum Prüfstand für generischen AI-Content.",
     "file": "pages/2026-07-13.html",
     "markdownFile": "news/2026-07-13.md",
     "tags": [
@@ -26,6 +26,13 @@
       "Prompt Engineering",
       "Automation",
       "Open Source",
+      "Soofi S",
+      "Open Models",
+      "Germany",
+      "Sovereign AI",
+      "Hugging Face",
+      "Multilingual AI",
+      "Enterprise AI",
       "LinkedIn",
       "AI Content",
       "Marketing",
@@ -61,6 +68,18 @@
       {
         "name": "AgenticSTS trajectories",
         "url": "https://huggingface.co/datasets/ShandaAI/AgenticSTS-trajectories"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+      },
+      {
+        "name": "Hugging Face: Soofi-S-Instruct-Preview",
+        "url": "https://huggingface.co/Soofi-Project/Soofi-S-Instruct-Preview"
+      },
+      {
+        "name": "Hugging Face: Soofi-S-Base",
+        "url": "https://huggingface.co/Soofi-Project/Soofi-S-Base"
       },
       {
         "name": "Pangram",
