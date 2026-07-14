@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-14T12:03:20Z",
+  "updated_at": "2026-07-14T20:48:12Z",
   "count": 33,
   "latest_date": "2026-07-14",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 14.07.2026",
       "title": "Daily AI News — Dienstag, 14.07.2026",
-      "dek": "Fünf AI-Updates mit Praxisnähe: weniger Prompt-Formel, mehr Ergebnisdenken; ChatGPT Work als Rollen-Playbook für Sales und Data Science; eine schärfere Debatte über Modell-Distillation; ein neues Labor für lernende Agenten; und ein 3D-Agentenexperiment mit Wallets.",
+      "dek": "Sechs AI-Updates mit Praxisnähe: besseres Prompting, ChatGPT-Work-Playbooks, Claude für Lehrkräfte, die Distillation-Debatte, lernende Agenten und ein 3D-Agentenexperiment mit Wallets.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -30,10 +30,14 @@
         "Data Science",
         "Enterprise AI",
         "Workflow Automation",
+        "Anthropic",
+        "Claude for Teachers",
+        "Education",
+        "K-12",
+        "Privacy",
         "Microsoft",
         "Satya Nadella",
         "Model Distillation",
-        "Anthropic",
         "AI Strategy",
         "Rich Sutton",
         "Oak Lab",
@@ -48,14 +52,14 @@
         "Creator Tools"
       ],
       "hero": {
-        "topic": "OpenAI Prompting, ChatGPT Work Playbooks, Distillation, Oak Lab und 3D-Agenten",
+        "topic": "OpenAI Prompting, ChatGPT Work, Claude for Teachers, Distillation, Oak Lab und 3D-Agenten",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 14.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-14.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-14.html",
-      "item_count": 5,
-      "source_count": 8
+      "item_count": 6,
+      "source_count": 9
     },
     {
       "id": "2026-07-13",

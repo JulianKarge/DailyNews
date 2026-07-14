@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 14.07.2026",
     "title": "Daily AI News — Dienstag, 14.07.2026",
-    "summary": "Heute im Fokus: OpenAI vereinfacht Prompting und zeigt ChatGPT-Work-Playbooks für Vertrieb und Data Science, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face experimentiert mit 3D-Agenten samt Wallets.",
+    "summary": "Heute im Fokus: OpenAI vereinfacht Prompting und zeigt ChatGPT-Work-Playbooks, Anthropic bringt Claude in den Lehreralltag, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face experimentiert mit 3D-Agenten samt Wallets.",
     "file": "pages/2026-07-14.html",
     "markdownFile": "news/2026-07-14.md",
     "tags": [
@@ -19,10 +19,14 @@
       "Data Science",
       "Enterprise AI",
       "Workflow Automation",
+      "Anthropic",
+      "Claude for Teachers",
+      "Education",
+      "K-12",
+      "Privacy",
       "Microsoft",
       "Satya Nadella",
       "Model Distillation",
-      "Anthropic",
       "AI Strategy",
       "Rich Sutton",
       "Oak Lab",
@@ -53,6 +57,10 @@
       {
         "name": "OpenAI News RSS",
         "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-for-teachers"
       },
       {
         "name": "THE DECODER",

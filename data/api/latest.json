@@ -5,7 +5,7 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 14.07.2026",
   "title": "Daily AI News — Dienstag, 14.07.2026",
-  "dek": "Fünf AI-Updates mit Praxisnähe: weniger Prompt-Formel, mehr Ergebnisdenken; ChatGPT Work als Rollen-Playbook für Sales und Data Science; eine schärfere Debatte über Modell-Distillation; ein neues Labor für lernende Agenten; und ein 3D-Agentenexperiment mit Wallets.",
+  "dek": "Sechs AI-Updates mit Praxisnähe: besseres Prompting, ChatGPT-Work-Playbooks, Claude für Lehrkräfte, die Distillation-Debatte, lernende Agenten und ein 3D-Agentenexperiment mit Wallets.",
   "language": "de",
   "status": "published",
   "tags": [
@@ -20,10 +20,14 @@
     "Data Science",
     "Enterprise AI",
     "Workflow Automation",
+    "Anthropic",
+    "Claude for Teachers",
+    "Education",
+    "K-12",
+    "Privacy",
     "Microsoft",
     "Satya Nadella",
     "Model Distillation",
-    "Anthropic",
     "AI Strategy",
     "Rich Sutton",
     "Oak Lab",
@@ -38,7 +42,7 @@
     "Creator Tools"
   ],
   "hero": {
-    "topic": "OpenAI Prompting, ChatGPT Work Playbooks, Distillation, Oak Lab und 3D-Agenten",
+    "topic": "OpenAI Prompting, ChatGPT Work, Claude for Teachers, Distillation, Oak Lab und 3D-Agenten",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 14.07.2026"
   },
@@ -100,6 +104,31 @@
       "source": {
         "name": "OpenAI Academy",
         "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+      }
+    },
+    {
+      "title": "Claude for Teachers bringt AI in den Lehreralltag – mit Datenschutzversprechen",
+      "summary": "Anthropic hat Claude for Teachers vorgestellt. Verifizierte K-12-Lehrkräfte in den USA bekommen kostenlosen Zugang zu Premium-Claude-Funktionen, eine Bibliothek mit Unterrichts-Skills und Materialien, die auf Standards in allen 50 Bundesstaaten abgebildet sind. Wichtig ist der Datenschutzteil: Anthropic schreibt, dass Daten aus Claude for Teachers nicht fürs Modelltraining genutzt werden und Schülerdaten über ein K-12 Data Processing Addendum geschützt werden sollen.",
+      "why_it_matters": "Für Schulen verschiebt sich die AI-Debatte damit ein Stück weg vom ewigen „Schreiben Schüler jetzt Hausaufgaben mit Chatbots?“ hin zu einer nüchterneren Frage: Welche Planungs-, Differenzierungs- und Auswertungsarbeit kann AI Lehrkräften abnehmen? Der Haken bleibt die Umsetzung: Das Angebot startet in den USA, und Vertrauen entsteht hier nicht durch schöne Demo-Videos, sondern durch harte Datenschutz- und Schulträger-Prüfungen.",
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-for-teachers"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude for Teachers",
+        "Education",
+        "K-12",
+        "Privacy",
+        "AI Literacy",
+        "Productivity"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-for-teachers"
       }
     },
     {
@@ -180,10 +209,10 @@
       }
     }
   ],
-  "item_count": 5,
-  "source_count": 8,
-  "summary": "Heute im Fokus: OpenAI vereinfacht Prompting und zeigt ChatGPT-Work-Playbooks für Vertrieb und Data Science, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face experimentiert mit 3D-Agenten samt Wallets.",
-  "generated_at": "2026-07-14T12:03:20Z",
+  "item_count": 6,
+  "source_count": 9,
+  "summary": "Heute im Fokus: OpenAI vereinfacht Prompting und zeigt ChatGPT-Work-Playbooks, Anthropic bringt Claude in den Lehreralltag, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face experimentiert mit 3D-Agenten samt Wallets.",
+  "generated_at": "2026-07-14T20:48:12Z",
   "sources": [
     {
       "name": "THE DECODER",
@@ -200,6 +229,10 @@
     {
       "name": "OpenAI News RSS",
       "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-teachers"
     },
     {
       "name": "THE DECODER",
