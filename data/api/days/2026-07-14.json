@@ -5,7 +5,7 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 14.07.2026",
   "title": "Daily AI News — Dienstag, 14.07.2026",
-  "dek": "Vier AI-Updates mit Praxisnähe: weniger Prompt-Formel, mehr Ergebnisdenken; eine schärfere Debatte über Modell-Distillation; ein neues Labor für Agenten, die aus Erfahrung lernen; und ein Hugging-Face-Experiment, das Agenten als handelnde 3D-Akteure denkt.",
+  "dek": "Fünf AI-Updates mit Praxisnähe: weniger Prompt-Formel, mehr Ergebnisdenken; ChatGPT Work als Rollen-Playbook für Sales und Data Science; eine schärfere Debatte über Modell-Distillation; ein neues Labor für lernende Agenten; und ein 3D-Agentenexperiment mit Wallets.",
   "language": "de",
   "status": "published",
   "tags": [
@@ -15,12 +15,16 @@
     "Codex",
     "Productivity",
     "AI Literacy",
+    "ChatGPT Work",
+    "Sales",
+    "Data Science",
+    "Enterprise AI",
+    "Workflow Automation",
     "Microsoft",
     "Satya Nadella",
     "Model Distillation",
     "Anthropic",
     "AI Strategy",
-    "Enterprise AI",
     "Rich Sutton",
     "Oak Lab",
     "AI Agents",
@@ -34,7 +38,7 @@
     "Creator Tools"
   ],
   "hero": {
-    "topic": "OpenAI Prompting, Nadella zu Distillation, Oak Lab und 3D-Agenten",
+    "topic": "OpenAI Prompting, ChatGPT Work Playbooks, Distillation, Oak Lab und 3D-Agenten",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 14.07.2026"
   },
@@ -63,6 +67,39 @@
       "source": {
         "name": "THE DECODER",
         "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/"
+      }
+    },
+    {
+      "title": "OpenAI macht ChatGPT Work greifbarer: Playbooks für Vertrieb und Data Science",
+      "summary": "OpenAI hat zwei neue Academy-Beiträge veröffentlicht, die ChatGPT Work nicht als Demo-Chatbot, sondern als Arbeitssystem für konkrete Rollen zeigen: Vertriebsteams sollen damit Pipeline-Briefs, Meeting-Vorbereitung, Forecast-Reviews und Account-Pläne erstellen; Data-Science-Teams Root-Cause-Briefs, Impact-Readouts, KPI-Memos und Dashboard-Spezifikationen aus Arbeitsdaten ableiten.",
+      "why_it_matters": "Das ist kein neuer Modellname, aber ein wichtiges Produktsignal: AI-Anbieter übersetzen Agenten zunehmend in wiederholbare Büro-Workflows. Für kleine Unternehmen, Sales, Marketing, Operations und Analytics wird damit die Frage praktischer: Welche Aufgaben lassen sich als Ergebnis-Pakete definieren, statt jeden Tag dieselben Informationen aus CRM, Tabellen und Meetings zusammenzukratzen?",
+      "sources": [
+        {
+          "name": "OpenAI Academy: Sales teams",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+        },
+        {
+          "name": "OpenAI Academy: Data science teams",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+        },
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/news/rss.xml"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT Work",
+        "Sales",
+        "Data Science",
+        "Productivity",
+        "Enterprise AI",
+        "Workflow Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI Academy",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
       }
     },
     {
@@ -143,14 +180,26 @@
       }
     }
   ],
-  "item_count": 4,
-  "source_count": 5,
-  "summary": "Heute im Fokus: OpenAI vereinfacht Prompting für Alltag und Codex, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face zeigt ein Experiment mit 3D-Agenten samt Wallets.",
-  "generated_at": "2026-07-14T00:05:23Z",
+  "item_count": 5,
+  "source_count": 8,
+  "summary": "Heute im Fokus: OpenAI vereinfacht Prompting und zeigt ChatGPT-Work-Playbooks für Vertrieb und Data Science, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face experimentiert mit 3D-Agenten samt Wallets.",
+  "generated_at": "2026-07-14T12:03:20Z",
   "sources": [
     {
       "name": "THE DECODER",
       "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/"
+    },
+    {
+      "name": "OpenAI Academy: Sales teams",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "name": "OpenAI Academy: Data science teams",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/news/rss.xml"
     },
     {
       "name": "THE DECODER",
