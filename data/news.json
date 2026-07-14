@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-07-14",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 14.07.2026",
+    "title": "Daily AI News — Dienstag, 14.07.2026",
+    "summary": "Heute im Fokus: OpenAI vereinfacht Prompting für Alltag und Codex, Satya Nadella verschärft die Distillation-Debatte, Rich Suttons Oak Lab setzt auf lernende Agenten und Hugging Face zeigt ein Experiment mit 3D-Agenten samt Wallets.",
+    "file": "pages/2026-07-14.html",
+    "markdownFile": "news/2026-07-14.md",
+    "tags": [
+      "OpenAI",
+      "Prompting",
+      "ChatGPT",
+      "Codex",
+      "Productivity",
+      "AI Literacy",
+      "Microsoft",
+      "Satya Nadella",
+      "Model Distillation",
+      "Anthropic",
+      "AI Strategy",
+      "Enterprise AI",
+      "Rich Sutton",
+      "Oak Lab",
+      "AI Agents",
+      "Reinforcement Learning",
+      "Research",
+      "Autonomous Learning",
+      "Hugging Face",
+      "3D AI",
+      "Virtual Worlds",
+      "Wallets",
+      "Creator Tools"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/"
+      },
+      {
+        "name": "Oak Lab",
+        "url": "https://oaklab.ai/posts/learning-from-experience-instead-of-curated-datasets"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/three-ws/giving-ai-agents-bodies-and-wallets"
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "weekday": "Montag",
     "dateLabel": "Montag, 13.07.2026",
