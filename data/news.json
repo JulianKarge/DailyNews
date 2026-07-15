@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-07-15",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 15.07.2026",
+    "title": "Daily AI News — Mittwoch, 15.07.2026",
+    "summary": "Heute im Fokus: DeepSeek-V4 und GLM-5.2 erweitern das Modellrennen aus China, Cohere bündelt Enterprise-AI, Google macht Agenten mit ADK Go kontrollierbarer und NVIDIA/LangChain setzen auf offenere Agenten-Stacks.",
+    "file": "pages/2026-07-15.html",
+    "markdownFile": "news/2026-07-15.md",
+    "tags": [
+      "DeepSeek",
+      "DeepSeek-V4",
+      "Agents",
+      "Reasoning",
+      "API",
+      "China AI",
+      "Model Release",
+      "Z.ai",
+      "Zhipu AI",
+      "GLM-5.2",
+      "Open Models",
+      "Coding Agents",
+      "Long Context",
+      "Multimodal AI",
+      "Cohere",
+      "Command",
+      "North Mini Code",
+      "Enterprise AI",
+      "Search",
+      "Google",
+      "ADK Go 2.0",
+      "AI Agents",
+      "Multi-Agent Systems",
+      "Automation",
+      "Developer Tools",
+      "Human in the Loop",
+      "NVIDIA",
+      "Nemotron",
+      "LangChain",
+      "Infrastructure"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "name": "DeepSeek Ankündigung auf WeChat",
+        "url": "https://mp.weixin.qq.com/s/8bxXqS2R8Fx5-1TLDBiEDg"
+      },
+      {
+        "name": "Z.ai / Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "name": "Cohere Command",
+        "url": "https://cohere.com/command"
+      },
+      {
+        "name": "Cohere: North Mini Code",
+        "url": "https://cohere.com/blog/north-mini-code"
+      },
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/announcing-adk-go-20/"
+      },
+      {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 14.07.2026",
