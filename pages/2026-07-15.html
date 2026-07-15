@@ -10,7 +10,7 @@
 <body>
   <header>
     <h1>Mittwoch, 15.07.2026 · Daily AI News</h1>
-    <p class="dek">Fünf AI-Updates mit Praxisnutzen: zwei neue chinesische Modelllinien, Cohere als Enterprise-Baukasten, Googles kontrollierbarere Multi-Agenten und NVIDIAs offene Agenten-Infrastruktur.</p>
+    <p class="dek">Sieben AI-Updates mit Praxisnutzen: neue Modelllinien aus China, Enterprise-AI von Cohere, kontrollierbarere Agenten-Frameworks, offene Infrastruktur, Codex-Transparenz und sparsamere Agenten-Forschung.</p>
   </header>
   <main>
     <article class="news-item">
@@ -75,6 +75,32 @@
       <div class="item-meta">
         <div class="sources"><a href="https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/" class="source-pill" target="_blank" rel="noopener">NVIDIA Blog</a></div>
         <div class="tags-row"><span class="tag">NVIDIA</span> <span class="tag">Nemotron</span> <span class="tag">LangChain</span> <span class="tag">Open Models</span> <span class="tag">AI Agents</span> <span class="tag">Enterprise AI</span> <span class="tag">Infrastructure</span></div>
+        <span class="confidence confidence-medium">medium</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>Codex macht Agenten-Delegation zur Blackbox</h2>
+      <p class="summary">THE DECODER berichtet, dass OpenAIs Codex seit Anfang Juni die Anweisungen verschlüsselt, die ein Hauptagent an Subagenten weitergibt. In der Session-Historie sehen Entwickler dadurch nicht mehr den lesbaren Auftrag, sondern eine Zeichenkette; bei größeren GPT-5.6-Varianten soll diese Verschlüsselung verpflichtend sein. Die öffentliche Codex-Dokumentation und das Changelog zeigen zumindest die Richtung: Codex wird stärker als Multi-Agent-System gedacht, nicht nur als Chatfenster für Code.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Teams ist das ein echter Zielkonflikt. Mehr Agenten im Hintergrund können komplexe Aufgaben schneller zerlegen, aber weniger Einblick macht Debugging, Audit und Vertrauen schwieriger. Wer Coding-Agenten produktiv nutzt, sollte Logs, Tests und Review-Pflichten nicht lockern, nur weil die Delegation unsichtbarer wird.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/" class="source-pill" target="_blank" rel="noopener">THE DECODER</a> <a href="https://developers.openai.com/codex/changelog" class="source-pill" target="_blank" rel="noopener">OpenAI Codex Changelog</a></div>
+        <div class="tags-row"><span class="tag">OpenAI</span> <span class="tag">Codex</span> <span class="tag">Coding Agents</span> <span class="tag">Subagents</span> <span class="tag">Transparency</span> <span class="tag">Developer Tools</span> <span class="tag">AI Governance</span></div>
+        <span class="confidence confidence-medium">medium</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>Neue Agenten-Forschung fragt: Muss der Bot wirklich den ganzen Code durchsuchen?</h2>
+      <p class="summary">Ein neues arXiv-Paper beschreibt ein ziemlich alltägliches Agentenproblem: Viele LLM-Agenten behandeln kleine Aufgaben wie einen Mini-Codebase-Audit und lesen mehr Kontext, als nötig ist. Die Autoren schlagen mit E3 einen Ablauf vor, bei dem ein Agent erst den Aufwand schätzt, einen minimalen Pfad ausführt und nur bei fehlgeschlagener Verifikation mehr Kontext lädt. In ihrem Benchmark erreicht E3 die gleiche Erfolgsrate wie die stärkste Baseline, senkt aber Kosten, Tokens und geprüfte Dateien deutlich.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Automatisierer ist das weniger akademisch, als es klingt. Wenn Agenten jede kleine Änderung mit Vollgas bearbeiten, werden sie teuer, langsam und schwer nachvollziehbar. Die praktische Frage für Tool-Bauer lautet: Kann der Agent vor dem Losrennen kurz überlegen, ob wirklich die ganze Garage durchsucht werden muss, nur weil der Schraubenzieher fehlt?</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://arxiv.org/abs/2607.13034v1" class="source-pill" target="_blank" rel="noopener">arXiv</a></div>
+        <div class="tags-row"><span class="tag">AI Agents</span> <span class="tag">Agent Evaluation</span> <span class="tag">Benchmarks</span> <span class="tag">Cost</span> <span class="tag">Automation</span> <span class="tag">Research</span> <span class="tag">Developer Tools</span></div>
         <span class="confidence confidence-medium">medium</span>
       </div>
     </article>

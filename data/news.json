@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 15.07.2026",
     "title": "Daily AI News — Mittwoch, 15.07.2026",
-    "summary": "Heute im Fokus: DeepSeek-V4 und GLM-5.2 erweitern das Modellrennen aus China, Cohere bündelt Enterprise-AI, Google macht Agenten mit ADK Go kontrollierbarer und NVIDIA/LangChain setzen auf offenere Agenten-Stacks.",
+    "summary": "Heute im Fokus: DeepSeek-V4 und GLM-5.2 erweitern das Modellrennen, Cohere bündelt Enterprise-AI, Google und NVIDIA arbeiten an Agenten-Infrastruktur, OpenAI/Codex wirft Transparenzfragen auf und ein neues Paper zeigt, wie Agenten weniger blind Kontext verbrennen.",
     "file": "pages/2026-07-15.html",
     "markdownFile": "news/2026-07-15.md",
     "tags": [
@@ -37,7 +37,16 @@
       "NVIDIA",
       "Nemotron",
       "LangChain",
-      "Infrastructure"
+      "Infrastructure",
+      "OpenAI",
+      "Codex",
+      "Subagents",
+      "Transparency",
+      "AI Governance",
+      "Agent Evaluation",
+      "Benchmarks",
+      "Cost",
+      "Research"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -68,6 +77,18 @@
       {
         "name": "NVIDIA Blog",
         "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/"
+      },
+      {
+        "name": "OpenAI Codex Changelog",
+        "url": "https://developers.openai.com/codex/changelog"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.13034v1"
       }
     ]
   },
