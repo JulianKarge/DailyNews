@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-07-16",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 16.07.2026",
+    "title": "Daily AI News — Donnerstag, 16.07.2026",
+    "summary": "Heute im Fokus: OpenAI testet Modelle automatisiert gegen Prompt Injection, Voice-AI bekommt realistischere Qualitätsmaßstäbe, IBM sortiert die Kostenfallen beim Model-Routing und AllenAI zeigt, warum produktive Agenten Sandboxes und Tests brauchen.",
+    "file": "pages/2026-07-16.html",
+    "markdownFile": "news/2026-07-16.md",
+    "tags": [
+      "OpenAI",
+      "GPT-Red",
+      "AI Safety",
+      "Prompt Injection",
+      "Red Teaming",
+      "Agents",
+      "Security",
+      "Hugging Face",
+      "Hume AI",
+      "Voice AI",
+      "Benchmarks",
+      "Customer Experience",
+      "Creator Tools",
+      "Multimodal AI",
+      "IBM Research",
+      "Model Routing",
+      "LLM Operations",
+      "Cost",
+      "Enterprise AI",
+      "Automation",
+      "AllenAI",
+      "AI Agents",
+      "Agent Architecture",
+      "Evaluation",
+      "Sandboxing",
+      "Workflow Automation"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/real-world-voiceeq"
+      },
+      {
+        "name": "Hugging Face / IBM Research",
+        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+      },
+      {
+        "name": "Hugging Face / AllenAI",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 15.07.2026",
