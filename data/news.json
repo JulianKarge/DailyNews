@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-07-17",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 17.07.2026",
+    "title": "Daily AI News — Freitag, 17.07.2026",
+    "summary": "Heute im Fokus: Google macht Videoerstellung in Workspace greifbarer, Gemini-Agenten bekommen Web-Grounding, Hugging Face mahnt Token-Hygiene an, NVIDIA verbessert Retrieval-Bausteine und OpenAI zeigt Voice-Agenten im Vertriebseinsatz.",
+    "file": "pages/2026-07-17.html",
+    "markdownFile": "news/2026-07-17.md",
+    "tags": [
+      "Google",
+      "Google Vids",
+      "Gemini Omni",
+      "Video AI",
+      "Avatars",
+      "Workspace",
+      "Creator Tools",
+      "Gemini",
+      "AI Agents",
+      "Grounding",
+      "Web Search",
+      "Enterprise AI",
+      "Automation",
+      "Hugging Face",
+      "Security",
+      "Tokens",
+      "AI Infrastructure",
+      "Supply Chain",
+      "Risk Management",
+      "NVIDIA",
+      "Nemotron",
+      "Embeddings",
+      "Retrieval",
+      "RAG",
+      "OpenAI",
+      "Cars24",
+      "Voice AI",
+      "Customer Service",
+      "Sales",
+      "Workflow Automation"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+      },
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/security-incident-july-2026"
+      },
+      {
+        "name": "NVIDIA auf Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/cars24"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 16.07.2026",
