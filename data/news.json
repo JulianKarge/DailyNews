@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-07-18",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 18.07.2026",
+    "title": "Daily AI News — Samstag, 18.07.2026",
+    "summary": "Heute im Fokus: Kimi K3 als sehr großes offenes Modell, Grok 4.5 für Coding und Agentenarbeit, OpenAIs nüchterner AI-ROI-Rahmen und Forschung zu Kostenfallen bei Security-Agenten.",
+    "file": "pages/2026-07-18.html",
+    "markdownFile": "news/2026-07-18.md",
+    "tags": [
+      "Moonshot AI",
+      "Kimi K3",
+      "Open Models",
+      "Long Context",
+      "Multimodal AI",
+      "Coding Agents",
+      "China AI",
+      "xAI",
+      "Grok 4.5",
+      "AI Agents",
+      "Coding",
+      "Automation",
+      "Knowledge Work",
+      "Model Release",
+      "OpenAI",
+      "AI Adoption",
+      "ROI",
+      "Enterprise AI",
+      "Productivity",
+      "AI Strategy",
+      "Security",
+      "Benchmarks",
+      "Cost",
+      "SOC",
+      "Red Teaming",
+      "Research"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Moonshot AI / Kimi",
+        "url": "https://www.kimi.com/blog/kimi-k3"
+      },
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news/grok-4-5"
+      },
+      {
+        "name": "xAI News Übersicht",
+        "url": "https://x.ai/news"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.15263v1"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 17.07.2026",
