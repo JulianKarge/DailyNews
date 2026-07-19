@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-07-19",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 19.07.2026",
+    "title": "Daily AI News — Sonntag, 19.07.2026",
+    "summary": "Heute im Fokus: Video-KI als Weltmodell, sichere AI-Nutzung für Jugendliche, Prompt-Versionierung im Team und Forschung zu Agenten, die bei Websuche nicht im Kreis laufen.",
+    "file": "pages/2026-07-19.html",
+    "markdownFile": "news/2026-07-19.md",
+    "tags": [
+      "Google DeepMind",
+      "GenCeption",
+      "Video AI",
+      "World Models",
+      "Computer Vision",
+      "Research",
+      "Creator Tools",
+      "OpenAI",
+      "Teen Safety",
+      "Education",
+      "AI Governance",
+      "Parental Controls",
+      "Learning",
+      "Consumer AI",
+      "Mistral",
+      "Prompts",
+      "Skills",
+      "AI Operations",
+      "Automation",
+      "Enterprise AI",
+      "Workflow Management",
+      "AI Agents",
+      "Search",
+      "Research Agents",
+      "Multi-Agent Systems",
+      "Evaluation",
+      "Cost Control"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.09024"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio/"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.15257v1"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 18.07.2026",
