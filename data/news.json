@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-07-20",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 20.07.2026",
+    "title": "Daily AI News — Montag, 20.07.2026",
+    "summary": "Heute im Fokus: Kimi K3 stößt an GPU-Grenzen, Qwen 3.8 verschärft den offenen Modellwettlauf, Mistral bringt Voxtral TTS für Voice-Agenten und Agenten-Forschung warnt vor manipulierten Erinnerungen.",
+    "file": "pages/2026-07-20.html",
+    "markdownFile": "news/2026-07-20.md",
+    "tags": [
+      "Moonshot AI",
+      "Kimi K3",
+      "Open Models",
+      "GPU Capacity",
+      "AI Infrastructure",
+      "Pricing",
+      "China AI",
+      "Alibaba",
+      "Qwen 3.8",
+      "Open Weights",
+      "Multimodal AI",
+      "Coding",
+      "Office AI",
+      "Mistral",
+      "Voxtral TTS",
+      "Voice AI",
+      "Text to Speech",
+      "Customer Service",
+      "Creator Tools",
+      "AI Agents",
+      "Security",
+      "Agent Memory",
+      "Prompt Injection",
+      "Permissions",
+      "Research"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/"
+      },
+      {
+        "name": "Moonshot AI / Kimi",
+        "url": "https://www.kimi.com/blog/kimi-k3"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/"
+      },
+      {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/voxtral-tts"
+      },
+      {
+        "name": "arXiv: Do Agents Dream of False Memories?",
+        "url": "https://arxiv.org/abs/2607.15657v1"
+      },
+      {
+        "name": "arXiv: How Agents Ask for Permission",
+        "url": "https://arxiv.org/abs/2607.13718v1"
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 19.07.2026",
