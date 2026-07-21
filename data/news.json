@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-07-21",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 21.07.2026",
+    "title": "Daily AI News — Dienstag, 21.07.2026",
+    "summary": "Heute im Fokus: Grok kommt Richtung Excel, OpenAI beschreibt Risiken langer Agentenläufe, Perplexity schiebt AI auf den Desktop, Google arbeitet laut Bericht an Gemini-Silizium und NVIDIA bringt World Models an den Edge.",
+    "file": "pages/2026-07-21.html",
+    "markdownFile": "news/2026-07-21.md",
+    "tags": [
+      "xAI",
+      "Grok",
+      "Excel",
+      "Office AI",
+      "Productivity",
+      "Automation",
+      "OpenAI",
+      "AI Agents",
+      "Safety",
+      "Long-Horizon Models",
+      "Security",
+      "Perplexity",
+      "Personal Computer",
+      "Desktop AI",
+      "Agents",
+      "Knowledge Work",
+      "Privacy",
+      "Google",
+      "Gemini",
+      "AI Hardware",
+      "TPU",
+      "Inference",
+      "Infrastructure",
+      "NVIDIA",
+      "Cosmos 3 Edge",
+      "World Models",
+      "Physical AI",
+      "Robotics",
+      "Edge AI"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+      },
+      {
+        "name": "Perplexity Blog",
+        "url": "https://www.perplexity.ai/hub/blog"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/"
+      },
+      {
+        "name": "NVIDIA auf Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "weekday": "Montag",
     "dateLabel": "Montag, 20.07.2026",
