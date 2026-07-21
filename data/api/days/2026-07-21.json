@@ -5,11 +5,11 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 21.07.2026",
   "title": "Daily AI News — Dienstag, 21.07.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Grok wandert in Excel, OpenAI beschreibt neue Risiken langer Agentenläufe, Perplexity bringt Computer-Arbeit auf den Desktop, Google denkt Gemini offenbar bis ins Silizium und NVIDIA schiebt World Models an den Rand der Fabrikhalle.",
-  "summary": "Heute im Fokus: AI rückt näher an Tabellen, Dateien, Apps, Chips und Maschinen. Der gemeinsame Nenner ist weniger Chatbot-Glanz, mehr Arbeitsfläche: Modelle sollen länger handeln, lokalere Kontexte sehen und günstiger oder robuster laufen.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Grok wandert in Excel, OpenAI beschreibt Risiken langer Agentenläufe, Perplexity bringt Computer-Arbeit auf den Desktop, Google denkt Gemini offenbar bis ins Silizium, NVIDIA schiebt World Models an den Edge und Qwen macht AI-Stimmen steuerbarer.",
+  "summary": "Heute im Fokus: AI rückt näher an Tabellen, Dateien, Apps, Chips, Maschinen und Stimmen. Der gemeinsame Nenner ist weniger Chatbot-Glanz, mehr Arbeitsfläche: Modelle sollen länger handeln, lokalere Kontexte sehen, günstiger laufen und natürlicher mit Menschen sprechen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-21T00:05:50Z",
+  "generated_at": "2026-07-21T12:02:43Z",
   "tags": [
     "xAI",
     "Grok",
@@ -39,10 +39,17 @@
     "World Models",
     "Physical AI",
     "Robotics",
-    "Edge AI"
+    "Edge AI",
+    "Alibaba",
+    "Qwen",
+    "Qwen Audio",
+    "Voice AI",
+    "Text to Speech",
+    "Multilingual AI",
+    "Creator Tools"
   ],
   "hero": {
-    "topic": "Grok in Excel, Long-Horizon-Safety, Perplexity Desktop, Frozen v2 und Cosmos 3 Edge",
+    "topic": "Grok in Excel, Long-Horizon-Safety, Perplexity Desktop, Frozen v2, Cosmos 3 Edge und Qwen Audio",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 21.07.2026"
   },
@@ -168,6 +175,35 @@
         "name": "NVIDIA auf Hugging Face",
         "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
       }
+    },
+    {
+      "title": "Qwen zeigt, dass gute AI-Stimmen jetzt auch mehrsprachig und steuerbar werden",
+      "summary": "Alibaba beschreibt mit Qwen-Audio-3.0-TTS ein neues Text-to-Speech-System für produktionsnahe Sprachsynthese. Die Projektseite nennt 16 Sprachen, 20 chinesische Dialektregionen, bis zu drei Minuten lange Ausgaben in einem Durchlauf und Steuerung über natürliche Anweisungen sowie Inline-Tags. THE DECODER ordnet das System am 21. Juli als Spitzenreiter in mehreren TTS-Rankings ein.",
+      "why_it_matters": "Für Creator, Support-Teams und Produktanbieter wird Voice-AI damit weniger zu einem Demo-Gimmick und mehr zu einem Baustein für echte Abläufe: Erklärvideos, Hotline-Stimmen, Lerninhalte oder lokalisierte Produkttexte lassen sich feiner steuern. Der offene Punkt bleibt die Praxisqualität außerhalb der Beispielseite. Gerade bei Stimmen zählen Pausen, Akzent, Emotion und Nutzungsrechte oft mehr als ein hübscher Benchmark-Balken.",
+      "sources": [
+        {
+          "name": "Qwen-Audio-3.0-TTS Projektseite",
+          "url": "https://funaudiollm.github.io/qwen-audio-3.0-tts/"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/"
+        }
+      ],
+      "tags": [
+        "Alibaba",
+        "Qwen",
+        "Qwen Audio",
+        "Voice AI",
+        "Text to Speech",
+        "Multilingual AI",
+        "Creator Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Qwen-Audio-3.0-TTS Projektseite",
+        "url": "https://funaudiollm.github.io/qwen-audio-3.0-tts/"
+      }
     }
   ],
   "sources": [
@@ -190,6 +226,14 @@
     {
       "name": "NVIDIA auf Hugging Face",
       "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+    },
+    {
+      "name": "Qwen-Audio-3.0-TTS Projektseite",
+      "url": "https://funaudiollm.github.io/qwen-audio-3.0-tts/"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/"
     }
   ]
 }

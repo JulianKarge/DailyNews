@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-21T00:05:50Z",
+  "updated_at": "2026-07-21T12:02:43Z",
   "count": 40,
   "latest_date": "2026-07-21",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 21.07.2026",
       "title": "Daily AI News — Dienstag, 21.07.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: Grok wandert in Excel, OpenAI beschreibt neue Risiken langer Agentenläufe, Perplexity bringt Computer-Arbeit auf den Desktop, Google denkt Gemini offenbar bis ins Silizium und NVIDIA schiebt World Models an den Rand der Fabrikhalle.",
+      "dek": "Sechs AI-Updates mit Praxiswert: Grok wandert in Excel, OpenAI beschreibt Risiken langer Agentenläufe, Perplexity bringt Computer-Arbeit auf den Desktop, Google denkt Gemini offenbar bis ins Silizium, NVIDIA schiebt World Models an den Edge und Qwen macht AI-Stimmen steuerbarer.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -47,17 +47,24 @@
         "World Models",
         "Physical AI",
         "Robotics",
-        "Edge AI"
+        "Edge AI",
+        "Alibaba",
+        "Qwen",
+        "Qwen Audio",
+        "Voice AI",
+        "Text to Speech",
+        "Multilingual AI",
+        "Creator Tools"
       ],
       "hero": {
-        "topic": "Grok in Excel, Long-Horizon-Safety, Perplexity Desktop, Frozen v2 und Cosmos 3 Edge",
+        "topic": "Grok in Excel, Long-Horizon-Safety, Perplexity Desktop, Frozen v2, Cosmos 3 Edge und Qwen Audio",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 21.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-21.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-21.html",
-      "item_count": 5,
-      "source_count": 5
+      "item_count": 6,
+      "source_count": 7
     },
     {
       "id": "2026-07-20",

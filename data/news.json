@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 21.07.2026",
     "title": "Daily AI News — Dienstag, 21.07.2026",
-    "summary": "Heute im Fokus: Grok kommt Richtung Excel, OpenAI beschreibt Risiken langer Agentenläufe, Perplexity schiebt AI auf den Desktop, Google arbeitet laut Bericht an Gemini-Silizium und NVIDIA bringt World Models an den Edge.",
+    "summary": "Heute im Fokus: Grok kommt Richtung Excel, OpenAI beschreibt Risiken langer Agentenläufe, Perplexity schiebt AI auf den Desktop, Google arbeitet laut Bericht an Gemini-Silizium, NVIDIA bringt World Models an den Edge und Qwen zeigt neue Voice-AI-Steuerung.",
     "file": "pages/2026-07-21.html",
     "markdownFile": "news/2026-07-21.md",
     "tags": [
@@ -36,7 +36,14 @@
       "World Models",
       "Physical AI",
       "Robotics",
-      "Edge AI"
+      "Edge AI",
+      "Alibaba",
+      "Qwen",
+      "Qwen Audio",
+      "Voice AI",
+      "Text to Speech",
+      "Multilingual AI",
+      "Creator Tools"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -59,6 +66,14 @@
       {
         "name": "NVIDIA auf Hugging Face",
         "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+      },
+      {
+        "name": "Qwen-Audio-3.0-TTS Projektseite",
+        "url": "https://funaudiollm.github.io/qwen-audio-3.0-tts/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/"
       }
     ]
   },
