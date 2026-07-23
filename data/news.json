@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-07-23",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 23.07.2026",
+    "title": "Daily AI News — Donnerstag, 23.07.2026",
+    "summary": "Heute im Fokus: OpenAI Presence, Claude Economic Index, sichere Model-Evals, Gemini auf Samsung-Geräten und Physical-AI-Daten für Roboter.",
+    "file": "pages/2026-07-23.html",
+    "markdownFile": "news/2026-07-23.md",
+    "tags": [
+      "OpenAI",
+      "Voice AI",
+      "Chat Agents",
+      "Enterprise AI",
+      "Customer Service",
+      "Automation",
+      "Anthropic",
+      "Claude",
+      "Economic Index",
+      "Future of Work",
+      "AI Adoption",
+      "Research",
+      "Hugging Face",
+      "Security",
+      "Model Evaluation",
+      "AI Supply Chain",
+      "Cybersecurity",
+      "Google",
+      "Gemini",
+      "Samsung",
+      "Mobile AI",
+      "Wearables",
+      "Productivity",
+      "NVIDIA",
+      "Physical AI",
+      "Robotics",
+      "Simulation",
+      "Open Data"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-openai-presence"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/security-incident-july-2026"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+      },
+      {
+        "name": "NVIDIA auf Hugging Face",
+        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/grabette"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 21.07.2026",
