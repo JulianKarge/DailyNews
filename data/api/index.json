@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-23T00:08:47Z",
+  "updated_at": "2026-07-23T12:05:03Z",
   "count": 41,
   "latest_date": "2026-07-23",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Donnerstag",
       "date_label": "Donnerstag, 23.07.2026",
       "title": "Daily AI News — Donnerstag, 23.07.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: OpenAI verpackt Voice- und Chat-Agenten als Enterprise-Plattform, Anthropic macht Arbeitsmarkt-Daten in Claude abfragbar, Model-Evals werden zum Security-Thema, Gemini rückt auf Samsung-Geräte und Physical-AI braucht bessere Übungswelten.",
+      "dek": "Sechs AI-Updates mit Praxiswert: OpenAI verpackt Voice- und Chat-Agenten als Enterprise-Plattform, Anthropic macht Arbeitsmarkt-Daten in Claude abfragbar, Model-Evals werden zum Security-Thema, Gemini rückt auf Samsung-Geräte, Meta zeigt offene Vision-Modelle im Forschungseinsatz und Physical-AI braucht bessere Übungswelten.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -42,6 +42,12 @@
         "Mobile AI",
         "Wearables",
         "Productivity",
+        "Meta",
+        "Open Source",
+        "Computer Vision",
+        "Scientific AI",
+        "Segment Anything",
+        "DINOv3",
         "NVIDIA",
         "Physical AI",
         "Robotics",
@@ -49,14 +55,14 @@
         "Open Data"
       ],
       "hero": {
-        "topic": "OpenAI Presence, Claude Economic Index, Eval-Security, Gemini auf Samsung und Physical AI",
+        "topic": "OpenAI Presence, Claude Economic Index, Eval-Security, Gemini auf Samsung, Meta Vision-AI und Physical AI",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 23.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-23.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-23.html",
-      "item_count": 5,
-      "source_count": 9
+      "item_count": 6,
+      "source_count": 10
     },
     {
       "id": "2026-07-21",

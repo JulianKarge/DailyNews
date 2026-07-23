@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 23.07.2026",
     "title": "Daily AI News — Donnerstag, 23.07.2026",
-    "summary": "Heute im Fokus: OpenAI Presence, Claude Economic Index, sichere Model-Evals, Gemini auf Samsung-Geräten und Physical-AI-Daten für Roboter.",
+    "summary": "Heute im Fokus: OpenAI Presence, Claude Economic Index, sichere Model-Evals, Gemini auf Samsung-Geräten, Meta-Vision-Modelle in der Forschung und Physical-AI-Daten für Roboter.",
     "file": "pages/2026-07-23.html",
     "markdownFile": "news/2026-07-23.md",
     "tags": [
@@ -31,6 +31,12 @@
       "Mobile AI",
       "Wearables",
       "Productivity",
+      "Meta",
+      "Open Source",
+      "Computer Vision",
+      "Scientific AI",
+      "Segment Anything",
+      "DINOv3",
       "NVIDIA",
       "Physical AI",
       "Robotics",
@@ -66,6 +72,10 @@
       {
         "name": "Google Blog",
         "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+      },
+      {
+        "name": "Meta AI",
+        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/"
       },
       {
         "name": "NVIDIA auf Hugging Face",

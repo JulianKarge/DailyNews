@@ -5,11 +5,11 @@
   "weekday": "Donnerstag",
   "date_label": "Donnerstag, 23.07.2026",
   "title": "Daily AI News — Donnerstag, 23.07.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: OpenAI verpackt Voice- und Chat-Agenten als Enterprise-Plattform, Anthropic macht Arbeitsmarkt-Daten in Claude abfragbar, Model-Evals werden zum Security-Thema, Gemini rückt auf Samsung-Geräte und Physical-AI braucht bessere Übungswelten.",
-  "summary": "Heute geht es weniger um Modellnamen und mehr um Einsatzorte: Agenten am Telefon, AI-Daten für Arbeitsfragen, sichere Evaluationspipelines, Gemini auf Alltagsgeräten und Roboter, die in Simulationen und offenen Datensätzen lernen müssen, bevor sie echte Dinge anfassen.",
+  "dek": "Sechs AI-Updates mit Praxiswert: OpenAI verpackt Voice- und Chat-Agenten als Enterprise-Plattform, Anthropic macht Arbeitsmarkt-Daten in Claude abfragbar, Model-Evals werden zum Security-Thema, Gemini rückt auf Samsung-Geräte, Meta zeigt offene Vision-Modelle im Forschungseinsatz und Physical-AI braucht bessere Übungswelten.",
+  "summary": "Heute geht es weniger um Modellnamen und mehr um Einsatzorte: Agenten am Telefon, AI-Daten für Arbeitsfragen, sichere Evaluationspipelines, Gemini auf Alltagsgeräten, offene Vision-Modelle für Forschungslabore und Roboter, die in Simulationen und offenen Datensätzen lernen müssen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-23T00:08:47Z",
+  "generated_at": "2026-07-23T12:05:03Z",
   "tags": [
     "OpenAI",
     "Voice AI",
@@ -34,6 +34,12 @@
     "Mobile AI",
     "Wearables",
     "Productivity",
+    "Meta",
+    "Open Source",
+    "Computer Vision",
+    "Scientific AI",
+    "Segment Anything",
+    "DINOv3",
     "NVIDIA",
     "Physical AI",
     "Robotics",
@@ -41,7 +47,7 @@
     "Open Data"
   ],
   "hero": {
-    "topic": "OpenAI Presence, Claude Economic Index, Eval-Security, Gemini auf Samsung und Physical AI",
+    "topic": "OpenAI Presence, Claude Economic Index, Eval-Security, Gemini auf Samsung, Meta Vision-AI und Physical AI",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 23.07.2026"
   },
@@ -157,6 +163,31 @@
       }
     },
     {
+      "title": "Meta zeigt, wie offene Vision-Modelle Forschungslabore entlasten können",
+      "summary": "Meta beschreibt, wie Lawrence Berkeley National Laboratory Modelle wie Segment Anything Model 3 und DINOv3 in den ersten Projekten der Genesis Mission nutzt. Der praktische Kern: Bilddaten aus wissenschaftlichen Anlagen wachsen schneller, als Menschen sie auswerten können. Fine-getunte Vision-Modelle sollen Strukturen in 3D-Daten markieren, während Experimente noch laufen.",
+      "why_it_matters": "Für AI-interessierte Teams ist das ein gutes Beispiel dafür, wo offene Modelle jenseits von Chat wirklich Arbeit verschieben: nicht beim hübschen Prompt, sondern beim Sortieren riesiger Bild- und Messdaten. Für Forschung, Industrieprüfung oder Medizinbild-Workflows zählt, ob Modelle wiederkehrende Analysearbeit schneller vorbereiten, ohne die fachliche Kontrolle zu ersetzen. Offen bleibt, wie leicht sich solche Pipelines außerhalb großer Labore mit Supercomputing-Zugang nachbauen lassen.",
+      "sources": [
+        {
+          "name": "Meta AI",
+          "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/"
+        }
+      ],
+      "tags": [
+        "Meta",
+        "Open Source",
+        "Computer Vision",
+        "Scientific AI",
+        "Segment Anything",
+        "DINOv3",
+        "Research"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Meta AI",
+        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/"
+      }
+    },
+    {
       "title": "Roboter-AI braucht weniger Science-Fiction und mehr gute Übungsdaten",
       "summary": "Auf Hugging Face erschienen zwei neue Physical-AI-Signale: NVIDIA gibt einen Überblick zum Stand von Simulation für Physical AI, und Grabette wird als offenes System vorgestellt, um Daten für Roboter-Manipulation aufzuzeichnen. Beides klingt technischer als ein Chatbot-Launch, trifft aber denselben Kern: Roboter brauchen Welten zum Üben und saubere Daten darüber, wie Greifen, Bewegen und Scheitern wirklich aussehen.",
       "why_it_matters": "Für Lager, Produktion, Pflegehilfen oder Küchenroboter entscheidet nicht nur das Modell, sondern die Trainingsumgebung. Simulation kann gefährliche oder teure Tests ersetzen; offene Datensysteme können kleineren Laboren und Startups helfen, nicht bei null anzufangen. Die Einschränkung bleibt hart: Zwischen simulierter Greifbewegung und einem echten Gegenstand, der rutscht, klemmt oder einfach komisch geformt ist, liegt noch viel Realität.",
@@ -213,6 +244,10 @@
     {
       "name": "Google Blog",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/"
     },
     {
       "name": "NVIDIA auf Hugging Face",
