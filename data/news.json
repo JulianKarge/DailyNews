@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 24.07.2026",
     "title": "Daily AI News — Freitag, 24.07.2026",
-    "summary": "Heute im Fokus: DeepSeek V4, Health in ChatGPT, Grok Workflows, 4-Bit-Diffusion in Diffusers und OpenForgeRL für Agenten-Training.",
+    "summary": "Heute im Fokus: DeepSeek V4, Health in ChatGPT, Claude Voice Mode, Grok Workflows, 4-Bit-Diffusion in Diffusers und OpenForgeRL für Agenten-Training.",
     "file": "pages/2026-07-24.html",
     "markdownFile": "news/2026-07-24.md",
     "tags": [
@@ -21,12 +21,19 @@
       "Apple Health",
       "Privacy",
       "Consumer AI",
+      "Anthropic",
+      "Claude",
+      "Voice AI",
+      "Opus",
+      "Sonnet",
+      "Haiku",
+      "Productivity",
+      "Multilingual AI",
       "xAI",
       "Grok",
       "Grok Build",
       "Workflows",
       "Automation",
-      "Productivity",
       "Hugging Face",
       "Diffusers",
       "Nunchaku",
@@ -54,6 +61,10 @@
       {
         "name": "OpenAI",
         "url": "https://openai.com/index/health-in-chatgpt"
+      },
+      {
+        "name": "Claude / Anthropic",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
       },
       {
         "name": "xAI News",

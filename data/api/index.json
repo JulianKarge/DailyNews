@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-24T08:54:09Z",
+  "updated_at": "2026-07-24T12:07:38Z",
   "count": 42,
   "latest_date": "2026-07-24",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Freitag",
       "date_label": "Freitag, 24.07.2026",
       "title": "Daily AI News — Freitag, 24.07.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: DeepSeek zeigt eine V4-Preview, ChatGPT rückt an Gesundheitsdaten heran, Grok Build bekommt Workflows, Hugging Face bringt 4-Bit-Diffusion in Diffusers und Agenten-Forschung trainiert näher an echten Arbeitsumgebungen.",
+      "dek": "Sechs AI-Updates mit Praxiswert: DeepSeek zeigt eine V4-Preview, ChatGPT rückt an Gesundheitsdaten heran, Claude macht Voice Mode stärker, Grok Build bekommt Workflows, Hugging Face bringt 4-Bit-Diffusion in Diffusers und Agenten-Forschung trainiert näher an echten Arbeitsumgebungen.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -32,12 +32,19 @@
         "Apple Health",
         "Privacy",
         "Consumer AI",
+        "Anthropic",
+        "Claude",
+        "Voice AI",
+        "Opus",
+        "Sonnet",
+        "Haiku",
+        "Productivity",
+        "Multilingual AI",
         "xAI",
         "Grok",
         "Grok Build",
         "Workflows",
         "Automation",
-        "Productivity",
         "Hugging Face",
         "Diffusers",
         "Nunchaku",
@@ -53,14 +60,14 @@
         "Open Source"
       ],
       "hero": {
-        "topic": "DeepSeek V4, Health in ChatGPT, Grok Workflows, Nunchaku Diffusers und OpenForgeRL",
+        "topic": "DeepSeek V4, Health in ChatGPT, Claude Voice Mode, Grok Workflows, Nunchaku Diffusers und OpenForgeRL",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Freitag, 24.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-24.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-24.html",
-      "item_count": 5,
-      "source_count": 6
+      "item_count": 6,
+      "source_count": 7
     },
     {
       "id": "2026-07-23",

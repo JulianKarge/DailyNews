@@ -5,11 +5,11 @@
   "weekday": "Freitag",
   "date_label": "Freitag, 24.07.2026",
   "title": "Daily AI News — Freitag, 24.07.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: DeepSeek zeigt eine V4-Preview, ChatGPT rückt an Gesundheitsdaten heran, Grok Build bekommt Workflows, Hugging Face bringt 4-Bit-Diffusion in Diffusers und Agenten-Forschung trainiert näher an echten Arbeitsumgebungen.",
-  "summary": "Heute geht es um AI, die näher an echte Arbeit und echte Daten rückt: neue Reasoning-Modelle, Gesundheitskontext in ChatGPT, automatisierte Grok-Workflows, effizientere Bildgenerierung und Agenten, die nicht nur im Benchmark, sondern im Werkzeugkasten lernen sollen.",
+  "dek": "Sechs AI-Updates mit Praxiswert: DeepSeek zeigt eine V4-Preview, ChatGPT rückt an Gesundheitsdaten heran, Claude macht Voice Mode stärker, Grok Build bekommt Workflows, Hugging Face bringt 4-Bit-Diffusion in Diffusers und Agenten-Forschung trainiert näher an echten Arbeitsumgebungen.",
+  "summary": "Heute geht es um AI, die näher an echte Arbeit, echte Daten und echte Gespräche rückt: neue Reasoning-Modelle, Gesundheitskontext in ChatGPT, stärkere Spracharbeit in Claude, automatisierte Grok-Workflows, effizientere Bildgenerierung und Agenten, die im Werkzeugkasten lernen sollen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-24T08:54:09Z",
+  "generated_at": "2026-07-24T12:07:38Z",
   "tags": [
     "DeepSeek",
     "DeepSeek V4",
@@ -24,12 +24,19 @@
     "Apple Health",
     "Privacy",
     "Consumer AI",
+    "Anthropic",
+    "Claude",
+    "Voice AI",
+    "Opus",
+    "Sonnet",
+    "Haiku",
+    "Productivity",
+    "Multilingual AI",
     "xAI",
     "Grok",
     "Grok Build",
     "Workflows",
     "Automation",
-    "Productivity",
     "Hugging Face",
     "Diffusers",
     "Nunchaku",
@@ -45,7 +52,7 @@
     "Open Source"
   ],
   "hero": {
-    "topic": "DeepSeek V4, Health in ChatGPT, Grok Workflows, Nunchaku Diffusers und OpenForgeRL",
+    "topic": "DeepSeek V4, Health in ChatGPT, Claude Voice Mode, Grok Workflows, Nunchaku Diffusers und OpenForgeRL",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 24.07.2026"
   },
@@ -103,6 +110,32 @@
       "source": {
         "name": "OpenAI News RSS",
         "url": "https://openai.com/news/rss.xml"
+      }
+    },
+    {
+      "title": "Claude spricht jetzt mit den stärkeren Modellen im Hintergrund",
+      "summary": "Anthropic hat den Voice Mode für Claude am 23. Juli auf Claude Opus, Claude Sonnet und Claude Haiku umgestellt. Die offizielle Claude-Ankündigung sagt außerdem, dass der Sprachmodus auf verbundene Tools zugreifen kann und deutlich mehr Sprachen unterstützt. Damit rutscht Voice AI weiter aus der Demo-Ecke in echte Denk- und Arbeitsgespräche.",
+      "why_it_matters": "Für Nutzer, die Ideen, Texte oder Entscheidungen lieber laut durchgehen, wird Claude damit weniger zum Diktiergerät und mehr zum Gesprächspartner mit Werkzeugzugriff. Für Teams ist die offene Frage aber dieselbe wie bei allen Agenten: Welche verbundenen Daten und Tools darf eine Stimme wirklich anfassen, wenn ein Gespräch schnell und nebenbei läuft? Bequemlichkeit ist gut. Aus Versehen den halben Werkzeugkasten zu öffnen eher nicht.",
+      "sources": [
+        {
+          "name": "Claude / Anthropic",
+          "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Voice AI",
+        "Opus",
+        "Sonnet",
+        "Haiku",
+        "Productivity",
+        "Multilingual AI"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Claude / Anthropic",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
       }
     },
     {
@@ -193,6 +226,10 @@
     {
       "name": "OpenAI",
       "url": "https://openai.com/index/health-in-chatgpt"
+    },
+    {
+      "name": "Claude / Anthropic",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
     },
     {
       "name": "xAI News",
