@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-07-24",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 24.07.2026",
+    "title": "Daily AI News — Freitag, 24.07.2026",
+    "summary": "Heute im Fokus: DeepSeek V4, Health in ChatGPT, Grok Workflows, 4-Bit-Diffusion in Diffusers und OpenForgeRL für Agenten-Training.",
+    "file": "pages/2026-07-24.html",
+    "markdownFile": "news/2026-07-24.md",
+    "tags": [
+      "DeepSeek",
+      "DeepSeek V4",
+      "Reasoning",
+      "AI Agents",
+      "API",
+      "China AI",
+      "Model Release",
+      "OpenAI",
+      "ChatGPT",
+      "Health AI",
+      "Apple Health",
+      "Privacy",
+      "Consumer AI",
+      "xAI",
+      "Grok",
+      "Grok Build",
+      "Workflows",
+      "Automation",
+      "Productivity",
+      "Hugging Face",
+      "Diffusers",
+      "Nunchaku",
+      "Image AI",
+      "Video AI",
+      "Quantization",
+      "Creator Tools",
+      "arXiv",
+      "OpenForgeRL",
+      "Reinforcement Learning",
+      "Coding Agents",
+      "Evaluation",
+      "Open Source"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/health-in-chatgpt"
+      },
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/nunchaku-diffusers"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.21557v1"
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 23.07.2026",
