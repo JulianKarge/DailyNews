@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-07-25",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 25.07.2026",
+    "title": "Daily AI News — Samstag, 25.07.2026",
+    "summary": "Heute im Fokus: Claude Opus 5, ChatGPT für kleine Unternehmen, Cohere North Mini Code und Qwen3Guard für Safety im laufenden Dialog.",
+    "file": "pages/2026-07-25.html",
+    "markdownFile": "news/2026-07-25.md",
+    "tags": [
+      "Anthropic",
+      "Claude Opus 5",
+      "Coding",
+      "AI Agents",
+      "GitHub Copilot",
+      "Model Release",
+      "Pricing",
+      "OpenAI",
+      "ChatGPT",
+      "Small Business",
+      "AI Adoption",
+      "Automation",
+      "Productivity",
+      "Training",
+      "Cohere",
+      "North Mini Code",
+      "Coding Agents",
+      "Enterprise AI",
+      "Private Deployment",
+      "Software Engineering",
+      "Benchmarks",
+      "Qwen",
+      "Qwen3Guard",
+      "Safety",
+      "Guardrails",
+      "Open Models"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-opus-5"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      },
+      {
+        "name": "Cohere",
+        "url": "https://cohere.com/blog/north-mini-code"
+      },
+      {
+        "name": "Cohere Command",
+        "url": "https://cohere.com/command"
+      },
+      {
+        "name": "Qwen",
+        "url": "https://qwenlm.github.io/blog/qwen3guard/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 24.07.2026",
