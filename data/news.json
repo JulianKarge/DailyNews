@@ -4,7 +4,7 @@
     "weekday": "Samstag",
     "dateLabel": "Samstag, 25.07.2026",
     "title": "Daily AI News — Samstag, 25.07.2026",
-    "summary": "Heute im Fokus: Claude Opus 5, ChatGPT für kleine Unternehmen, Cohere North Mini Code und Qwen3Guard für Safety im laufenden Dialog.",
+    "summary": "Heute im Fokus: Claude Opus 5, ChatGPT für kleine Unternehmen, Grok in Google Workspace, Cohere North Mini Code und Qwen3Guard für Safety im laufenden Dialog.",
     "file": "pages/2026-07-25.html",
     "markdownFile": "news/2026-07-25.md",
     "tags": [
@@ -22,6 +22,10 @@
       "Automation",
       "Productivity",
       "Training",
+      "xAI",
+      "Grok",
+      "Google Workspace",
+      "Office AI",
       "Cohere",
       "North Mini Code",
       "Coding Agents",
@@ -52,6 +56,10 @@
       {
         "name": "OpenAI",
         "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      },
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
       },
       {
         "name": "Cohere",

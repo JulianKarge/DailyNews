@@ -5,11 +5,11 @@
   "weekday": "Samstag",
   "date_label": "Samstag, 25.07.2026",
   "title": "Daily AI News — Samstag, 25.07.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: Claude Opus 5 rückt Frontier-Leistung näher an den Alltagspreis, OpenAI nimmt kleine Unternehmen stärker an die Hand, Cohere bringt ein Enterprise-Coding-Modell und Qwen schiebt Safety in den laufenden Token-Stream.",
-  "summary": "Heute geht es weniger um einzelne Wow-Demos und mehr um Betrieb: bessere Modelle mit Preislogik, AI-Einführung für kleine Unternehmen, Coding-Agenten für Enterprise-Umgebungen und Guardrails, die nicht warten, bis die Antwort schon draußen ist.",
+  "dek": "Fünf AI-Updates mit Praxiswert: Claude Opus 5 rückt Frontier-Leistung näher an den Alltagspreis, OpenAI nimmt kleine Unternehmen stärker an die Hand, Grok wandert tiefer in Google Workspace, Cohere bringt ein Enterprise-Coding-Modell und Qwen schiebt Safety in den laufenden Token-Stream.",
+  "summary": "Heute geht es um AI im Betrieb: stärkere Modelle mit Preislogik, AI-Einführung für kleine Unternehmen, Assistenten direkt in Office-Arbeit, Coding-Agenten für Enterprise-Umgebungen und Guardrails, die nicht warten, bis die Antwort schon draußen ist.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-25T00:05:54Z",
+  "generated_at": "2026-07-25T12:06:18Z",
   "tags": [
     "Anthropic",
     "Claude Opus 5",
@@ -25,6 +25,10 @@
     "Automation",
     "Productivity",
     "Training",
+    "xAI",
+    "Grok",
+    "Google Workspace",
+    "Office AI",
     "Cohere",
     "North Mini Code",
     "Coding Agents",
@@ -39,7 +43,7 @@
     "Open Models"
   ],
   "hero": {
-    "topic": "Claude Opus 5, ChatGPT Small Business, Cohere North Mini Code und Qwen3Guard",
+    "topic": "Claude Opus 5, ChatGPT Small Business, Grok in Google Workspace, Cohere North Mini Code und Qwen3Guard",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Samstag, 25.07.2026"
   },
@@ -102,6 +106,31 @@
       "source": {
         "name": "OpenAI News RSS",
         "url": "https://openai.com/news/rss.xml"
+      }
+    },
+    {
+      "title": "Grok rückt tiefer in Google Workspace, also in die echte Büroarbeit",
+      "summary": "xAI listet auf seiner offiziellen News-Übersicht für den 24. Juli ein Update namens \"Grok in Google Workspace\". Nach Grok for Excel, Grok for Outlook und Workflows in Grok Build schiebt xAI seinen Assistenten damit weiter in die Programme, in denen Arbeit tatsächlich hängen bleibt: Dokumente, Tabellen, Mails und Kalender statt nur Chatfenster.",
+      "why_it_matters": "Für Teams und kleine Unternehmen zählt weniger, welcher Chatbot die schönste Demo schreibt, sondern ob er dort helfen kann, wo Aufgaben entstehen. Wenn Grok näher an Workspace-Daten und wiederkehrende Büroabläufe rückt, werden automatische Zusammenfassungen, Recherchen, Entwürfe und Follow-ups greifbarer. Der offene Punkt bleibt derselbe wie bei allen Office-Agenten: Welche Daten darf das System sehen, wer kontrolliert Aktionen, und wie gut lassen sich Fehler zurückholen?",
+      "sources": [
+        {
+          "name": "xAI News",
+          "url": "https://x.ai/news"
+        }
+      ],
+      "tags": [
+        "xAI",
+        "Grok",
+        "Google Workspace",
+        "Office AI",
+        "Productivity",
+        "Automation",
+        "AI Agents"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
       }
     },
     {
@@ -175,6 +204,10 @@
     {
       "name": "OpenAI",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+    },
+    {
+      "name": "xAI News",
+      "url": "https://x.ai/news"
     },
     {
       "name": "Cohere",

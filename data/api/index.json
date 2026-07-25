@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-25T00:05:54Z",
+  "updated_at": "2026-07-25T12:06:18Z",
   "count": 43,
   "latest_date": "2026-07-25",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Samstag",
       "date_label": "Samstag, 25.07.2026",
       "title": "Daily AI News — Samstag, 25.07.2026",
-      "dek": "Vier AI-Updates mit Praxiswert: Claude Opus 5 rückt Frontier-Leistung näher an den Alltagspreis, OpenAI nimmt kleine Unternehmen stärker an die Hand, Cohere bringt ein Enterprise-Coding-Modell und Qwen schiebt Safety in den laufenden Token-Stream.",
+      "dek": "Fünf AI-Updates mit Praxiswert: Claude Opus 5 rückt Frontier-Leistung näher an den Alltagspreis, OpenAI nimmt kleine Unternehmen stärker an die Hand, Grok wandert tiefer in Google Workspace, Cohere bringt ein Enterprise-Coding-Modell und Qwen schiebt Safety in den laufenden Token-Stream.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -33,6 +33,10 @@
         "Automation",
         "Productivity",
         "Training",
+        "xAI",
+        "Grok",
+        "Google Workspace",
+        "Office AI",
         "Cohere",
         "North Mini Code",
         "Coding Agents",
@@ -47,14 +51,14 @@
         "Open Models"
       ],
       "hero": {
-        "topic": "Claude Opus 5, ChatGPT Small Business, Cohere North Mini Code und Qwen3Guard",
+        "topic": "Claude Opus 5, ChatGPT Small Business, Grok in Google Workspace, Cohere North Mini Code und Qwen3Guard",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Samstag, 25.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-25.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-25.html",
-      "item_count": 4,
-      "source_count": 7
+      "item_count": 5,
+      "source_count": 8
     },
     {
       "id": "2026-07-24",
