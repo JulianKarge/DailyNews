@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-07-26",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 26.07.2026",
+    "title": "Daily AI News — Sonntag, 26.07.2026",
+    "summary": "Heute im Fokus: Gemini-Web-Grounding, Copilot-Agenten in Linear und GitHub Issues, AI Mode mit verbundenen Apps sowie Forschung zu Dokumenten- und Kontextgrenzen von Agenten.",
+    "file": "pages/2026-07-26.html",
+    "markdownFile": "news/2026-07-26.md",
+    "tags": [
+      "Google",
+      "Gemini",
+      "Enterprise AI",
+      "AI Agents",
+      "Web Search",
+      "Grounding",
+      "Automation",
+      "GitHub",
+      "Copilot",
+      "Coding Agents",
+      "Linear",
+      "Workflow Automation",
+      "Developer Tools",
+      "AI Mode",
+      "Search",
+      "Productivity",
+      "Connected Apps",
+      "Consumer AI",
+      "Privacy",
+      "arXiv",
+      "Document Automation",
+      "Context Management",
+      "Benchmarks",
+      "Research"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.19865v1"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.21503v1"
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 25.07.2026",
