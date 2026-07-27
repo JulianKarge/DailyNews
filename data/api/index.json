@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-27T07:10:25Z",
+  "updated_at": "2026-07-27T12:04:59Z",
   "count": 45,
   "latest_date": "2026-07-27",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,11 +15,17 @@
       "weekday": "Montag",
       "date_label": "Montag, 27.07.2026",
       "title": "Daily AI News — Montag, 27.07.2026",
-      "dek": "Zwei AI-Updates mit Praxiswert: OpenAI macht Codex stärker zu einem Agenten-Scharnier für Workflows, und GLM-5.2 erhöht den Druck im offenen Modellwettbewerb.",
+      "dek": "Drei AI-Updates mit Praxiswert: OpenAI zeigt, wie ChatGPT Jobgrenzen verschiebt, Codex rückt näher an echte Arbeitsabläufe, und GLM-5.2 erhöht den Druck im offenen Modellwettbewerb.",
       "language": "de",
       "status": "published",
       "tags": [
         "OpenAI",
+        "ChatGPT",
+        "Future of Work",
+        "AI Adoption",
+        "Productivity",
+        "Teams",
+        "Research",
         "Codex",
         "Workspace Agents",
         "GPT-5.4",
@@ -35,14 +41,14 @@
         "Enterprise AI"
       ],
       "hero": {
-        "topic": "OpenAI Codex Workspace Agents und Zhipu GLM-5.2",
+        "topic": "ChatGPT-Arbeitseffekte, OpenAI Codex Workspace Agents und Zhipu GLM-5.2",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Montag, 27.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-27.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-27.html",
-      "item_count": 2,
-      "source_count": 3
+      "item_count": 3,
+      "source_count": 5
     },
     {
       "id": "2026-07-26",

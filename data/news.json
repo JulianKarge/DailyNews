@@ -4,11 +4,17 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 27.07.2026",
     "title": "Daily AI News — Montag, 27.07.2026",
-    "summary": "Heute im Fokus: OpenAI Codex als Workflow-Agentenscharnier und GLM-5.2 als neues offenes Modell für Coding, langen Kontext und Enterprise-AI.",
+    "summary": "Heute im Fokus: ChatGPT-Nutzung im Job, Codex als Workflow-Agentenscharnier und GLM-5.2 als offenes Modell für Coding, langen Kontext und Enterprise-AI.",
     "file": "pages/2026-07-27.html",
     "markdownFile": "news/2026-07-27.md",
     "tags": [
       "OpenAI",
+      "ChatGPT",
+      "Future of Work",
+      "AI Adoption",
+      "Productivity",
+      "Teams",
+      "Research",
       "Codex",
       "Workspace Agents",
       "GPT-5.4",
@@ -25,6 +31,14 @@
     ],
     "visualTag": "Daily AI News",
     "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+      },
       {
         "name": "OpenAI Codex Changelog",
         "url": "https://developers.openai.com/codex/changelog"

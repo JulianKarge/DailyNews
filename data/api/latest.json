@@ -5,13 +5,19 @@
   "weekday": "Montag",
   "date_label": "Montag, 27.07.2026",
   "title": "Daily AI News — Montag, 27.07.2026",
-  "dek": "Zwei AI-Updates mit Praxiswert: OpenAI macht Codex stärker zu einem Agenten-Scharnier für Workflows, und GLM-5.2 erhöht den Druck im offenen Modellwettbewerb.",
-  "summary": "Heute ist kein Tag für zehn halbwarme Release-Notizen. Interessant sind vor allem zwei Richtungen: Agenten wandern tiefer in echte Arbeitsprozesse, und offene Modelle holen bei Coding, langem Kontext und Enterprise-Nutzung weiter auf.",
+  "dek": "Drei AI-Updates mit Praxiswert: OpenAI zeigt, wie ChatGPT Jobgrenzen verschiebt, Codex rückt näher an echte Arbeitsabläufe, und GLM-5.2 erhöht den Druck im offenen Modellwettbewerb.",
+  "summary": "Heute geht es weniger um Demo-Magie und mehr um Arbeit: ChatGPT verändert Rollen im Job, Codex wird stärker zum Agenten-Scharnier für Workflows, und offene Modelle wie GLM-5.2 machen Enterprise-AI breiter verhandelbar.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-27T07:10:25Z",
+  "generated_at": "2026-07-27T12:04:59Z",
   "tags": [
     "OpenAI",
+    "ChatGPT",
+    "Future of Work",
+    "AI Adoption",
+    "Productivity",
+    "Teams",
+    "Research",
     "Codex",
     "Workspace Agents",
     "GPT-5.4",
@@ -27,13 +33,42 @@
     "Enterprise AI"
   ],
   "hero": {
-    "topic": "OpenAI Codex Workspace Agents und Zhipu GLM-5.2",
+    "topic": "ChatGPT-Arbeitseffekte, OpenAI Codex Workspace Agents und Zhipu GLM-5.2",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 27.07.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-27.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-27.html",
   "items": [
+    {
+      "title": "OpenAI schaut darauf, wie ChatGPT Arbeit wirklich verschiebt",
+      "summary": "OpenAI hat neue Forschung dazu veröffentlicht, wie Menschen ChatGPT im Job einsetzen. Laut offizieller RSS-Ankündigung übernehmen Nutzer damit Aufgaben über klassische Rollengrenzen hinweg; AI wirkt also nicht nur wie ein schnellerer Aufgabenhaken, sondern verändert, wer welche Arbeit überhaupt anfasst. Das klingt weniger spektakulär als ein neues Modell, ist für Teams aber wahrscheinlich näher am Alltag.",
+      "why_it_matters": "Für kleine Unternehmen und Wissensarbeiter ist die praktische Frage: Welche Aufgaben wandern künftig zu den Leuten, die sie vorher gar nicht gemacht hätten? Wenn Marketing plötzlich Daten auswertet, Support interne Tools baut oder Vertrieb eigene Auswertungen fährt, braucht es nicht nur bessere Prompts, sondern klare Zuständigkeiten, Datenschutzregeln und eine ehrliche Qualitätskontrolle.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/news/rss.xml"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Future of Work",
+        "AI Adoption",
+        "Productivity",
+        "Teams",
+        "Research"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      }
+    },
     {
       "title": "OpenAI schiebt Codex tiefer in echte Arbeitsabläufe",
       "summary": "Im Codex-Changelog tauchen zwei Signale auf, die zusammen wichtiger sind als ein einzelnes Feature: GPT-5.4 wird in Codex als Modell für lange, tool-lastige Aufgaben mit experimentellem 1-Million-Token-Kontext beschrieben, und Workspace Agents können veröffentlichte ChatGPT-Workspace-Agenten auslösen. Codex rückt damit weiter weg vom reinen Coding-Chat und näher an Arbeitsketten, die über Dateien, Tools und Teamprozesse laufen.",
@@ -90,6 +125,14 @@
     }
   ],
   "sources": [
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    },
     {
       "name": "OpenAI Codex Changelog",
       "url": "https://developers.openai.com/codex/changelog"
