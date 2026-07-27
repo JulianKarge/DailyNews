@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-27",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 27.07.2026",
+    "title": "Daily AI News — Montag, 27.07.2026",
+    "summary": "Heute im Fokus: OpenAI Codex als Workflow-Agentenscharnier und GLM-5.2 als neues offenes Modell für Coding, langen Kontext und Enterprise-AI.",
+    "file": "pages/2026-07-27.html",
+    "markdownFile": "news/2026-07-27.md",
+    "tags": [
+      "OpenAI",
+      "Codex",
+      "Workspace Agents",
+      "GPT-5.4",
+      "AI Agents",
+      "Automation",
+      "Developer Tools",
+      "Zhipu",
+      "GLM-5.2",
+      "Open Models",
+      "Coding Agents",
+      "Long Context",
+      "China AI",
+      "Enterprise AI"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI Codex Changelog",
+        "url": "https://developers.openai.com/codex/changelog"
+      },
+      {
+        "name": "OpenAI Workspace Agents",
+        "url": "https://developers.openai.com/workspace-agents"
+      },
+      {
+        "name": "Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 26.07.2026",
