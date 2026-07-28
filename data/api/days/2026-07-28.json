@@ -5,11 +5,11 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 28.07.2026",
   "title": "Daily AI News — Dienstag, 28.07.2026",
-  "dek": "Drei AI-Updates mit Praxiswert: Anthropic sortiert die Open-Weights-Debatte, Meta zeigt offene Vision-Modelle in Assistenzrobotik, und NVIDIA bringt Echtzeit-Simulation näher an chirurgische Roboter.",
-  "summary": "Heute geht es um AI jenseits der nächsten Chat-Antwort: offene Modellpolitik, Vision-Modelle für Assistenzsysteme und Simulationen, die riskante Robotik-Tests früher abfangen sollen.",
+  "dek": "Vier AI-Updates mit Praxiswert: Anthropic sortiert die Open-Weights-Debatte, Cohere macht Agenten-Workflows geschäftstauglicher, Meta zeigt offene Vision-Modelle in Assistenzrobotik, und NVIDIA bringt Echtzeit-Simulation näher an chirurgische Roboter.",
+  "summary": "Heute geht es um AI jenseits der nächsten Chat-Antwort: Modellpolitik, Agenten-Orchestrierung für echte Arbeitsabläufe, Vision-Modelle für Assistenzsysteme und Simulationen, die riskante Robotik-Tests früher abfangen sollen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-28T00:08:19Z",
+  "generated_at": "2026-07-28T12:07:41Z",
   "tags": [
     "Anthropic",
     "Open Weights",
@@ -17,6 +17,12 @@
     "Governance",
     "Enterprise AI",
     "Model Deployment",
+    "Cohere",
+    "North Automations",
+    "AI Agents",
+    "Workflow Automation",
+    "Sales",
+    "Customer Success",
     "Meta",
     "Computer Vision",
     "Assistive Robotics",
@@ -33,7 +39,7 @@
     "World Models"
   ],
   "hero": {
-    "topic": "Open-Weights-Governance, Assistenzrobotik mit Meta-Modellen und NVIDIA Cosmos-H-Dreams",
+    "topic": "Open-Weights-Governance, Cohere North Automations, Assistenzrobotik mit Meta-Modellen und NVIDIA Cosmos-H-Dreams",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 28.07.2026"
   },
@@ -62,6 +68,32 @@
       "source": {
         "name": "Anthropic",
         "url": "https://www.anthropic.com/news/position-open-weights-models"
+      }
+    },
+    {
+      "title": "Cohere will Agenten aus der Tool-Ecke in echte Geschäftsabläufe holen",
+      "summary": "Cohere hat North Automations vorgestellt, eine Orchestrierungsschicht für agentische Unternehmens-Workflows. Laut Cohere können Teams damit mehrere Agenten, Datenquellen und Freigabeschritte zu wiederholbaren Abläufen verbinden, etwa für Marketing-Analysen, Customer-Success-Briefings oder die Vorbereitung von Sales-Terminen.",
+      "why_it_matters": "Für Teams und kleine Unternehmen ist daran weniger das Wort „Agent“ spannend als die Verschiebung dahinter: AI soll nicht nur einzelne Fragen beantworten, sondern Arbeitsschritte zusammenhalten, Daten holen, Zwischenergebnisse prüfen lassen und dann weiterlaufen. Der Haken bleibt Governance. Sobald ein Agent Slack, Salesforce, Gmail und Datenbanken gleichzeitig sieht, wird aus Produktivität sehr schnell Berechtigungs-Tetris.",
+      "sources": [
+        {
+          "name": "Cohere",
+          "url": "https://cohere.com/blog/introducing-north-automations-ai-workflows"
+        }
+      ],
+      "tags": [
+        "Cohere",
+        "North Automations",
+        "AI Agents",
+        "Workflow Automation",
+        "Enterprise AI",
+        "Sales",
+        "Customer Success",
+        "Governance"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Cohere",
+        "url": "https://cohere.com/blog/introducing-north-automations-ai-workflows"
       }
     },
     {
@@ -119,6 +151,10 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com/news/position-open-weights-models"
+    },
+    {
+      "name": "Cohere",
+      "url": "https://cohere.com/blog/introducing-north-automations-ai-workflows"
     },
     {
       "name": "Meta AI",

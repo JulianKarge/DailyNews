@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 28.07.2026",
     "title": "Daily AI News — Dienstag, 28.07.2026",
-    "summary": "Heute im Fokus: Open-Weights-Governance, offene Vision-Modelle in Assistenzrobotik und NVIDIAs Echtzeit-Simulation für chirurgische Robotik.",
+    "summary": "Heute im Fokus: Open-Weights-Governance, Cohere North Automations, offene Vision-Modelle in Assistenzrobotik und NVIDIAs Echtzeit-Simulation für chirurgische Robotik.",
     "file": "pages/2026-07-28.html",
     "markdownFile": "news/2026-07-28.md",
     "tags": [
@@ -14,6 +14,12 @@
       "Governance",
       "Enterprise AI",
       "Model Deployment",
+      "Cohere",
+      "North Automations",
+      "AI Agents",
+      "Workflow Automation",
+      "Sales",
+      "Customer Success",
       "Meta",
       "Computer Vision",
       "Assistive Robotics",
@@ -34,6 +40,10 @@
       {
         "name": "Anthropic",
         "url": "https://www.anthropic.com/news/position-open-weights-models"
+      },
+      {
+        "name": "Cohere",
+        "url": "https://cohere.com/blog/introducing-north-automations-ai-workflows"
       },
       {
         "name": "Meta AI",

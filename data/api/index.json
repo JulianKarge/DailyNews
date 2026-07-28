@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-28T00:08:19Z",
+  "updated_at": "2026-07-28T12:07:41Z",
   "count": 46,
   "latest_date": "2026-07-28",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 28.07.2026",
       "title": "Daily AI News — Dienstag, 28.07.2026",
-      "dek": "Drei AI-Updates mit Praxiswert: Anthropic sortiert die Open-Weights-Debatte, Meta zeigt offene Vision-Modelle in Assistenzrobotik, und NVIDIA bringt Echtzeit-Simulation näher an chirurgische Roboter.",
+      "dek": "Vier AI-Updates mit Praxiswert: Anthropic sortiert die Open-Weights-Debatte, Cohere macht Agenten-Workflows geschäftstauglicher, Meta zeigt offene Vision-Modelle in Assistenzrobotik, und NVIDIA bringt Echtzeit-Simulation näher an chirurgische Roboter.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -25,6 +25,12 @@
         "Governance",
         "Enterprise AI",
         "Model Deployment",
+        "Cohere",
+        "North Automations",
+        "AI Agents",
+        "Workflow Automation",
+        "Sales",
+        "Customer Success",
         "Meta",
         "Computer Vision",
         "Assistive Robotics",
@@ -41,14 +47,14 @@
         "World Models"
       ],
       "hero": {
-        "topic": "Open-Weights-Governance, Assistenzrobotik mit Meta-Modellen und NVIDIA Cosmos-H-Dreams",
+        "topic": "Open-Weights-Governance, Cohere North Automations, Assistenzrobotik mit Meta-Modellen und NVIDIA Cosmos-H-Dreams",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 28.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-28.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-28.html",
-      "item_count": 3,
-      "source_count": 3
+      "item_count": 4,
+      "source_count": 4
     },
     {
       "id": "2026-07-27",
