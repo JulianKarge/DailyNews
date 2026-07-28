@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-07-28",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 28.07.2026",
+    "title": "Daily AI News — Dienstag, 28.07.2026",
+    "summary": "Heute im Fokus: Open-Weights-Governance, offene Vision-Modelle in Assistenzrobotik und NVIDIAs Echtzeit-Simulation für chirurgische Robotik.",
+    "file": "pages/2026-07-28.html",
+    "markdownFile": "news/2026-07-28.md",
+    "tags": [
+      "Anthropic",
+      "Open Weights",
+      "AI Safety",
+      "Governance",
+      "Enterprise AI",
+      "Model Deployment",
+      "Meta",
+      "Computer Vision",
+      "Assistive Robotics",
+      "Open Source",
+      "DINO",
+      "Segment Anything",
+      "Edge AI",
+      "NVIDIA",
+      "Hugging Face",
+      "Physical AI",
+      "Robotics",
+      "Simulation",
+      "Medical AI",
+      "World Models"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/position-open-weights-models"
+      },
+      {
+        "name": "Meta AI",
+        "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/"
+      },
+      {
+        "name": "Hugging Face / NVIDIA",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "weekday": "Montag",
     "dateLabel": "Montag, 27.07.2026",
