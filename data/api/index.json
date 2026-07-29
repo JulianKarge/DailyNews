@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-07-29T00:06:33Z",
+  "updated_at": "2026-07-29T12:03:58Z",
   "count": 47,
   "latest_date": "2026-07-29",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Mittwoch",
       "date_label": "Mittwoch, 29.07.2026",
       "title": "Daily AI News — Mittwoch, 29.07.2026",
-      "dek": "Vier AI-Updates mit Praxiswert: Claude als Kryptografie-Prüfer, Gemini-Agenten mit mehr Betriebskontrolle, OpenAI-Coding-Agenten in der Forschung und OlmoEarth für Satelliten-Auswertung.",
+      "dek": "Fünf AI-Updates mit Praxiswert: Claude prüft Kryptografie, Gemini-Agenten bekommen Betriebskontrolle, OpenAI zeigt Coding-Agenten in der Forschung, OlmoEarth wertet Satellitendaten aus und Codex Security bringt AI-Sicherheitschecks in die Kommandozeile.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -41,17 +41,20 @@
         "Earth Observation",
         "Satellite AI",
         "Climate",
-        "Infrastructure"
+        "Infrastructure",
+        "Codex Security",
+        "Cybersecurity",
+        "Code Review"
       ],
       "hero": {
-        "topic": "Claude-Kryptografie, Gemini Managed Agents, OpenAI Scientific Computing und OlmoEarth",
+        "topic": "Claude-Kryptografie, Gemini Managed Agents, OpenAI Scientific Computing, OlmoEarth und Codex Security",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 29.07.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-07-29.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-07-29.html",
-      "item_count": 4,
-      "source_count": 7
+      "item_count": 5,
+      "source_count": 9
     },
     {
       "id": "2026-07-28",

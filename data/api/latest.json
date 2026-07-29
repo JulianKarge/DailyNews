@@ -5,11 +5,11 @@
   "weekday": "Mittwoch",
   "date_label": "Mittwoch, 29.07.2026",
   "title": "Daily AI News — Mittwoch, 29.07.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: Claude als Kryptografie-Prüfer, Gemini-Agenten mit mehr Betriebskontrolle, OpenAI-Coding-Agenten in der Forschung und OlmoEarth für Satelliten-Auswertung.",
-  "summary": "Heute geht es weniger um Chatbot-Glanz und mehr um Arbeit an echten Rändern: Sicherheitstests für Kryptografie, kontrollierbare Agenten-Infrastruktur, wissenschaftliche Codebasen und AI für Erdbeobachtung.",
+  "dek": "Fünf AI-Updates mit Praxiswert: Claude prüft Kryptografie, Gemini-Agenten bekommen Betriebskontrolle, OpenAI zeigt Coding-Agenten in der Forschung, OlmoEarth wertet Satellitendaten aus und Codex Security bringt AI-Sicherheitschecks in die Kommandozeile.",
+  "summary": "Heute geht es um AI dort, wo echte Arbeit klemmt: Kryptografie-Tests, kontrollierbare Agenten, wissenschaftliche Codebasen, Satellitendaten und Security-Prüfungen direkt im Repository.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-29T00:06:33Z",
+  "generated_at": "2026-07-29T12:03:58Z",
   "tags": [
     "Anthropic",
     "Claude Mythos",
@@ -33,10 +33,13 @@
     "Earth Observation",
     "Satellite AI",
     "Climate",
-    "Infrastructure"
+    "Infrastructure",
+    "Codex Security",
+    "Cybersecurity",
+    "Code Review"
   ],
   "hero": {
-    "topic": "Claude-Kryptografie, Gemini Managed Agents, OpenAI Scientific Computing und OlmoEarth",
+    "topic": "Claude-Kryptografie, Gemini Managed Agents, OpenAI Scientific Computing, OlmoEarth und Codex Security",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 29.07.2026"
   },
@@ -151,6 +154,34 @@
         "name": "Hugging Face / Ai2",
         "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
       }
+    },
+    {
+      "title": "OpenAI macht Sicherheitschecks zur Codex-Kommandozeile",
+      "summary": "OpenAI hat ein öffentliches Repository und eine Beta-Dokumentation für Codex Security veröffentlicht. Die CLI und das TypeScript-SDK sollen Repositories scannen, Schwachstellen bestätigen, Fixes vorbereiten und Ergebnisse über die Zeit nachverfolgen. Der Haken steht gleich in der Anleitung: Für echte Scans braucht man Zugang zu Codex Security, das ist also noch kein frei nutzbarer Hausmeister für jedes Git-Repo.",
+      "why_it_matters": "Für Teams wird Security damit näher an den normalen Entwicklungsfluss geschoben. Statt Vulnerability-Scanning als separaten Audit-Termin zu behandeln, kann ein AI-Agent direkt im Repository prüfen, erklären und Änderungen vorbereiten. Spannend ist weniger die einzelne CLI als die Richtung: Sicherheitsarbeit wandert dorthin, wo Code entsteht. Genau dort passieren schließlich auch die kleinen Fehler, die später große Tickets werden.",
+      "sources": [
+        {
+          "name": "OpenAI / GitHub",
+          "url": "https://github.com/openai/codex-security"
+        },
+        {
+          "name": "OpenAI Docs",
+          "url": "https://learn.chatgpt.com/docs/security/cli"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Codex Security",
+        "Cybersecurity",
+        "Developer Tools",
+        "AI Agents",
+        "Code Review"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "OpenAI / GitHub",
+        "url": "https://github.com/openai/codex-security"
+      }
     }
   ],
   "sources": [
@@ -181,6 +212,14 @@
     {
       "name": "Ai2",
       "url": "https://allenai.org/olmoearth"
+    },
+    {
+      "name": "OpenAI / GitHub",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "name": "OpenAI Docs",
+      "url": "https://learn.chatgpt.com/docs/security/cli"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 29.07.2026",
     "title": "Daily AI News — Mittwoch, 29.07.2026",
-    "summary": "Heute im Fokus: Claude als Kryptografie-Prüfer, Gemini Managed Agents, OpenAI-Coding-Agenten in der Forschung und OlmoEarth für Satelliten-AI.",
+    "summary": "Heute im Fokus: Claude-Kryptografie, Gemini Managed Agents, OpenAI-Coding-Agenten in der Forschung, OlmoEarth und Codex Security.",
     "file": "pages/2026-07-29.html",
     "markdownFile": "news/2026-07-29.md",
     "tags": [
@@ -30,7 +30,10 @@
       "Earth Observation",
       "Satellite AI",
       "Climate",
-      "Infrastructure"
+      "Infrastructure",
+      "Codex Security",
+      "Cybersecurity",
+      "Code Review"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -61,6 +64,14 @@
       {
         "name": "Ai2",
         "url": "https://allenai.org/olmoearth"
+      },
+      {
+        "name": "OpenAI / GitHub",
+        "url": "https://github.com/openai/codex-security"
+      },
+      {
+        "name": "OpenAI Docs",
+        "url": "https://learn.chatgpt.com/docs/security/cli"
       }
     ]
   },
