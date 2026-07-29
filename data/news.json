@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-07-29",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 29.07.2026",
+    "title": "Daily AI News — Mittwoch, 29.07.2026",
+    "summary": "Heute im Fokus: Claude als Kryptografie-Prüfer, Gemini Managed Agents, OpenAI-Coding-Agenten in der Forschung und OlmoEarth für Satelliten-AI.",
+    "file": "pages/2026-07-29.html",
+    "markdownFile": "news/2026-07-29.md",
+    "tags": [
+      "Anthropic",
+      "Claude Mythos",
+      "Security",
+      "Cryptography",
+      "AI Safety",
+      "Research",
+      "Google",
+      "Gemini API",
+      "Managed Agents",
+      "AI Agents",
+      "Automation",
+      "Developer Tools",
+      "OpenAI",
+      "Coding Agents",
+      "Scientific Computing",
+      "Genomics",
+      "Hugging Face",
+      "Ai2",
+      "OlmoEarth",
+      "Earth Observation",
+      "Satellite AI",
+      "Climate",
+      "Infrastructure"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.18538"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/scientific-computing-agentic-ai"
+      },
+      {
+        "name": "Hugging Face / Ai2",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+      },
+      {
+        "name": "Ai2",
+        "url": "https://allenai.org/olmoearth"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 28.07.2026",

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily AI News — Mittwoch, 29.07.2026</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../day.css">
+</head>
+<body>
+  <header>
+    <h1>Mittwoch, 29.07.2026 · Daily AI News</h1>
+    <p class="dek">Vier AI-Updates mit Praxiswert: Claude als Kryptografie-Prüfer, Gemini-Agenten mit mehr Betriebskontrolle, OpenAI-Coding-Agenten in der Forschung und OlmoEarth für Satelliten-Auswertung.</p>
+  </header>
+  <main>
+    <article class="news-item">
+      <h2>Claude knackt keine Banken, aber einen Teil des Kryptografie-Labors</h2>
+      <p class="summary">Anthropic berichtet, dass Forscher mit Claude Mythos Preview neue Angriffe auf kryptografische Verfahren gefunden haben. Betroffen sind laut Anthropic ein Angriff auf HAWK, ein Post-Quantum-Signaturverfahren, und eine neue Methode gegen eine reduzierte AES-Variante. Wichtig: Anthropic schreibt selbst, dass aktuelle Produktionssysteme dadurch nicht unmittelbar gefährdet sind.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Security-Teams ist das ein Vorgeschmack auf eine unangenehme neue Routine: Frontier-Modelle werden nicht nur Code schreiben, sondern mathematische Schwachstellen schneller durchprobieren. Für Unternehmen heißt das nicht Panik, sondern bessere Testprozesse. Kryptografie bekommt damit ein weiteres Prüfwerkzeug, aber auch ein Werkzeug, das Angreifer irgendwann ebenfalls benutzen könnten.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://www.anthropic.com/research/discovering-cryptographic-weaknesses" class="source-pill" target="_blank" rel="noopener">Anthropic</a> <a href="https://arxiv.org/abs/2607.18538" class="source-pill" target="_blank" rel="noopener">arXiv</a></div>
+        <div class="tags-row"><span class="tag">Anthropic</span> <span class="tag">Claude Mythos</span> <span class="tag">Security</span> <span class="tag">Cryptography</span> <span class="tag">AI Safety</span> <span class="tag">Research</span></div>
+        <span class="confidence confidence-high">high</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>Google macht Agenten weniger Demo und mehr Betriebswerkzeug</h2>
+      <p class="summary">Google erweitert Managed Agents in der Gemini API um Gemini 3.6 Flash als Standardmodell, Environment Hooks, Modellauswahl und Free-Tier-Zugang. Die Agenten laufen in einer isolierten Cloud-Sandbox und können in einem API-Aufruf unter anderem Reasoning, Code-Ausführung, Paketinstallation, Dateiverwaltung und Webabruf koordinieren.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Teams, die Agenten wirklich in Abläufe einbauen wollen, ist das interessanter als die nächste Chat-Oberfläche. Hooks und Sandboxen sind die Stellen, an denen aus einem hübschen Demo-Agenten ein kontrollierbarer Prozess wird: vorbereiten, ausführen, prüfen, abbrechen. Die offene Frage bleibt, wie gut solche Agenten mit echten Firmenrechten, Datenquellen und Fehlerfällen umgehen.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/" class="source-pill" target="_blank" rel="noopener">Google Blog</a></div>
+        <div class="tags-row"><span class="tag">Google</span> <span class="tag">Gemini API</span> <span class="tag">Managed Agents</span> <span class="tag">AI Agents</span> <span class="tag">Automation</span> <span class="tag">Developer Tools</span></div>
+        <span class="confidence confidence-high">high</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>OpenAI zeigt, wo Coding-Agenten außerhalb von Softwareteams landen</h2>
+      <p class="summary">OpenAI beschreibt in einem neuen Field Report, wie Forschende AI-Coding-Agenten für wissenschaftliches Rechnen einsetzen, unter anderem in Genomik und bestehender Forschungssoftware. Der direkte Artikel war beim Abruf blockiert, die offizielle RSS-Ankündigung nennt aber klar Thema, Datum und Kernaussage.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für viele Organisationen ist das die spannendere Agenten-Geschichte als „schreib mir eine App“. Sehr viel Facharbeit steckt in alten Skripten, Datenpipelines und schlecht dokumentierten Modellen. Wenn Agenten dort helfen, Code zu modernisieren und Experimente schneller reproduzierbar zu machen, wird AI zum Wartungshelfer für Wissen, das sonst in Ordnern namens final_final2 verschwindet.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://openai.com/news/rss.xml" class="source-pill" target="_blank" rel="noopener">OpenAI News RSS</a> <a href="https://openai.com/index/scientific-computing-agentic-ai" class="source-pill" target="_blank" rel="noopener">OpenAI</a></div>
+        <div class="tags-row"><span class="tag">OpenAI</span> <span class="tag">Coding Agents</span> <span class="tag">Scientific Computing</span> <span class="tag">Research</span> <span class="tag">Genomics</span> <span class="tag">Automation</span></div>
+        <span class="confidence confidence-medium">medium</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>OlmoEarth bringt Satelliten-AI näher an die Teams, die sie wirklich brauchen</h2>
+      <p class="summary">Ai2 beschreibt auf Hugging Face die OlmoEarth-Plattform für geospatiale Inferenz im großen Maßstab. Die zugrunde liegenden Earth-Observation-Modelle wurden laut Beitrag auf rund 10 Terabyte multimodalen Satellitendaten vortrainiert und sollen Anwendungen wie Entwaldungsmonitoring, Ernährungssicherheit und Waldbrandrisiko unterstützen.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für NGOs, Behörden und Umweltteams ist das praktisch, weil viele von ihnen keine eigene ML-Infrastruktur für Satellitendaten betreiben können. Der Punkt ist nicht „noch ein Modell“, sondern der Zugriff auf Auswertung, die sonst an Datenmengen, Cloud-Kosten und Spezialwissen scheitert. Die Einschränkung: Solche Systeme müssen lokal validiert werden, sonst sieht die Karte im Browser überzeugender aus als die Lage vor Ort.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://huggingface.co/blog/allenai/olmoearth-infrastructure" class="source-pill" target="_blank" rel="noopener">Hugging Face / Ai2</a> <a href="https://allenai.org/olmoearth" class="source-pill" target="_blank" rel="noopener">Ai2</a></div>
+        <div class="tags-row"><span class="tag">Hugging Face</span> <span class="tag">Ai2</span> <span class="tag">OlmoEarth</span> <span class="tag">Earth Observation</span> <span class="tag">Satellite AI</span> <span class="tag">Climate</span> <span class="tag">Infrastructure</span></div>
+        <span class="confidence confidence-high">high</span>
+      </div>
+    </article>
+  </main>
+  <footer>
+    <a href="../index.html">Zurück zur Übersicht</a>
+  </footer>
+</body>
+</html>
