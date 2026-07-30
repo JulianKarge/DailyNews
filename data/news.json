@@ -1,5 +1,77 @@
 [
   {
+    "date": "2026-07-30",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 30.07.2026",
+    "title": "Daily AI News — Donnerstag, 30.07.2026",
+    "summary": "Heute im Fokus: GPT-5.6-Preise, Grok Voice, ChatGPT für Forschende, CPU-Long-Context-Encoder und realistischere Agenten-Evaluierung.",
+    "file": "pages/2026-07-30.html",
+    "markdownFile": "news/2026-07-30.md",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "Pricing",
+      "Inference",
+      "AI Agents",
+      "Enterprise AI",
+      "xAI",
+      "Grok",
+      "Voice AI",
+      "Speech-to-Speech",
+      "AI Apps",
+      "Automation",
+      "ChatGPT",
+      "Research",
+      "Academia",
+      "AI Adoption",
+      "Productivity",
+      "Hugging Face",
+      "Liquid AI",
+      "Long Context",
+      "CPU Inference",
+      "Retrieval",
+      "arXiv",
+      "AI Research",
+      "Evaluation",
+      "Benchmarks"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+      },
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "name": "xAI",
+        "url": "https://x.ai/news/grok-voice-think-fast-2"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers"
+      },
+      {
+        "name": "Hugging Face / Liquid AI",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.27191v1"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 29.07.2026",
