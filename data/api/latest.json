@@ -5,11 +5,11 @@
   "weekday": "Freitag",
   "date_label": "Freitag, 31.07.2026",
   "title": "Daily AI News — Freitag, 31.07.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: Perplexity bringt Computer-Agenten auf Windows, OpenAI zeigt die Bedeutung von Agenten-Gedächtnis, Hugging Face blickt auf GPU-Auslastung und GitHub beendet seinen Modell-Hub.",
-  "summary": "Heute geht es um AI im echten Betrieb: lokale Computer-Agenten, bessere Kontextführung, teure Infrastruktur und die Frage, wie stabil die Plattformen unter unseren Automationen wirklich sind.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Perplexity bringt Computer-Agenten auf Windows, OpenAI zeigt Agenten-Kontext, DeepSeek öffnet V4-Flash für Responses-API-Workflows, Hugging Face blickt auf GPU-Auslastung, arXiv prüft Agenten-Bewertung und GitHub beendet seinen Modell-Hub.",
+  "summary": "Heute geht es um AI im echten Betrieb: lokale Computer-Agenten, bessere Kontextführung, alternative Modell-APIs, teure Infrastruktur, Prüfmechaniken für Bildschirm-Agenten und die Frage, wie stabil Plattformen unter unseren Automationen wirklich sind.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-07-31T00:08:10Z",
+  "generated_at": "2026-07-31T12:04:52Z",
   "tags": [
     "Perplexity",
     "Personal Computer",
@@ -22,21 +22,32 @@
     "ARC-AGI-3",
     "Reasoning",
     "Context Management",
+    "DeepSeek",
+    "DeepSeek-V4-Flash",
+    "Responses API",
+    "Coding Agents",
+    "Model APIs",
+    "China AI",
     "Hugging Face",
     "GPU",
     "AI Infrastructure",
     "Cost Efficiency",
     "Enterprise AI",
     "Orchestration",
+    "arXiv",
+    "OSReward",
+    "Computer-Use Agents",
+    "Evaluation",
+    "Reward Models",
+    "Benchmarks",
     "GitHub",
     "GitHub Models",
     "Developer Tools",
     "AI Platforms",
-    "Model APIs",
     "Risk Management"
   ],
   "hero": {
-    "topic": "Perplexity Windows-Agent, OpenAI Agenten-Kontext, GPU-Auslastung und GitHub Models",
+    "topic": "Perplexity Windows-Agent, OpenAI Agenten-Kontext, DeepSeek-V4-Flash, GPU-Auslastung, OSReward und GitHub Models",
     "accent": "#3b82f6",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 31.07.2026"
   },
@@ -96,6 +107,35 @@
       }
     },
     {
+      "title": "DeepSeek macht V4-Flash leichter in Codex-ähnlichen Workflows nutzbar",
+      "summary": "DeepSeek meldet auf der offiziellen Website, dass DeepSeek-V4-Flash als API-Version öffentlich getestet wird und die Agenten-Fähigkeiten ausgebaut wurden. Die neue Responses-API-Dokumentation nennt derzeit deepseek-v4-flash als unterstütztes Modell, V4-Pro soll Anfang August folgen. Praktisch ist vor allem die Kompatibilität zum Responses-Format: bestehende Coding- und Agenten-Tools können den Anbieter dadurch mit weniger Umbau testen.",
+      "why_it_matters": "Für Teams, die AI-Agenten nicht komplett an einen Anbieter ketten wollen, ist das ein nützlicher Druck auf den Markt. Günstigere oder alternative Modelle werden erst dann wirklich interessant, wenn sie in vorhandene Toolketten passen. Noch offen bleibt, wie stabil V4-Flash in längeren Agentenläufen ist und welche Datenschutz- oder Compliance-Regeln Unternehmen dafür brauchen.",
+      "sources": [
+        {
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com/"
+        },
+        {
+          "name": "DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/zh-cn/guides/responses_api"
+        }
+      ],
+      "tags": [
+        "DeepSeek",
+        "DeepSeek-V4-Flash",
+        "Responses API",
+        "AI Agents",
+        "Coding Agents",
+        "Model APIs",
+        "China AI"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      }
+    },
+    {
       "title": "Ungenutzte GPUs werden zum neuen AI-Kostenleck",
       "summary": "Ein aktueller Hugging-Face-Beitrag von Dharma-AI argumentiert, dass nicht nur Modellintelligenz knapp ist, sondern vor allem nutzbare Rechenkapazität. Der Artikel vergleicht schlecht ausgelastete GPUs mit am Boden stehenden Flugzeugen: teuer, vorhanden, aber im falschen Moment nicht produktiv.",
       "why_it_matters": "Für Teams mit eigenen AI-Workloads ist das sehr praktisch: Die nächste Effizienzrunde kommt nicht nur aus kleineren Modellen, sondern aus besserer Orchestrierung, Scheduling und dem richtigen Hardware-Mix. Wer GPU-Zeit einkauft oder betreibt, sollte Auslastung wie eine Produktmetrik behandeln. Sonst bezahlt man für Rennwagen, die im Parkhaus auf Prompts warten.",
@@ -117,6 +157,31 @@
       "source": {
         "name": "Hugging Face / Dharma-AI",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+      }
+    },
+    {
+      "title": "Neue Agenten-Benchmark fragt: Kann die AI den AI-Agenten überhaupt bewerten?",
+      "summary": "Ein neues arXiv-Paper stellt OSReward vor, einen Benchmark für Reward-Modelle, die Computer-Use-Agenten bewerten sollen. Die Autoren testen damit, ob Vision-Language-Modelle zuverlässig erkennen, ob ein Agent eine Aufgabe auf dem Bildschirm wirklich erledigt hat. Das ist trockene Evaluationsarbeit, aber genau dort entscheidet sich, ob Agenten nur hübsch klicken oder verlässlich trainiert werden können.",
+      "why_it_matters": "Für Unternehmen und Toolbauer ist die Frage simpel: Wenn ein Agent Formulare ausfüllt, Tickets bearbeitet oder Dateien verschiebt, braucht jemand einen verlässlichen Prüfer. Menschliche Kontrolle skaliert schlecht, aber ein schlechter AI-Prüfer wäre nur ein zweiter Praktikant mit Clipboards. OSReward macht diesen blinden Fleck messbarer, auch wenn ein Paper natürlich noch kein fertiger Produktstandard ist.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28609v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "OSReward",
+        "Computer-Use Agents",
+        "Evaluation",
+        "Reward Models",
+        "AI Agents",
+        "Benchmarks"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.28609v1"
       }
     },
     {
@@ -158,8 +223,20 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
     },
     {
+      "name": "DeepSeek",
+      "url": "https://www.deepseek.com/"
+    },
+    {
+      "name": "DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/zh-cn/guides/responses_api"
+    },
+    {
       "name": "Hugging Face / Dharma-AI",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2607.28609v1"
     },
     {
       "name": "GitHub Changelog",

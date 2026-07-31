@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 31.07.2026",
     "title": "Daily AI News — Freitag, 31.07.2026",
-    "summary": "Heute im Fokus: Perplexity auf Windows, OpenAI-Agenten-Kontext, GPU-Auslastung und das Ende von GitHub Models.",
+    "summary": "Heute im Fokus: Perplexity auf Windows, OpenAI-Agenten-Kontext, DeepSeek-V4-Flash, GPU-Auslastung, Agenten-Evaluierung und das Ende von GitHub Models.",
     "file": "pages/2026-07-31.html",
     "markdownFile": "news/2026-07-31.md",
     "tags": [
@@ -19,17 +19,28 @@
       "ARC-AGI-3",
       "Reasoning",
       "Context Management",
+      "DeepSeek",
+      "DeepSeek-V4-Flash",
+      "Responses API",
+      "Coding Agents",
+      "Model APIs",
+      "China AI",
       "Hugging Face",
       "GPU",
       "AI Infrastructure",
       "Cost Efficiency",
       "Enterprise AI",
       "Orchestration",
+      "arXiv",
+      "OSReward",
+      "Computer-Use Agents",
+      "Evaluation",
+      "Reward Models",
+      "Benchmarks",
       "GitHub",
       "GitHub Models",
       "Developer Tools",
       "AI Platforms",
-      "Model APIs",
       "Risk Management"
     ],
     "visualTag": "Daily AI News",
@@ -47,8 +58,20 @@
         "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
       },
       {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "name": "DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/zh-cn/guides/responses_api"
+      },
+      {
         "name": "Hugging Face / Dharma-AI",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2607.28609v1"
       },
       {
         "name": "GitHub Changelog",
