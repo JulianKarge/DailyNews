@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-07-31",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 31.07.2026",
+    "title": "Daily AI News — Freitag, 31.07.2026",
+    "summary": "Heute im Fokus: Perplexity auf Windows, OpenAI-Agenten-Kontext, GPU-Auslastung und das Ende von GitHub Models.",
+    "file": "pages/2026-07-31.html",
+    "markdownFile": "news/2026-07-31.md",
+    "tags": [
+      "Perplexity",
+      "Personal Computer",
+      "Windows",
+      "Office AI",
+      "AI Agents",
+      "Productivity",
+      "OpenAI",
+      "GPT-5.6",
+      "ARC-AGI-3",
+      "Reasoning",
+      "Context Management",
+      "Hugging Face",
+      "GPU",
+      "AI Infrastructure",
+      "Cost Efficiency",
+      "Enterprise AI",
+      "Orchestration",
+      "GitHub",
+      "GitHub Models",
+      "Developer Tools",
+      "AI Platforms",
+      "Model APIs",
+      "Risk Management"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Perplexity Blog",
+        "url": "https://www.perplexity.ai/hub/blog"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+      },
+      {
+        "name": "Hugging Face / Dharma-AI",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 30.07.2026",
