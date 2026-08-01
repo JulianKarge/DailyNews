@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-08-01",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 01.08.2026",
+    "title": "Daily AI News — Samstag, 01.08.2026",
+    "summary": "Heute im Fokus: Gemini-Robotik, Agenten-Security, AI-gestützte Scam-Operationen und Copilot-Modellregeln für Teams.",
+    "file": "pages/2026-08-01.html",
+    "markdownFile": "news/2026-08-01.md",
+    "tags": [
+      "Google",
+      "Google DeepMind",
+      "Gemini Robotics 2",
+      "Gemini Robotics ER 2",
+      "Physical AI",
+      "Robotics",
+      "Multimodal AI",
+      "Hugging Face",
+      "AI Security",
+      "AI Agents",
+      "Prompt Injection",
+      "Sandboxing",
+      "Infrastructure",
+      "Risk Management",
+      "OpenAI",
+      "AI Misuse",
+      "Scams",
+      "Security",
+      "Fraud",
+      "Trust",
+      "Platform Safety",
+      "GitHub",
+      "GitHub Copilot",
+      "Enterprise AI",
+      "Model Governance",
+      "Developer Tools",
+      "AI Policy",
+      "Team Management"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/models/gemini-robotics/"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 31.07.2026",
