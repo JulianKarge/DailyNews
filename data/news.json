@@ -1,5 +1,89 @@
 [
   {
+    "date": "2026-08-15",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 15.08.2026",
+    "title": "Daily AI News — Samstag, 15.08.2026",
+    "summary": "Heute im Fokus: Grok 4.6, ChatGPT-Ads, DeepSeek-V4-Pro, Claude-Wasserzeichen, offene Voice-Agenten und neue Gemini-Spezialmodelle.",
+    "file": "pages/2026-08-15.html",
+    "markdownFile": "news/2026-08-15.md",
+    "tags": [
+      "xAI",
+      "Grok 4.6",
+      "AI Agents",
+      "Coding Agents",
+      "GitHub Copilot",
+      "Model Routing",
+      "OpenAI",
+      "ChatGPT",
+      "Ads",
+      "Consumer AI",
+      "AI Search",
+      "Trust",
+      "DeepSeek",
+      "DeepSeek-V4-Pro",
+      "Responses API",
+      "Codex",
+      "China AI",
+      "Anthropic",
+      "Claude",
+      "Watermarking",
+      "EU AI Act",
+      "AI Governance",
+      "Provenance",
+      "NVIDIA",
+      "Hugging Face",
+      "Magpie TTS",
+      "Voice AI",
+      "Open Weights",
+      "Deployment",
+      "Google",
+      "Gemini",
+      "Gemini 3.6 Flash",
+      "Gemini Flash-Lite",
+      "Cybersecurity"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt"
+      },
+      {
+        "name": "DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+      },
+      {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-text-watermark"
+      },
+      {
+        "name": "Hugging Face / NVIDIA",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-01",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 01.08.2026",
