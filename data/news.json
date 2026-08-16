@@ -4,7 +4,7 @@
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 16.08.2026",
     "title": "Daily AI News — Sonntag, 16.08.2026",
-    "summary": "Heute im Fokus: schnelle Inferenz, Cyber-AI in AWS, medizinische Video-AI, Marketing-Automation, kleine Vision-Modelle und robustere Coding-Agenten.",
+    "summary": "Heute im Fokus: Inferenztempo, Cyber-AI, medizinische Video-AI, Marketing-Automation, Vision-Modelle, Coding-Agenten, Agenten-Evaluation, GLM-5.2 und offene Modelle.",
     "file": "pages/2026-08-16.html",
     "markdownFile": "news/2026-08-16.md",
     "tags": [
@@ -41,7 +41,18 @@
       "Agent Evaluation",
       "Shell",
       "Security",
-      "Reliability"
+      "Reliability",
+      "Gemini Enterprise",
+      "AI Agents",
+      "Evaluation",
+      "Governance",
+      "Z.ai",
+      "Zhipu",
+      "GLM-5.2",
+      "Long Context",
+      "China AI",
+      "Qwen",
+      "Model Ecosystem"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -72,6 +83,18 @@
       {
         "name": "arXiv",
         "url": "https://arxiv.org/abs/2608.13547v1"
+      },
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/"
+      },
+      {
+        "name": "Z.ai / Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
       }
     ]
   },

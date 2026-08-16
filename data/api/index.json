@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-08-16T05:57:40Z",
+  "updated_at": "2026-08-16T12:03:47Z",
   "count": 52,
   "latest_date": "2026-08-16",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Sonntag",
       "date_label": "Sonntag, 16.08.2026",
       "title": "Daily AI News — Sonntag, 16.08.2026",
-      "dek": "Sechs AI-Updates mit Praxiswert: schnellere GPT-5.6-Inferenz, Daybreak auf AWS, Googles medizinische Video-AI, AI-Hilfen für Marketing, ein kleines Vision-Modell von CohereLabs und ein Benchmark für die fragile Realität von Coding-Agenten.",
+      "dek": "Neun AI-Updates mit Praxiswert: schnelle GPT-5.6-Inferenz, Cyber-AI auf AWS, medizinische Video-AI, Marketing-Automation, kleine Vision-Modelle, robustere Coding-Agenten, Agenten-Evaluation bei Google, GLM-5.2 und der neue Open-Model-Realitätscheck.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -52,17 +52,28 @@
         "Agent Evaluation",
         "Shell",
         "Security",
-        "Reliability"
+        "Reliability",
+        "Gemini Enterprise",
+        "AI Agents",
+        "Evaluation",
+        "Governance",
+        "Z.ai",
+        "Zhipu",
+        "GLM-5.2",
+        "Long Context",
+        "China AI",
+        "Qwen",
+        "Model Ecosystem"
       ],
       "hero": {
-        "topic": "GPT-5.6 Sol, Daybreak auf AWS, AMIE, Google Ads AI, North Micro Vision und QuoteBench",
+        "topic": "GPT-5.6 Sol, Daybreak, AMIE, Google Ads AI, North Micro Vision, QuoteBench, Gemini Enterprise Evals, GLM-5.2 und Open Models",
         "accent": "#3b82f6",
         "image_alt": "Abstrakte AI-News-Karte für Sonntag, 16.08.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-16.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-16.html",
-      "item_count": 6,
-      "source_count": 7
+      "item_count": 9,
+      "source_count": 10
     },
     {
       "id": "2026-08-15",

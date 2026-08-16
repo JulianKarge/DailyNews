@@ -10,7 +10,7 @@
 <body>
   <header>
     <h1>Sonntag, 16.08.2026 · Daily AI News</h1>
-    <p class="dek">Sechs AI-Updates mit Praxiswert: schnellere GPT-5.6-Inferenz, Daybreak auf AWS, Googles medizinische Video-AI, AI-Hilfen für Marketing, ein kleines Vision-Modell von CohereLabs und ein Benchmark für die fragile Realität von Coding-Agenten.</p>
+    <p class="dek">Neun AI-Updates mit Praxiswert: schnelle GPT-5.6-Inferenz, Cyber-AI auf AWS, medizinische Video-AI, Marketing-Automation, kleine Vision-Modelle, robustere Coding-Agenten, Agenten-Evaluation bei Google, GLM-5.2 und der neue Open-Model-Realitätscheck.</p>
   </header>
   <main>
     <article class="news-item">
@@ -89,6 +89,45 @@
         <div class="sources"><a href="https://arxiv.org/abs/2608.13547v1" class="source-pill" target="_blank" rel="noopener">arXiv</a></div>
         <div class="tags-row"><span class="tag">arXiv</span> <span class="tag">Coding Agents</span> <span class="tag">Agent Evaluation</span> <span class="tag">Shell</span> <span class="tag">Security</span> <span class="tag">Reliability</span></div>
         <span class="confidence confidence-medium">medium</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>Google macht Agenten-Evaluation zur Pflichtübung statt zur Bauchgefühl-Demo</h2>
+      <p class="summary">Google hat Agent and Model Evaluations in der Gemini Enterprise Agent Platform allgemein verfügbar gemacht. Teams können damit Agenten und Modelle vor dem Launch gegen eigene Testfälle prüfen und nach dem Launch gegen echte Aufgaben messen. Die Plattform bringt mehr als 20 Metriken mit, darunter Qualität, Sicherheit, Grounding, Tool-Nutzung und Trajektorienbewertung.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Unternehmen ist das der nüchterne Teil der Agentenwelle: Nicht der schönste Demo-Run zählt, sondern ob der Agent nach zwei Wochen Produktion noch sauber arbeitet. Gerade Support-, Sales- und Office-Agenten brauchen solche Messpunkte, weil kleine Drift-Fehler sonst unbemerkt in Kundengespräche oder interne Entscheidungen rutschen. Offen bleibt, wie gut die Metriken in sehr branchenspezifischen Workflows tragen.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://developers.googleblog.com/en/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/" class="source-pill" target="_blank" rel="noopener">Google Developers Blog</a></div>
+        <div class="tags-row"><span class="tag">Google</span> <span class="tag">Gemini Enterprise</span> <span class="tag">AI Agents</span> <span class="tag">Evaluation</span> <span class="tag">Enterprise AI</span> <span class="tag">Governance</span></div>
+        <span class="confidence confidence-high">high</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>Z.ai schiebt GLM-5.2 in den offenen Spitzenmodell-Wettbewerb</h2>
+      <p class="summary">Zhipu/Z.ai bewirbt GLM-5.2 als neue offene Flaggschiff-Generation und nennt zusätzlich GLM-5.2 Coding mit 1M-Kontext für längere Coding-Aufgaben. Die offizielle Website positioniert das Modell in der Spitzengruppe von Artificial Analysis und betont Agenten-, Tool- und Langkontext-Fähigkeiten. Das ist ein weiteres Signal, dass offene Modelle nicht nur kleiner Nachbau, sondern ernsthafte Infrastruktur-Option werden.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Teams mit Datenschutz-, Kosten- oder Deployment-Zwängen wird der Markt interessanter. Wenn leistungsfähige offene Modelle längere Aufgaben und Coding-Workflows besser abdecken, entstehen Alternativen zu rein geschlossenen Modellstacks. Der Haken: Die Angaben kommen direkt vom Anbieter; Benchmarks und reale Integrationsarbeit müssen zeigen, wie stabil GLM-5.2 außerhalb der Produktseite läuft.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://www.zhipuai.cn/" class="source-pill" target="_blank" rel="noopener">Z.ai / Zhipu AI</a></div>
+        <div class="tags-row"><span class="tag">Z.ai</span> <span class="tag">Zhipu</span> <span class="tag">GLM-5.2</span> <span class="tag">Open Models</span> <span class="tag">Coding Agents</span> <span class="tag">Long Context</span> <span class="tag">China AI</span></div>
+        <span class="confidence confidence-medium">medium</span>
+      </div>
+    </article>
+    <article class="news-item">
+      <h2>Hugging Face zeigt, warum offene Modelle gleichzeitig riesig und brutal ungleich verteilt sind</h2>
+      <p class="summary">Hugging Face hat seinen Summer-2026-Bericht zum Open-Model-Ökosystem veröffentlicht. Die Plattform zählt starkes Wachstum bei Modellen, Datasets und Spaces, weist aber auch auf eine extreme Verteilung hin: Ein kleiner Teil der Repositories sammelt fast alle Downloads ein, während die meisten Modelle kaum genutzt werden. Gleichzeitig nennt der Bericht Qwen, kleine Modelle und Agenten als zentrale Verschiebungen im offenen Ökosystem.</p>
+      <div class="why-it-matters">
+        <strong>Warum das wichtig ist:</strong>
+        <p>Für Creator, Startups und interne AI-Teams heißt das: Open Source ist nicht automatisch Auswahlfreiheit, sondern erst einmal ein sehr großer Werkzeugkeller ohne Beschriftung. Praktisch wertvoll werden offene Modelle dort, wo sie klein genug, gut dokumentiert und in echte Workflows integrierbar sind. Die spannende Frage ist weniger, wie viele Modelle existieren, sondern welche davon zuverlässig genug für Produkte, Automationen und lokale Deployments sind.</p>
+      </div>
+      <div class="item-meta">
+        <div class="sources"><a href="https://huggingface.co/blog/state-of-open-models-summer-2026" class="source-pill" target="_blank" rel="noopener">Hugging Face</a></div>
+        <div class="tags-row"><span class="tag">Hugging Face</span> <span class="tag">Open Models</span> <span class="tag">Qwen</span> <span class="tag">Small Models</span> <span class="tag">AI Agents</span> <span class="tag">Model Ecosystem</span></div>
+        <span class="confidence confidence-high">high</span>
       </div>
     </article>
   </main>
