@@ -1,5 +1,81 @@
 [
   {
+    "date": "2026-08-16",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 16.08.2026",
+    "title": "Daily AI News — Sonntag, 16.08.2026",
+    "summary": "Heute im Fokus: schnelle Inferenz, Cyber-AI in AWS, medizinische Video-AI, Marketing-Automation, kleine Vision-Modelle und robustere Coding-Agenten.",
+    "file": "pages/2026-08-16.html",
+    "markdownFile": "news/2026-08-16.md",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6 Sol",
+      "Inference",
+      "Cerebras",
+      "Latency",
+      "API",
+      "AWS",
+      "Daybreak",
+      "Cybersecurity",
+      "Amazon Bedrock",
+      "Enterprise AI",
+      "Google",
+      "AMIE",
+      "Medical AI",
+      "Video AI",
+      "Multimodal AI",
+      "Healthcare",
+      "Google Ads",
+      "Google Analytics",
+      "Marketing AI",
+      "Small Business",
+      "Automation",
+      "Cohere",
+      "Hugging Face",
+      "Vision-Language Models",
+      "Small Models",
+      "Document AI",
+      "Open Models",
+      "arXiv",
+      "Coding Agents",
+      "Agent Evaluation",
+      "Shell",
+      "Security",
+      "Reliability"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/previewing-ultrafast"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+      },
+      {
+        "name": "Hugging Face / CohereLabs",
+        "url": "https://huggingface.co/blog/CohereLabs/meet-north-micro-vision-instruct"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.13547v1"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 15.08.2026",
