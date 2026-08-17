@@ -5,11 +5,11 @@
   "weekday": "Montag",
   "date_label": "Montag, 17.08.2026",
   "title": "Daily AI News — Montag, 17.08.2026",
-  "dek": "Sechs AI-Updates mit Praxiswert: OpenAI erklärt Agentenarchitektur und Enterprise-Ausführung, Workspace-Agenten bekommen Backend-Trigger, Mistral schiebt Vibe in Coding-Workflows, Hugging Face zeigt einen Robotik-Datenloop und ein neues arXiv-Paper sortiert Coding-Agenten als Betriebssystem statt Modellscore ein.",
-  "summary": "Heute geht es weniger um den nächsten Modellnamen und mehr um die Frage, wie AI in echte Abläufe kommt: Agenten brauchen Trigger, Rechte, Tests, Datenloops und saubere Übergaben. Genau dort entscheidet sich, ob aus einer Demo ein nützliches Werkzeug wird.",
+  "dek": "Sieben AI-Updates mit Praxiswert: OpenAI erklärt Agentenarchitektur und Enterprise-Ausführung, Google bringt Gemini-Mini-Apps in Sheets, Workspace-Agenten bekommen Backend-Trigger, Mistral schiebt Vibe in Coding-Workflows, Hugging Face zeigt einen Robotik-Datenloop und ein arXiv-Paper sortiert Coding-Agenten als Systeme ein.",
+  "summary": "Heute geht es darum, wie AI aus dem Chatfenster in echte Arbeitsflächen wandert: Agenten brauchen Trigger und Rechte, Tabellen werden zu kleinen Apps, Robotik braucht saubere Datenloops und Coding-Agenten müssen als ganze Systeme bewertet werden.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-17T08:41:27Z",
+  "generated_at": "2026-08-17T12:05:21Z",
   "tags": [
     "OpenAI",
     "GPT-5.6",
@@ -22,6 +22,13 @@
     "Codex",
     "AI Adoption",
     "Workflow Automation",
+    "Google",
+    "Google Sheets",
+    "Gemini",
+    "Workspace",
+    "Office AI",
+    "Productivity",
+    "Small Business",
     "Workspace Agents",
     "Automation",
     "Backend",
@@ -43,7 +50,7 @@
     "Evaluation"
   ],
   "hero": {
-    "topic": "OpenAI-Agenten, Workspace-Triggers, Mistral Vibe, LeRobot-Datenloops und zuverlässige Coding-Agenten",
+    "topic": "OpenAI-Agenten, Google Sheets canvas, Workspace-Triggers, Mistral Vibe, LeRobot-Datenloops und zuverlässige Coding-Agenten",
     "accent": "#8b5cf6",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 17.08.2026"
   },
@@ -104,6 +111,31 @@
       "source": {
         "name": "OpenAI News RSS",
         "url": "https://openai.com/news/rss.xml"
+      }
+    },
+    {
+      "title": "Google macht aus Tabellen kleine Apps statt nur bunte Zellen",
+      "summary": "Google führt in Sheets die neue Funktion Sheets canvas ein. Aus vorhandenen Tabellen lassen sich per Prompt interaktive Ansichten wie Dashboards, Lerntracker oder Sitzpläne bauen; gestartet wird das über die Ask-Gemini-Seitenleiste. Google nennt als Verfügbarkeit unter anderem Google AI Pro und Ultra sowie Workspace Business Standard, Business Plus und Education-Zusatzpläne.",
+      "why_it_matters": "Für Teams und kleine Unternehmen ist das spannend, weil viele interne Prozesse ohnehin in Tabellen wohnen: Leads, Inventar, Projektlisten, Kursplanung, kleine Reportings. Wenn daraus ohne separates App-Projekt eine brauchbare Oberfläche wird, rückt Automatisierung näher an die Menschen, die jeden Tag in Sheets arbeiten. Die offene Frage: Wie stabil bleiben solche Mini-Apps, wenn die Tabelle chaotisch ist, Spaltennamen wechseln oder jemand freitags um 16:58 Uhr noch schnell eine Formel rettet?",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Google Sheets",
+        "Gemini",
+        "Workspace",
+        "Office AI",
+        "Productivity",
+        "Small Business"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
       }
     },
     {
@@ -224,6 +256,10 @@
     {
       "name": "OpenAI",
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
     },
     {
       "name": "OpenAI Developers",

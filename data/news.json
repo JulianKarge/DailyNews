@@ -4,7 +4,7 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 17.08.2026",
     "title": "Daily AI News — Montag, 17.08.2026",
-    "summary": "Heute im Fokus: Agentenarchitektur, Enterprise-Ausführung, Workspace-Trigger, Mistral Vibe, Robotik-Datenloops und zuverlässigere Coding-Agenten.",
+    "summary": "Heute im Fokus: Agentenarchitektur, Enterprise-Ausführung, Sheets canvas, Workspace-Trigger, Mistral Vibe, Robotik-Datenloops und zuverlässigere Coding-Agenten.",
     "file": "pages/2026-08-17.html",
     "markdownFile": "news/2026-08-17.md",
     "tags": [
@@ -19,6 +19,13 @@
       "Codex",
       "AI Adoption",
       "Workflow Automation",
+      "Google",
+      "Google Sheets",
+      "Gemini",
+      "Workspace",
+      "Office AI",
+      "Productivity",
+      "Small Business",
       "Workspace Agents",
       "Automation",
       "Backend",
@@ -52,6 +59,10 @@
       {
         "name": "OpenAI",
         "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
       },
       {
         "name": "OpenAI Developers",
