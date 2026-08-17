@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-08-17",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 17.08.2026",
+    "title": "Daily AI News — Montag, 17.08.2026",
+    "summary": "Heute im Fokus: Agentenarchitektur, Enterprise-Ausführung, Workspace-Trigger, Mistral Vibe, Robotik-Datenloops und zuverlässigere Coding-Agenten.",
+    "file": "pages/2026-08-17.html",
+    "markdownFile": "news/2026-08-17.md",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "AI Agents",
+      "Responses API",
+      "Model Routing",
+      "Startups",
+      "Enterprise AI",
+      "ChatGPT",
+      "Codex",
+      "AI Adoption",
+      "Workflow Automation",
+      "Workspace Agents",
+      "Automation",
+      "Backend",
+      "APIs",
+      "Mistral",
+      "Vibe",
+      "Coding Agents",
+      "Developer Tools",
+      "Hugging Face",
+      "Amazon",
+      "LeRobot",
+      "Robotics",
+      "Physical AI",
+      "Deployment",
+      "Open Source",
+      "arXiv",
+      "Software Engineering",
+      "Reliability",
+      "Evaluation"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+      },
+      {
+        "name": "OpenAI Developers",
+        "url": "https://developers.openai.com/workspace-agents"
+      },
+      {
+        "name": "OpenAI Developers Markdown",
+        "url": "https://developers.openai.com/workspace-agents.md"
+      },
+      {
+        "name": "Mistral Vibe for code",
+        "url": "https://mistral.ai/products/vibe/code/"
+      },
+      {
+        "name": "Mistral News",
+        "url": "https://mistral.ai/news"
+      },
+      {
+        "name": "Hugging Face / Amazon",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.13867v1"
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 16.08.2026",
