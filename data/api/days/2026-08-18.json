@@ -5,13 +5,19 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 18.08.2026",
   "title": "Daily AI News — Dienstag, 18.08.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: OpenAI warnt vor schnellerer Cybersecurity-Arbeit, Google erklärt Zero-Trust-Agenten, Hugging Face zeigt GPU-Kostendisziplin und GitHub macht Agentenarbeit sichtbarer.",
-  "summary": "Heute geht es weniger um den nächsten Modellnamen und mehr um Betrieb: sichere Agenten, sichtbare Arbeitsflächen, bessere GPU-Auslastung und Security-Teams, die mit AI-Tempo mithalten müssen.",
+  "dek": "Fünf AI-Updates mit Praxiswert: OpenAI bringt ChatGPT stärker in die Bildungsdebatte, Security-Teams müssen mit AI-Tempo rechnen, Google erklärt sichere Agenten, Hugging Face spart an der GPU-Warteschlange und GitHub sucht eine bessere Arbeitsfläche für Agenten.",
+  "summary": "Heute rückt AI aus der reinen Tool-Ecke heraus: in Schulen, Security-Prozesse, produktionsnahe Agenten, Infrastrukturkosten und sichtbarere Arbeitsabläufe.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-18T09:38:32Z",
+  "generated_at": "2026-08-18T12:04:39Z",
   "tags": [
     "OpenAI",
+    "ChatGPT",
+    "Education",
+    "Teens",
+    "AI Safety",
+    "Parents",
+    "Schools",
     "Cybersecurity",
     "AI Security",
     "Enterprise AI",
@@ -34,13 +40,50 @@
     "Cost Control"
   ],
   "hero": {
-    "topic": "AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit",
+    "topic": "ChatGPT for Teens, AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit",
     "accent": "#0ea5e9",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 18.08.2026"
   },
   "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-18.json",
   "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-18.html",
   "items": [
+    {
+      "title": "OpenAI macht ChatGPT zur Schulfrage, nicht nur zur Chatbot-Frage",
+      "summary": "OpenAI hat ChatGPT for Teens angekündigt und parallel eine Partnerschaft mit CodeAI für AI-Bildung vorgestellt. Laut offizieller RSS-Meldung soll die Teen-Version stärker eingebaute Schutzmechanismen, Funktionen für gesündere Nutzung und zusätzliche Elternkontrollen haben. Der direkte Artikel war beim Abruf blockiert; die RSS-Meldung und öffentliche Berichte bestätigen aber den Kern: OpenAI versucht, ChatGPT stärker als Lernwerkzeug für Jugendliche zu rahmen, nicht nur als Allzweck-Antwortmaschine.",
+      "why_it_matters": "Für Schulen, Eltern und Bildungsanbieter wird damit eine alte Frage praktischer: Verbietet man AI im Unterricht, oder baut man Regeln, Aufgaben und Kontrolle darum herum? Spannend ist weniger, ob Jugendliche ChatGPT nutzen werden; das passiert längst. Entscheidend ist, ob Schutzfunktionen, AI-Literacy und gute Aufgabenformate verhindern, dass aus Lernen nur schnelleres Abschreiben mit freundlicher Benutzeroberfläche wird.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/news/rss.xml"
+        },
+        {
+          "name": "OpenAI: ChatGPT for Teens",
+          "url": "https://openai.com/index/chatgpt-for-teens"
+        },
+        {
+          "name": "OpenAI: CodeAI partnership",
+          "url": "https://openai.com/index/partnering-with-codeai"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Education",
+        "Teens",
+        "AI Safety",
+        "Parents",
+        "Schools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      }
+    },
     {
       "title": "OpenAI dreht Cybersecurity in Richtung Dauerlauf, nicht Einzelalarm",
       "summary": "OpenAI beschreibt in \"The Defender's Window\", wie AI die Arbeit von Angreifern und Verteidigern verändert. Der direkte Artikel war beim Abruf blockiert, aber die offizielle RSS-Meldung nennt den Kern klar: OpenAI will eigene Schutzsysteme stärken und Sicherheitsteams konkrete Schritte für den Umgang mit AI-gestützten Angriffen geben. Das ist keine hübsche Produktdemo, sondern eher die unbequeme Erinnerung, dass Security jetzt schneller reagieren muss als die nächste Phishing-Vorlage generiert wird.",
@@ -148,6 +191,18 @@
       "url": "https://openai.com/news/rss.xml"
     },
     {
+      "name": "OpenAI: ChatGPT for Teens",
+      "url": "https://openai.com/index/chatgpt-for-teens"
+    },
+    {
+      "name": "OpenAI: CodeAI partnership",
+      "url": "https://openai.com/index/partnering-with-codeai"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
+    },
+    {
       "name": "OpenAI",
       "url": "https://openai.com/index/the-defenders-window"
     },
@@ -164,6 +219,6 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
     }
   ],
-  "item_count": 4,
-  "source_count": 5
+  "item_count": 5,
+  "source_count": 8
 }

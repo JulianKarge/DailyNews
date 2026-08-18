@@ -4,11 +4,17 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 18.08.2026",
     "title": "Daily AI News — Dienstag, 18.08.2026",
-    "summary": "Heute im Fokus: AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit.",
+    "summary": "Heute im Fokus: ChatGPT for Teens, AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit.",
     "file": "pages/2026-08-18.html",
     "markdownFile": "news/2026-08-18.md",
     "tags": [
       "OpenAI",
+      "ChatGPT",
+      "Education",
+      "Teens",
+      "AI Safety",
+      "Parents",
+      "Schools",
       "Cybersecurity",
       "AI Security",
       "Enterprise AI",
@@ -35,6 +41,18 @@
       {
         "name": "OpenAI News RSS",
         "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI: ChatGPT for Teens",
+        "url": "https://openai.com/index/chatgpt-for-teens"
+      },
+      {
+        "name": "OpenAI: CodeAI partnership",
+        "url": "https://openai.com/index/partnering-with-codeai"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
       },
       {
         "name": "OpenAI",

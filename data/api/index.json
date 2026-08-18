@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-08-18T09:38:32Z",
+  "updated_at": "2026-08-18T12:04:39Z",
   "count": 54,
   "latest_date": "2026-08-18",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,11 +15,17 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 18.08.2026",
       "title": "Daily AI News — Dienstag, 18.08.2026",
-      "dek": "Vier AI-Updates mit Praxiswert: OpenAI warnt vor schnellerer Cybersecurity-Arbeit, Google erklärt Zero-Trust-Agenten, Hugging Face zeigt GPU-Kostendisziplin und GitHub macht Agentenarbeit sichtbarer.",
+      "dek": "Fünf AI-Updates mit Praxiswert: OpenAI bringt ChatGPT stärker in die Bildungsdebatte, Security-Teams müssen mit AI-Tempo rechnen, Google erklärt sichere Agenten, Hugging Face spart an der GPU-Warteschlange und GitHub sucht eine bessere Arbeitsfläche für Agenten.",
       "language": "de",
       "status": "published",
       "tags": [
         "OpenAI",
+        "ChatGPT",
+        "Education",
+        "Teens",
+        "AI Safety",
+        "Parents",
+        "Schools",
         "Cybersecurity",
         "AI Security",
         "Enterprise AI",
@@ -42,14 +48,14 @@
         "Cost Control"
       ],
       "hero": {
-        "topic": "AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit",
+        "topic": "ChatGPT for Teens, AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit",
         "accent": "#0ea5e9",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 18.08.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-18.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-18.html",
-      "item_count": 4,
-      "source_count": 5
+      "item_count": 5,
+      "source_count": 8
     },
     {
       "id": "2026-08-17",
