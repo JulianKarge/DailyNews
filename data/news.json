@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-08-18",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 18.08.2026",
+    "title": "Daily AI News — Dienstag, 18.08.2026",
+    "summary": "Heute im Fokus: AI-Security, Zero-Trust-Agenten, GPU-Auslastung und sichtbare Agentenarbeit.",
+    "file": "pages/2026-08-18.html",
+    "markdownFile": "news/2026-08-18.md",
+    "tags": [
+      "OpenAI",
+      "Cybersecurity",
+      "AI Security",
+      "Enterprise AI",
+      "Risk Management",
+      "Automation",
+      "Google",
+      "Agent Development Kit",
+      "AI Agents",
+      "Security",
+      "Zero Trust",
+      "Hugging Face",
+      "GPU",
+      "AI Infrastructure",
+      "Cost Efficiency",
+      "Scheduling",
+      "GitHub",
+      "Agentic Workflows",
+      "Developer Tools",
+      "Productivity",
+      "Cost Control"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/the-defenders-window"
+      },
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/build-zero-trust-ai-agents-with-googles-agent-development-kit/"
+      },
+      {
+        "name": "Hugging Face / Dharma-AI",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+      },
+      {
+        "name": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "weekday": "Montag",
     "dateLabel": "Montag, 17.08.2026",
