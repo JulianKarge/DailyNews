@@ -5,11 +5,11 @@
   "weekday": "Mittwoch",
   "date_label": "Mittwoch, 19.08.2026",
   "title": "Daily AI News — Mittwoch, 19.08.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Codex wird an Altlasten gemessen, OpenAI rückt Governance in den Vordergrund, IBM sortiert Agenten-Gedächtnis, Hugging Face verbessert Retrieval und Mistral macht Prompt-Versionen verwaltbar.",
-  "summary": "Heute geht es weniger um glänzende Modellnamen und mehr um Betrieb: alte Systeme modernisieren, AI beaufsichtigen, Agenten-Gedächtnis begrenzen, Suche verbessern und Prompts sauber versionieren.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Codex wird an Altlasten gemessen, OpenAI rückt Governance und ChatGPT-Werbung in den Vordergrund, IBM sortiert Agenten-Gedächtnis, Hugging Face verbessert Retrieval und Mistral macht Prompt-Versionen verwaltbar.",
+  "summary": "Heute geht es weniger um glänzende Modellnamen und mehr um Betrieb: alte Systeme modernisieren, AI beaufsichtigen, Agenten-Gedächtnis begrenzen, Suche verbessern, Prompts sauber versionieren und Werbung im Chatbot klar einordnen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-19T00:08:26Z",
+  "generated_at": "2026-08-19T12:06:30Z",
   "tags": [
     "OpenAI",
     "Codex",
@@ -40,10 +40,17 @@
     "Prompts",
     "Skills",
     "AI Studio",
-    "Agent Workflows"
+    "Agent Workflows",
+    "ChatGPT",
+    "Ads",
+    "Europe",
+    "Marketing AI",
+    "Consumer AI",
+    "AI Search",
+    "Trust"
   ],
   "hero": {
-    "topic": "Codex in Unternehmen, AI-Governance, Agenten-Gedächtnis, Multi-Vector-Suche und Prompt-Versionierung",
+    "topic": "Codex in Unternehmen, AI-Governance, ChatGPT-Werbung, Agenten-Gedächtnis, Multi-Vector-Suche und Prompt-Versionierung",
     "accent": "#14b8a6",
     "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 19.08.2026"
   },
@@ -191,6 +198,36 @@
         "name": "Mistral AI News",
         "url": "https://mistral.ai/news"
       }
+    },
+    {
+      "title": "ChatGPT-Werbung kommt in Europa näher an den Alltag",
+      "summary": "OpenAI meldet im offiziellen News-RSS, dass ChatGPT Ads auf 31 europäische Märkte ausgeweitet wird. Der direkte Artikelabruf war blockiert, aber der RSS-Eintrag nennt den Kern: Werbekunden sollen Menschen erreichen, während sie in ChatGPT Optionen erkunden, vergleichen und Entscheidungen vorbereiten. Damit rückt Werbung im AI-Chat vom Experiment in Richtung normaler Vermarktungsinfrastruktur.",
+      "why_it_matters": "Für Marketing-Teams und kleine Unternehmen wird spannend, ob AI-Chat zu einem neuen Such- und Empfehlungsplatz wird oder nur zu einem weiteren Anzeigenkanal mit besserem Anzug. Für Nutzer zählt vor allem die Trennung zwischen Antwort und Anzeige: Wenn Chatbots beim Entscheiden helfen, muss klar bleiben, was hilfreicher Kontext ist und was bezahlte Platzierung.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/news/rss.xml"
+        },
+        {
+          "name": "OpenAI: ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Ads",
+        "Europe",
+        "Marketing AI",
+        "Consumer AI",
+        "AI Search",
+        "Trust"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      }
     }
   ],
   "sources": [
@@ -225,8 +262,12 @@
     {
       "name": "Mistral AI Studio",
       "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio"
+    },
+    {
+      "name": "OpenAI: ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
     }
   ],
-  "item_count": 5,
-  "source_count": 8
+  "item_count": 6,
+  "source_count": 9
 }

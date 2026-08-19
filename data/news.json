@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 19.08.2026",
     "title": "Daily AI News — Mittwoch, 19.08.2026",
-    "summary": "Heute im Fokus: Codex in der Praxis, AI-Governance, Agenten-Gedächtnis, bessere Suche und Prompt-Versionierung.",
+    "summary": "Heute im Fokus: Codex in der Praxis, AI-Governance, ChatGPT-Werbung, Agenten-Gedächtnis, bessere Suche und Prompt-Versionierung.",
     "file": "pages/2026-08-19.html",
     "markdownFile": "news/2026-08-19.md",
     "tags": [
@@ -37,7 +37,14 @@
       "Prompts",
       "Skills",
       "AI Studio",
-      "Agent Workflows"
+      "Agent Workflows",
+      "ChatGPT",
+      "Ads",
+      "Europe",
+      "Marketing AI",
+      "Consumer AI",
+      "AI Search",
+      "Trust"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -72,6 +79,10 @@
       {
         "name": "Mistral AI Studio",
         "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio"
+      },
+      {
+        "name": "OpenAI: ChatGPT Ads expands across Europe",
+        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
       }
     ]
   },

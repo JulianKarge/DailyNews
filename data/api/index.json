@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-08-19T00:08:26Z",
+  "updated_at": "2026-08-19T12:06:30Z",
   "count": 55,
   "latest_date": "2026-08-19",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Mittwoch",
       "date_label": "Mittwoch, 19.08.2026",
       "title": "Daily AI News — Mittwoch, 19.08.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: Codex wird an Altlasten gemessen, OpenAI rückt Governance in den Vordergrund, IBM sortiert Agenten-Gedächtnis, Hugging Face verbessert Retrieval und Mistral macht Prompt-Versionen verwaltbar.",
+      "dek": "Sechs AI-Updates mit Praxiswert: Codex wird an Altlasten gemessen, OpenAI rückt Governance und ChatGPT-Werbung in den Vordergrund, IBM sortiert Agenten-Gedächtnis, Hugging Face verbessert Retrieval und Mistral macht Prompt-Versionen verwaltbar.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -48,17 +48,24 @@
         "Prompts",
         "Skills",
         "AI Studio",
-        "Agent Workflows"
+        "Agent Workflows",
+        "ChatGPT",
+        "Ads",
+        "Europe",
+        "Marketing AI",
+        "Consumer AI",
+        "AI Search",
+        "Trust"
       ],
       "hero": {
-        "topic": "Codex in Unternehmen, AI-Governance, Agenten-Gedächtnis, Multi-Vector-Suche und Prompt-Versionierung",
+        "topic": "Codex in Unternehmen, AI-Governance, ChatGPT-Werbung, Agenten-Gedächtnis, Multi-Vector-Suche und Prompt-Versionierung",
         "accent": "#14b8a6",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 19.08.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-19.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-19.html",
-      "item_count": 5,
-      "source_count": 8
+      "item_count": 6,
+      "source_count": 9
     },
     {
       "id": "2026-08-18",
