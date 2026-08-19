@@ -1,5 +1,81 @@
 [
   {
+    "date": "2026-08-19",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 19.08.2026",
+    "title": "Daily AI News — Mittwoch, 19.08.2026",
+    "summary": "Heute im Fokus: Codex in der Praxis, AI-Governance, Agenten-Gedächtnis, bessere Suche und Prompt-Versionierung.",
+    "file": "pages/2026-08-19.html",
+    "markdownFile": "news/2026-08-19.md",
+    "tags": [
+      "OpenAI",
+      "Codex",
+      "ChatGPT Work",
+      "Enterprise AI",
+      "Software Testing",
+      "Workflow Automation",
+      "NVIDIA",
+      "Asana",
+      "Governance",
+      "National Security",
+      "AI Safety",
+      "Public Sector",
+      "Oversight",
+      "Risk Management",
+      "Hugging Face",
+      "IBM Research",
+      "AI Agents",
+      "Memory",
+      "Automation",
+      "Privacy",
+      "Embeddings",
+      "RAG",
+      "Search",
+      "Sentence Transformers",
+      "Retrieval",
+      "Mistral",
+      "Prompts",
+      "Skills",
+      "AI Studio",
+      "Agent Workflows"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI: Asana and Codex",
+        "url": "https://openai.com/index/asana"
+      },
+      {
+        "name": "OpenAI: NVIDIA and ChatGPT Work",
+        "url": "https://openai.com/index/nvidia/chatgpt-work"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+      },
+      {
+        "name": "Hugging Face / IBM Research",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/multi-vector-encoder"
+      },
+      {
+        "name": "Mistral AI News",
+        "url": "https://mistral.ai/news"
+      },
+      {
+        "name": "Mistral AI Studio",
+        "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio"
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 18.08.2026",
