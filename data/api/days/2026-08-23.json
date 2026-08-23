@@ -5,11 +5,11 @@
   "weekday": "Sonntag",
   "date_label": "Sonntag, 23.08.2026",
   "title": "Daily AI News — Sonntag, 23.08.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Grok verteilt sich über Enterprise-Plattformen, Qwen prüft Safety während der Antwort, LiquidAI beschleunigt kleine Modelle, Hugging Face warnt vor Audio-Benchmark-Glanz und OpenAI schärft Datenschutz für API-Kunden.",
-  "summary": "Heute geht es um AI, die näher an echte Arbeit rückt: Modelle landen in Unternehmensplattformen, Guardrails laufen im Token-Strom, lokale Agenten werden schneller, Voice-AI muss ehrlicher evaluiert werden und Datenschutz entscheidet weiter über produktive Nutzung.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Grok verteilt sich über Enterprise-Plattformen, Qwen prüft Safety während der Antwort, Mistral macht Suche agentischer, LiquidAI beschleunigt kleine Modelle, Hugging Face warnt vor Audio-Benchmark-Glanz und OpenAI schärft Datenschutz für API-Kunden.",
+  "summary": "Heute geht es um AI, die näher an echte Arbeit rückt: Modelle landen in Unternehmensplattformen, Guardrails laufen im Token-Strom, Suche wird mehrstufiger, lokale Agenten werden schneller, Voice-AI muss ehrlicher evaluiert werden und Datenschutz entscheidet weiter über produktive Nutzung.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-23T00:07:22Z",
+  "generated_at": "2026-08-23T12:05:29Z",
   "tags": [
     "xAI",
     "Grok 4.6",
@@ -25,6 +25,13 @@
     "Multilingual AI",
     "Moderation",
     "Open Models",
+    "Mistral",
+    "Agentic Search",
+    "RAG",
+    "Enterprise Search",
+    "Document AI",
+    "Retrieval",
+    "Knowledge Work",
     "Hugging Face",
     "LiquidAI",
     "LFM2.5",
@@ -46,7 +53,7 @@
     "Data Governance"
   ],
   "hero": {
-    "topic": "Grok in Enterprise-Plattformen, Qwen3Guard, schnelle lokale Modelle, Voice-Benchmarks und API-Datenschutz",
+    "topic": "Grok in Enterprise-Plattformen, Qwen3Guard, Mistral Agentic Search, schnelle lokale Modelle, Voice-Benchmarks und API-Datenschutz",
     "accent": "#8b5cf6",
     "image_alt": "Abstrakte AI-News-Karte für Sonntag, 23.08.2026"
   },
@@ -101,6 +108,32 @@
       "source": {
         "name": "Qwen Blog",
         "url": "https://qwenlm.github.io/blog/qwen3guard/"
+      }
+    },
+    {
+      "title": "Mistral macht Unternehmenssuche agentischer, nicht nur semantischer",
+      "summary": "Mistral hat Agentic Search vorgestellt, eine Retrieval-Schicht für AI-Systeme, die Dokumente nicht nur findet, sondern in mehreren Schritten durchsucht, liest und gegen Quellen prüft. Laut Mistral ist das über das Search Toolkit und Libraries in Studio sowie Vibe verfügbar; der Beitrag nennt bessere Ergebnisse bei weniger Turns, Tokens und Latenz in FinanceBench- und OfficeQA-Pro-Vergleichen.",
+      "why_it_matters": "Für Teams mit Verträgen, Richtlinien, PDFs oder Wissensdatenbanken ist das der Unterschied zwischen 'irgendwo steht das bestimmt' und einer Antwort, die den Fund auch belegen kann. Klassisches RAG bleibt bei langen, widersprüchlichen Dokumenten schnell hängen. Agentische Suche versucht stattdessen, wie ein vorsichtiger Recherche-Assistent zu arbeiten: nachfassen, Stelle prüfen, Quelle zeigen. Offen bleibt, wie stabil das bei chaotischen Firmenablagen und schlechten Dateinamen läuft.",
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news/agentic-search/"
+        }
+      ],
+      "tags": [
+        "Mistral",
+        "Agentic Search",
+        "RAG",
+        "Enterprise Search",
+        "AI Agents",
+        "Document AI",
+        "Retrieval",
+        "Knowledge Work"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/agentic-search/"
       }
     },
     {
@@ -192,6 +225,10 @@
     {
       "name": "Qwen Blog",
       "url": "https://qwenlm.github.io/blog/qwen3guard/"
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai/news/agentic-search/"
     },
     {
       "name": "Hugging Face / LiquidAI",

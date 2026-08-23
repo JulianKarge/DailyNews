@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-08-23T00:07:22Z",
+  "updated_at": "2026-08-23T12:05:29Z",
   "count": 56,
   "latest_date": "2026-08-23",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Sonntag",
       "date_label": "Sonntag, 23.08.2026",
       "title": "Daily AI News — Sonntag, 23.08.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: Grok verteilt sich über Enterprise-Plattformen, Qwen prüft Safety während der Antwort, LiquidAI beschleunigt kleine Modelle, Hugging Face warnt vor Audio-Benchmark-Glanz und OpenAI schärft Datenschutz für API-Kunden.",
+      "dek": "Sechs AI-Updates mit Praxiswert: Grok verteilt sich über Enterprise-Plattformen, Qwen prüft Safety während der Antwort, Mistral macht Suche agentischer, LiquidAI beschleunigt kleine Modelle, Hugging Face warnt vor Audio-Benchmark-Glanz und OpenAI schärft Datenschutz für API-Kunden.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -33,6 +33,13 @@
         "Multilingual AI",
         "Moderation",
         "Open Models",
+        "Mistral",
+        "Agentic Search",
+        "RAG",
+        "Enterprise Search",
+        "Document AI",
+        "Retrieval",
+        "Knowledge Work",
         "Hugging Face",
         "LiquidAI",
         "LFM2.5",
@@ -54,14 +61,14 @@
         "Data Governance"
       ],
       "hero": {
-        "topic": "Grok in Enterprise-Plattformen, Qwen3Guard, schnelle lokale Modelle, Voice-Benchmarks und API-Datenschutz",
+        "topic": "Grok in Enterprise-Plattformen, Qwen3Guard, Mistral Agentic Search, schnelle lokale Modelle, Voice-Benchmarks und API-Datenschutz",
         "accent": "#8b5cf6",
         "image_alt": "Abstrakte AI-News-Karte für Sonntag, 23.08.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-23.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-23.html",
-      "item_count": 5,
-      "source_count": 6
+      "item_count": 6,
+      "source_count": 7
     },
     {
       "id": "2026-08-19",

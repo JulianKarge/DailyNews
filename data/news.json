@@ -4,7 +4,7 @@
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 23.08.2026",
     "title": "Daily AI News — Sonntag, 23.08.2026",
-    "summary": "Heute im Fokus: Grok in Enterprise-Plattformen, Qwen3Guard, schnelle lokale Modelle, ehrliche Voice-Benchmarks und Datenschutz für Frontier-APIs.",
+    "summary": "Heute im Fokus: Grok in Enterprise-Plattformen, Qwen3Guard, Mistral Agentic Search, schnelle lokale Modelle, ehrliche Voice-Benchmarks und Datenschutz für Frontier-APIs.",
     "file": "pages/2026-08-23.html",
     "markdownFile": "news/2026-08-23.md",
     "tags": [
@@ -22,6 +22,13 @@
       "Multilingual AI",
       "Moderation",
       "Open Models",
+      "Mistral",
+      "Agentic Search",
+      "RAG",
+      "Enterprise Search",
+      "Document AI",
+      "Retrieval",
+      "Knowledge Work",
       "Hugging Face",
       "LiquidAI",
       "LFM2.5",
@@ -51,6 +58,10 @@
       {
         "name": "Qwen Blog",
         "url": "https://qwenlm.github.io/blog/qwen3guard/"
+      },
+      {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/agentic-search/"
       },
       {
         "name": "Hugging Face / LiquidAI",
