@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-08-23",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 23.08.2026",
+    "title": "Daily AI News — Sonntag, 23.08.2026",
+    "summary": "Heute im Fokus: Grok in Enterprise-Plattformen, Qwen3Guard, schnelle lokale Modelle, ehrliche Voice-Benchmarks und Datenschutz für Frontier-APIs.",
+    "file": "pages/2026-08-23.html",
+    "markdownFile": "news/2026-08-23.md",
+    "tags": [
+      "xAI",
+      "Grok 4.6",
+      "Amazon Bedrock",
+      "Google Enterprise Agent Platform",
+      "AI Agents",
+      "Enterprise AI",
+      "Model Routing",
+      "Qwen",
+      "Qwen3Guard",
+      "AI Safety",
+      "Guardrails",
+      "Multilingual AI",
+      "Moderation",
+      "Open Models",
+      "Hugging Face",
+      "LiquidAI",
+      "LFM2.5",
+      "DSpark",
+      "On-device AI",
+      "Inference",
+      "llama.cpp",
+      "SGLang",
+      "Speech Recognition",
+      "Voice AI",
+      "Benchmarks",
+      "Evaluation",
+      "Creator Tools",
+      "Customer Support",
+      "OpenAI",
+      "Zero Data Retention",
+      "Privacy",
+      "API",
+      "Data Governance"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "name": "Qwen Blog",
+        "url": "https://qwenlm.github.io/blog/qwen3guard/"
+      },
+      {
+        "name": "Hugging Face / LiquidAI",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+      },
+      {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/blog/asr-benchmark-optimization"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 19.08.2026",
