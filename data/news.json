@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-08-24",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 24.08.2026",
+    "title": "Daily AI News — Montag, 24.08.2026",
+    "summary": "Heute im Fokus: DeepSeek-Vision-Agenten, Replit Free Mode, Google Credentio und Mistrals regionale AI-Inferenz.",
+    "file": "pages/2026-08-24.html",
+    "markdownFile": "news/2026-08-24.md",
+    "tags": [
+      "DeepSeek",
+      "DeepSeek-V4-Flash-Vision-Exp",
+      "Multimodal AI",
+      "AI Agents",
+      "Vision Models",
+      "Automation",
+      "Benchmarks",
+      "OpenAI",
+      "Replit",
+      "GPT-5.6 Luna",
+      "No-code",
+      "Software Creation",
+      "Creator Tools",
+      "Small Business",
+      "Google",
+      "Credentio",
+      "C2PA",
+      "Content Credentials",
+      "Media Provenance",
+      "AI Images",
+      "Open Source",
+      "Mistral",
+      "Sovereign AI",
+      "Regional Inference",
+      "European AI",
+      "Open Models",
+      "Enterprise AI",
+      "Data Residency"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI / Replit",
+        "url": "https://openai.com/index/replit"
+      },
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/"
+      },
+      {
+        "name": "Mistral AI",
+        "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 23.08.2026",
