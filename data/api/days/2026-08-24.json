@@ -5,11 +5,11 @@
   "weekday": "Montag",
   "date_label": "Montag, 24.08.2026",
   "title": "Daily AI News — Montag, 24.08.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: DeepSeek testet ein günstigeres Vision-Agent-Modell, Replit senkt die Hürde für Prompt-Software, Google bringt Content-Credentials lokal auf den Rechner und Mistral rahmt AI-Souveränität über regionale Inferenz.",
-  "summary": "Heute geht es weniger um einen einzigen großen Modellknall und mehr um Infrastruktur, die AI im Alltag nutzbar macht: sehen, bauen, Medien prüfen und sensible Workloads regional betreiben.",
+  "dek": "Fünf AI-Updates mit Praxiswert: DeepSeek testet ein günstigeres Vision-Agent-Modell, Agenten-Workflows bekommen ein nüchternes Zuverlässigkeitsrezept, Replit senkt die Hürde für Prompt-Software, Google bringt Content-Credentials lokal auf den Rechner und Mistral rahmt AI-Souveränität über regionale Inferenz.",
+  "summary": "Heute geht es um AI, die im Alltag nicht nur beeindruckt, sondern belastbarer werden muss: sehen, Arbeitsschritte belegen, Software anstoßen, Medienherkunft prüfen und sensible Workloads regional betreiben.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-24T00:05:35Z",
+  "generated_at": "2026-08-24T12:48:57Z",
   "tags": [
     "DeepSeek",
     "DeepSeek-V4-Flash-Vision-Exp",
@@ -18,6 +18,11 @@
     "Vision Models",
     "Automation",
     "Benchmarks",
+    "arXiv",
+    "Workflow Automation",
+    "Agent Reliability",
+    "Evaluation",
+    "Process Design",
     "OpenAI",
     "Replit",
     "GPT-5.6 Luna",
@@ -41,7 +46,7 @@
     "Data Residency"
   ],
   "hero": {
-    "topic": "Vision-Agenten, Prompt-Software, Content Credentials und regionale AI-Inferenz",
+    "topic": "Vision-Agenten, überprüfbare Agenten-Workflows, Prompt-Software, Content Credentials und regionale AI-Inferenz",
     "accent": "#6366f1",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 24.08.2026"
   },
@@ -71,6 +76,30 @@
       "source": {
         "name": "DeepSeek API Docs",
         "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+      }
+    },
+    {
+      "title": "Agenten-Workflows brauchen Belege, nicht nur bravere Prompts",
+      "summary": "Ein neues arXiv-Paper stellt Artic vor, einen Compiler für natürlichsprachliche Agenten-Workflows. Der Ansatz übersetzt lose Prozessbeschreibungen in Schritte mit klaren Ein- und Ausgaben, Artefakt-Prüfungen und Constraints. Die These dahinter ist angenehm unromantisch: Wenn Agenten wiederholbare Arbeit erledigen sollen, reicht ein hübscher Prompt nicht; der Workflow muss überprüfbare Zwischenstände produzieren.",
+      "why_it_matters": "Für Teams, die Agenten in Recherche, Reporting, Support oder internen Automationen einsetzen, ist das ein nützlicher Realitätscheck. Viele Fehlläufe entstehen nicht, weil das Modell zu dumm ist, sondern weil niemand sauber festlegt, welche Datei, Quelle oder Entscheidung ein Schritt wirklich verwenden darf. Artifact-getriebene Workflows klingen weniger magisch als ein autonomer Superagent, sind aber näher an dem, was in echten Prozessen hält: Nachweise, Gates und klare Übergaben.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2608.21341v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "AI Agents",
+        "Workflow Automation",
+        "Agent Reliability",
+        "Evaluation",
+        "Process Design"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.21341v1"
       }
     },
     {
@@ -157,6 +186,10 @@
     {
       "name": "DeepSeek API Docs",
       "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2608.21341v1"
     },
     {
       "name": "OpenAI News RSS",

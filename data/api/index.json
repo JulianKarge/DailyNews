@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-08-24T00:05:35Z",
+  "updated_at": "2026-08-24T12:48:57Z",
   "count": 57,
   "latest_date": "2026-08-24",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Montag",
       "date_label": "Montag, 24.08.2026",
       "title": "Daily AI News — Montag, 24.08.2026",
-      "dek": "Vier AI-Updates mit Praxiswert: DeepSeek testet ein günstigeres Vision-Agent-Modell, Replit senkt die Hürde für Prompt-Software, Google bringt Content-Credentials lokal auf den Rechner und Mistral rahmt AI-Souveränität über regionale Inferenz.",
+      "dek": "Fünf AI-Updates mit Praxiswert: DeepSeek testet ein günstigeres Vision-Agent-Modell, Agenten-Workflows bekommen ein nüchternes Zuverlässigkeitsrezept, Replit senkt die Hürde für Prompt-Software, Google bringt Content-Credentials lokal auf den Rechner und Mistral rahmt AI-Souveränität über regionale Inferenz.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -26,6 +26,11 @@
         "Vision Models",
         "Automation",
         "Benchmarks",
+        "arXiv",
+        "Workflow Automation",
+        "Agent Reliability",
+        "Evaluation",
+        "Process Design",
         "OpenAI",
         "Replit",
         "GPT-5.6 Luna",
@@ -49,14 +54,14 @@
         "Data Residency"
       ],
       "hero": {
-        "topic": "Vision-Agenten, Prompt-Software, Content Credentials und regionale AI-Inferenz",
+        "topic": "Vision-Agenten, überprüfbare Agenten-Workflows, Prompt-Software, Content Credentials und regionale AI-Inferenz",
         "accent": "#6366f1",
         "image_alt": "Abstrakte AI-News-Karte für Montag, 24.08.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-24.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-24.html",
-      "item_count": 4,
-      "source_count": 5
+      "item_count": 5,
+      "source_count": 6
     },
     {
       "id": "2026-08-23",

@@ -4,7 +4,7 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 24.08.2026",
     "title": "Daily AI News — Montag, 24.08.2026",
-    "summary": "Heute im Fokus: DeepSeek-Vision-Agenten, Replit Free Mode, Google Credentio und Mistrals regionale AI-Inferenz.",
+    "summary": "Heute im Fokus: DeepSeek-Vision-Agenten, Agenten-Workflows mit Artefakt-Gates, Replit Free Mode, Google Credentio und Mistrals regionale AI-Inferenz.",
     "file": "pages/2026-08-24.html",
     "markdownFile": "news/2026-08-24.md",
     "tags": [
@@ -15,6 +15,11 @@
       "Vision Models",
       "Automation",
       "Benchmarks",
+      "arXiv",
+      "Workflow Automation",
+      "Agent Reliability",
+      "Evaluation",
+      "Process Design",
       "OpenAI",
       "Replit",
       "GPT-5.6 Luna",
@@ -42,6 +47,10 @@
       {
         "name": "DeepSeek API Docs",
         "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.21341v1"
       },
       {
         "name": "OpenAI News RSS",
