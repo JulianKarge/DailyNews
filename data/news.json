@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-08-25",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 25.08.2026",
+    "title": "Daily AI News — Dienstag, 25.08.2026",
+    "summary": "Heute im Fokus: GPT-5.6 in Kiro, Alibaba Wan3.0-Video, Cohere North Mini Code und konkrete Sicherheitsregeln für Agenten.",
+    "file": "pages/2026-08-25.html",
+    "markdownFile": "news/2026-08-25.md",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "Kiro",
+      "Coding Agents",
+      "Developer Tools",
+      "Software Testing",
+      "Cost Efficiency",
+      "Alibaba",
+      "Wan3.0",
+      "Video AI",
+      "Multimodal AI",
+      "Creator Tools",
+      "Marketing",
+      "QwenCloud",
+      "Cohere",
+      "North Mini Code",
+      "Enterprise AI",
+      "Model Platform",
+      "arXiv",
+      "AI Agents",
+      "Security",
+      "Permissions",
+      "Automation",
+      "Governance"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI / Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro"
+      },
+      {
+        "name": "QwenCloud",
+        "url": "https://qwencloud.com/models/wan3.0-video"
+      },
+      {
+        "name": "Alibaba Cloud Model Studio",
+        "url": "https://modelstudio.console.alibabacloud.com/model-releases/wan3.0-video"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/"
+      },
+      {
+        "name": "Cohere",
+        "url": "https://cohere.com/north-mini-code"
+      },
+      {
+        "name": "Cohere Blog",
+        "url": "https://cohere.com/blog"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.21126v1"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "weekday": "Montag",
     "dateLabel": "Montag, 24.08.2026",
