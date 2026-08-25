@@ -5,11 +5,11 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 25.08.2026",
   "title": "Daily AI News — Dienstag, 25.08.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: GPT-5.6 kommt in Kiro, Alibaba verlängert Video-AI in Richtung Dokumenten-Workflows, Cohere positioniert ein Coding-Modell für Unternehmen und ein neues Paper macht Agenten-Sicherheit konkreter.",
-  "summary": "Heute geht es weniger um den größten Modellnamen und mehr um die Arbeit drumherum: Software günstiger bauen, Dokumente in Videos verwandeln, Coding-Agenten in Unternehmensplattformen einordnen und Agentenrechte sauber begrenzen.",
+  "dek": "Sieben AI-Updates mit Praxiswert: GPT-5.6 in Kiro, Alibaba-Dokumente-zu-Video, Cohere-Coding-Agenten, konkrete Agentenrechte, OpenAI-Missbrauchsabwehr, sichtbare Gradio-Workflows und ein Lern-Paper mit Alltagshaken.",
+  "summary": "Der 14-Uhr-Nachtrag macht den Tag breiter: Neben Coding, Video und Agenten-Sicherheit geht es jetzt auch um Desinformation, sichtbare AI-Pipelines und die Frage, wann AI-Hilfe beim Lernen zu bequem wird.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-25T00:06:43Z",
+  "generated_at": "2026-08-25T12:05:47Z",
   "tags": [
     "OpenAI",
     "GPT-5.6",
@@ -34,10 +34,26 @@
     "Security",
     "Permissions",
     "Automation",
-    "Governance"
+    "Governance",
+    "AI Misuse",
+    "Influence Operations",
+    "Disinformation",
+    "Trust",
+    "Media Literacy",
+    "Hugging Face",
+    "Gradio",
+    "AI Workflows",
+    "Prototyping",
+    "Hugging Face Spaces",
+    "AI Education",
+    "Learning",
+    "Productivity",
+    "Human Skills",
+    "Workplace Training",
+    "AI Assistance"
   ],
   "hero": {
-    "topic": "Coding-Kosten, Dokument-zu-Video, Enterprise-Coding-Agenten und Agenten-Sicherheit",
+    "topic": "Coding-Kosten, Dokument-zu-Video, Enterprise-Agenten, AI-Missbrauch, sichtbare Workflows und Lernen mit AI",
     "accent": "#f97316",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 25.08.2026"
   },
@@ -158,6 +174,85 @@
         "name": "arXiv",
         "url": "https://arxiv.org/abs/2608.21126v1"
       }
+    },
+    {
+      "title": "OpenAI zeigt, wie billig politische Scheinwelten werden",
+      "summary": "OpenAI meldet im offiziellen News-RSS eine neue verdeckte Einflusskampagne aus Russland. Gesperrt wurden Accounts, die mit AI eine angeblich israelische Denkfabrik und einen Souveränitätsindex aufgebaut haben, der Russland lobte und westliche Staaten abwertete. Der direkte Artikel war beim Abruf blockiert, der RSS-Eintrag nennt aber Titel, Datum, Kurzbeschreibung und kanonische URL.",
+      "why_it_matters": "Für normale Nutzer und Teams ist das ein nüchterner Realitätscheck: Generative AI macht Propaganda nicht automatisch überzeugend, aber sie macht Tarnorganisationen, Studiennamen, Grafiken und Textvarianten billiger. Wer öffentliche Informationen bewertet, braucht deshalb mehr Quellenhygiene: Wer steht hinter der Seite, gibt es Primärquellen, und wirkt die Institution nur wie ein Logo mit Krawatte?",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/news/rss.xml"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "AI Misuse",
+        "Influence Operations",
+        "Disinformation",
+        "Trust",
+        "Media Literacy",
+        "Security"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      }
+    },
+    {
+      "title": "Gradio macht AI-Pipelines sichtbar statt nur lauffähig",
+      "summary": "Hugging Face stellt mit gr.Workflow eine neue Gradio-Funktion vor, bei der mehrstufige AI-Apps als graphartige Oberfläche gebaut und ausgeführt werden. Der Beitrag beschreibt Workflows, in denen einzelne Schritte wie Bildbearbeitung, Voice-Erzeugung oder Modellaufrufe als Knoten sichtbar bleiben. Dieselbe Pipeline kann als Interface, REST-API und Hugging-Face-Space laufen.",
+      "why_it_matters": "Für Creator, Prototyping-Teams und Automatisierer ist das spannender als die übliche Demo-App mit einem Eingabefeld. Komplexe AI-Arbeit scheitert oft nicht am Modell, sondern daran, dass niemand sieht, welcher Zwischenschritt gerade Unsinn produziert. Wenn die Pipeline selbst zur Oberfläche wird, lassen sich Ideen schneller erklären, testen und teilen, ohne dass jedes Experiment sofort in ein kleines Softwareprojekt ausartet.",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Gradio",
+        "AI Workflows",
+        "Creator Tools",
+        "Prototyping",
+        "Automation",
+        "Hugging Face Spaces"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide"
+      }
+    },
+    {
+      "title": "Ein Paper erinnert: Wer AI immer sofort fragt, lernt weniger selbst",
+      "summary": "Ein neues arXiv-Paper untersucht AI-Hilfe beim Lernen mit Logikrätseln. In der Studie führte billiger beziehungsweise leichter Zugang zu AI zu mehr Nutzung; Teilnehmer, die während der AI-Phase häufiger Hilfe anforderten, schnitten danach ohne AI schlechter ab. Die Autoren trennen in ihrem Modell Anfangsfähigkeit, Leistung mit AI und spätere ungestützte Fähigkeit.",
+      "why_it_matters": "Für Schulen, Trainings und Unternehmen ist das unbequem, aber nützlich. AI kann Arbeit beschleunigen und trotzdem Lernmuskeln schwächen, wenn sie zu früh die Denkarbeit übernimmt. Praktisch heißt das nicht 'AI verbieten', sondern Aufgaben anders bauen: erst eigener Versuch, dann Hilfe, dann Reflexion. Sonst wirkt jede Schulung modern, bis jemand ohne Chatfenster vor dem Problem sitzt.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2608.23543v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "AI Education",
+        "Learning",
+        "Productivity",
+        "Human Skills",
+        "Workplace Training",
+        "AI Assistance"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.23543v1"
+      }
     }
   ],
   "sources": [
@@ -192,6 +287,18 @@
     {
       "name": "arXiv",
       "url": "https://arxiv.org/abs/2608.21126v1"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2608.23543v1"
     }
   ]
 }

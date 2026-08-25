@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 25.08.2026",
     "title": "Daily AI News — Dienstag, 25.08.2026",
-    "summary": "Heute im Fokus: GPT-5.6 in Kiro, Alibaba Wan3.0-Video, Cohere North Mini Code und konkrete Sicherheitsregeln für Agenten.",
+    "summary": "Heute im Fokus: GPT-5.6 in Kiro, Alibaba Wan3.0-Video, Cohere North Mini Code, Agentenrechte, OpenAI gegen Einflusskampagnen, Gradio-Workflows und AI-Hilfe beim Lernen.",
     "file": "pages/2026-08-25.html",
     "markdownFile": "news/2026-08-25.md",
     "tags": [
@@ -31,7 +31,23 @@
       "Security",
       "Permissions",
       "Automation",
-      "Governance"
+      "Governance",
+      "AI Misuse",
+      "Influence Operations",
+      "Disinformation",
+      "Trust",
+      "Media Literacy",
+      "Hugging Face",
+      "Gradio",
+      "AI Workflows",
+      "Prototyping",
+      "Hugging Face Spaces",
+      "AI Education",
+      "Learning",
+      "Productivity",
+      "Human Skills",
+      "Workplace Training",
+      "AI Assistance"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -66,6 +82,18 @@
       {
         "name": "arXiv",
         "url": "https://arxiv.org/abs/2608.21126v1"
+      },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.23543v1"
       }
     ]
   },
