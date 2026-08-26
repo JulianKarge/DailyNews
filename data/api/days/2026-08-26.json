@@ -5,11 +5,11 @@
   "weekday": "Mittwoch",
   "date_label": "Mittwoch, 26.08.2026",
   "title": "Daily AI News — Mittwoch, 26.08.2026",
-  "dek": "Sieben AI-Updates mit Praxiswert: OpenAIs Inferenz-Chip, DeepSeek-V4-Pro, Gemini-Branchenagenten, Admin-Kontrollen für ChatGPT Work, IBM Granite 4.2, bessere 4-Bit-Modelle und Cohere zur souveränen AI.",
-  "summary": "Der Nachtlauf schaut auf Infrastruktur, Agenten und Unternehmenspraxis: schnellere Inferenz, mehr Tool-Fähigkeit, Branchen-Workflows und die Frage, wo AI im Betrieb kontrollierbar bleibt.",
+  "dek": "Acht AI-Updates mit Praxiswert: OpenAIs Inferenz-Chip, DeepSeek-V4-Pro, Gemini-Branchenagenten, Admin-Kontrollen, ein Security-Dämpfer für AI-Code, IBM Granite 4.2, bessere 4-Bit-Modelle und Cohere zur souveränen AI.",
+  "summary": "Heute ergänzt ein praktisches Security-Signal den Tagesdigest: bessere Prompts machen AI-Code nicht automatisch sicherer. Dazu bleiben Infrastruktur, Agenten, Unternehmenspraxis und lokale Modellkosten im Fokus.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-08-26T00:07:11Z",
+  "generated_at": "2026-08-26T12:04:55Z",
   "tags": [
     "OpenAI",
     "Jalapeño",
@@ -35,6 +35,12 @@
     "Admin Tools",
     "Governance",
     "Permissions",
+    "arXiv",
+    "AI Coding",
+    "Security",
+    "Prompting",
+    "Software Quality",
+    "Code Review",
     "IBM",
     "Granite 4.2",
     "Open Models",
@@ -47,11 +53,10 @@
     "Cohere",
     "Sovereign AI",
     "Data Residency",
-    "Private Deployments",
-    "Security"
+    "Private Deployments"
   ],
   "hero": {
-    "topic": "AI-Inferenz, Agentenmodelle, Branchen-Workflows, Admin-Kontrollen, offene Modelle und souveräne AI",
+    "topic": "AI-Inferenz, Agentenmodelle, Branchen-Workflows, Admin-Kontrollen, AI-Code-Sicherheit, offene Modelle und souveräne AI",
     "accent": "#0ea5e9",
     "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 26.08.2026"
   },
@@ -175,6 +180,31 @@
       }
     },
     {
+      "title": "Sicherer Code per Prompt? Ein neues Paper macht die kalte Dusche",
+      "summary": "Ein arXiv-Paper vom 25. August testet 424 sicherheitskritische Python-Aufgaben mit GPT-4o und LLaMA 3.1-8B. Die Autoren vergleichen fünf Prompt-Varianten, von normaler Anweisung bis zu stärker strukturierter Security-Vorgabe. Ergebnis: Struktur hilft, weniger ungültige Antworten zu bekommen, senkt aber nicht zuverlässig die Gesamtzahl gefundener Schwächen; bei GPT-4o verschieben sich die Befunde eher von hoher zu niedriger Schwere.",
+      "why_it_matters": "Für Teams mit Coding-Assistenten ist das die unangenehm praktische Botschaft: Ein Prompt wie 'schreib das sicher' ist keine Sicherheitsstrategie. Wer AI-Code in echte Produkte lässt, braucht weiterhin Scanner, Tests, Reviews und klare Grenzen für riskante Aufgaben. Sonst fühlt sich der Code sauberer an, während die Schwachstellen nur die Sitzplätze wechseln.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2608.24857v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "AI Coding",
+        "Security",
+        "Prompting",
+        "Software Quality",
+        "Code Review",
+        "Developer Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.24857v1"
+      }
+    },
+    {
       "title": "IBM Granite 4.2 setzt offene Modelle stärker auf Tool-Nutzung und Agentenbetrieb",
       "summary": "IBM beschreibt auf Hugging Face, wie Granite 4.2 gebaut wurde. Die 8B- und 30B-Varianten durchlaufen laut Beitrag zusätzlich agentisches Reinforcement Learning für Tool-Aufrufe, Codebearbeitung, Terminalarbeit und Websuche in realen Umgebungen. Der Beitrag nennt außerdem native Tool-Calling-Unterstützung und OpenAI-kompatible Funktionsaufrufe bei passender Bereitstellung.",
       "why_it_matters": "Für Teams mit Open-Model-Strategie ist das ein nützlicher Schritt: Agentenfähigkeit wandert nicht nur in geschlossene Frontier-Modelle, sondern in Modelle, die sich kontrollierter betreiben lassen. Das hilft bei Datenschutz, Kosten und Anpassbarkeit. Trotzdem gilt: Ein agentisch trainiertes Modell ist noch kein zuverlässiger Agent; Harness, Tests und Rechteverwaltung bleiben die eigentliche Werkbank.",
@@ -278,6 +308,10 @@
     {
       "name": "OpenAI / Admin plugin",
       "url": "https://openai.com/index/introducing-admin-plugin"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2608.24857v1"
     },
     {
       "name": "Hugging Face / IBM Granite",

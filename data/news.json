@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 26.08.2026",
     "title": "Daily AI News — Mittwoch, 26.08.2026",
-    "summary": "Heute im Fokus: OpenAI Jalapeño, DeepSeek-V4-Pro, Gemini Enterprise für Branchen, ChatGPT-Admin-Kontrollen, IBM Granite 4.2, 4-Bit-Modelle und souveräne AI.",
+    "summary": "Heute im Fokus: OpenAI Jalapeño, DeepSeek-V4-Pro, Gemini Enterprise, ChatGPT-Admin-Kontrollen, AI-Code-Security, IBM Granite 4.2, 4-Bit-Modelle und souveräne AI.",
     "file": "pages/2026-08-26.html",
     "markdownFile": "news/2026-08-26.md",
     "tags": [
@@ -32,6 +32,12 @@
       "Admin Tools",
       "Governance",
       "Permissions",
+      "arXiv",
+      "AI Coding",
+      "Security",
+      "Prompting",
+      "Software Quality",
+      "Code Review",
       "IBM",
       "Granite 4.2",
       "Open Models",
@@ -44,8 +50,7 @@
       "Cohere",
       "Sovereign AI",
       "Data Residency",
-      "Private Deployments",
-      "Security"
+      "Private Deployments"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -76,6 +81,10 @@
       {
         "name": "OpenAI / Admin plugin",
         "url": "https://openai.com/index/introducing-admin-plugin"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.24857v1"
       },
       {
         "name": "Hugging Face / IBM Granite",

@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-08-26T00:07:11Z",
+  "updated_at": "2026-08-26T12:04:55Z",
   "count": 59,
   "latest_date": "2026-08-26",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Mittwoch",
       "date_label": "Mittwoch, 26.08.2026",
       "title": "Daily AI News — Mittwoch, 26.08.2026",
-      "dek": "Sieben AI-Updates mit Praxiswert: OpenAIs Inferenz-Chip, DeepSeek-V4-Pro, Gemini-Branchenagenten, Admin-Kontrollen für ChatGPT Work, IBM Granite 4.2, bessere 4-Bit-Modelle und Cohere zur souveränen AI.",
+      "dek": "Acht AI-Updates mit Praxiswert: OpenAIs Inferenz-Chip, DeepSeek-V4-Pro, Gemini-Branchenagenten, Admin-Kontrollen, ein Security-Dämpfer für AI-Code, IBM Granite 4.2, bessere 4-Bit-Modelle und Cohere zur souveränen AI.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -43,6 +43,12 @@
         "Admin Tools",
         "Governance",
         "Permissions",
+        "arXiv",
+        "AI Coding",
+        "Security",
+        "Prompting",
+        "Software Quality",
+        "Code Review",
         "IBM",
         "Granite 4.2",
         "Open Models",
@@ -55,18 +61,19 @@
         "Cohere",
         "Sovereign AI",
         "Data Residency",
-        "Private Deployments",
-        "Security"
+        "Private Deployments"
       ],
       "hero": {
-        "topic": "AI-Inferenz, Agentenmodelle, Branchen-Workflows, Admin-Kontrollen, offene Modelle und souveräne AI",
+        "topic": "AI-Inferenz, Agentenmodelle, Branchen-Workflows, Admin-Kontrollen, AI-Code-Sicherheit, offene Modelle und souveräne AI",
         "accent": "#0ea5e9",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 26.08.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-08-26.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-08-26.html",
-      "item_count": 7,
-      "source_count": 10
+      "item_count": 8,
+      "source_count": 11,
+      "summary": "Heute ergänzt ein praktisches Security-Signal den Tagesdigest: bessere Prompts machen AI-Code nicht automatisch sicherer. Dazu bleiben Infrastruktur, Agenten, Unternehmenspraxis und lokale Modellkosten im Fokus.",
+      "generated_at": "2026-08-26T12:04:55Z"
     },
     {
       "id": "2026-08-25",
