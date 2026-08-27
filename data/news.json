@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-08-27",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 27.08.2026",
+    "title": "Daily AI News — Donnerstag, 27.08.2026",
+    "summary": "Heute im Fokus: ChatGPT in Schulen, OpenAI zum Hugging-Face-Incident, GitHubs Copilot-Modellrichtlinie und trainierbare Multi-Vector-Suche bei Hugging Face.",
+    "file": "pages/2026-08-27.html",
+    "markdownFile": "news/2026-08-27.md",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "Education",
+      "Teachers",
+      "Schools",
+      "AI Adoption",
+      "Learning",
+      "Hugging Face",
+      "AI Security",
+      "Model Supply Chain",
+      "Monitoring",
+      "Alignment",
+      "Risk Management",
+      "GitHub",
+      "GitHub Copilot",
+      "Model Policy",
+      "Enterprise AI",
+      "Governance",
+      "Developer Tools",
+      "Data Retention",
+      "Sentence Transformers",
+      "Embeddings",
+      "RAG",
+      "Enterprise Search",
+      "Retrieval",
+      "Open Source"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI / ChatGPT for Teachers",
+        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+      },
+      {
+        "name": "OpenAI / Learning never stops",
+        "url": "https://openai.com/index/learning-never-stops"
+      },
+      {
+        "name": "OpenAI / Hugging Face incident",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-multi-vector-encoder"
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 26.08.2026",
