@@ -1,5 +1,88 @@
 [
   {
+    "date": "2026-08-30",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 30.08.2026",
+    "title": "Daily AI News — Sonntag, 30.08.2026",
+    "summary": "Heute im Fokus: Anthropic MHS, NVIDIA Vera, OpenAI/Cursor, Googles Voice-Agent-Tests, Hugging Face ASR und Grok Bot auf X.",
+    "file": "pages/2026-08-30.html",
+    "markdownFile": "news/2026-08-30.md",
+    "tags": [
+      "Anthropic",
+      "AI Agents",
+      "Robotics",
+      "Model Hardware Standard",
+      "Lab Automation",
+      "Safety",
+      "Manufacturing",
+      "NVIDIA",
+      "Vera",
+      "AI Hardware",
+      "AI Infrastructure",
+      "Agents",
+      "Inference",
+      "Data Centers",
+      "OpenAI",
+      "Cursor",
+      "Coding Agents",
+      "Developer Tools",
+      "Model Providers",
+      "Platform Risk",
+      "Enterprise AI",
+      "Google",
+      "Voice Agents",
+      "Agent Development Kit",
+      "Customer Service",
+      "Testing",
+      "Automation",
+      "CI/CD",
+      "Hugging Face",
+      "Speech Recognition",
+      "Voice AI",
+      "ASR",
+      "Benchmarks",
+      "Multilingual AI",
+      "Open Source",
+      "xAI",
+      "Grok",
+      "Grok Bot",
+      "X",
+      "Social Media",
+      "Creator Tools"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      },
+      {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI / Cursor decision",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      },
+      {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/how-to-evaluate-live-voice-agents-in-adk/"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      },
+      {
+        "name": "xAI News",
+        "url": "https://x.ai/news"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 27.08.2026",
