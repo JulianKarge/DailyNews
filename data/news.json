@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-08-31",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 31.08.2026",
+    "title": "Daily AI News — Montag, 31.08.2026",
+    "summary": "Heute im Fokus: Google AI Mode für Reiseplanung, neue Gemini-Bausteine, Zhipu GLM-5.2 und überprüfbare Agenten-Kommunikation.",
+    "file": "pages/2026-08-31.html",
+    "markdownFile": "news/2026-08-31.md",
+    "tags": [
+      "Google",
+      "AI Search",
+      "AI Mode",
+      "Travel",
+      "Consumer AI",
+      "Planning",
+      "Small Business",
+      "Google DeepMind",
+      "Gemini",
+      "Multimodal AI",
+      "Transcription",
+      "Creator Tools",
+      "Productivity",
+      "Models",
+      "Zhipu AI",
+      "GLM-5.2",
+      "Open Models",
+      "AI Agents",
+      "Coding",
+      "China AI",
+      "Automation",
+      "arXiv",
+      "Security",
+      "Accountability",
+      "Audit",
+      "Enterprise AI",
+      "Governance"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+      },
+      {
+        "name": "Google DeepMind Blog",
+        "url": "https://deepmind.google/discover/blog/"
+      },
+      {
+        "name": "Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.28542v1"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 30.08.2026",
