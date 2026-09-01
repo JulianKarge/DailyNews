@@ -5,11 +5,11 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 01.09.2026",
   "title": "Daily AI News — Dienstag, 01.09.2026",
-  "dek": "Drei AI-Updates mit Praxiswert: ChatGPT-Werbung wird zum echten Kanal, OpenAI zeigt Verwaltungs-AI in Japan und ein neues Paper macht Voice-Roboter-Sicherheit greifbar.",
-  "summary": "Heute geht es um AI als Werbekanal, Verwaltungswerkzeug und Sicherheitsproblem, sobald gesprochene Befehle falsch verstanden werden.",
+  "dek": "Vier AI-Updates mit Praxiswert: ChatGPT-Werbung wird zum echten Kanal, OpenAI zeigt Verwaltungs-AI in Japan, Voice-Roboter bekommen ein Sicherheitsproblem und anonyme Modelle werden auditierbar.",
+  "summary": "Heute geht es um AI als Werbekanal, Verwaltungswerkzeug, Voice-Sicherheitsproblem und um die Frage, ob man einem namenlosen Modell wirklich Kundendaten anvertrauen sollte.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-01T00:06:01Z",
+  "generated_at": "2026-09-01T12:03:58Z",
   "tags": [
     "OpenAI",
     "ChatGPT Ads",
@@ -29,10 +29,16 @@
     "Robotics",
     "Embodied AI",
     "AI Safety",
-    "Speech Recognition"
+    "Speech Recognition",
+    "Model Audits",
+    "AI Security",
+    "Privacy",
+    "Supply Chain",
+    "Enterprise AI",
+    "Benchmarks"
   ],
   "hero": {
-    "topic": "AI rutscht tiefer in Alltag und Betrieb: Werbung, Verwaltung und Voice-Sicherheit",
+    "topic": "AI rutscht tiefer in Alltag und Betrieb: Werbung, Verwaltung, Voice-Sicherheit und Modell-Audits",
     "accent": "#f97316",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 01.09.2026"
   },
@@ -117,6 +123,53 @@
         "name": "arXiv",
         "url": "https://arxiv.org/abs/2608.28518v1"
       }
+    },
+    {
+      "title": "Anonyme AI-Modelle werden zum Supply-Chain-Problem",
+      "summary": "Ein neues arXiv-Paper schlägt ein Prüfverfahren vor, um anonyme oder unter Codenamen veröffentlichte AI-Modelle im Black-Box-Betrieb zu identifizieren. Der Hintergrund ist sehr praktisch: 2025 und 2026 tauchten auf Entwicklerplattformen immer wieder Testmodelle auf, bei denen Nutzer Fähigkeiten vergleichen konnten, aber nicht sicher wussten, welcher Anbieter dahintersteht. Die Autoren kombinieren archivierte Plattformdaten, Fingerprinting und Angriffs-/Robustheitsprofile zu einem vierstufigen Audit-Protokoll.",
+      "why_it_matters": "Für Teams, die neue Modelle schnell in Workflows testen, ist das eine Erinnerung mit kalter Dusche: Ein Modellname ist nicht nur Marketing, sondern hängt an Datenschutz, Vertragsbedingungen und Lieferkettenrisiko. Wer ein namenloses Spitzenmodell in Kundendaten, Code oder interne Dokumente lässt, sollte später erklären können, warum das sicher war. Praktisch heißt das: Modelltests brauchen Protokolle, Quellen und klare Grenzen, nicht nur ein Bauchgefühl aus dem Benchmark-Chat.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2608.31142v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "Model Audits",
+        "AI Security",
+        "Privacy",
+        "Supply Chain",
+        "Enterprise AI",
+        "Benchmarks"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.31142v1"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/polimill"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28518v1"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2608.31142v1"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 01.09.2026",
     "title": "Daily AI News — Dienstag, 01.09.2026",
-    "summary": "Heute im Fokus: ChatGPT Ads, AI in japanischen Kommunen und Voice-Safety für Roboter/Agents.",
+    "summary": "Heute im Fokus: ChatGPT Ads, AI in japanischen Kommunen, Voice-Safety für Roboter/Agents und Audits für anonyme AI-Modelle.",
     "file": "pages/2026-09-01.html",
     "markdownFile": "news/2026-09-01.md",
     "tags": [
@@ -26,7 +26,13 @@
       "Robotics",
       "Embodied AI",
       "AI Safety",
-      "Speech Recognition"
+      "Speech Recognition",
+      "Model Audits",
+      "AI Security",
+      "Privacy",
+      "Supply Chain",
+      "Enterprise AI",
+      "Benchmarks"
     ],
     "visualTag": "Daily AI News",
     "sources": [
@@ -45,6 +51,10 @@
       {
         "name": "arXiv",
         "url": "https://arxiv.org/abs/2608.28518v1"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.31142v1"
       }
     ]
   },

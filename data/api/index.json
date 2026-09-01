@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-01T00:06:01Z",
+  "updated_at": "2026-09-01T12:03:58Z",
   "count": 63,
   "latest_date": "2026-09-01",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 01.09.2026",
       "title": "Daily AI News — Dienstag, 01.09.2026",
-      "dek": "Drei AI-Updates mit Praxiswert: ChatGPT-Werbung wird zum echten Kanal, OpenAI zeigt Verwaltungs-AI in Japan und ein neues Paper macht Voice-Roboter-Sicherheit greifbar.",
+      "dek": "Vier AI-Updates mit Praxiswert: ChatGPT-Werbung wird zum echten Kanal, OpenAI zeigt Verwaltungs-AI in Japan, Voice-Roboter bekommen ein Sicherheitsproblem und anonyme Modelle werden auditierbar.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -37,19 +37,25 @@
         "Robotics",
         "Embodied AI",
         "AI Safety",
-        "Speech Recognition"
+        "Speech Recognition",
+        "Model Audits",
+        "AI Security",
+        "Privacy",
+        "Supply Chain",
+        "Enterprise AI",
+        "Benchmarks"
       ],
       "hero": {
-        "topic": "AI rutscht tiefer in Alltag und Betrieb: Werbung, Verwaltung und Voice-Sicherheit",
+        "topic": "AI rutscht tiefer in Alltag und Betrieb: Werbung, Verwaltung, Voice-Sicherheit und Modell-Audits",
         "accent": "#f97316",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 01.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-01.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-01.html",
-      "summary": "Heute geht es um AI als Werbekanal, Verwaltungswerkzeug und Sicherheitsproblem, sobald gesprochene Befehle falsch verstanden werden.",
-      "generated_at": "2026-09-01T00:06:01Z",
-      "item_count": 3,
-      "source_count": 4
+      "summary": "Heute geht es um AI als Werbekanal, Verwaltungswerkzeug, Voice-Sicherheitsproblem und um die Frage, ob man einem namenlosen Modell wirklich Kundendaten anvertrauen sollte.",
+      "generated_at": "2026-09-01T12:03:58Z",
+      "item_count": 4,
+      "source_count": 5
     },
     {
       "id": "2026-08-31",
