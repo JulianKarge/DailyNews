@@ -1,5 +1,54 @@
 [
   {
+    "date": "2026-09-01",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 01.09.2026",
+    "title": "Daily AI News — Dienstag, 01.09.2026",
+    "summary": "Heute im Fokus: ChatGPT Ads, AI in japanischen Kommunen und Voice-Safety für Roboter/Agents.",
+    "file": "pages/2026-09-01.html",
+    "markdownFile": "news/2026-09-01.md",
+    "tags": [
+      "OpenAI",
+      "ChatGPT Ads",
+      "AI Search",
+      "Marketing",
+      "Small Business",
+      "Advertising",
+      "Consumer AI",
+      "Polimill",
+      "Public Sector AI",
+      "Japan",
+      "Knowledge Work",
+      "Codex",
+      "Automation",
+      "arXiv",
+      "Voice AI",
+      "Robotics",
+      "Embodied AI",
+      "AI Safety",
+      "Speech Recognition"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/polimill"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2608.28518v1"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "weekday": "Montag",
     "dateLabel": "Montag, 31.08.2026",
