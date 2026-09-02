@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 02.09.2026",
     "title": "Daily AI News — Mittwoch, 02.09.2026",
-    "summary": "Heute im Fokus: Claude Fable/Mythos 5.1, Google Pics in Workspace, ChatGPT mit Gesundheitsdaten, Hugging-Face-WebGPU-Kernels und ein neuer Agenten-Benchmark.",
+    "summary": "Heute im Fokus: Claude Fable/Mythos 5.1, Gemini Video Understanding, Google Pics, Astra-Sicherheitsgrenzen, ChatGPT mit Gesundheitsdaten, Hugging-Face-WebGPU-Kernels und CordisBench.",
     "file": "pages/2026-09-02.html",
     "markdownFile": "news/2026-09-02.md",
     "tags": [
@@ -16,18 +16,27 @@
       "Knowledge Work",
       "Developer Tools",
       "Google",
+      "Gemini",
+      "Video AI",
+      "Multimodal AI",
+      "Agentic Video",
+      "Creator Tools",
+      "Token Costs",
       "Google Pics",
       "Nano Banana",
       "Workspace",
       "Image AI",
-      "Creator Tools",
       "Marketing",
       "OpenAI",
+      "Astra",
+      "Cybersecurity",
+      "AI Safety",
+      "Preparedness",
+      "Governance",
+      "Enterprise AI",
       "ChatGPT",
       "Healthcare AI",
       "EHR",
-      "Enterprise AI",
-      "Governance",
       "Data Access",
       "Hugging Face",
       "WebGPU",
@@ -55,15 +64,31 @@
       },
       {
         "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"
+      },
+      {
+        "name": "Google AI for Developers",
+        "url": "https://ai.google.dev/gemini-api/docs/video-understanding#agentic-video-understanding"
+      },
+      {
+        "name": "THE DECODER",
+        "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
+      },
+      {
+        "name": "Google Blog",
         "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
       },
       {
         "name": "OpenAI News RSS",
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+        "url": "https://openai.com/index/path-to-astra"
       },
       {
         "name": "OpenAI News RSS Feed",
         "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
       },
       {
         "name": "Hugging Face Blog",

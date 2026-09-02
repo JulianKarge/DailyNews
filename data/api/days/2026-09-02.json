@@ -5,11 +5,11 @@
   "weekday": "Mittwoch",
   "date_label": "Mittwoch, 02.09.2026",
   "title": "Daily AI News — Mittwoch, 02.09.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: neue Claude-Modelle landen direkt in Coding-Workflows, Google bringt Bild-AI in Workspace, OpenAI verbindet ChatGPT mit Klinikdaten, Hugging Face beschleunigt lokale Browser-AI und ein Agenten-Benchmark schaut auf Systemzustände statt Demo-Glanz.",
-  "summary": "Heute geht es um stärkere Coding-Modelle, Bild-AI im Büroalltag, ChatGPT an sensiblen Gesundheitsdaten, lokale AI im Browser und die Frage, ob Agenten ihre eigenen Werkzeugketten wirklich verstehen.",
+  "dek": "Sieben AI-Updates mit Praxiswert: Claude landet stärker in Coding-Workflows, Gemini analysiert lange Videos gezielter, Google bringt Bild-AI in Workspace, OpenAI markiert Astra als Cybersecurity-Sicherheitsfall, ChatGPT rückt an Klinikdaten, Hugging Face beschleunigt Browser-AI und ein Agenten-Benchmark prüft Systemzustände.",
+  "summary": "Heute geht es um Coding-Modelle, günstigere Videoanalyse, Bild-AI im Büro, Sicherheitsgrenzen für Frontier-Modelle, ChatGPT an Gesundheitsdaten, lokale Browser-Inferenz und robustere Agenten.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-02T08:03:10Z",
+  "generated_at": "2026-09-02T12:05:47Z",
   "tags": [
     "Anthropic",
     "Claude Fable",
@@ -19,18 +19,27 @@
     "Knowledge Work",
     "Developer Tools",
     "Google",
+    "Gemini",
+    "Video AI",
+    "Multimodal AI",
+    "Agentic Video",
+    "Creator Tools",
+    "Token Costs",
     "Google Pics",
     "Nano Banana",
     "Workspace",
     "Image AI",
-    "Creator Tools",
     "Marketing",
     "OpenAI",
+    "Astra",
+    "Cybersecurity",
+    "AI Safety",
+    "Preparedness",
+    "Governance",
+    "Enterprise AI",
     "ChatGPT",
     "Healthcare AI",
     "EHR",
-    "Enterprise AI",
-    "Governance",
     "Data Access",
     "Hugging Face",
     "WebGPU",
@@ -47,7 +56,7 @@
     "Automation"
   ],
   "hero": {
-    "topic": "AI wird operativer: Coding, Office-Bilder, Gesundheitsdaten, Browser-Inferenz und robustere Agenten",
+    "topic": "AI wird operativer: Coding, Video, Office-Bilder, Sicherheit, Gesundheitsdaten, Browser-Inferenz und Agenten-Checks",
     "accent": "#14b8a6",
     "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 02.09.2026"
   },
@@ -84,6 +93,39 @@
       }
     },
     {
+      "title": "Gemini schaut Videos jetzt gezielter an, statt jedes Bild stur abzuklappern",
+      "summary": "Google führt agentic video understanding für aktuelle Gemini-Modelle ein. Statt ein Video mit fester Bildrate zu zerlegen, entscheidet das Modell, welche Abschnitte und Auflösungen genauer geprüft werden. Google nennt dafür bis zu 88 Prozent weniger Tokenverbrauch und bessere Treffer bei langen Videos; THE DECODER hat die Ankündigung ebenfalls aufgegriffen.",
+      "why_it_matters": "Für Creator, Schulungsteams, Support und Medienarchive ist das deutlich greifbarer als der nächste abstrakte Modell-Benchmark. Lange Meetings, Tutorials, Webinare oder Kameramaterial werden billiger durchsuchbar, wenn die AI nicht jede Minute wie ein pflichtbewusster Praktikant in Einzelbilder zerhackt. Offen bleibt, wie robust die Auswahl der wichtigen Szenen bei chaotischem Material ist; genau dort entscheidet sich, ob daraus ein Alltagstool wird.",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"
+        },
+        {
+          "name": "Google AI for Developers",
+          "url": "https://ai.google.dev/gemini-api/docs/video-understanding#agentic-video-understanding"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemini",
+        "Video AI",
+        "Multimodal AI",
+        "Agentic Video",
+        "Creator Tools",
+        "Token Costs"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"
+      }
+    },
+    {
       "title": "Google bringt Nano Banana in den Workspace-Alltag",
       "summary": "Google macht Google Pics in Workspace verfügbar, ein Werkzeug für Bildgenerierung und Bildbearbeitung auf Basis des Nano-Banana-Modells. Der Fokus liegt nicht auf Kunst-Demos, sondern auf Präsentationen, Kampagnenmaterial, internen Visuals und schnellen Varianten direkt in der Arbeitsumgebung. Für viele Nutzer ist das der Punkt, an dem Bild-AI nicht mehr als separates Kreativtool wirkt, sondern wie eine weitere Office-Funktion.",
       "why_it_matters": "Für Creator, Marketingteams und kleine Unternehmen wird Bildproduktion damit normaler und schneller. Ein Flyer, eine Schulungsfolie oder ein Social-Visual muss nicht mehr zwingend zwischen fünf Tools hin- und herwandern. Die Einschränkung bleibt: Je leichter Bilder entstehen, desto wichtiger werden Stilregeln, Rechteklärung und ein sauberer Blick auf das, was nicht nach generischer Stockfoto-Suppe aussehen soll.",
@@ -106,6 +148,35 @@
       "source": {
         "name": "Google Blog",
         "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+      }
+    },
+    {
+      "title": "OpenAI setzt bei Astra die Cybersecurity-Latte sichtbar höher",
+      "summary": "OpenAI meldet im offiziellen News-RSS, dass Astra als erstes OpenAI-Modell den Critical-Cybersecurity-Schwellenwert des Preparedness Framework erreicht. Der Beitrag beschreibt deshalb zusätzliche Schutzmaßnahmen vor der Veröffentlichung. Das ist keine Hochglanz-Funktion für Endnutzer, aber ein wichtiges Signal: Frontier-Modelle werden stärker danach bewertet, welche gefährlichen Fähigkeiten sie bekommen könnten, nicht nur danach, wie gut sie Aufgaben lösen.",
+      "why_it_matters": "Für Unternehmen, Admins und Sicherheitsverantwortliche wird die Modellfreigabe damit weniger zur Bauchentscheidung. Wenn ein Anbieter selbst sagt, dass ein Modell eine kritische Cybersecurity-Schwelle erreicht, gehören Zugriffsrechte, Logging, Red-Teaming und klare Einsatzgrenzen vor den Rollout, nicht danach. Die offene Frage ist, wie vergleichbar solche Anbieter-Schwellen über OpenAI, Anthropic, Google und andere Labs hinweg wirklich werden.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/path-to-astra"
+        },
+        {
+          "name": "OpenAI News RSS Feed",
+          "url": "https://openai.com/news/rss.xml"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "Cybersecurity",
+        "AI Safety",
+        "Preparedness",
+        "Governance",
+        "Enterprise AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/path-to-astra"
       }
     },
     {
@@ -199,15 +270,31 @@
     },
     {
       "name": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "name": "Google AI for Developers",
+      "url": "https://ai.google.dev/gemini-api/docs/video-understanding#agentic-video-understanding"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
+    },
+    {
+      "name": "Google Blog",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
     },
     {
       "name": "OpenAI News RSS",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      "url": "https://openai.com/index/path-to-astra"
     },
     {
       "name": "OpenAI News RSS Feed",
       "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
     {
       "name": "Hugging Face Blog",
