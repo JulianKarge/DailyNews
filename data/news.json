@@ -1,5 +1,81 @@
 [
   {
+    "date": "2026-09-02",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 02.09.2026",
+    "title": "Daily AI News — Mittwoch, 02.09.2026",
+    "summary": "Heute im Fokus: Claude Fable/Mythos 5.1, Google Pics in Workspace, ChatGPT mit Gesundheitsdaten, Hugging-Face-WebGPU-Kernels und ein neuer Agenten-Benchmark.",
+    "file": "pages/2026-09-02.html",
+    "markdownFile": "news/2026-09-02.md",
+    "tags": [
+      "Anthropic",
+      "Claude Fable",
+      "Claude Mythos",
+      "GitHub Copilot",
+      "Coding Agents",
+      "Knowledge Work",
+      "Developer Tools",
+      "Google",
+      "Google Pics",
+      "Nano Banana",
+      "Workspace",
+      "Image AI",
+      "Creator Tools",
+      "Marketing",
+      "OpenAI",
+      "ChatGPT",
+      "Healthcare AI",
+      "EHR",
+      "Enterprise AI",
+      "Governance",
+      "Data Access",
+      "Hugging Face",
+      "WebGPU",
+      "Local AI",
+      "Browser AI",
+      "Inference",
+      "Open Source",
+      "arXiv",
+      "AI Agents",
+      "Benchmarks",
+      "Evaluation",
+      "Plugins",
+      "Agent Reliability",
+      "Automation"
+    ],
+    "visualTag": "Daily AI News",
+    "sources": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      },
+      {
+        "name": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot"
+      },
+      {
+        "name": "Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+      },
+      {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      },
+      {
+        "name": "OpenAI News RSS Feed",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/webgpu-kernels"
+      },
+      {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2609.01600v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 01.09.2026",
