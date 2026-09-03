@@ -5,11 +5,11 @@
   "weekday": "Donnerstag",
   "date_label": "Donnerstag, 03.09.2026",
   "title": "Daily AI News — Donnerstag, 03.09.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Google öffnet Cyber-Abwehrtools, OpenAI macht Workspace-Agenten backendfähig, xAI setzt Biosecurity auf die Agenda, BenchMIRT kratzt an Modell-Benchmarks und ein neues Paper macht Web-Agenten vorsichtiger.",
-  "summary": "Heute geht es um Security-Automation, Backend-Agenten, Biosecurity, bessere Modellbewertung und Web-Agenten, die Folgen ihrer Klicks verstehen sollen.",
+  "dek": "Sieben AI-Updates mit Praxiswert: Google öffnet Cyber-Abwehrtools, OpenAI macht Workspace-Agenten backendfähig, Hugging Face gibt Coding-Agenten ein eigenes Gedächtnis, ein ChatGPT-Work-Beispiel zeigt AI im Mittelstand, xAI setzt Biosecurity auf die Agenda, BenchMIRT kratzt an Modell-Benchmarks und ein neues Paper macht Web-Agenten vorsichtiger.",
+  "summary": "Heute geht es um Security-Automation, Backend-Agenten, Agenten-Memory, greifbare AI-Produktivität für kleine Unternehmen, Biosecurity, bessere Modellbewertung und Web-Agenten, die Folgen ihrer Klicks verstehen sollen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-03T07:07:56Z",
+  "generated_at": "2026-09-03T12:04:47Z",
   "tags": [
     "Google",
     "Cybersecurity",
@@ -23,12 +23,24 @@
     "Automation",
     "Backend Workflows",
     "Agents",
+    "Hugging Face",
+    "Funes",
+    "Coding Agents",
+    "Agent Memory",
+    "Open Source",
+    "Developer Tools",
+    "Knowledge Management",
+    "ChatGPT Work",
+    "Small Business",
+    "Marketing",
+    "Merchandising",
+    "Productivity",
+    "Workflow Automation",
     "xAI",
     "Biosecurity",
     "Frontier Models",
     "Governance",
     "Grok",
-    "Hugging Face",
     "Ai2",
     "Benchmarks",
     "LLM Evaluation",
@@ -41,7 +53,7 @@
     "Safety"
   ],
   "hero": {
-    "topic": "AI wird ernster im Betrieb: Security, Backend-Agenten, Biosecurity, Benchmarks und sicherere Web-Automation",
+    "topic": "AI wird praktischer im Betrieb: Security, Backend-Agenten, Agenten-Memory, kleine Unternehmen, Biosecurity und sicherere Web-Automation",
     "accent": "#6366f1",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 03.09.2026"
   },
@@ -95,6 +107,60 @@
       "source": {
         "name": "OpenAI Developers",
         "url": "https://developers.openai.com/workspace-agents"
+      }
+    },
+    {
+      "title": "Hugging Face gibt Coding-Agenten ein Gedächtnis, das im eigenen Projekt bleibt",
+      "summary": "Hugging Face stellt mit Funes ein Open-Source-Werkzeug vor, mit dem Coding-Agenten Projektwissen als veröffentlichbare oder private Memory-Datasets speichern können. Die Idee ist simpel: Ein Agent soll nicht bei jedem Lauf wieder erraten, warum eine Codebasis so aussieht, wie sie aussieht.",
+      "why_it_matters": "Für Teams mit mehreren Agenten oder wechselnden Tools ist das praktisch, weil Projektwissen nicht in einem einzelnen Chatverlauf oder Anbieter-Account verschwinden muss. Spannend wird es bei Refactorings, Architekturentscheidungen und wiederkehrenden Regeln: Der Agent bekommt Kontext, ohne dass jemand zum hundertsten Mal dieselbe README nacherzählt. Offen bleibt, wie sauber solche Memories gepflegt und gegen veraltete Entscheidungen abgesichert werden.",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/funes"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Funes",
+        "Coding Agents",
+        "Agent Memory",
+        "Open Source",
+        "Developer Tools",
+        "Knowledge Management"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/funes"
+      }
+    },
+    {
+      "title": "Ein Stunt-Team zeigt, warum AI im Mittelstand oft bei Fotos, Tabellen und Shops beginnt",
+      "summary": "OpenAI meldet im offiziellen News-RSS, dass ATV Big Air Tour mit ChatGPT Work Aufgaben in Marketing und Merchandising deutlich beschleunigt hat. Laut RSS wurde aus Merchandise-Fotos in 15 Minuten eine Inventory-Website, und ein Arbeitsblock von drei Tagen schrumpfte auf etwa drei Stunden.",
+      "why_it_matters": "Für kleine Unternehmen ist das greifbarer als der nächste abstrakte Modellscore. Viele AI-Projekte starten nicht mit einer perfekten Agentenstrategie, sondern mit einem nervigen Ordner voller Produktfotos, einer Tabelle und dem Wunsch, heute noch fertig zu werden. Der Fall bleibt eine Anbieter-Case-Study, also kein neutraler Benchmark. Trotzdem zeigt er gut, wo produktive AI im Alltag zuerst landet: bei halbstrukturierten Büro- und Marketingaufgaben.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/news/rss.xml"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/atv-big-air-tour"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT Work",
+        "Small Business",
+        "Marketing",
+        "Merchandising",
+        "Productivity",
+        "Workflow Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
       }
     },
     {
@@ -179,6 +245,18 @@
     {
       "name": "OpenAI Developers",
       "url": "https://developers.openai.com/workspace-agents"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/funes"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/atv-big-air-tour"
     },
     {
       "name": "xAI News",

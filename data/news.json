@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 03.09.2026",
     "title": "Daily AI News — Donnerstag, 03.09.2026",
-    "summary": "Fünf AI-Updates mit Praxiswert: Google öffnet Cyber-Abwehrtools, OpenAI macht Workspace-Agenten backendfähig, xAI setzt Biosecurity auf die Agenda, BenchMIRT kratzt an Modell-Benchmarks und ein neues Paper macht Web-Agenten vorsichtiger.",
+    "summary": "Sieben AI-Updates mit Praxiswert: Google öffnet Cyber-Abwehrtools, OpenAI macht Workspace-Agenten backendfähig, Hugging Face gibt Coding-Agenten ein eigenes Gedächtnis, ein ChatGPT-Work-Beispiel zeigt AI im Mittelstand, xAI setzt Biosecurity auf die Agenda, BenchMIRT kratzt an Modell-Benchmarks und ein neues Paper macht Web-Agenten vorsichtiger.",
     "file": "pages/2026-09-03.html",
     "markdownFile": "news/2026-09-03.md",
     "tags": [
@@ -20,12 +20,24 @@
       "Automation",
       "Backend Workflows",
       "Agents",
+      "Hugging Face",
+      "Funes",
+      "Coding Agents",
+      "Agent Memory",
+      "Open Source",
+      "Developer Tools",
+      "Knowledge Management",
+      "ChatGPT Work",
+      "Small Business",
+      "Marketing",
+      "Merchandising",
+      "Productivity",
+      "Workflow Automation",
       "xAI",
       "Biosecurity",
       "Frontier Models",
       "Governance",
       "Grok",
-      "Hugging Face",
       "Ai2",
       "Benchmarks",
       "LLM Evaluation",
@@ -45,6 +57,18 @@
       {
         "label": "OpenAI Developers",
         "url": "https://developers.openai.com/workspace-agents"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/funes"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/atv-big-air-tour"
       },
       {
         "label": "xAI News",
