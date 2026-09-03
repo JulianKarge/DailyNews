@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-03",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 03.09.2026",
+    "title": "Daily AI News — Donnerstag, 03.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: Google öffnet Cyber-Abwehrtools, OpenAI macht Workspace-Agenten backendfähig, xAI setzt Biosecurity auf die Agenda, BenchMIRT kratzt an Modell-Benchmarks und ein neues Paper macht Web-Agenten vorsichtiger.",
+    "file": "pages/2026-09-03.html",
+    "markdownFile": "news/2026-09-03.md",
+    "tags": [
+      "Google",
+      "Cybersecurity",
+      "AI Safety",
+      "Enterprise AI",
+      "Governments",
+      "Security Automation",
+      "OpenAI",
+      "ChatGPT",
+      "Workspace Agents",
+      "Automation",
+      "Backend Workflows",
+      "Agents",
+      "xAI",
+      "Biosecurity",
+      "Frontier Models",
+      "Governance",
+      "Grok",
+      "Hugging Face",
+      "Ai2",
+      "Benchmarks",
+      "LLM Evaluation",
+      "Model Selection",
+      "arXiv",
+      "Web Agents",
+      "World Models",
+      "AI Agents",
+      "Evaluation",
+      "Safety"
+    ],
+    "sources": [
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+      },
+      {
+        "label": "OpenAI Developers",
+        "url": "https://developers.openai.com/workspace-agents"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/benchmirt"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.02885v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 02.09.2026",
