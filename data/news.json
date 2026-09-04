@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-09-04",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 04.09.2026",
+    "title": "Daily AI News — Freitag, 04.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: OpenAI steckt Geld in Cyber-Abwehr für kritische Dienste, xAI bringt Grok Bot in Unternehmen, Cohere vermisst den Agentenmarkt, Hugging Face macht Dokumentensuche multimodaler und SWE-Gate prüft Coding-Agenten härter.",
+    "file": "pages/2026-09-04.html",
+    "markdownFile": "news/2026-09-04.md",
+    "tags": [
+      "OpenAI",
+      "Cybersecurity",
+      "Critical Infrastructure",
+      "AI Safety",
+      "Public Sector",
+      "Enterprise AI",
+      "xAI",
+      "Grok",
+      "AI Agents",
+      "Persistent Agents",
+      "Team Automation",
+      "Cohere",
+      "Automation",
+      "MCP",
+      "Workflows",
+      "Research",
+      "Open Data",
+      "Hugging Face",
+      "NeoMME",
+      "RAG",
+      "Multimodal AI",
+      "Multilingual AI",
+      "Document AI",
+      "Search",
+      "arXiv",
+      "Coding Agents",
+      "Software Engineering",
+      "Benchmarks",
+      "Code Review",
+      "Developer Tools",
+      "AI Evaluation"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "Cohere Blog",
+        "url": "https://cohere.com/blog/automations-early-footprint"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Hcompany/neomme"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.04167v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 03.09.2026",
