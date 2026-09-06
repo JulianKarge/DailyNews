@@ -1,5 +1,82 @@
 [
   {
+    "date": "2026-09-06",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 06.09.2026",
+    "title": "Daily AI News — Sonntag, 06.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: GPT-6 Astra zielt auf längere Arbeitsaufgaben, Gemini bekommt Computer Use, DeepSeek schiebt Agentenfunktionen nach vorn, NVIDIA baut Physical-AI-Werkzeuge aus und ein Paper zeigt, warum Agenten-Schwärme gute Leitplanken brauchen.",
+    "file": "pages/2026-09-06.html",
+    "markdownFile": "news/2026-09-06.md",
+    "tags": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "Frontier Models",
+      "Computer Use",
+      "Coding Agents",
+      "Cybersecurity",
+      "GitHub Copilot",
+      "Google",
+      "Gemini",
+      "AI Agents",
+      "Workflow Automation",
+      "Browser Automation",
+      "Productivity",
+      "DeepSeek",
+      "DeepSeek-V4-Pro",
+      "API",
+      "Responses API",
+      "Coding",
+      "China AI",
+      "NVIDIA",
+      "Autonomous Vehicles",
+      "Physical AI",
+      "AI Infrastructure",
+      "Simulation",
+      "Developer Tools",
+      "Robotics",
+      "arXiv",
+      "Multi-Agent Systems",
+      "AI Safety",
+      "Evaluation",
+      "Governance",
+      "Research"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/gpt-6-astra"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      },
+      {
+        "label": "DeepSeek",
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "label": "DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates/"
+      },
+      {
+        "label": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/autonomous-vehicle-ecosystem-ai-models-developer-tools/"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.04170v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 04.09.2026",
