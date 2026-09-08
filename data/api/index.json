@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-08T08:55:29Z",
+  "updated_at": "2026-09-08T12:06:49Z",
   "count": 69,
   "latest_date": "2026-09-08",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 08.09.2026",
       "title": "Daily AI News — Dienstag, 08.09.2026",
-      "dek": "Vier AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, ein Benchmark bringt Computer-Use-Agenten näher an echte Desktop-Arbeit und WearableQA prüft Health-AI auf langen persönlichen Daten.",
+      "dek": "Fünf AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, Agenten lernen GUI plus Terminal, WearableQA prüft Health-AI und ein GPU-Paper erdet Stromnetz-Versprechen von Rechenzentren.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -44,19 +44,24 @@
         "Wearables",
         "Personal Data",
         "Reasoning",
-        "Healthcare"
+        "Healthcare",
+        "Data Centers",
+        "GPUs",
+        "Energy",
+        "Demand Response",
+        "Compute"
       ],
       "hero": {
-        "topic": "AI wird erwachsener: Finanzierung, Modell-Orchestrierung, echte Computerarbeit und belastbare Health-Benchmarks",
+        "topic": "AI wird erwachsener: Finanzierung, Modell-Orchestrierung, echte Computerarbeit, Health-Benchmarks und belastbarere Compute-Infrastruktur",
         "accent": "#f97316",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 08.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-08.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-08.html",
-      "summary": "Heute geht es um AI jenseits der nächsten Chat-Demo: europäische Infrastruktur, klügeres Modellrouting, Agenten am echten Rechner und die Frage, ob Gesundheits-AI mit verrauschten Alltagsdaten umgehen kann.",
-      "generated_at": "2026-09-08T08:55:29Z",
-      "item_count": 4,
-      "source_count": 5
+      "summary": "Heute geht es um AI jenseits der nächsten Chat-Demo: europäische Infrastruktur, klügeres Modellrouting, Agenten am echten Rechner, Health-AI auf verrauschten Alltagsdaten und die Energiefrage hinter immer größeren GPU-Flotten.",
+      "generated_at": "2026-09-08T12:06:49Z",
+      "item_count": 5,
+      "source_count": 6
     },
     {
       "id": "2026-09-07",

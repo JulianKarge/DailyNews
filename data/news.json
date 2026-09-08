@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 08.09.2026",
     "title": "Daily AI News — Dienstag, 08.09.2026",
-    "summary": "Vier AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, ein Benchmark bringt Computer-Use-Agenten näher an echte Desktop-Arbeit und WearableQA prüft Health-AI auf langen persönlichen Daten.",
+    "summary": "Fünf AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, Agenten lernen GUI plus Terminal, WearableQA prüft Health-AI und ein GPU-Paper erdet Stromnetz-Versprechen von Rechenzentren.",
     "file": "pages/2026-09-08.html",
     "markdownFile": "news/2026-09-08.md",
     "tags": [
@@ -33,7 +33,12 @@
       "Wearables",
       "Personal Data",
       "Reasoning",
-      "Healthcare"
+      "Healthcare",
+      "Data Centers",
+      "GPUs",
+      "Energy",
+      "Demand Response",
+      "Compute"
     ],
     "sources": [
       {
@@ -55,6 +60,10 @@
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2609.05405v1"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.05406v1"
       }
     ]
   },

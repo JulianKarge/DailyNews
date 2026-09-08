@@ -5,11 +5,11 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 08.09.2026",
   "title": "Daily AI News — Dienstag, 08.09.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, ein Benchmark bringt Computer-Use-Agenten näher an echte Desktop-Arbeit und WearableQA prüft Health-AI auf langen persönlichen Daten.",
-  "summary": "Heute geht es um AI jenseits der nächsten Chat-Demo: europäische Infrastruktur, klügeres Modellrouting, Agenten am echten Rechner und die Frage, ob Gesundheits-AI mit verrauschten Alltagsdaten umgehen kann.",
+  "dek": "Fünf AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, Agenten lernen GUI plus Terminal, WearableQA prüft Health-AI und ein GPU-Paper erdet Stromnetz-Versprechen von Rechenzentren.",
+  "summary": "Heute geht es um AI jenseits der nächsten Chat-Demo: europäische Infrastruktur, klügeres Modellrouting, Agenten am echten Rechner, Health-AI auf verrauschten Alltagsdaten und die Energiefrage hinter immer größeren GPU-Flotten.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-08T08:55:29Z",
+  "generated_at": "2026-09-08T12:06:49Z",
   "tags": [
     "Mistral",
     "Sovereign AI",
@@ -36,10 +36,15 @@
     "Wearables",
     "Personal Data",
     "Reasoning",
-    "Healthcare"
+    "Healthcare",
+    "Data Centers",
+    "GPUs",
+    "Energy",
+    "Demand Response",
+    "Compute"
   ],
   "hero": {
-    "topic": "AI wird erwachsener: Finanzierung, Modell-Orchestrierung, echte Computerarbeit und belastbare Health-Benchmarks",
+    "topic": "AI wird erwachsener: Finanzierung, Modell-Orchestrierung, echte Computerarbeit, Health-Benchmarks und belastbarere Compute-Infrastruktur",
     "accent": "#f97316",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 08.09.2026"
   },
@@ -149,6 +154,31 @@
         "name": "arXiv",
         "url": "https://arxiv.org/abs/2609.05405v1"
       }
+    },
+    {
+      "title": "AI-Rechenzentren können dem Stromnetz weniger spontan helfen als erhofft",
+      "summary": "Ein neues arXiv-Paper rekonstruiert 4.439 Stunden Produktionsdaten aus einer Flotte mit 155.410 GPUs und prüft, wie viel Last AI-Rechenzentren wirklich flexibel verschieben könnten. Das Ergebnis ist nüchterner als manche Grid-Planung: Bei einer medianen Anlagenlast von 55,8 MW liegen sofort nutzbare Abschaltungen im Mittel bei 3,55 MW, und verlässlich verfügbare Entlastung sinkt deutlich, je länger ein Netzereignis dauert.",
+      "why_it_matters": "Für Städte, Energieversorger und AI-Infrastrukturbetreiber ist das eine praktische Warnung. Wenn ein Rechenzentrum als flexible Last verkauft wird, reicht eine einzelne Prozentzahl nicht; Verträge müssen Dauer, Zuverlässigkeit, Cluster-Mix und tatsächlich verschiebbare Jobs unterscheiden. Sonst klingt AI-Compute im Pitch netzdienlicher, als er im heißen Sommernachmittag wirklich ist.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2609.05406v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "AI Infrastructure",
+        "Data Centers",
+        "GPUs",
+        "Energy",
+        "Demand Response",
+        "Compute"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2609.05406v1"
+      }
     }
   ],
   "sources": [
@@ -171,6 +201,10 @@
     {
       "name": "arXiv",
       "url": "https://arxiv.org/abs/2609.05405v1"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2609.05406v1"
     }
   ]
 }
