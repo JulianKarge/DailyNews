@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-09-08",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 08.09.2026",
+    "title": "Daily AI News — Dienstag, 08.09.2026",
+    "summary": "Vier AI-Updates mit Praxiswert: Mistral bekommt Europas größte Tech-Finanzierung, GitHub testet Modell-Orchestrierung in Copilot, ein Benchmark bringt Computer-Use-Agenten näher an echte Desktop-Arbeit und WearableQA prüft Health-AI auf langen persönlichen Daten.",
+    "file": "pages/2026-09-08.html",
+    "markdownFile": "news/2026-09-08.md",
+    "tags": [
+      "Mistral",
+      "Sovereign AI",
+      "Open Weights",
+      "AI Infrastructure",
+      "Europe AI",
+      "Enterprise AI",
+      "Funding",
+      "GitHub",
+      "Copilot",
+      "HydraFusion",
+      "Model Routing",
+      "Coding Agents",
+      "Developer Tools",
+      "Cost Optimization",
+      "arXiv",
+      "Computer Use",
+      "AI Agents",
+      "GUI Agents",
+      "CLI",
+      "Automation",
+      "Benchmarks",
+      "Health AI",
+      "Wearables",
+      "Personal Data",
+      "Reasoning",
+      "Healthcare"
+    ],
+    "sources": [
+      {
+        "label": "Mistral AI",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
+      },
+      {
+        "label": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.05374v1"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.05405v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "weekday": "Montag",
     "dateLabel": "Montag, 07.09.2026",
