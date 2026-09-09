@@ -4,7 +4,7 @@
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 09.09.2026",
     "title": "Daily AI News — Mittwoch, 09.09.2026",
-    "summary": "Fünf AI-Updates mit Praxiswert: OpenAI testet die Forschungsgrenze mit einem Navier-Stokes-Beweis, Google kartiert DNA-Varianten, ChatGPT Images wird praktischer für Creator, und zwei Agenten-Paper zeigen, warum Werkzeugrahmen und strukturierte Abläufe wichtiger werden.",
+    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI testet die Forschungsgrenze mit einem Navier-Stokes-Beweis, Google kartiert DNA-Varianten und bringt WeatherNext 3 in Alltagsprodukte, ChatGPT Images wird praktischer für Creator, und zwei Agenten-Paper zeigen, warum Werkzeugrahmen und strukturierte Abläufe wichtiger werden.",
     "file": "pages/2026-09-09.html",
     "markdownFile": "news/2026-09-09.md",
     "tags": [
@@ -20,6 +20,12 @@
       "Healthcare AI",
       "Genomics",
       "Research",
+      "WeatherNext 3",
+      "Weather AI",
+      "Google Maps",
+      "Gemini",
+      "Google Cloud",
+      "Infrastructure AI",
       "ChatGPT Images",
       "Image AI",
       "Creator Tools",
@@ -44,6 +50,10 @@
       {
         "label": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+      },
+      {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
       },
       {
         "label": "OpenAI",

@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-09T05:41:48Z",
+  "updated_at": "2026-09-09T12:05:33Z",
   "count": 70,
   "latest_date": "2026-09-09",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Mittwoch",
       "date_label": "Mittwoch, 09.09.2026",
       "title": "Daily AI News — Mittwoch, 09.09.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: OpenAI testet die Forschungsgrenze mit einem Navier-Stokes-Beweis, Google kartiert DNA-Varianten, ChatGPT Images wird praktischer für Creator, und zwei Agenten-Paper zeigen, warum Werkzeugrahmen und strukturierte Abläufe wichtiger werden.",
+      "dek": "Sechs AI-Updates mit Praxiswert: OpenAI testet die Forschungsgrenze mit einem Navier-Stokes-Beweis, Google kartiert DNA-Varianten und bringt WeatherNext 3 in Alltagsprodukte, ChatGPT Images wird praktischer für Creator, und zwei Agenten-Paper zeigen, warum Werkzeugrahmen und strukturierte Abläufe wichtiger werden.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -31,6 +31,12 @@
         "Healthcare AI",
         "Genomics",
         "Research",
+        "WeatherNext 3",
+        "Weather AI",
+        "Google Maps",
+        "Gemini",
+        "Google Cloud",
+        "Infrastructure AI",
         "ChatGPT Images",
         "Image AI",
         "Creator Tools",
@@ -48,16 +54,16 @@
         "Agent Reliability"
       ],
       "hero": {
-        "topic": "AI verlässt das Chatfenster: formale Beweise, Genomkarten, bessere Bildentwürfe und robustere Agentenabläufe",
+        "topic": "AI verlässt das Chatfenster: formale Beweise, Genomkarten, Wettermodelle, bessere Bildentwürfe und robustere Agentenabläufe",
         "accent": "#0ea5e9",
         "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 09.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-09.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-09.html",
-      "summary": "Heute geht es um AI, die aus dem reinen Chatmodus herauswächst: in Mathematik, Biologie, Bildbearbeitung und in Agenten, die weniger improvisieren und mehr verlässlich arbeiten sollen.",
-      "generated_at": "2026-09-09T05:41:48Z",
-      "item_count": 5,
-      "source_count": 5
+      "summary": "Heute geht es um AI, die aus dem reinen Chatmodus herauswächst: in Mathematik, Biologie, Wettervorhersage, Bildbearbeitung und in Agenten, die weniger improvisieren und verlässlicher arbeiten sollen.",
+      "generated_at": "2026-09-09T12:05:33Z",
+      "item_count": 6,
+      "source_count": 6
     },
     {
       "id": "2026-09-08",
