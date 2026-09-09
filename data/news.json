@@ -1,5 +1,65 @@
 [
   {
+    "date": "2026-09-09",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 09.09.2026",
+    "title": "Daily AI News — Mittwoch, 09.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: OpenAI testet die Forschungsgrenze mit einem Navier-Stokes-Beweis, Google kartiert DNA-Varianten, ChatGPT Images wird praktischer für Creator, und zwei Agenten-Paper zeigen, warum Werkzeugrahmen und strukturierte Abläufe wichtiger werden.",
+    "file": "pages/2026-09-09.html",
+    "markdownFile": "news/2026-09-09.md",
+    "tags": [
+      "OpenAI",
+      "Mathematics",
+      "Formal Proofs",
+      "Lean",
+      "AI Research",
+      "Science AI",
+      "Google DeepMind",
+      "AlphaGenome",
+      "Biotech",
+      "Healthcare AI",
+      "Genomics",
+      "Research",
+      "ChatGPT Images",
+      "Image AI",
+      "Creator Tools",
+      "Marketing",
+      "Design Workflows",
+      "arXiv",
+      "AI Agents",
+      "Agent Harnesses",
+      "Enterprise AI",
+      "Model Optimization",
+      "Automation",
+      "Procedural Graphs",
+      "Workflow Automation",
+      "Tool Use",
+      "Agent Reliability"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/navier-stokes-solution"
+      },
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.09134v1"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.09153v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 08.09.2026",
