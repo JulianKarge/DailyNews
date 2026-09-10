@@ -5,11 +5,11 @@
   "weekday": "Donnerstag",
   "date_label": "Donnerstag, 10.09.2026",
   "title": "Daily AI News — Donnerstag, 10.09.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Suno sucht den Schulterschluss mit der Musikindustrie, Qualcomm drückt Reasoning Richtung Smartphone, GitHub baut Leitplanken für Coding-Agenten, IBM liefert ein offenes Zeitreihenmodell und ein neuer Benchmark zeigt, warum Agenten an schwammigen Aufgaben scheitern.",
-  "summary": "Heute geht es um AI, die näher an echte Arbeitsflächen rückt: Musikproduktion, mobile Assistenten, Agenten-Governance, Unternehmensprognosen und die oft unterschätzte Kunst, einem Coding-Agenten überhaupt eine brauchbare Aufgabe zu geben.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Suno sucht den Schulterschluss mit der Musikindustrie, DeepSeek drückt Agenten-Kosten mit V4.1 Flash, Qualcomm schiebt Reasoning Richtung Smartphone, GitHub baut Leitplanken für Coding-Agenten, IBM liefert ein offenes Zeitreihenmodell und ein Benchmark zeigt, warum Agenten an schwammigen Aufgaben scheitern.",
+  "summary": "Heute geht es um AI, die näher an echte Arbeitsflächen rückt: Musikproduktion, günstigere Agenten-Inferenz, mobile Assistenten, Agenten-Governance, Unternehmensprognosen und die oft unterschätzte Kunst, einem Coding-Agenten überhaupt eine brauchbare Aufgabe zu geben.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-10T06:29:49Z",
+  "generated_at": "2026-09-10T12:03:47Z",
   "tags": [
     "Suno",
     "Music AI",
@@ -17,6 +17,12 @@
     "Licensing",
     "Multimodal AI",
     "Audio",
+    "DeepSeek",
+    "DeepSeek V4.1 Flash",
+    "Agenten",
+    "API",
+    "Inference Costs",
+    "China AI",
     "Qualcomm",
     "On-device AI",
     "Reasoning Models",
@@ -42,7 +48,7 @@
     "Specifications"
   ],
   "hero": {
-    "topic": "AI wird praktischer: Musikrechte, On-Device-Reasoning, Agenten-Leitplanken, Forecasting und bessere Aufgaben für Coding-Agenten",
+    "topic": "AI wird praktischer: Musikrechte, sparsamere Agentenmodelle, On-Device-Reasoning, Agenten-Leitplanken, Forecasting und bessere Aufgaben für Coding-Agenten",
     "accent": "#8b5cf6",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 10.09.2026"
   },
@@ -75,6 +81,31 @@
       "source": {
         "name": "Suno",
         "url": "https://suno.com/blog/introducing-v6"
+      }
+    },
+    {
+      "title": "DeepSeek macht ein sparsameres Agentenmodell direkt per API verfügbar",
+      "summary": "DeepSeek hat am 10. September V4.1 Flash vorgestellt. Der offizielle Beitrag beschreibt ein 552B-Parameter-MoE-Modell mit Causal-Encoder-Decoder-Struktur, nativer multimodaler Bildverarbeitung und deutlich reduziertem KV-Cache: gegenüber der Vorgängergeneration nennt DeepSeek ein Viertel des HBM-Bedarfs und ein Achtel des SSD-Bedarfs. In der API ersetzt das neue Modell über den Namen `deepseek-flash` ältere Flash-Varianten, die vorerst auf V4.1 Flash geroutet werden.",
+      "why_it_matters": "Für Teams, die Agenten mit langen Kontexten oder vielen Zwischenschritten bauen, ist der Kostenhebel hier wichtiger als die reine Modellgröße. Wenn Cache-Speicher und Latenz sinken, werden mehrstufige Agenten-Workflows günstiger und eher alltagstauglich, etwa für Recherche, Support-Vorqualifizierung oder Dokumentanalyse. Unklar bleibt wie immer: Wie viel der Benchmark-Verbesserung kommt in echten, chaotischen Unternehmensaufgaben an?",
+      "sources": [
+        {
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/"
+        }
+      ],
+      "tags": [
+        "DeepSeek",
+        "DeepSeek V4.1 Flash",
+        "Agenten",
+        "Multimodal AI",
+        "API",
+        "Inference Costs",
+        "China AI"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "DeepSeek",
+        "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/"
       }
     },
     {
@@ -186,6 +217,10 @@
     {
       "name": "THE DECODER",
       "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/"
     },
     {
       "name": "THE DECODER",

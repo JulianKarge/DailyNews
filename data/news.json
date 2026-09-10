@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 10.09.2026",
     "title": "Daily AI News — Donnerstag, 10.09.2026",
-    "summary": "Fünf AI-Updates mit Praxiswert: Suno sucht den Schulterschluss mit der Musikindustrie, Qualcomm drückt Reasoning Richtung Smartphone, GitHub baut Leitplanken für Coding-Agenten, IBM liefert ein offenes Zeitreihenmodell und ein neuer Benchmark zeigt, warum Agenten an schwammigen Aufgaben scheitern.",
+    "summary": "Sechs AI-Updates mit Praxiswert: Suno sucht den Schulterschluss mit der Musikindustrie, DeepSeek drückt Agenten-Kosten mit V4.1 Flash, Qualcomm schiebt Reasoning Richtung Smartphone, GitHub baut Leitplanken für Coding-Agenten, IBM liefert ein offenes Zeitreihenmodell und ein Benchmark zeigt, warum Agenten an schwammigen Aufgaben scheitern.",
     "file": "pages/2026-09-10.html",
     "markdownFile": "news/2026-09-10.md",
     "tags": [
@@ -14,6 +14,12 @@
       "Licensing",
       "Multimodal AI",
       "Audio",
+      "DeepSeek",
+      "DeepSeek V4.1 Flash",
+      "Agenten",
+      "API",
+      "Inference Costs",
+      "China AI",
       "Qualcomm",
       "On-device AI",
       "Reasoning Models",
@@ -46,6 +52,10 @@
       {
         "label": "THE DECODER",
         "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
+      },
+      {
+        "label": "DeepSeek",
+        "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/"
       },
       {
         "label": "THE DECODER",
