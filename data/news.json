@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-09-10",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 10.09.2026",
+    "title": "Daily AI News — Donnerstag, 10.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: Suno sucht den Schulterschluss mit der Musikindustrie, Qualcomm drückt Reasoning Richtung Smartphone, GitHub baut Leitplanken für Coding-Agenten, IBM liefert ein offenes Zeitreihenmodell und ein neuer Benchmark zeigt, warum Agenten an schwammigen Aufgaben scheitern.",
+    "file": "pages/2026-09-10.html",
+    "markdownFile": "news/2026-09-10.md",
+    "tags": [
+      "Suno",
+      "Music AI",
+      "Creator Tools",
+      "Licensing",
+      "Multimodal AI",
+      "Audio",
+      "Qualcomm",
+      "On-device AI",
+      "Reasoning Models",
+      "Mobile AI",
+      "Privacy",
+      "AI Hardware",
+      "GitHub",
+      "Copilot",
+      "Coding Agents",
+      "Enterprise AI",
+      "Governance",
+      "Developer Tools",
+      "IBM",
+      "Hugging Face",
+      "Time Series",
+      "Open Models",
+      "Forecasting",
+      "Business AI",
+      "arXiv",
+      "Benchmarks",
+      "Software Engineering",
+      "AI Evaluation",
+      "Specifications"
+    ],
+    "sources": [
+      {
+        "label": "Suno",
+        "url": "https://suno.com/blog/introducing-v6"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/qualcomm-shrinks-ai-reasoning-chains-by-2-4x-to-fit-thinking-models-on-smartphones/"
+      },
+      {
+        "label": "Qualcomm",
+        "url": "https://www.qualcomm.com/research/artificial-intelligence"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.10539v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "weekday": "Mittwoch",
     "dateLabel": "Mittwoch, 09.09.2026",
