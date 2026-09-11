@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-09-11",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 11.09.2026",
+    "title": "Daily AI News — Freitag, 11.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten und Hugging Face bringt mehr Ordnung in Bild-KI-Workflows.",
+    "file": "pages/2026-09-11.html",
+    "markdownFile": "news/2026-09-11.md",
+    "tags": [
+      "OpenAI",
+      "Agents API",
+      "AI Agents",
+      "Automation",
+      "Developer Platforms",
+      "Enterprise AI",
+      "GPT-Live-1",
+      "Voice AI",
+      "Customer Service",
+      "Telephony",
+      "Multimodal AI",
+      "Anthropic",
+      "AI Safety",
+      "Security",
+      "Misuse",
+      "Governance",
+      "Google DeepMind",
+      "SIMA 2",
+      "3D Worlds",
+      "Simulation",
+      "Robotics",
+      "Hugging Face",
+      "Gradio Workflow",
+      "AUTOMATIC1111",
+      "Image AI",
+      "Creator Tools",
+      "Open Source"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-the-agents-api"
+      },
+      {
+        "label": "OpenAI Docs",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+      },
+      {
+        "label": "OpenAI Docs",
+        "url": "https://developers.openai.com/api/docs/live"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+      },
+      {
+        "label": "Anthropic News",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
+      },
+      {
+        "label": "Google DeepMind Blog",
+        "url": "https://deepmind.google/discover/blog/"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/blog/gradio-workflow-1111"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 10.09.2026",
