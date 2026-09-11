@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 11.09.2026",
     "title": "Daily AI News — Freitag, 11.09.2026",
-    "summary": "Fünf AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten und Hugging Face bringt mehr Ordnung in Bild-KI-Workflows.",
+    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten, Hugging Face bringt mehr Ordnung in Bild-KI-Workflows und Google schiebt mobile Agenten näher an Android-Apps.",
     "file": "pages/2026-09-11.html",
     "markdownFile": "news/2026-09-11.md",
     "tags": [
@@ -34,7 +34,13 @@
       "AUTOMATIC1111",
       "Image AI",
       "Creator Tools",
-      "Open Source"
+      "Open Source",
+      "Google",
+      "ADK",
+      "Kotlin",
+      "Android",
+      "Mobile AI",
+      "Developer Tools"
     ],
     "sources": [
       {
@@ -76,6 +82,10 @@
       {
         "label": "Hugging Face",
         "url": "https://huggingface.co/blog/gradio-workflow-1111"
+      },
+      {
+        "label": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
       }
     ]
   },

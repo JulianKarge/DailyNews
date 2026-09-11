@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-11T08:18:55Z",
+  "updated_at": "2026-09-11T12:04:26Z",
   "count": 72,
   "latest_date": "2026-09-11",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Freitag",
       "date_label": "Freitag, 11.09.2026",
       "title": "Daily AI News — Freitag, 11.09.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten und Hugging Face bringt mehr Ordnung in Bild-KI-Workflows.",
+      "dek": "Sechs AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten, Hugging Face bringt mehr Ordnung in Bild-KI-Workflows und Google schiebt mobile Agenten näher an Android-Apps.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -45,19 +45,25 @@
         "AUTOMATIC1111",
         "Image AI",
         "Creator Tools",
-        "Open Source"
+        "Open Source",
+        "Google",
+        "ADK",
+        "Kotlin",
+        "Android",
+        "Mobile AI",
+        "Developer Tools"
       ],
       "hero": {
-        "topic": "Agenten werden operativer: Cloud-Ausführung, Voice-AI, Missbrauchsschutz, 3D-Lernwelten und reproduzierbare Creator-Workflows",
+        "topic": "Agenten werden operativer: Cloud-Ausführung, Voice-AI, Missbrauchsschutz, 3D-Lernwelten, Creator-Workflows und mobile App-Agenten",
         "accent": "#7c3aed",
         "image_alt": "Abstrakte AI-News-Karte für Freitag, 11.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-11.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-11.html",
-      "summary": "Heute geht es um AI, die näher an echte Abläufe rückt: laufende Agenten, natürlichere Sprache, Sicherheitsarbeit gegen Missbrauch, lernende 3D-Agenten und Bildgenerierung, die weniger nach Bastelkeller und mehr nach wiederholbarem Workflow aussieht.",
-      "generated_at": "2026-09-11T08:18:55Z",
-      "item_count": 5,
-      "source_count": 10
+      "summary": "Heute geht es um AI, die näher an echte Abläufe rückt: laufende Agenten, natürlichere Sprache, Sicherheitsarbeit gegen Missbrauch, lernende 3D-Agenten, reproduzierbare Bild-Workflows und mobile Agenten-Bausteine für Android.",
+      "generated_at": "2026-09-11T12:04:26Z",
+      "item_count": 6,
+      "source_count": 11
     },
     {
       "id": "2026-09-10",

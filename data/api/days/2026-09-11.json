@@ -5,11 +5,11 @@
   "weekday": "Freitag",
   "date_label": "Freitag, 11.09.2026",
   "title": "Daily AI News — Freitag, 11.09.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten und Hugging Face bringt mehr Ordnung in Bild-KI-Workflows.",
-  "summary": "Heute geht es um AI, die näher an echte Abläufe rückt: laufende Agenten, natürlichere Sprache, Sicherheitsarbeit gegen Missbrauch, lernende 3D-Agenten und Bildgenerierung, die weniger nach Bastelkeller und mehr nach wiederholbarem Workflow aussieht.",
+  "dek": "Sechs AI-Updates mit Praxiswert: OpenAI macht Agenten zur Infrastruktur und Voice-AI gesprächiger, Anthropic zeigt aktuelle Missbrauchsmuster, DeepMind trainiert SIMA 2 in 3D-Welten, Hugging Face bringt mehr Ordnung in Bild-KI-Workflows und Google schiebt mobile Agenten näher an Android-Apps.",
+  "summary": "Heute geht es um AI, die näher an echte Abläufe rückt: laufende Agenten, natürlichere Sprache, Sicherheitsarbeit gegen Missbrauch, lernende 3D-Agenten, reproduzierbare Bild-Workflows und mobile Agenten-Bausteine für Android.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-11T08:18:55Z",
+  "generated_at": "2026-09-11T12:04:26Z",
   "tags": [
     "OpenAI",
     "Agents API",
@@ -37,10 +37,16 @@
     "AUTOMATIC1111",
     "Image AI",
     "Creator Tools",
-    "Open Source"
+    "Open Source",
+    "Google",
+    "ADK",
+    "Kotlin",
+    "Android",
+    "Mobile AI",
+    "Developer Tools"
   ],
   "hero": {
-    "topic": "Agenten werden operativer: Cloud-Ausführung, Voice-AI, Missbrauchsschutz, 3D-Lernwelten und reproduzierbare Creator-Workflows",
+    "topic": "Agenten werden operativer: Cloud-Ausführung, Voice-AI, Missbrauchsschutz, 3D-Lernwelten, Creator-Workflows und mobile App-Agenten",
     "accent": "#7c3aed",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 11.09.2026"
   },
@@ -186,6 +192,31 @@
         "name": "Hugging Face",
         "url": "https://huggingface.co/blog/gradio-workflow-1111"
       }
+    },
+    {
+      "title": "Google bringt Agenten näher ans Android-Gerät",
+      "summary": "Google hat Version 1.0 des Agent Development Kit für Kotlin veröffentlicht. Laut Developers Blog ist die Kotlin-Variante jetzt auf Augenhöhe mit den Python- und Java-Kernen und bringt Android-Erweiterungen für lokale Modelle über LiteRT-LM, Cloud-Reasoning über Firebase AI, gespeicherte Sitzungen mit Room und semantische Erinnerung über AppSearch. Das ist keine bunte Consumer-App, aber ein wichtiger Baustein: Agenten sollen nicht nur im Browser oder auf Servern wohnen, sondern näher an mobilen Arbeitsabläufen laufen.",
+      "why_it_matters": "Für App-Teams wird damit greifbarer, wie ein Assistent direkt in einer Android-App Aufgaben über mehrere Schritte behalten kann: Formularhilfe, Feldservice, Lern-Apps, interne Checklisten oder Support-Flows. Spannend ist die Mischung aus lokalem Modell und Cloud-Reasoning, weil sie Kosten, Latenz und Datenschutz feiner ausbalancieren kann. Die offene Frage bleibt, wie viele Teams daraus wirklich robuste Agenten bauen, statt nur einen Chat-Sidekick in die App zu kleben.",
+      "sources": [
+        {
+          "name": "Google Developers Blog",
+          "url": "https://developers.googleblog.com/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "ADK",
+        "Kotlin",
+        "Android",
+        "AI Agents",
+        "Mobile AI",
+        "Developer Tools"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
+      }
     }
   ],
   "sources": [
@@ -228,6 +259,10 @@
     {
       "name": "Hugging Face",
       "url": "https://huggingface.co/blog/gradio-workflow-1111"
+    },
+    {
+      "name": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
     }
   ]
 }
