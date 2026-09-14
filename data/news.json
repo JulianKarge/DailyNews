@@ -1,5 +1,60 @@
 [
   {
+    "date": "2026-09-14",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 14.09.2026",
+    "title": "Daily AI News — Montag, 14.09.2026",
+    "summary": "Vier AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, und ein Agenten-Paper zeigt, warum nachvollziehbare Workflows wichtiger werden.",
+    "file": "pages/2026-09-14.html",
+    "markdownFile": "news/2026-09-14.md",
+    "tags": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "Perplexity",
+      "AI Agents",
+      "Production Systems",
+      "Enterprise AI",
+      "ChatGPT Work",
+      "Financial Services",
+      "Data Agent",
+      "Dashboards",
+      "Business AI",
+      "Anthropic",
+      "Claude Fable 5.1",
+      "Claude Mythos 5.1",
+      "Frontier Models",
+      "Coding",
+      "Science AI",
+      "arXiv",
+      "Trace2Flow",
+      "Workflow Automation",
+      "Agent Evaluation",
+      "Human-AI Interaction"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI RSS / kanonischer Artikel",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      {
+        "label": "OpenAI RSS / ChatGPT for Financial Services",
+        "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+      },
+      {
+        "label": "OpenAI RSS / Data Agent",
+        "url": "https://openai.com/index/put-data-to-work"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.13136v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 11.09.2026",
