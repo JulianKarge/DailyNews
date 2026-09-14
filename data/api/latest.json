@@ -5,11 +5,11 @@
   "weekday": "Montag",
   "date_label": "Montag, 14.09.2026",
   "title": "Daily AI News — Montag, 14.09.2026",
-  "dek": "Vier AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, und ein Agenten-Paper zeigt, warum nachvollziehbare Workflows wichtiger werden.",
-  "summary": "Heute geht es um AI, die stärker in echte Arbeit hineinrutscht: Produktionssysteme, Finanzdaten, Forschung und Agentenabläufe, die nach dem Lauf nicht im Chatnebel verschwinden.",
+  "dek": "Fünf AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, Zhipu verpackt Agentenarbeit als Browser- und Coding-Harness, und ein Paper macht Agentenabläufe nachvollziehbarer.",
+  "summary": "Heute geht es um AI, die stärker in echte Arbeit hineinrutscht: Produktionssysteme, Finanzdaten, Forschung, Browser-Automation und Agentenabläufe, die nach dem Lauf nicht im Chatnebel verschwinden.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-14T08:12:13Z",
+  "generated_at": "2026-09-14T12:04:12Z",
   "tags": [
     "OpenAI",
     "GPT-6 Astra",
@@ -28,6 +28,12 @@
     "Frontier Models",
     "Coding",
     "Science AI",
+    "Zhipu",
+    "GLM-5.3",
+    "AutoClaw",
+    "ZCode",
+    "Browser Automation",
+    "Coding Agents",
     "arXiv",
     "Trace2Flow",
     "Workflow Automation",
@@ -35,7 +41,7 @@
     "Human-AI Interaction"
   ],
   "hero": {
-    "topic": "Operative Agenten, Business-Daten, neue Frontier-Modelle und nachvollziehbare Workflows",
+    "topic": "Operative Agenten, Business-Daten, neue Frontier-Modelle, Browser-Automation und nachvollziehbare Workflows",
     "accent": "#6d28d9",
     "image_alt": "Abstrakte AI-News-Karte für Montag, 14.09.2026"
   },
@@ -119,6 +125,31 @@
       }
     },
     {
+      "title": "Zhipu packt Browser-Agent und Coding-Harness enger zusammen",
+      "summary": "Zhipu/Z.ai stellt auf seiner offiziellen Startseite zwei Agenten-Bausteine nach vorn: AutoClaw als lokal installierbaren OpenClaw-Client mit mehr als 50 Skills und AutoGLM-Browserbedienung, dazu ZCode als offizielles Agent-Harness für GLM-5.3. Eine separat datierte Launch-Meldung war nicht sichtbar, aber die öffentliche Seite nennt die Produktlinie, GLM-5.3-Anbindung, Tool-Nutzung und BYOK-Unterstützung ausdrücklich.",
+      "why_it_matters": "Für Automatisierer ist daran weniger der nächste Modellname spannend als die Verpackung: Agenten sollen nicht nur im Chatfenster sitzen, sondern Browser bedienen, Skills laden und über ein Harness kontrollierbarer werden. Das zeigt auch außerhalb der US-Labore denselben Trend: Modelle werden mit Werkzeugrahmen verkauft, weil reine Antwortqualität allein nicht mehr reicht. Offen bleibt, wie gut AutoClaw und ZCode außerhalb chinesischer Produktumgebungen dokumentiert und nutzbar sind.",
+      "sources": [
+        {
+          "name": "Zhipu/Z.ai",
+          "url": "https://www.zhipuai.cn/"
+        }
+      ],
+      "tags": [
+        "Zhipu",
+        "GLM-5.3",
+        "AutoClaw",
+        "ZCode",
+        "AI Agents",
+        "Browser Automation",
+        "Coding Agents"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Zhipu/Z.ai",
+        "url": "https://www.zhipuai.cn/"
+      }
+    },
+    {
       "title": "Ein Agenten-Paper fragt: Was passiert nach dem letzten Klick?",
       "summary": "Ein neues arXiv-Paper untersucht Post-Task-Workflows für AI-Agenten. Die Autoren analysierten 10.803 öffentliche n8n-Templates und bauten mit Trace2Flow einen Prototyp, der Agenten-Ausführungen in editierbare Workflow-Grafen übersetzt. In einer Studie mit 20 Teilnehmern half diese Darstellung, Agentenfehler besser zu verstehen und zu finden als ein reiner Prompt-Verlauf.",
       "why_it_matters": "Für Automatisierer ist das eine angenehm praktische Forschungsidee: Agenten sollten nicht nur ein Ergebnis abwerfen, sondern einen prüfbaren Ablauf hinterlassen. Das macht Wiederverwendung, Fehleranalyse und Freigaben leichter. Die Einschränkung ist klar: Eine Studie mit 20 Personen ist kein Produktbeweis. Aber der Trend passt: Wenn Agenten echte Arbeit übernehmen, wird der Nachweis ihrer Schritte fast so wichtig wie das Ergebnis selbst.",
@@ -159,6 +190,10 @@
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    {
+      "name": "Zhipu/Z.ai",
+      "url": "https://www.zhipuai.cn/"
     },
     {
       "name": "arXiv",

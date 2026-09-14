@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-14T08:12:13Z",
+  "updated_at": "2026-09-14T12:04:12Z",
   "count": 73,
   "latest_date": "2026-09-14",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Montag",
       "date_label": "Montag, 14.09.2026",
       "title": "Daily AI News — Montag, 14.09.2026",
-      "dek": "Vier AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, und ein Agenten-Paper zeigt, warum nachvollziehbare Workflows wichtiger werden.",
+      "dek": "Fünf AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, Zhipu verpackt Agentenarbeit als Browser- und Coding-Harness, und ein Paper macht Agentenabläufe nachvollziehbarer.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -36,6 +36,12 @@
         "Frontier Models",
         "Coding",
         "Science AI",
+        "Zhipu",
+        "GLM-5.3",
+        "AutoClaw",
+        "ZCode",
+        "Browser Automation",
+        "Coding Agents",
         "arXiv",
         "Trace2Flow",
         "Workflow Automation",
@@ -43,16 +49,16 @@
         "Human-AI Interaction"
       ],
       "hero": {
-        "topic": "Operative Agenten, Business-Daten, neue Frontier-Modelle und nachvollziehbare Workflows",
+        "topic": "Operative Agenten, Business-Daten, neue Frontier-Modelle, Browser-Automation und nachvollziehbare Workflows",
         "accent": "#6d28d9",
         "image_alt": "Abstrakte AI-News-Karte für Montag, 14.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-14.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-14.html",
-      "summary": "Heute geht es um AI, die stärker in echte Arbeit hineinrutscht: Produktionssysteme, Finanzdaten, Forschung und Agentenabläufe, die nach dem Lauf nicht im Chatnebel verschwinden.",
-      "generated_at": "2026-09-14T08:12:13Z",
-      "item_count": 4,
-      "source_count": 5
+      "summary": "Heute geht es um AI, die stärker in echte Arbeit hineinrutscht: Produktionssysteme, Finanzdaten, Forschung, Browser-Automation und Agentenabläufe, die nach dem Lauf nicht im Chatnebel verschwinden.",
+      "generated_at": "2026-09-14T12:04:12Z",
+      "item_count": 5,
+      "source_count": 6
     },
     {
       "id": "2026-09-11",

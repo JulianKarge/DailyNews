@@ -4,7 +4,7 @@
     "weekday": "Montag",
     "dateLabel": "Montag, 14.09.2026",
     "title": "Daily AI News — Montag, 14.09.2026",
-    "summary": "Vier AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, und ein Agenten-Paper zeigt, warum nachvollziehbare Workflows wichtiger werden.",
+    "summary": "Fünf AI-Updates mit Praxiswert: Astra übernimmt bei Perplexity operative Aufgaben, ChatGPT rückt näher an Finanzdaten und Dashboards, Anthropic legt bei Fable und Mythos nach, Zhipu verpackt Agentenarbeit als Browser- und Coding-Harness, und ein Paper macht Agentenabläufe nachvollziehbarer.",
     "file": "pages/2026-09-14.html",
     "markdownFile": "news/2026-09-14.md",
     "tags": [
@@ -25,6 +25,12 @@
       "Frontier Models",
       "Coding",
       "Science AI",
+      "Zhipu",
+      "GLM-5.3",
+      "AutoClaw",
+      "ZCode",
+      "Browser Automation",
+      "Coding Agents",
       "arXiv",
       "Trace2Flow",
       "Workflow Automation",
@@ -47,6 +53,10 @@
       {
         "label": "Anthropic",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      },
+      {
+        "label": "Zhipu/Z.ai",
+        "url": "https://www.zhipuai.cn/"
       },
       {
         "label": "arXiv",
