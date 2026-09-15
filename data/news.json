@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-09-15",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 15.09.2026",
+    "title": "Daily AI News — Dienstag, 15.09.2026",
+    "summary": "Vier AI-Updates mit Praxiswert: Google kartiert die AI-Wirtschaft, xAI schiebt Grok Bot Richtung Unternehmensprozesse, Hugging Face kümmert sich um eigenes Agenten-Gedächtnis, und GitHub macht Model-Routing zur Kostenfrage.",
+    "file": "pages/2026-09-15.html",
+    "markdownFile": "news/2026-09-15.md",
+    "tags": [
+      "Google",
+      "AI Economy",
+      "ATLAS",
+      "Business AI",
+      "AI Adoption",
+      "Data",
+      "xAI",
+      "Grok Bot",
+      "Enterprise AI",
+      "AI Agents",
+      "Procurement",
+      "Automation",
+      "Hugging Face",
+      "Coding Agents",
+      "Memory",
+      "Open Source",
+      "Developer Tools",
+      "Data Control",
+      "GitHub",
+      "Copilot",
+      "Model Routing",
+      "AI Costs"
+    ],
+    "sources": [
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/funes"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "weekday": "Montag",
     "dateLabel": "Montag, 14.09.2026",
