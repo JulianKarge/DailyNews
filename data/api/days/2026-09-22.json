@@ -5,11 +5,11 @@
   "weekday": "Dienstag",
   "date_label": "Dienstag, 22.09.2026",
   "title": "Daily AI News — Dienstag, 22.09.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung und ein Paper zeigt agentische Videoproduktion.",
-  "summary": "Heute geht es um AI, die weniger nach Demo und mehr nach Arbeitsalltag aussieht: bessere Modellverfügbarkeit, Sicherheitsmonitoring für Agenten, Lernen aus echten Fehlgriffen, schnellere Video-Workflows und Forschung zu Video-Agenten, die ihre Ergebnisse prüfen.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung, Hugging Face vereinfacht lokale Modelle und ein Paper zeigt agentische Videoproduktion.",
+  "summary": "Heute geht es um AI, die weniger nach Demo und mehr nach Arbeitsalltag aussieht: bessere Modellverfügbarkeit, Sicherheitsmonitoring für Agenten, Lernen aus echten Fehlgriffen, schnellere Video-Workflows, einfachere lokale Modelle und Forschung zu Video-Agenten, die ihre Ergebnisse prüfen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-22T07:16:20Z",
+  "generated_at": "2026-09-22T12:03:42Z",
   "tags": [
     "xAI",
     "Grok 4.7",
@@ -34,12 +34,18 @@
     "Video AI",
     "Creator Tools",
     "Marketing",
+    "Hugging Face",
+    "Transformers",
+    "llama.cpp",
+    "GGUF",
+    "Local AI",
+    "Open Source",
     "arXiv",
     "Multimodal AI",
     "Evaluation"
   ],
   "hero": {
-    "topic": "Agenten werden produktiver: neue Coding-Modelle, Anomalie-Erkennung, Computer-Use-Lernen und Video-Workflows",
+    "topic": "Agenten und Modelle werden praktischer: Copilot, Sicherheitsmonitoring, Computer-Use-Lernen, Video-Workflows und lokale Inferenz",
     "accent": "#7c3aed",
     "image_alt": "Abstrakte AI-News-Karte für Dienstag, 22.09.2026"
   },
@@ -147,6 +153,31 @@
       }
     },
     {
+      "title": "Hugging Face macht lokale Modelle weniger zur Bastelzone",
+      "summary": "Hugging Face hat angekündigt, dass Transformers jetzt GGUF-Modelle aus der llama.cpp-Welt direkt laden und ausführen kann. Damit rücken zwei bisher oft getrennte Lager näher zusammen: die vertrauten Transformers-APIs und die kompakten Quantisierungen, die viele lokale AI-Tools wie Ollama, LM Studio oder Jan praktisch gemacht haben. Für Nutzer heißt das: kleinere Modelle auf eigener Hardware werden ein Stück weniger Spezialwerkzeug.",
+      "why_it_matters": "Für Teams, Entwickler und Privacy-bewusste Power-User ist das ein leiser, aber nützlicher Fortschritt. Wer Modelle lokal testen, Kosten drücken oder sensible Daten nicht sofort durch eine Cloud-API schicken will, bekommt einen vertrauteren Weg in diese Richtung. Die Einschränkung bleibt: Lokale Inferenz ist immer noch Hardware-, Modell- und Geduldsfrage. Der Laptop wird dadurch nicht automatisch zum Rechenzentrum, auch wenn er sich manchmal gern so aufführt.",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Transformers",
+        "llama.cpp",
+        "GGUF",
+        "Local AI",
+        "Open Source",
+        "Privacy"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+      }
+    },
+    {
       "title": "Video-Modelle bekommen Agenten, die prüfen statt nur rendern",
       "summary": "Ein neues arXiv-Paper stellt VideoGen-Agent vor, einen multimodalen Agenten für Videogenerierung. Statt einen Prompt einmal durch ein Modell zu schicken, koordiniert der Agent mehrere Schritte: Prompt erweitern, Video erzeugen, Ergebnis prüfen und daraus die nächste Aktion ableiten. Die Forschung zielt auf typische Schwächen heutiger Video-KI, etwa Identitäten, Spezialwissen, physikalische Konsistenz und Reihenfolgen von Ereignissen.",
       "why_it_matters": "Für Creator ist die Richtung interessant: Die nächste Verbesserung bei Video-KI könnte weniger aus einem einzelnen größeren Modell kommen, sondern aus einem Workflow, der Fehler erkennt und nacharbeitet. Das wäre näher an menschlicher Produktion: grober Schnitt, Kontrolle, Korrektur, nächster Versuch. Noch ist es Forschung, keine fertige App. Aber der Trend passt zu dem, was gute Kreativ-Tools ohnehin brauchen: weniger Zauberknopf, mehr verlässliche Iteration.",
@@ -191,6 +222,10 @@
     {
       "name": "OpenAI News RSS",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
     },
     {
       "name": "arXiv",

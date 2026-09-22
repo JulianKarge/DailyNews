@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-22T07:16:20Z",
+  "updated_at": "2026-09-22T12:03:42Z",
   "count": 75,
   "latest_date": "2026-09-22",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Dienstag",
       "date_label": "Dienstag, 22.09.2026",
       "title": "Daily AI News — Dienstag, 22.09.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung und ein Paper zeigt agentische Videoproduktion.",
+      "dek": "Sechs AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung, Hugging Face vereinfacht lokale Modelle und ein Paper zeigt agentische Videoproduktion.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -42,21 +42,27 @@
         "Video AI",
         "Creator Tools",
         "Marketing",
+        "Hugging Face",
+        "Transformers",
+        "llama.cpp",
+        "GGUF",
+        "Local AI",
+        "Open Source",
         "arXiv",
         "Multimodal AI",
         "Evaluation"
       ],
       "hero": {
-        "topic": "Agenten werden produktiver: neue Coding-Modelle, Anomalie-Erkennung, Computer-Use-Lernen und Video-Workflows",
+        "topic": "Agenten und Modelle werden praktischer: Copilot, Sicherheitsmonitoring, Computer-Use-Lernen, Video-Workflows und lokale Inferenz",
         "accent": "#7c3aed",
         "image_alt": "Abstrakte AI-News-Karte für Dienstag, 22.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-22.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-22.html",
-      "summary": "Heute geht es um AI, die weniger nach Demo und mehr nach Arbeitsalltag aussieht: bessere Modellverfügbarkeit, Sicherheitsmonitoring für Agenten, Lernen aus echten Fehlgriffen, schnellere Video-Workflows und Forschung zu Video-Agenten, die ihre Ergebnisse prüfen.",
-      "generated_at": "2026-09-22T07:16:20Z",
-      "item_count": 5,
-      "source_count": 6
+      "summary": "Heute geht es um AI, die weniger nach Demo und mehr nach Arbeitsalltag aussieht: bessere Modellverfügbarkeit, Sicherheitsmonitoring für Agenten, Lernen aus echten Fehlgriffen, schnellere Video-Workflows, einfachere lokale Modelle und Forschung zu Video-Agenten, die ihre Ergebnisse prüfen.",
+      "generated_at": "2026-09-22T12:03:42Z",
+      "item_count": 6,
+      "source_count": 7
     },
     {
       "id": "2026-09-15",

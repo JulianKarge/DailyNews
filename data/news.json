@@ -4,7 +4,7 @@
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 22.09.2026",
     "title": "Daily AI News — Dienstag, 22.09.2026",
-    "summary": "Fünf AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung und ein Paper zeigt agentische Videoproduktion.",
+    "summary": "Sechs AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung, Hugging Face vereinfacht lokale Modelle und ein Paper zeigt agentische Videoproduktion.",
     "file": "pages/2026-09-22.html",
     "markdownFile": "news/2026-09-22.md",
     "tags": [
@@ -31,6 +31,12 @@
       "Video AI",
       "Creator Tools",
       "Marketing",
+      "Hugging Face",
+      "Transformers",
+      "llama.cpp",
+      "GGUF",
+      "Local AI",
+      "Open Source",
       "arXiv",
       "Multimodal AI",
       "Evaluation"
@@ -55,6 +61,10 @@
       {
         "label": "OpenAI News RSS",
         "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
       },
       {
         "label": "arXiv",
