@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-09-22",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 22.09.2026",
+    "title": "Daily AI News — Dienstag, 22.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: Grok 4.7 erreicht Copilot, Google überwacht Agentenverhalten, Perplexity lernt aus Computer-Use-Fehlern, Astra beschleunigt Video-Werbung und ein Paper zeigt agentische Videoproduktion.",
+    "file": "pages/2026-09-22.html",
+    "markdownFile": "news/2026-09-22.md",
+    "tags": [
+      "xAI",
+      "Grok 4.7",
+      "GitHub Copilot",
+      "Coding Agents",
+      "Model Routing",
+      "Developer Tools",
+      "Google",
+      "Gemini Enterprise",
+      "AI Agents",
+      "Security",
+      "Governance",
+      "Enterprise AI",
+      "Perplexity",
+      "Computer Use",
+      "Post-training",
+      "Tool Use",
+      "Privacy",
+      "OpenAI",
+      "GPT-6 Astra",
+      "Higgsfield",
+      "Video AI",
+      "Creator Tools",
+      "Marketing",
+      "arXiv",
+      "Multimodal AI",
+      "Evaluation"
+    ],
+    "sources": [
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot"
+      },
+      {
+        "label": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/"
+      },
+      {
+        "label": "Perplexity Blog",
+        "url": "https://www.perplexity.ai/hub/blog/learning-from-real-world-mistakes"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.24997v1"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 15.09.2026",
