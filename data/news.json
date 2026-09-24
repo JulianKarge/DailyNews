@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-09-24",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 24.09.2026",
+    "title": "Daily AI News — Donnerstag, 24.09.2026",
+    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI sortiert GPT-6 nach Kosten und Leistung, Anthropic macht Opus günstiger und zeigt Science-AI, Google öffnet Antigravity für lokale Modelle, YouTube bringt AI näher in Creator Studio und Hugging Face/NVIDIA beschleunigen Robotik-Simulation.",
+    "file": "pages/2026-09-24.html",
+    "markdownFile": "news/2026-09-24.md",
+    "tags": [
+      "OpenAI",
+      "GPT-6 Sol",
+      "GPT-6 Luna",
+      "Model Routing",
+      "AI Costs",
+      "Developer Tools",
+      "Anthropic",
+      "Claude Opus 5.5",
+      "Claude Fable",
+      "Frontier Models",
+      "Enterprise AI",
+      "Claude",
+      "Science AI",
+      "Biotech",
+      "Research",
+      "CRISPR",
+      "Google",
+      "Antigravity SDK",
+      "Local AI",
+      "AI Agents",
+      "Privacy",
+      "YouTube",
+      "Creator Tools",
+      "Gemini",
+      "Video AI",
+      "Marketing",
+      "Productivity",
+      "Hugging Face",
+      "NVIDIA",
+      "Robotics",
+      "Simulation",
+      "AI Infrastructure",
+      "Open Source"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available/"
+      },
+      {
+        "label": "Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+      },
+      {
+        "label": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/introducing-support-for-local-ai-models-in-the-antigravity-sdk/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/"
+      },
+      {
+        "label": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 22.09.2026",
