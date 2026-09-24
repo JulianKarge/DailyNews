@@ -4,7 +4,7 @@
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 24.09.2026",
     "title": "Daily AI News — Donnerstag, 24.09.2026",
-    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI sortiert GPT-6 nach Kosten und Leistung, Anthropic macht Opus günstiger und zeigt Science-AI, Google öffnet Antigravity für lokale Modelle, YouTube bringt AI näher in Creator Studio und Hugging Face/NVIDIA beschleunigen Robotik-Simulation.",
+    "summary": "Acht AI-Updates mit Praxiswert: OpenAI sortiert GPT-6 nach Kosten und Leistung und prüft Mental-Health-Antworten, Google bringt Computer-Use in Gemini 3.5 Flash und lokale Modelle ins Antigravity SDK, Anthropic macht Opus günstiger und zeigt Science-AI, YouTube rückt AI in Creator Studio, und Hugging Face/NVIDIA beschleunigen Robotik-Simulation.",
     "file": "pages/2026-09-24.html",
     "markdownFile": "news/2026-09-24.md",
     "tags": [
@@ -14,20 +14,28 @@
       "Model Routing",
       "AI Costs",
       "Developer Tools",
+      "Google",
+      "Gemini 3.5 Flash",
+      "Computer Use",
+      "AI Agents",
+      "Automation",
+      "Enterprise AI",
       "Anthropic",
       "Claude Opus 5.5",
       "Claude Fable",
       "Frontier Models",
-      "Enterprise AI",
+      "MentalHealthBench",
+      "AI Safety",
+      "Healthcare AI",
+      "Evaluation",
+      "Responsible AI",
       "Claude",
       "Science AI",
       "Biotech",
       "Research",
       "CRISPR",
-      "Google",
       "Antigravity SDK",
       "Local AI",
-      "AI Agents",
       "Privacy",
       "YouTube",
       "Creator Tools",
@@ -52,12 +60,20 @@
         "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available/"
       },
       {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      },
+      {
         "label": "Anthropic Newsroom",
         "url": "https://www.anthropic.com/news"
       },
       {
         "label": "Anthropic",
         "url": "https://www.anthropic.com/claude-opus-5-5"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/introducing-mentalhealthbench"
       },
       {
         "label": "Anthropic",

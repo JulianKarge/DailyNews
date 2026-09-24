@@ -5,11 +5,11 @@
   "weekday": "Donnerstag",
   "date_label": "Donnerstag, 24.09.2026",
   "title": "Daily AI News — Donnerstag, 24.09.2026",
-  "dek": "Sechs AI-Updates mit Praxiswert: OpenAI sortiert GPT-6 nach Kosten und Leistung, Anthropic macht Opus günstiger und zeigt Science-AI, Google öffnet Antigravity für lokale Modelle, YouTube bringt AI näher in Creator Studio und Hugging Face/NVIDIA beschleunigen Robotik-Simulation.",
-  "summary": "Heute geht es weniger um eine einzelne große Demo und mehr um AI, die an verschiedenen Stellen im Arbeitsalltag andockt: Modellwahl nach Kosten, günstigere Frontier-Leistung, Forschungshilfe im Labor, lokale Agentenmodelle, Creator-Werkzeuge und schnellere Robotik-Experimente.",
+  "dek": "Acht AI-Updates mit Praxiswert: OpenAI sortiert GPT-6 nach Kosten und Leistung und prüft Mental-Health-Antworten, Google bringt Computer-Use in Gemini 3.5 Flash und lokale Modelle ins Antigravity SDK, Anthropic macht Opus günstiger und zeigt Science-AI, YouTube rückt AI in Creator Studio, und Hugging Face/NVIDIA beschleunigen Robotik-Simulation.",
+  "summary": "Heute rückt AI gleich an mehreren Alltagsstellen näher an echte Arbeit: Modelle werden nach Kosten sortiert, Agenten bekommen Computer-Use, sensible Antworten werden messbarer, lokale Modelle werden leichter integrierbar, Creator-Tools landen direkt im Studio und Robotik-Teams drehen schneller durch Simulationen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-24T08:54:57Z",
+  "generated_at": "2026-09-24T12:05:09Z",
   "tags": [
     "OpenAI",
     "GPT-6 Sol",
@@ -17,20 +17,28 @@
     "Model Routing",
     "AI Costs",
     "Developer Tools",
+    "Google",
+    "Gemini 3.5 Flash",
+    "Computer Use",
+    "AI Agents",
+    "Automation",
+    "Enterprise AI",
     "Anthropic",
     "Claude Opus 5.5",
     "Claude Fable",
     "Frontier Models",
-    "Enterprise AI",
+    "MentalHealthBench",
+    "AI Safety",
+    "Healthcare AI",
+    "Evaluation",
+    "Responsible AI",
     "Claude",
     "Science AI",
     "Biotech",
     "Research",
     "CRISPR",
-    "Google",
     "Antigravity SDK",
     "Local AI",
-    "AI Agents",
     "Privacy",
     "YouTube",
     "Creator Tools",
@@ -46,7 +54,7 @@
     "Open Source"
   ],
   "hero": {
-    "topic": "AI wird praktischer: Modellkosten, Science-Workflows, lokale Agenten, Creator-Tools und Robotik-Simulation",
+    "topic": "AI wird handfester: Modellkosten, Computer-Use-Agenten, Sicherheitsbenchmarks, lokale Modelle, Creator-Tools und Robotik-Simulation",
     "accent": "#7c3aed",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 24.09.2026"
   },
@@ -82,6 +90,30 @@
       }
     },
     {
+      "title": "Gemini bekommt Hände für Browser, Desktop und mobile Oberflächen",
+      "summary": "Google integriert Computer-Use direkt in Gemini 3.5 Flash. Entwickler können damit Agenten bauen, die Oberflächen sehen, Schritte planen und in Browser-, Desktop- oder mobilen Umgebungen handeln. Google nennt als Einsatzfelder unter anderem Softwaretests und Wissensarbeit in Unternehmensanwendungen, inklusive Start über Gemini API und Gemini Enterprise Agent Platform.",
+      "why_it_matters": "Für Teams wird Computer-Use damit weniger zum separaten Experiment und mehr zu einer normalen Modellfähigkeit. Spannend ist das überall dort, wo APIs fehlen oder alte Software nur über Oberflächen bedient werden kann. Der Haken ist derselbe wie bei allen klickenden Agenten: Je näher sie an echte Systeme kommen, desto wichtiger werden Bestätigungsschritte, Sandboxing und klare Stopps bei riskanten Aktionen.",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemini 3.5 Flash",
+        "Computer Use",
+        "AI Agents",
+        "Automation",
+        "Enterprise AI"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+      }
+    },
+    {
       "title": "Anthropic bringt Opus näher an Fable-Niveau, aber billiger",
       "summary": "Anthropic hat Claude Opus 5.5 vorgestellt. Laut Newsroom soll Opus 5.5 bei vielen Aufgaben das Niveau von Claude Fable 5.1 erreichen und 40 Prozent günstiger laufen als Opus 5. Für Nutzer ist das vor allem ein Preis-Leistungs-Signal: Frontier-Leistung wandert nicht nur nach oben, sondern auch in günstigere Stufen.",
       "why_it_matters": "Für Unternehmen, Agenten-Workflows und anspruchsvolle Recherche zählt inzwischen nicht nur maximale Modellqualität. Wenn starke Modelle günstiger werden, lassen sich längere Aufgaben, mehr Reviews und bessere Qualitätskontrollen eher bezahlen. Die Einschränkung: Anbieter-Benchmarks sind ein Startpunkt, kein Ersatz für eigene Tests mit echten Dokumenten, Tickets oder Kundenfällen.",
@@ -107,6 +139,30 @@
       "source": {
         "name": "Anthropic",
         "url": "https://www.anthropic.com/claude-opus-5-5"
+      }
+    },
+    {
+      "title": "OpenAI baut einen Prüfstand für mental-health-sensible Antworten",
+      "summary": "OpenAI hat MentalHealthBench angekündigt, einen expertengestützten Benchmark für hilfreiche und sichere AI-Antworten in realistischen Mental-Health-Gesprächen. Die Artikelseite war beim Abruf blockiert, aber der offizielle OpenAI-RSS-Feed nennt Titel, Datum, Beschreibung und die kanonische URL.",
+      "why_it_matters": "Für Nutzer ist das kein glänzendes Feature, sondern eher Sicherheitsarbeit unter der Motorhaube. Gerade bei sensiblen Gesprächen reicht es nicht, wenn ein Modell freundlich klingt. Es muss Grenzen erkennen, hilfreiche nächste Schritte anbieten und darf ernste Situationen nicht wegmoderieren wie eine nervige Supportanfrage. Offen bleibt, wie offen die Benchmark-Fälle und Ergebnisse für externe Prüfer werden.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/introducing-mentalhealthbench"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "MentalHealthBench",
+        "AI Safety",
+        "Healthcare AI",
+        "Evaluation",
+        "Responsible AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/introducing-mentalhealthbench"
       }
     },
     {
@@ -216,12 +272,20 @@
       "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available/"
     },
     {
+      "name": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
       "name": "Anthropic Newsroom",
       "url": "https://www.anthropic.com/news"
     },
     {
       "name": "Anthropic",
       "url": "https://www.anthropic.com/claude-opus-5-5"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/introducing-mentalhealthbench"
     },
     {
       "name": "Anthropic",
