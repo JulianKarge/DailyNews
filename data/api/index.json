@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-09-25T11:45:16Z",
+  "updated_at": "2026-09-25T12:03:22Z",
   "count": 77,
   "latest_date": "2026-09-25",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Freitag",
       "date_label": "Freitag, 25.09.2026",
       "title": "Daily AI News — Freitag, 25.09.2026",
-      "dek": "Fünf AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
+      "dek": "Sechs AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar und kann Anrufe bei Geschäften übernehmen, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -25,6 +25,11 @@
         "Voice AI",
         "Video AI",
         "Customer Experience",
+        "Gemini",
+        "AI Agents",
+        "Consumer AI",
+        "Small Business",
+        "Automation",
         "OpenAI",
         "GPT-6",
         "Prompt Caching",
@@ -43,22 +48,19 @@
         "Local AI",
         "Inference",
         "Open Source",
-        "Customer Service",
-        "AI Agents",
-        "Automation",
-        "Small Business"
+        "Customer Service"
       ],
       "hero": {
-        "topic": "AI wird sichtbarer, günstiger und praktischer: Live-Avatare, Prompt-Caching, Krisenarbeit, schnelle Seh-Modelle und Voice-Support",
+        "topic": "AI wird sichtbarer, praktischer und ein Stück aufdringlicher: Live-Avatare, Agenten-Anrufe, Prompt-Caching, Krisenarbeit, schnelle Seh-Modelle und Voice-Support",
         "accent": "#7c3aed",
         "image_alt": "Abstrakte AI-News-Karte für Freitag, 25.09.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-09-25.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-09-25.html",
-      "summary": "Heute geht es weniger um reine Modellnamen und mehr um Alltagstauglichkeit: AI bekommt im Gespräch ein Gesicht, lange Prompts sollen günstiger laufen, Krisenteams nutzen Modelle für Lagearbeit, Seh-Modelle werden schneller und Support-Agenten rücken näher an echte Telefon-Workflows.",
-      "generated_at": "2026-09-25T11:45:16Z",
-      "item_count": 5,
-      "source_count": 6
+      "summary": "Heute wird AI an mehreren Stellen greifbarer: Sie bekommt im Gespräch ein Gesicht, übernimmt erste Alltagsanrufe, macht lange Prompts günstiger, unterstützt Krisenteams, beschleunigt Seh-Modelle und rückt im Kundensupport näher an echte Telefon-Workflows.",
+      "generated_at": "2026-09-25T12:03:22Z",
+      "item_count": 6,
+      "source_count": 9
     },
     {
       "id": "2026-09-24",

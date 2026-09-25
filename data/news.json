@@ -4,7 +4,7 @@
     "weekday": "Freitag",
     "dateLabel": "Freitag, 25.09.2026",
     "title": "Daily AI News — Freitag, 25.09.2026",
-    "summary": "Fünf AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
+    "summary": "Sechs AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar und kann Anrufe bei Geschäften übernehmen, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
     "file": "pages/2026-09-25.html",
     "markdownFile": "news/2026-09-25.md",
     "tags": [
@@ -14,6 +14,11 @@
       "Voice AI",
       "Video AI",
       "Customer Experience",
+      "Gemini",
+      "AI Agents",
+      "Consumer AI",
+      "Small Business",
+      "Automation",
       "OpenAI",
       "GPT-6",
       "Prompt Caching",
@@ -32,15 +37,24 @@
       "Local AI",
       "Inference",
       "Open Source",
-      "Customer Service",
-      "AI Agents",
-      "Automation",
-      "Small Business"
+      "Customer Service"
     ],
     "sources": [
       {
         "label": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+      },
+      {
+        "label": "Google Gemini Help",
+        "url": "https://support.google.com/gemini/answer/18336420"
+      },
+      {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/"
       },
       {
         "label": "OpenAI News RSS",

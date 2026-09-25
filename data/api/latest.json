@@ -5,11 +5,11 @@
   "weekday": "Freitag",
   "date_label": "Freitag, 25.09.2026",
   "title": "Daily AI News — Freitag, 25.09.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
-  "summary": "Heute geht es weniger um reine Modellnamen und mehr um Alltagstauglichkeit: AI bekommt im Gespräch ein Gesicht, lange Prompts sollen günstiger laufen, Krisenteams nutzen Modelle für Lagearbeit, Seh-Modelle werden schneller und Support-Agenten rücken näher an echte Telefon-Workflows.",
+  "dek": "Sechs AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar und kann Anrufe bei Geschäften übernehmen, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
+  "summary": "Heute wird AI an mehreren Stellen greifbarer: Sie bekommt im Gespräch ein Gesicht, übernimmt erste Alltagsanrufe, macht lange Prompts günstiger, unterstützt Krisenteams, beschleunigt Seh-Modelle und rückt im Kundensupport näher an echte Telefon-Workflows.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-09-25T11:45:16Z",
+  "generated_at": "2026-09-25T12:03:22Z",
   "tags": [
     "Google",
     "Gemini 3.8 Live",
@@ -17,6 +17,11 @@
     "Voice AI",
     "Video AI",
     "Customer Experience",
+    "Gemini",
+    "AI Agents",
+    "Consumer AI",
+    "Small Business",
+    "Automation",
     "OpenAI",
     "GPT-6",
     "Prompt Caching",
@@ -35,13 +40,10 @@
     "Local AI",
     "Inference",
     "Open Source",
-    "Customer Service",
-    "AI Agents",
-    "Automation",
-    "Small Business"
+    "Customer Service"
   ],
   "hero": {
-    "topic": "AI wird sichtbarer, günstiger und praktischer: Live-Avatare, Prompt-Caching, Krisenarbeit, schnelle Seh-Modelle und Voice-Support",
+    "topic": "AI wird sichtbarer, praktischer und ein Stück aufdringlicher: Live-Avatare, Agenten-Anrufe, Prompt-Caching, Krisenarbeit, schnelle Seh-Modelle und Voice-Support",
     "accent": "#7c3aed",
     "image_alt": "Abstrakte AI-News-Karte für Freitag, 25.09.2026"
   },
@@ -70,6 +72,39 @@
       "source": {
         "name": "Google Blog",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+      }
+    },
+    {
+      "title": "Gemini telefoniert jetzt mit Geschäften, damit niemand mehr Öffnungszeiten erfragen muss",
+      "summary": "Google beschreibt auf einer offiziellen Gemini-Hilfeseite eine neue Funktion, bei der die mobile Gemini-App alltägliche Anrufe für Nutzer übernehmen kann. Gemini soll Unternehmen etwa nach Öffnungszeiten, Produktverfügbarkeit, Service-Angeboten oder Preisen fragen. TechCrunch und THE DECODER berichten, dass der Test zunächst für US-Pixel-Nutzer startet.",
+      "why_it_matters": "Für Verbraucher klingt das nach einem kleinen Luxus: weniger Warteschleife, weniger \"Drücken Sie die 3 für Öffnungszeiten\". Für lokale Geschäfte und Service-Teams ist es aber auch ein Vorgeschmack darauf, dass nicht mehr nur Menschen anrufen, sondern Agenten im Auftrag von Menschen. Spannend wird, wie transparent solche Anrufe sind, wie gut Gemini mit unklaren Antworten umgeht und ob kleine Unternehmen dafür neue Regeln im Telefonalltag brauchen.",
+      "sources": [
+        {
+          "name": "Google Gemini Help",
+          "url": "https://support.google.com/gemini/answer/18336420"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemini",
+        "AI Agents",
+        "Voice AI",
+        "Consumer AI",
+        "Small Business",
+        "Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Google Gemini Help",
+        "url": "https://support.google.com/gemini/answer/18336420"
       }
     },
     {
@@ -177,6 +212,18 @@
     {
       "name": "Google Blog",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+    },
+    {
+      "name": "Google Gemini Help",
+      "url": "https://support.google.com/gemini/answer/18336420"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/"
     },
     {
       "name": "OpenAI News RSS",
