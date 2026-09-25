@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-25",
+    "weekday": "Freitag",
+    "dateLabel": "Freitag, 25.09.2026",
+    "title": "Daily AI News — Freitag, 25.09.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: Gemini bekommt einen Live-Avatar, GPT-6-Caching soll Kosten senken, Claude hilft bei Ebola-Lagearbeit, LiquidAI beschleunigt Vision-Language-Modelle und OpenAI zeigt Voice-Agenten im Kundensupport.",
+    "file": "pages/2026-09-25.html",
+    "markdownFile": "news/2026-09-25.md",
+    "tags": [
+      "Google",
+      "Gemini 3.8 Live",
+      "Live Avatar",
+      "Voice AI",
+      "Video AI",
+      "Customer Experience",
+      "OpenAI",
+      "GPT-6",
+      "Prompt Caching",
+      "AI Costs",
+      "Latency",
+      "Developer Platforms",
+      "Anthropic",
+      "Claude",
+      "Healthcare AI",
+      "Crisis Response",
+      "Research Assistance",
+      "Responsible AI",
+      "Hugging Face",
+      "LiquidAI",
+      "Vision-Language Models",
+      "Local AI",
+      "Inference",
+      "Open Source",
+      "Customer Service",
+      "AI Agents",
+      "Automation",
+      "Small Business"
+    ],
+    "sources": [
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/features/ebola-response"
+      },
+      {
+        "label": "Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "label": "Hugging Face / LiquidAI",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/ringg"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 24.09.2026",
