@@ -5,11 +5,11 @@
   "weekday": "Donnerstag",
   "date_label": "Donnerstag, 01.10.2026",
   "title": "Daily AI News — Donnerstag, 01.10.2026",
-  "dek": "Sieben AI-Updates mit Praxiswert: Gemini 4 Argon rückt näher an die Spitze, Claude Sonnet wird günstiger, xAI baut Team-Bots, OpenAI warnt vor Model-Distillation, GPT-Synopsys zielt auf Chipdesign, Hugging Face bewertet Stimmen und Cohere verbessert Retrieval.",
-  "summary": "Heute geht es weniger um eine einzelne große Demo und mehr um die Infrastruktur dahinter: bessere Modelle, billigere Alltagsarbeit, Agenten im Team, Schutz vor Modellkopien, AI im Chipdesign, belastbarere Voice-Benchmarks und Suche, die endlich die richtigen Dokumente finden soll.",
+  "dek": "Acht AI-Updates mit Praxiswert: Gemini 4 Argon rückt näher an die Spitze, Claude Sonnet wird günstiger, xAI baut Team-Bots, OpenAI warnt vor Model-Distillation, GPT-Synopsys zielt auf Chipdesign, Hugging Face bewertet Stimmen, Cohere verbessert Retrieval und Holo4 zeigt Computer-Use-Agenten mit prüfbarer Spur.",
+  "summary": "Heute geht es weniger um eine einzelne große Demo und mehr um die Infrastruktur dahinter: bessere Modelle, billigere Alltagsarbeit, Agenten im Team, Schutz vor Modellkopien, AI im Chipdesign, belastbarere Voice-Benchmarks, bessere Suche und Computer-Use-Agenten, deren Arbeit nachvollziehbarer werden soll.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-10-01T07:12:34Z",
+  "generated_at": "2026-10-01T12:04:27Z",
   "tags": [
     "Google",
     "Gemini 4 Argon",
@@ -47,10 +47,14 @@
     "Retrieval",
     "RAG",
     "Enterprise Search",
-    "AI Infrastructure"
+    "AI Infrastructure",
+    "H Company",
+    "Holo4",
+    "Computer Use",
+    "Open Source"
   ],
   "hero": {
-    "topic": "AI rückt in echte Arbeitsketten: Modellwahl, Team-Agenten, Sicherheit, Chipdesign, Voice-Benchmarks und Retrieval",
+    "topic": "AI rückt in echte Arbeitsketten: Modellwahl, Team-Agenten, Sicherheit, Chipdesign, Voice-Benchmarks, Retrieval und Computer-Use-Agenten",
     "accent": "#7c3aed",
     "image_alt": "Abstrakte AI-News-Karte für Donnerstag, 01.10.2026"
   },
@@ -228,6 +232,31 @@
         "name": "Cohere Blog",
         "url": "https://cohere.com/blog/embed-5"
       }
+    },
+    {
+      "title": "Holo4 will Agenten aus der Ein-Tool-Ecke holen",
+      "summary": "H Company stellt auf Hugging Face Holo4 vor, eine neue Modellfamilie für Computer-Use-Agenten. Die Modelle sollen nicht nur klicken und tippen, sondern je nach Aufgabe auch Code ausführen, MCP-Tools nutzen oder APIs ansprechen. Besonders interessant: H Company veröffentlicht auch die Trajektorien hinter öffentlichen Benchmark-Ergebnissen, damit andere die Agentenläufe Schritt für Schritt prüfen können.",
+      "why_it_matters": "Für Teams ist das ein guter Blick auf die nächste Agenten-Generation: echte Arbeit springt ständig zwischen Bildschirm, Datei, API und Code hin und her. Wenn ein Agent nur eine dieser Welten versteht, bleibt er schnell an der ersten schlecht benannten Schaltfläche hängen. Holo4 ist noch kein Beweis, dass günstige offene Agenten schon zuverlässig Büroarbeit übernehmen, aber es macht den wichtigen Trend sichtbar: Agenten werden weniger Chatbot und mehr Werkzeugnutzer mit nachvollziehbarer Spur.",
+      "sources": [
+        {
+          "name": "Hugging Face / H Company",
+          "url": "https://huggingface.co/blog/Hcompany/holo4"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "H Company",
+        "Holo4",
+        "Computer Use",
+        "AI Agents",
+        "Open Source",
+        "Benchmarks"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Hugging Face / H Company",
+        "url": "https://huggingface.co/blog/Hcompany/holo4"
+      }
     }
   ],
   "sources": [
@@ -262,6 +291,10 @@
     {
       "label": "Cohere Blog",
       "url": "https://cohere.com/blog/embed-5"
+    },
+    {
+      "label": "Hugging Face / H Company",
+      "url": "https://huggingface.co/blog/Hcompany/holo4"
     }
   ]
 }
