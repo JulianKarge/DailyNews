@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-10-01",
+    "weekday": "Donnerstag",
+    "dateLabel": "Donnerstag, 01.10.2026",
+    "title": "Daily AI News — Donnerstag, 01.10.2026",
+    "summary": "Sieben AI-Updates mit Praxiswert: Gemini 4 Argon rückt näher an die Spitze, Claude Sonnet wird günstiger, xAI baut Team-Bots, OpenAI warnt vor Model-Distillation, GPT-Synopsys zielt auf Chipdesign, Hugging Face bewertet Stimmen und Cohere verbessert Retrieval.",
+    "file": "pages/2026-10-01.html",
+    "markdownFile": "news/2026-10-01.md",
+    "tags": [
+      "Google",
+      "Gemini 4 Argon",
+      "Frontier Models",
+      "Benchmarks",
+      "Model Choice",
+      "Enterprise AI",
+      "Anthropic",
+      "Claude Sonnet 5.5",
+      "AI Costs",
+      "Productivity",
+      "Coding",
+      "xAI",
+      "Team Bots",
+      "AI Agents",
+      "Team Knowledge",
+      "Automation",
+      "OpenAI",
+      "AI Security",
+      "Model Distillation",
+      "Governance",
+      "Risk",
+      "Synopsys",
+      "Chip Design",
+      "AI Hardware",
+      "EDA",
+      "Hugging Face",
+      "Voice AI",
+      "Text-to-Speech",
+      "Voice Cloning",
+      "Evaluation",
+      "Creator Tools",
+      "Cohere",
+      "Embed 5",
+      "Retrieval",
+      "RAG",
+      "Enterprise Search",
+      "AI Infrastructure"
+    ],
+    "sources": [
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/claude-sonnet-5-5"
+      },
+      {
+        "label": "Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "label": "xAI News",
+        "url": "https://x.ai/news"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+      },
+      {
+        "label": "Synopsys",
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+      },
+      {
+        "label": "Hugging Face",
+        "url": "https://huggingface.co/blog/open-tts-leaderboard"
+      },
+      {
+        "label": "Cohere Blog",
+        "url": "https://cohere.com/blog/embed-5"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "weekday": "Freitag",
     "dateLabel": "Freitag, 25.09.2026",
