@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-10-03T09:12:55Z",
+  "updated_at": "2026-10-03T12:04:28Z",
   "count": 79,
   "latest_date": "2026-10-03",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Samstag",
       "date_label": "Samstag, 03.10.2026",
       "title": "Daily AI News — Samstag, 03.10.2026",
-      "dek": "Sechs AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten und KaliBench prüft Security-Tool-Nutzung.",
+      "dek": "Sieben AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten, Ai2 öffnet AstaBrief für zitierte Forschungsberichte und KaliBench prüft Security-Tool-Nutzung.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -45,6 +45,10 @@
         "Hugging Face",
         "ServiceNow",
         "Synthetic Data",
+        "Ai2",
+        "AstaBrief",
+        "Research AI",
+        "Scientific Reports",
         "arXiv",
         "KaliBench",
         "Cybersecurity",
@@ -52,16 +56,16 @@
         "Tool Use"
       ],
       "hero": {
-        "topic": "AI wird betrieblicher: Modellwahl, Training, günstige Agenten, Business-Skills, synthetische Daten und präzisere Security-Benchmarks",
+        "topic": "AI wird betrieblicher: Modellwahl, Training, günstige Agenten, Business-Skills, synthetische Daten, Research-Modelle und präzisere Security-Benchmarks",
         "accent": "#7c3aed",
         "image_alt": "Abstrakte AI-News-Karte für Samstag, 03.10.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-03.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-03.html",
-      "summary": "Heute geht es um die Arbeit hinter den Demos: bessere Modellwahl, Menschen mit AI-Kompetenz, günstigere Agentenmodelle, konkrete Business-Automationen, synthetische Trainingsdaten und Benchmarks, die prüfen, ob Agenten echte Tools sauber bedienen.",
-      "generated_at": "2026-10-03T09:12:55Z",
-      "item_count": 6,
-      "source_count": 6
+      "summary": "Heute geht es um die Arbeit hinter den Demos: bessere Modellwahl, Menschen mit AI-Kompetenz, günstigere Agentenmodelle, konkrete Business-Automationen, synthetische Trainingsdaten, spezialisierte Research-Modelle und Benchmarks, die prüfen, ob Agenten echte Tools sauber bedienen.",
+      "generated_at": "2026-10-03T12:04:28Z",
+      "item_count": 7,
+      "source_count": 7
     },
     {
       "id": "2026-10-01",

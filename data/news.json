@@ -4,7 +4,7 @@
     "weekday": "Samstag",
     "dateLabel": "Samstag, 03.10.2026",
     "title": "Daily AI News — Samstag, 03.10.2026",
-    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten und KaliBench prüft Security-Tool-Nutzung.",
+    "summary": "Sieben AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten, Ai2 öffnet AstaBrief für zitierte Forschungsberichte und KaliBench prüft Security-Tool-Nutzung.",
     "file": "pages/2026-10-03.html",
     "markdownFile": "news/2026-10-03.md",
     "tags": [
@@ -34,6 +34,10 @@
       "Hugging Face",
       "ServiceNow",
       "Synthetic Data",
+      "Ai2",
+      "AstaBrief",
+      "Research AI",
+      "Scientific Reports",
       "arXiv",
       "KaliBench",
       "Cybersecurity",
@@ -60,6 +64,10 @@
       {
         "label": "Hugging Face / ServiceNow AI",
         "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      },
+      {
+        "label": "Hugging Face / Ai2",
+        "url": "https://huggingface.co/blog/allenai/astabrief"
       },
       {
         "label": "arXiv",

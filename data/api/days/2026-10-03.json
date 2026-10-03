@@ -5,11 +5,11 @@
   "weekday": "Samstag",
   "date_label": "Samstag, 03.10.2026",
   "title": "Daily AI News — Samstag, 03.10.2026",
-  "dek": "Sechs AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten und KaliBench prüft Security-Tool-Nutzung.",
-  "summary": "Heute geht es um die Arbeit hinter den Demos: bessere Modellwahl, Menschen mit AI-Kompetenz, günstigere Agentenmodelle, konkrete Business-Automationen, synthetische Trainingsdaten und Benchmarks, die prüfen, ob Agenten echte Tools sauber bedienen.",
+  "dek": "Sieben AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten, Ai2 öffnet AstaBrief für zitierte Forschungsberichte und KaliBench prüft Security-Tool-Nutzung.",
+  "summary": "Heute geht es um die Arbeit hinter den Demos: bessere Modellwahl, Menschen mit AI-Kompetenz, günstigere Agentenmodelle, konkrete Business-Automationen, synthetische Trainingsdaten, spezialisierte Research-Modelle und Benchmarks, die prüfen, ob Agenten echte Tools sauber bedienen.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-10-03T09:12:55Z",
+  "generated_at": "2026-10-03T12:04:28Z",
   "tags": [
     "OpenAI",
     "GPT-6",
@@ -37,6 +37,10 @@
     "Hugging Face",
     "ServiceNow",
     "Synthetic Data",
+    "Ai2",
+    "AstaBrief",
+    "Research AI",
+    "Scientific Reports",
     "arXiv",
     "KaliBench",
     "Cybersecurity",
@@ -44,7 +48,7 @@
     "Tool Use"
   ],
   "hero": {
-    "topic": "AI wird betrieblicher: Modellwahl, Training, günstige Agenten, Business-Skills, synthetische Daten und präzisere Security-Benchmarks",
+    "topic": "AI wird betrieblicher: Modellwahl, Training, günstige Agenten, Business-Skills, synthetische Daten, Research-Modelle und präzisere Security-Benchmarks",
     "accent": "#7c3aed",
     "image_alt": "Abstrakte AI-News-Karte für Samstag, 03.10.2026"
   },
@@ -172,6 +176,30 @@
       }
     },
     {
+      "title": "AstaBrief zeigt, warum Forschungs-Agenten eigene Modelle brauchen",
+      "summary": "Ai2 hat AstaBrief 8B veröffentlicht, ein offenes Modell für zitierte Forschungsberichte in der Asta-Plattform. Es nimmt eine Forschungsfrage und abgerufene Literaturauszüge und schreibt daraus einen belegten Report. Laut Beitrag läuft der Fast-Modus über die komplette Asta-Pipeline im Schnitt in 51,1 Sekunden statt 178,5 Sekunden im Claude-basierten Thinking-Modus. Spannend ist weniger die Stoppuhr allein, sondern die Richtung: Spezialmodelle übernehmen eng umrissene Wissensarbeit, bei der Quellenbindung wichtiger ist als allgemeines Plaudertalent.",
+      "why_it_matters": "Für Forschungsteams, Analysten und wissensintensive Unternehmen ist das ein gutes Signal. Nicht jede Aufgabe braucht das größte Modell, wenn ein kleineres Modell für genau den Dokumenttyp trainiert wurde und Quellen sauberer mitschleift. Die Einschränkung bleibt klar: Ein zitierter Bericht ist noch kein geprüfter Befund. Menschen müssen weiterhin kontrollieren, ob die Quellen wirklich tragen und ob das Modell aus einzelnen Studien nicht heimlich mehr macht, als drinsteht.",
+      "sources": [
+        {
+          "name": "Hugging Face / Ai2",
+          "url": "https://huggingface.co/blog/allenai/astabrief"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Ai2",
+        "AstaBrief",
+        "Research AI",
+        "Open Models",
+        "Scientific Reports"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Hugging Face / Ai2",
+        "url": "https://huggingface.co/blog/allenai/astabrief"
+      }
+    },
+    {
       "title": "KaliBench prüft, ob Security-Agenten wirklich die richtigen Befehle schreiben",
       "summary": "Ein neues arXiv-Paper stellt KaliBench vor, einen Benchmark für die Frage, ob Sprachmodelle aus natürlicher Sprache korrekte Kali-Linux-Befehle erzeugen können. Die Autoren argumentieren, dass viele Security-Evaluationen zu grob sind: In echten Tools reicht ein vertauschtes Flag oder ein falsches Argument, und der schöne Agentenplan ist nur noch ein kaputter Terminalbefehl. Genau diese feinen CLI-Fehler will KaliBench messbar machen.",
       "why_it_matters": "Für Security-Teams und Unternehmen ist das praktisch relevant, weil Agenten in sensiblen Umgebungen nicht nur klug klingen dürfen. Sie müssen präzise handeln, nachvollziehbar bleiben und im Zweifel stoppen. Der Benchmark beweist noch keine sichere Autonomie, aber er zeigt eine wichtige Richtung: Agenten werden daran gemessen, ob sie echte Werkzeuge korrekt bedienen, nicht nur ob sie über Cybersecurity reden können.",
@@ -216,6 +244,10 @@
     {
       "label": "Hugging Face / ServiceNow AI",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+    },
+    {
+      "label": "Hugging Face / Ai2",
+      "url": "https://huggingface.co/blog/allenai/astabrief"
     },
     {
       "label": "arXiv",
