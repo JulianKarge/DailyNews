@@ -1,5 +1,73 @@
 [
   {
+    "date": "2026-10-03",
+    "weekday": "Samstag",
+    "dateLabel": "Samstag, 03.10.2026",
+    "title": "Daily AI News — Samstag, 03.10.2026",
+    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI erklärt GPT-6 als Modellbaukasten, Anthropic investiert in Enterprise-AI-Training, DeepSeek drückt bei schnellen Agentenmodellen aufs Tempo, Perplexity bringt Business-Skills für kleine Unternehmen, Hugging Face schaut auf Trainingsdaten für Agenten und KaliBench prüft Security-Tool-Nutzung.",
+    "file": "pages/2026-10-03.html",
+    "markdownFile": "news/2026-10-03.md",
+    "tags": [
+      "OpenAI",
+      "GPT-6",
+      "Model Routing",
+      "AI Costs",
+      "Agents",
+      "Productivity",
+      "Anthropic",
+      "Claude",
+      "Enterprise AI",
+      "AI Training",
+      "Governance",
+      "Workforce",
+      "DeepSeek",
+      "V4.1 Flash",
+      "Multimodal AI",
+      "AI Agents",
+      "Model Costs",
+      "Open Models",
+      "Perplexity",
+      "American Express",
+      "Small Business",
+      "Automation",
+      "AI Skills",
+      "Hugging Face",
+      "ServiceNow",
+      "Synthetic Data",
+      "arXiv",
+      "KaliBench",
+      "Cybersecurity",
+      "Evaluation",
+      "Tool Use"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-frontier-academy"
+      },
+      {
+        "label": "DeepSeek",
+        "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/"
+      },
+      {
+        "label": "Perplexity Blog",
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-and-american-express-make-ai-easier-for-growing-businesses"
+      },
+      {
+        "label": "Hugging Face / ServiceNow AI",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2610.02206v1"
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "weekday": "Donnerstag",
     "dateLabel": "Donnerstag, 01.10.2026",
