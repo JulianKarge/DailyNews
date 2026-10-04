@@ -4,7 +4,7 @@
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 04.10.2026",
     "title": "Daily AI News — Sonntag, 04.10.2026",
-    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter und Anthropic zeigt Claude im Bankbetrieb.",
+    "summary": "Sieben AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter, Anthropic zeigt Claude im Bankbetrieb und OpenAI führt Codex in Kapitalmarkt-Workflows vor.",
     "file": "pages/2026-10-04.html",
     "markdownFile": "news/2026-10-04.md",
     "tags": [
@@ -36,7 +36,11 @@
       "Claude",
       "Barclays",
       "Banking",
-      "Governance"
+      "Governance",
+      "Codex",
+      "GPT-5.6",
+      "Chatham Financial",
+      "Capital Markets"
     ],
     "sources": [
       {
@@ -62,6 +66,10 @@
       {
         "label": "Anthropic",
         "url": "https://www.anthropic.com/news/barclays-scales-claude"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/chatham-financial"
       }
     ]
   },

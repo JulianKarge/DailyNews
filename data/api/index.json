@@ -4,7 +4,7 @@
   "title": "DailyNews",
   "description": "Source-basierte tägliche AI-News auf Deutsch.",
   "language": "de",
-  "updated_at": "2026-10-04T08:36:45Z",
+  "updated_at": "2026-10-04T12:04:30Z",
   "count": 80,
   "latest_date": "2026-10-04",
   "base_url": "https://juliankarge.github.io/DailyNews/",
@@ -15,7 +15,7 @@
       "weekday": "Sonntag",
       "date_label": "Sonntag, 04.10.2026",
       "title": "Daily AI News — Sonntag, 04.10.2026",
-      "dek": "Sechs AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter und Anthropic zeigt Claude im Bankbetrieb.",
+      "dek": "Sieben AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter, Anthropic zeigt Claude im Bankbetrieb und OpenAI führt Codex in Kapitalmarkt-Workflows vor.",
       "language": "de",
       "status": "published",
       "tags": [
@@ -47,19 +47,23 @@
         "Claude",
         "Barclays",
         "Banking",
-        "Governance"
+        "Governance",
+        "Codex",
+        "GPT-5.6",
+        "Chatham Financial",
+        "Capital Markets"
       ],
       "hero": {
-        "topic": "AI wird operativer: proaktive Assistenten, Robotik, Agenten-SDKs, lokale Entscheidungen, Ergebnisprüfung und Governance",
+        "topic": "AI wird operativer: proaktive Assistenten, Robotik, Agenten-SDKs, lokale Entscheidungen, Ergebnisprüfung, Governance und Finanz-Workflows",
         "accent": "#2563eb",
         "image_alt": "Abstrakte AI-News-Karte für Sonntag, 04.10.2026"
       },
       "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-04.json",
       "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-04.html",
-      "summary": "Heute geht es weniger um das nächste größte Modell und mehr um Betrieb: Agenten, die Aufgaben weitertragen, Roboter mit besserem Weltverständnis, Agenten-SDKs in normalen App-Stacks, lokale Entscheidungsmodelle, belastbare Ergebnisprüfung und Enterprise-AI mit Governance.",
-      "generated_at": "2026-10-04T08:36:45Z",
-      "item_count": 6,
-      "source_count": 6
+      "summary": "Heute geht es weniger um das nächste größte Modell und mehr um Betrieb: Agenten, die Aufgaben weitertragen, Roboter mit besserem Weltverständnis, Agenten-SDKs in normalen App-Stacks, lokale Entscheidungsmodelle, belastbare Ergebnisprüfung, Governance in Unternehmen und AI, die konkrete Prüfprozesse verkürzt.",
+      "generated_at": "2026-10-04T12:04:30Z",
+      "item_count": 7,
+      "source_count": 7
     },
     {
       "id": "2026-10-03",

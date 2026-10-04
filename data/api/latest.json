@@ -5,11 +5,11 @@
   "weekday": "Sonntag",
   "date_label": "Sonntag, 04.10.2026",
   "title": "Daily AI News — Sonntag, 04.10.2026",
-  "dek": "Sechs AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter und Anthropic zeigt Claude im Bankbetrieb.",
-  "summary": "Heute geht es weniger um das nächste größte Modell und mehr um Betrieb: Agenten, die Aufgaben weitertragen, Roboter mit besserem Weltverständnis, Agenten-SDKs in normalen App-Stacks, lokale Entscheidungsmodelle, belastbare Ergebnisprüfung und Enterprise-AI mit Governance.",
+  "dek": "Sieben AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter, Anthropic zeigt Claude im Bankbetrieb und OpenAI führt Codex in Kapitalmarkt-Workflows vor.",
+  "summary": "Heute geht es weniger um das nächste größte Modell und mehr um Betrieb: Agenten, die Aufgaben weitertragen, Roboter mit besserem Weltverständnis, Agenten-SDKs in normalen App-Stacks, lokale Entscheidungsmodelle, belastbare Ergebnisprüfung, Governance in Unternehmen und AI, die konkrete Prüfprozesse verkürzt.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-10-04T08:36:45Z",
+  "generated_at": "2026-10-04T12:04:30Z",
   "tags": [
     "OpenAI",
     "Dots",
@@ -39,10 +39,14 @@
     "Claude",
     "Barclays",
     "Banking",
-    "Governance"
+    "Governance",
+    "Codex",
+    "GPT-5.6",
+    "Chatham Financial",
+    "Capital Markets"
   ],
   "hero": {
-    "topic": "AI wird operativer: proaktive Assistenten, Robotik, Agenten-SDKs, lokale Entscheidungen, Ergebnisprüfung und Governance",
+    "topic": "AI wird operativer: proaktive Assistenten, Robotik, Agenten-SDKs, lokale Entscheidungen, Ergebnisprüfung, Governance und Finanz-Workflows",
     "accent": "#2563eb",
     "image_alt": "Abstrakte AI-News-Karte für Sonntag, 04.10.2026"
   },
@@ -192,6 +196,31 @@
         "name": "Anthropic",
         "url": "https://www.anthropic.com/news/barclays-scales-claude"
       }
+    },
+    {
+      "title": "OpenAI zeigt an Chatham, wo Codex im Finanz-Alltag landen soll",
+      "summary": "OpenAI berichtet, dass Chatham Financial Codex und GPT-5.6 in Kapitalmarkt-Workflows einsetzt. Laut Fallstudie sank die Validierung bestimmter Trades von rund 30 Minuten auf unter vier Minuten, weil Fachwissen, Code und Prozesslogik enger zusammenrücken. Das ist keine allgemeine Produktgarantie, aber ein gutes Beispiel dafür, wie AI nicht nur Texte schreibt, sondern Prüf- und Abstimmungsarbeit in regulierten Abläufen beschleunigen soll.",
+      "why_it_matters": "Für Teams in Finanzen, Recht, Operations oder Vertrieb ist der interessante Teil nicht der Markenname, sondern das Muster: AI wird wertvoll, wenn sie konkrete Zwischenschritte in einem bestehenden Prozess verkürzt und trotzdem prüfbar bleibt. Der offene Punkt bleibt Governance. Gerade dort, wo Fehler teuer werden, muss klar sein, wer den Agenten freigibt, wer Ergebnisse kontrolliert und welche Entscheidungen nicht automatisiert werden.",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/chatham-financial"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "GPT-5.6",
+        "Chatham Financial",
+        "Capital Markets",
+        "Workflow Automation",
+        "Enterprise AI"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/chatham-financial"
+      }
     }
   ],
   "sources": [
@@ -218,6 +247,10 @@
     {
       "label": "Anthropic",
       "url": "https://www.anthropic.com/news/barclays-scales-claude"
+    },
+    {
+      "label": "OpenAI",
+      "url": "https://openai.com/index/chatham-financial"
     }
   ]
 }
