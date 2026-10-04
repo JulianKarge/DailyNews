@@ -1,5 +1,71 @@
 [
   {
+    "date": "2026-10-04",
+    "weekday": "Sonntag",
+    "dateLabel": "Sonntag, 04.10.2026",
+    "title": "Daily AI News — Sonntag, 04.10.2026",
+    "summary": "Sechs AI-Updates mit Praxiswert: OpenAI denkt Assistenten als laufende Aufgaben, Google schiebt Robotik und Kotlin-Agenten nach vorn, llama.cpp wird entscheidungsfähiger, Microsoft prüft Agenten-Ergebnisse härter und Anthropic zeigt Claude im Bankbetrieb.",
+    "file": "pages/2026-10-04.html",
+    "markdownFile": "news/2026-10-04.md",
+    "tags": [
+      "OpenAI",
+      "Dots",
+      "Proactive Assistants",
+      "AI Agents",
+      "Productivity",
+      "Workflow Automation",
+      "Google",
+      "Gemini Robotics",
+      "Robotics",
+      "Embodied AI",
+      "Automation",
+      "Enterprise AI",
+      "ADK",
+      "Kotlin",
+      "Android",
+      "Developer Tools",
+      "Hugging Face",
+      "llama.cpp",
+      "Local AI",
+      "Decision Models",
+      "Open Source",
+      "Microsoft",
+      "Verification",
+      "Databases",
+      "Anthropic",
+      "Claude",
+      "Barclays",
+      "Banking",
+      "Governance"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-dots"
+      },
+      {
+        "label": "Google",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/"
+      },
+      {
+        "label": "Google Developers Blog",
+        "url": "https://developers.googleblog.com/en/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
+      },
+      {
+        "label": "Hugging Face / ggml-org",
+        "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp"
+      },
+      {
+        "label": "Hugging Face / Microsoft",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/news/barclays-scales-claude"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "weekday": "Samstag",
     "dateLabel": "Samstag, 03.10.2026",
