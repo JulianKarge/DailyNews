@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-10-12",
+    "weekday": "Montag",
+    "dateLabel": "Montag, 12.10.2026",
+    "title": "Daily AI News — Montag, 12.10.2026",
+    "summary": "Sechs AI-Updates mit Praxiswert: GPT-6 wird interaktiver, Claude Haiku 5.5 drückt Routinekosten, Cohere baut North 2 für sensible Unternehmensdaten, LiquidAI bringt Entscheidungsmodelle an den Rand des Netzwerks, Falcon ASR stärkt mehrsprachige Voice AI und OpenAI warnt vor falschen Medienfassaden.",
+    "file": "pages/2026-10-12.html",
+    "markdownFile": "news/2026-10-12.md",
+    "tags": [
+      "OpenAI",
+      "GPT-6",
+      "ChatGPT",
+      "Intelligent UI",
+      "Productivity",
+      "Creator Tools",
+      "Anthropic",
+      "Claude Haiku 5.5",
+      "Small Models",
+      "AI Costs",
+      "Subagents",
+      "Customer Support",
+      "Cohere",
+      "North 2",
+      "Enterprise AI",
+      "Private Deployment",
+      "Security",
+      "Cost Governance",
+      "Hugging Face",
+      "LiquidAI",
+      "Decision Models",
+      "Edge AI",
+      "Multimodal AI",
+      "Open Source",
+      "Falcon ASR",
+      "Voice AI",
+      "Speech Recognition",
+      "Arabic",
+      "Multilingual AI",
+      "AI Security",
+      "Influence Operations",
+      "Disinformation",
+      "Trust",
+      "Governance"
+    ],
+    "sources": [
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/gpt-6-for-everyone"
+      },
+      {
+        "label": "Anthropic",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      },
+      {
+        "label": "Cohere",
+        "url": "https://cohere.com/blog/introducing-north-2"
+      },
+      {
+        "label": "Hugging Face / LiquidAI",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+      },
+      {
+        "label": "Hugging Face / TII",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
+      },
+      {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "weekday": "Sonntag",
     "dateLabel": "Sonntag, 04.10.2026",
