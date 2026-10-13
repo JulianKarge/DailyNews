@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-10-13",
+    "weekday": "Dienstag",
+    "dateLabel": "Dienstag, 13.10.2026",
+    "title": "Daily AI News — Dienstag, 13.10.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: GLM-5.3 schiebt offene Coding-Agenten nach vorn, Asana zeigt die Kostenfrage bei Browser-Agenten, ColGrep-Agent spart Kontext, Anthropic justiert Cyber-Zugänge und Ai2 erinnert daran, dass GPUs auch geplant werden wollen.",
+    "file": "pages/2026-10-13.html",
+    "markdownFile": "news/2026-10-13.md",
+    "tags": [
+      "Zhipu AI",
+      "GLM-5.3",
+      "Open Weights",
+      "Coding Agents",
+      "Long Context",
+      "Developer Tools",
+      "OpenAI",
+      "Asana",
+      "Browser Agents",
+      "Codex",
+      "GPT-6 Astra",
+      "AI Costs",
+      "Hugging Face",
+      "LightOn",
+      "Code Search",
+      "Token Costs",
+      "Anthropic",
+      "Cybersecurity",
+      "AI Safety",
+      "Access Control",
+      "Enterprise AI",
+      "Governance",
+      "Ai2",
+      "AI Infrastructure",
+      "GPU Clusters",
+      "Scheduling"
+    ],
+    "sources": [
+      {
+        "label": "Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      },
+      {
+        "label": "THE DECODER",
+        "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/asana-browser-agent"
+      },
+      {
+        "label": "Hugging Face / LightOn",
+        "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+      },
+      {
+        "label": "Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news"
+      },
+      {
+        "label": "Hugging Face / Ai2",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "weekday": "Montag",
     "dateLabel": "Montag, 12.10.2026",

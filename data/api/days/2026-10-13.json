@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "weekday": "Dienstag",
+  "date_label": "Dienstag, 13.10.2026",
+  "title": "Daily AI News — Dienstag, 13.10.2026",
+  "dek": "Fünf AI-Updates mit Praxiswert: GLM-5.3 schiebt offene Coding-Agenten nach vorn, Asana zeigt die Kostenfrage bei Browser-Agenten, ColGrep-Agent spart Kontext, Anthropic justiert Cyber-Zugänge und Ai2 erinnert daran, dass GPUs auch geplant werden wollen.",
+  "summary": "Heute geht es weniger um glänzende Chat-Demos und mehr um Betrieb: offene Coding-Modelle mit langem Kontext, Browser-Agenten mit realen Kostenkurven, bessere Code-Suche vor dem Prompt, kontrollierter Security-Zugang und Infrastruktur, die entscheidet, welche AI-Arbeit überhaupt bezahlbar läuft.",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-10-13T15:53:43Z",
+  "tags": [
+    "Zhipu AI",
+    "GLM-5.3",
+    "Open Weights",
+    "Coding Agents",
+    "Long Context",
+    "Developer Tools",
+    "OpenAI",
+    "Asana",
+    "Browser Agents",
+    "Codex",
+    "GPT-6 Astra",
+    "AI Costs",
+    "Hugging Face",
+    "LightOn",
+    "Code Search",
+    "Token Costs",
+    "Anthropic",
+    "Cybersecurity",
+    "AI Safety",
+    "Access Control",
+    "Enterprise AI",
+    "Governance",
+    "Ai2",
+    "AI Infrastructure",
+    "GPU Clusters",
+    "Scheduling"
+  ],
+  "hero": {
+    "topic": "AI wird betrieblicher: offene Coding-Agenten, Agenten-Kosten, Kontextsuche, Cyber-Zugang und GPU-Planung",
+    "accent": "#7c3aed",
+    "image_alt": "Abstrakte AI-News-Karte für Dienstag, 13.10.2026"
+  },
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-13.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-13.html",
+  "items": [
+    {
+      "title": "GLM-5.3 macht lange Coding-Agenten wieder zum offenen Rennen",
+      "summary": "Zhipu AI führt GLM-5.3 auf seiner offiziellen Seite als Coding-Modell mit 1 Million Kontext-Tokens, stärkerer Tool-Nutzung und einem eigenen Agent-Harness namens ZCode. THE DECODER ordnet das Modell zusätzlich als Open-Weights-Konkurrent für Coding-Agenten ein. Das ist kein nettes Modellkarten-Detail, sondern ein Signal: Lange Softwareaufgaben wandern weiter aus der reinen Closed-Model-Ecke heraus.",
+      "why_it_matters": "Für Teams und Automatisierer wird spannend, ob offene Modelle bei großen Repos, langen Fehlerketten und mehrstufigen Agentenläufen zuverlässig genug werden. 1 Million Kontext klingt groß, löst aber nicht automatisch Planung, Tests und Review. Der praktische Punkt ist eher: Wer sensible Codebasen nicht komplett an externe APIs geben will, bekommt mehr ernstzunehmende Optionen.",
+      "sources": [
+        {
+          "name": "Zhipu AI",
+          "url": "https://www.zhipuai.cn/"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+        }
+      ],
+      "tags": [
+        "Zhipu AI",
+        "GLM-5.3",
+        "Open Weights",
+        "Coding Agents",
+        "Long Context",
+        "Developer Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      }
+    },
+    {
+      "title": "Asanas Browser-Agent zeigt, warum Modellkosten über Agenten entscheiden",
+      "summary": "OpenAI beschreibt im offiziellen News-RSS, dass Asana mit GPT-6 Astra in Codex einen Browser-Agenten in Tests 76-mal günstiger und 5-mal schneller gemacht hat. Die Fallstudie ist kein neutraler Benchmark, aber sie trifft einen wunden Punkt echter Agenten: Jede Browseraktion, jeder Fehlversuch und jede Wiederholung kostet Zeit und Tokens.",
+      "why_it_matters": "Für Produktteams zählt bei Agenten nicht nur, ob die Demo einmal funktioniert. Entscheidend ist, ob sie hundertmal am Tag bezahlbar und halbwegs berechenbar läuft. Wenn günstigere Modellrouten einfache Browserarbeit übernehmen, können mehr Firmen Agenten testen, ohne dass die Monatsrechnung aussieht wie ein sehr motivierter Praktikant mit Firmenkarte.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/asana-browser-agent"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Asana",
+        "Browser Agents",
+        "Codex",
+        "GPT-6 Astra",
+        "AI Costs"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/asana-browser-agent"
+      }
+    },
+    {
+      "title": "ColGrep-Agent will Coding-Agenten weniger Token verbrennen lassen",
+      "summary": "LightOn stellt auf Hugging Face ColGrep-Agent vor und verspricht, Frontier-Coding-Agenten beim Durchsuchen großer Codebasen um etwa ein Drittel Tokenverbrauch zu entlasten. Der Ansatz zielt nicht auf ein neues Chatmodell, sondern auf die langweilige Vorarbeit: relevante Stellen finden, bevor ein teures Modell lange über falschen Kontext nachdenkt.",
+      "why_it_matters": "Für Entwicklerteams ist das praktisch, weil Agenten oft nicht an fehlender Intelligenz scheitern, sondern an Kontext-Müll. Bessere Suche vor dem Prompt kann Läufe billiger, schneller und prüfbarer machen. Die Einschränkung bleibt: Weniger Tokens sind nur dann ein Gewinn, wenn der Agent dadurch nicht die eine Datei übersieht, in der der Fehler wirklich sitzt.",
+      "sources": [
+        {
+          "name": "Hugging Face / LightOn",
+          "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "LightOn",
+        "Coding Agents",
+        "Code Search",
+        "Token Costs",
+        "Developer Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Hugging Face / LightOn",
+        "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+      }
+    },
+    {
+      "title": "Anthropic öffnet Cyber-Funktionen kontrollierter für Sicherheitsprofis",
+      "summary": "Anthropic meldet in seinem Newsroom ein erweitertes Cyber Verification Program. Qualifizierte Sicherheitsprofis sollen damit mehr Cyber-Fähigkeiten und weniger blockierende Klassifikatoren nutzen können. Das ist eine heikle Balance: dieselben Modelle, die Angriffe erleichtern könnten, helfen auch bei Abwehr, Tests und Incident Response.",
+      "why_it_matters": "Für Unternehmen zeigt sich hier ein Muster, das wichtiger wird als einzelne Modellnamen: AI-Anbieter bauen Zugangsstufen statt nur Ein/Aus-Sicherungen. Für Security-Teams kann das nützlich sein, weil zu harte Blockaden echte Arbeit behindern. Für alle anderen bleibt die Frage, wie sauber Anbieter prüfen, wer solche erweiterten Fähigkeiten bekommt und wie Missbrauch auffällt.",
+      "sources": [
+        {
+          "name": "Anthropic Newsroom",
+          "url": "https://www.anthropic.com/news"
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Cybersecurity",
+        "AI Safety",
+        "Access Control",
+        "Enterprise AI",
+        "Governance"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news"
+      }
+    },
+    {
+      "title": "GPU-Planung wird zum versteckten Hebel der AI-Kosten",
+      "summary": "Ai2 schreibt auf Hugging Face über impactful scheduling für GPU-Cluster. Das Thema klingt nach Rechenzentrums-Kleingedrucktem, ist aber nah am Alltag vieler AI-Teams: Nicht jede Trainings- oder Inferenzaufgabe ist gleich dringend, gleich wertvoll oder gleich gut für knappe GPUs geeignet.",
+      "why_it_matters": "Für Labs, Startups und größere Unternehmen wird Infrastruktur zur Produktfrage. Wer GPUs besser priorisiert, kann Experimente schneller drehen und weniger Rechenzeit in Jobs stecken, die wenig bringen. Das ist weniger glamourös als ein neues Modell, spart aber oft mehr Geld als die nächste Prompt-Optimierung.",
+      "sources": [
+        {
+          "name": "Hugging Face / Ai2",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Ai2",
+        "AI Infrastructure",
+        "GPU Clusters",
+        "Scheduling",
+        "AI Costs"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Hugging Face / Ai2",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Zhipu AI",
+      "url": "https://www.zhipuai.cn/"
+    },
+    {
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "name": "Hugging Face / LightOn",
+      "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+    },
+    {
+      "name": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "name": "Hugging Face / Ai2",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+    }
+  ]
+}

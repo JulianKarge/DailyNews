@@ -1,228 +1,200 @@
 {
   "schema_version": "1.0",
-  "id": "2026-10-12",
-  "date": "2026-10-12",
-  "weekday": "Montag",
-  "date_label": "Montag, 12.10.2026",
-  "title": "Daily AI News — Montag, 12.10.2026",
-  "dek": "Sechs AI-Updates mit Praxiswert: GPT-6 wird interaktiver, Claude Haiku 5.5 drückt Routinekosten, Cohere baut North 2 für sensible Unternehmensdaten, LiquidAI bringt Entscheidungsmodelle an den Rand des Netzwerks, Falcon ASR stärkt mehrsprachige Voice AI und OpenAI warnt vor falschen Medienfassaden.",
-  "summary": "Heute dreht sich AI weniger um die lauteste Demo und mehr um den Alltag danach: interaktive Chat-Oberflächen, günstigere kleine Modelle, private Enterprise-Deployments, Edge-Entscheidungen, bessere Spracherkennung jenseits von Englisch und die Frage, wie man synthetische Medienfassaden erkennt.",
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "weekday": "Dienstag",
+  "date_label": "Dienstag, 13.10.2026",
+  "title": "Daily AI News — Dienstag, 13.10.2026",
+  "dek": "Fünf AI-Updates mit Praxiswert: GLM-5.3 schiebt offene Coding-Agenten nach vorn, Asana zeigt die Kostenfrage bei Browser-Agenten, ColGrep-Agent spart Kontext, Anthropic justiert Cyber-Zugänge und Ai2 erinnert daran, dass GPUs auch geplant werden wollen.",
+  "summary": "Heute geht es weniger um glänzende Chat-Demos und mehr um Betrieb: offene Coding-Modelle mit langem Kontext, Browser-Agenten mit realen Kostenkurven, bessere Code-Suche vor dem Prompt, kontrollierter Security-Zugang und Infrastruktur, die entscheidet, welche AI-Arbeit überhaupt bezahlbar läuft.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-10-12T13:03:03Z",
+  "generated_at": "2026-10-13T15:53:43Z",
   "tags": [
+    "Zhipu AI",
+    "GLM-5.3",
+    "Open Weights",
+    "Coding Agents",
+    "Long Context",
+    "Developer Tools",
     "OpenAI",
-    "GPT-6",
-    "ChatGPT",
-    "Intelligent UI",
-    "Productivity",
-    "Creator Tools",
-    "Anthropic",
-    "Claude Haiku 5.5",
-    "Small Models",
+    "Asana",
+    "Browser Agents",
+    "Codex",
+    "GPT-6 Astra",
     "AI Costs",
-    "Subagents",
-    "Customer Support",
-    "Cohere",
-    "North 2",
-    "Enterprise AI",
-    "Private Deployment",
-    "Security",
-    "Cost Governance",
     "Hugging Face",
-    "LiquidAI",
-    "Decision Models",
-    "Edge AI",
-    "Multimodal AI",
-    "Open Source",
-    "Falcon ASR",
-    "Voice AI",
-    "Speech Recognition",
-    "Arabic",
-    "Multilingual AI",
-    "AI Security",
-    "Influence Operations",
-    "Disinformation",
-    "Trust",
-    "Governance"
+    "LightOn",
+    "Code Search",
+    "Token Costs",
+    "Anthropic",
+    "Cybersecurity",
+    "AI Safety",
+    "Access Control",
+    "Enterprise AI",
+    "Governance",
+    "Ai2",
+    "AI Infrastructure",
+    "GPU Clusters",
+    "Scheduling"
   ],
   "hero": {
-    "topic": "AI wird praktischer: interaktive Oberflächen, günstige Subagenten, private Enterprise-Plattformen, Edge-Entscheidungen, mehrsprachige Voice AI und Quellenvertrauen",
-    "accent": "#0f766e",
-    "image_alt": "Abstrakte AI-News-Karte für Montag, 12.10.2026"
+    "topic": "AI wird betrieblicher: offene Coding-Agenten, Agenten-Kosten, Kontextsuche, Cyber-Zugang und GPU-Planung",
+    "accent": "#7c3aed",
+    "image_alt": "Abstrakte AI-News-Karte für Dienstag, 13.10.2026"
   },
-  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-12.json",
-  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-12.html",
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-13.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-13.html",
   "items": [
     {
-      "title": "GPT-6 wird in ChatGPT stärker zur interaktiven Arbeitsfläche",
-      "summary": "OpenAI meldet im öffentlichen News-RSS, dass GPT-6 weltweit in ChatGPT ausrollt und mit \"Intelligent UI\" schnellere Antworten, visuelle Elemente und direkt nutzbare interaktive Oberflächen bringen soll. Das ist mehr als ein Modellname auf einer Preisliste: ChatGPT soll häufiger Dinge zeigen, verändern und bedienbar machen, statt nur Textblöcke auszugeben.",
-      "why_it_matters": "Für Creator, Teams und kleine Unternehmen wird der Unterschied spürbar, wenn aus einer Antwort direkt ein kleiner Arbeitsbereich wird: Kampagnenentwurf, Lernkarte, Vergleich, Formular, Analyse. Die offene Frage ist, wie gut solche Oberflächen kontrollierbar bleiben und ob sie in echten Arbeitsabläufen weniger Klickarbeit erzeugen oder nur hübschere Klickarbeit.",
+      "title": "GLM-5.3 macht lange Coding-Agenten wieder zum offenen Rennen",
+      "summary": "Zhipu AI führt GLM-5.3 auf seiner offiziellen Seite als Coding-Modell mit 1 Million Kontext-Tokens, stärkerer Tool-Nutzung und einem eigenen Agent-Harness namens ZCode. THE DECODER ordnet das Modell zusätzlich als Open-Weights-Konkurrent für Coding-Agenten ein. Das ist kein nettes Modellkarten-Detail, sondern ein Signal: Lange Softwareaufgaben wandern weiter aus der reinen Closed-Model-Ecke heraus.",
+      "why_it_matters": "Für Teams und Automatisierer wird spannend, ob offene Modelle bei großen Repos, langen Fehlerketten und mehrstufigen Agentenläufen zuverlässig genug werden. 1 Million Kontext klingt groß, löst aber nicht automatisch Planung, Tests und Review. Der praktische Punkt ist eher: Wer sensible Codebasen nicht komplett an externe APIs geben will, bekommt mehr ernstzunehmende Optionen.",
+      "sources": [
+        {
+          "name": "Zhipu AI",
+          "url": "https://www.zhipuai.cn/"
+        },
+        {
+          "name": "THE DECODER",
+          "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+        }
+      ],
+      "tags": [
+        "Zhipu AI",
+        "GLM-5.3",
+        "Open Weights",
+        "Coding Agents",
+        "Long Context",
+        "Developer Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Zhipu AI",
+        "url": "https://www.zhipuai.cn/"
+      }
+    },
+    {
+      "title": "Asanas Browser-Agent zeigt, warum Modellkosten über Agenten entscheiden",
+      "summary": "OpenAI beschreibt im offiziellen News-RSS, dass Asana mit GPT-6 Astra in Codex einen Browser-Agenten in Tests 76-mal günstiger und 5-mal schneller gemacht hat. Die Fallstudie ist kein neutraler Benchmark, aber sie trifft einen wunden Punkt echter Agenten: Jede Browseraktion, jeder Fehlversuch und jede Wiederholung kostet Zeit und Tokens.",
+      "why_it_matters": "Für Produktteams zählt bei Agenten nicht nur, ob die Demo einmal funktioniert. Entscheidend ist, ob sie hundertmal am Tag bezahlbar und halbwegs berechenbar läuft. Wenn günstigere Modellrouten einfache Browserarbeit übernehmen, können mehr Firmen Agenten testen, ohne dass die Monatsrechnung aussieht wie ein sehr motivierter Praktikant mit Firmenkarte.",
       "sources": [
         {
           "name": "OpenAI News RSS",
-          "url": "https://openai.com/index/gpt-6-for-everyone"
+          "url": "https://openai.com/index/asana-browser-agent"
         }
       ],
       "tags": [
         "OpenAI",
-        "GPT-6",
-        "ChatGPT",
-        "Intelligent UI",
-        "Productivity",
-        "Creator Tools"
+        "Asana",
+        "Browser Agents",
+        "Codex",
+        "GPT-6 Astra",
+        "AI Costs"
       ],
       "confidence": "medium",
       "source": {
         "name": "OpenAI News RSS",
-        "url": "https://openai.com/index/gpt-6-for-everyone"
+        "url": "https://openai.com/index/asana-browser-agent"
       }
     },
     {
-      "title": "Claude Haiku 5.5 macht kleine Modelle wieder interessanter",
-      "summary": "Anthropic hat Claude Haiku 5.5 vorgestellt und beschreibt es als schnellstes und günstigstes Haiku-Modell für hohe Anfragevolumen. Der Fokus liegt nicht auf der einen großen Denkaufgabe, sondern auf viel Kleinkram: Zusammenfassungen, Klassifikation, Datenbankabfragen, Browser-Nutzung und Subagenten in Coding-Workflows. Laut Anthropic kostet der Betrieb im Schnitt rund 75 Prozent weniger als bei Haiku 4.5.",
-      "why_it_matters": "Für Support, interne Automationen und Agenten-Setups ist genau diese Modellklasse entscheidend. Nicht jede Aufgabe braucht das teuerste Modell im Raum. Wenn ein schnelleres kleines Modell Routinearbeit zuverlässig übernimmt, können Teams mehr AI in echte Prozesse stecken, ohne dass bei jeder Anfrage die Budgetlampe blinkt.",
+      "title": "ColGrep-Agent will Coding-Agenten weniger Token verbrennen lassen",
+      "summary": "LightOn stellt auf Hugging Face ColGrep-Agent vor und verspricht, Frontier-Coding-Agenten beim Durchsuchen großer Codebasen um etwa ein Drittel Tokenverbrauch zu entlasten. Der Ansatz zielt nicht auf ein neues Chatmodell, sondern auf die langweilige Vorarbeit: relevante Stellen finden, bevor ein teures Modell lange über falschen Kontext nachdenkt.",
+      "why_it_matters": "Für Entwicklerteams ist das praktisch, weil Agenten oft nicht an fehlender Intelligenz scheitern, sondern an Kontext-Müll. Bessere Suche vor dem Prompt kann Läufe billiger, schneller und prüfbarer machen. Die Einschränkung bleibt: Weniger Tokens sind nur dann ein Gewinn, wenn der Agent dadurch nicht die eine Datei übersieht, in der der Fehler wirklich sitzt.",
       "sources": [
         {
-          "name": "Anthropic",
-          "url": "https://www.anthropic.com/claude-haiku-5-5"
+          "name": "Hugging Face / LightOn",
+          "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "LightOn",
+        "Coding Agents",
+        "Code Search",
+        "Token Costs",
+        "Developer Tools"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Hugging Face / LightOn",
+        "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+      }
+    },
+    {
+      "title": "Anthropic öffnet Cyber-Funktionen kontrollierter für Sicherheitsprofis",
+      "summary": "Anthropic meldet in seinem Newsroom ein erweitertes Cyber Verification Program. Qualifizierte Sicherheitsprofis sollen damit mehr Cyber-Fähigkeiten und weniger blockierende Klassifikatoren nutzen können. Das ist eine heikle Balance: dieselben Modelle, die Angriffe erleichtern könnten, helfen auch bei Abwehr, Tests und Incident Response.",
+      "why_it_matters": "Für Unternehmen zeigt sich hier ein Muster, das wichtiger wird als einzelne Modellnamen: AI-Anbieter bauen Zugangsstufen statt nur Ein/Aus-Sicherungen. Für Security-Teams kann das nützlich sein, weil zu harte Blockaden echte Arbeit behindern. Für alle anderen bleibt die Frage, wie sauber Anbieter prüfen, wer solche erweiterten Fähigkeiten bekommt und wie Missbrauch auffällt.",
+      "sources": [
+        {
+          "name": "Anthropic Newsroom",
+          "url": "https://www.anthropic.com/news"
         }
       ],
       "tags": [
         "Anthropic",
-        "Claude Haiku 5.5",
-        "Small Models",
-        "AI Costs",
-        "Subagents",
-        "Customer Support"
-      ],
-      "confidence": "high",
-      "source": {
-        "name": "Anthropic",
-        "url": "https://www.anthropic.com/claude-haiku-5-5"
-      }
-    },
-    {
-      "title": "Cohere verkauft North 2 als AI-Plattform für Daten, die nicht wandern dürfen",
-      "summary": "Cohere hat North 2 angekündigt, ein größeres Update seiner Enterprise-AI-Plattform mit mehr als 15 neuen Funktionen. Im Mittelpunkt stehen Agenten, Sicherheit, Kostenkontrolle und Deployment-Optionen, die auch isolierte VPCs oder On-Prem-Umgebungen abdecken. Die Botschaft ist ziemlich klar: AI soll näher an sensible Unternehmensdaten rücken, ohne dass diese Daten überall herumreisen müssen.",
-      "why_it_matters": "Für Banken, Behörden, Industrie und größere Mittelständler ist das oft wichtiger als die nächste Demo mit Konfetti. Viele AI-Projekte scheitern nicht am Prompt, sondern an Datenschutz, Berechtigungen, Kosten und Betrieb. North 2 trifft genau diese langweilige, aber teure Zone zwischen \"spannender Prototyp\" und \"darf wirklich produktiv laufen\".",
-      "sources": [
-        {
-          "name": "Cohere",
-          "url": "https://cohere.com/blog/introducing-north-2"
-        }
-      ],
-      "tags": [
-        "Cohere",
-        "North 2",
+        "Cybersecurity",
+        "AI Safety",
+        "Access Control",
         "Enterprise AI",
-        "Private Deployment",
-        "Security",
-        "Cost Governance"
-      ],
-      "confidence": "high",
-      "source": {
-        "name": "Cohere",
-        "url": "https://cohere.com/blog/introducing-north-2"
-      }
-    },
-    {
-      "title": "LiquidAI bringt offene Entscheidungsmodelle auf kleinere Geräte",
-      "summary": "LiquidAI veröffentlicht auf Hugging Face zwei offene multimodale d1-Decision-Models für Edge-Szenarien. Solche Modelle sind nicht darauf optimiert, lange Chatantworten zu schreiben, sondern Entscheidungen in kompakten Umgebungen zu treffen, etwa wenn ein Gerät Bilder, Text oder Zustände auswerten und daraus eine Aktion ableiten soll.",
-      "why_it_matters": "Für lokale Automatisierung, Robotik, Qualitätsprüfung oder datensensible Geräte ist das spannend, weil nicht jede Entscheidung in die Cloud muss. Der Haken bleibt Evaluation: Ein kleines Modell am Rand des Netzwerks klingt sauber, aber Teams müssen trotzdem messen, wann es danebenliegt und wie sich Fehler stoppen lassen.",
-      "sources": [
-        {
-          "name": "Hugging Face / LiquidAI",
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1"
-        }
-      ],
-      "tags": [
-        "Hugging Face",
-        "LiquidAI",
-        "Decision Models",
-        "Edge AI",
-        "Multimodal AI",
-        "Open Source"
-      ],
-      "confidence": "high",
-      "source": {
-        "name": "Hugging Face / LiquidAI",
-        "url": "https://huggingface.co/blog/LiquidAI/open-d1"
-      }
-    },
-    {
-      "title": "Falcon ASR erinnert daran, dass Voice AI nicht nur Englisch können darf",
-      "summary": "Das Technology Innovation Institute stellt auf Hugging Face Falcon ASR vor, ein Spracherkennungsmodell mit besonderem Fokus auf Arabisch und Emirati-Arabisch. Der Beitrag nennt ein 1,6-Milliarden-Parameter-Modell und Benchmarks für unterschiedliche Aufnahmebedingungen. Das ist kein glamouröser Chatbot-Launch, aber ein wichtiger Baustein für Voice-Produkte außerhalb der englischen Komfortzone.",
-      "why_it_matters": "Für Kundendienst, Behörden, Education und Creator-Tools zählt Spracherkennung nur dann wirklich, wenn Dialekte, Akzente und schlechte Mikrofone nicht sofort alles ruinieren. Mehrsprachige Voice AI wird praktischer, sobald Modelle nicht nur Studio-Englisch verstehen. Genau dort entscheidet sich, ob Voice-Agenten im Alltag helfen oder nur in Demos nett nicken.",
-      "sources": [
-        {
-          "name": "Hugging Face / TII",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
-        }
-      ],
-      "tags": [
-        "Hugging Face",
-        "Falcon ASR",
-        "Voice AI",
-        "Speech Recognition",
-        "Arabic",
-        "Multilingual AI"
-      ],
-      "confidence": "high",
-      "source": {
-        "name": "Hugging Face / TII",
-        "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
-      }
-    },
-    {
-      "title": "OpenAI zeigt, wie AI für falsche Medienfassaden missbraucht wird",
-      "summary": "OpenAI berichtet über zwei gestörte AI-gestützte Einflussoperationen, die mit falschen Journalisten- und Think-Tank-Fassaden geopolitische Botschaften verbreiten sollten. Der Fall ist kein neues Kreativtool, sondern ein Blick auf die Schattenseite derselben Systeme, die Texte, Personas und Webseiten immer billiger produzieren.",
-      "why_it_matters": "Für Leser, Teams und Marken heißt das: Quellenprüfung wird nicht altmodischer, sondern wichtiger. Wenn komplette Kommunikationsfassaden automatisiert entstehen können, reichen Logo, Autorenfoto und flüssiger Text nicht mehr als Vertrauenssignal. Praktisch wird relevant, wer Inhalte signiert, Quellen offenlegt und ungewöhnliche Kampagnen früh erkennt.",
-      "sources": [
-        {
-          "name": "OpenAI",
-          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-        }
-      ],
-      "tags": [
-        "OpenAI",
-        "AI Security",
-        "Influence Operations",
-        "Disinformation",
-        "Trust",
         "Governance"
       ],
       "confidence": "medium",
       "source": {
-        "name": "OpenAI",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+        "name": "Anthropic Newsroom",
+        "url": "https://www.anthropic.com/news"
+      }
+    },
+    {
+      "title": "GPU-Planung wird zum versteckten Hebel der AI-Kosten",
+      "summary": "Ai2 schreibt auf Hugging Face über impactful scheduling für GPU-Cluster. Das Thema klingt nach Rechenzentrums-Kleingedrucktem, ist aber nah am Alltag vieler AI-Teams: Nicht jede Trainings- oder Inferenzaufgabe ist gleich dringend, gleich wertvoll oder gleich gut für knappe GPUs geeignet.",
+      "why_it_matters": "Für Labs, Startups und größere Unternehmen wird Infrastruktur zur Produktfrage. Wer GPUs besser priorisiert, kann Experimente schneller drehen und weniger Rechenzeit in Jobs stecken, die wenig bringen. Das ist weniger glamourös als ein neues Modell, spart aber oft mehr Geld als die nächste Prompt-Optimierung.",
+      "sources": [
+        {
+          "name": "Hugging Face / Ai2",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "Ai2",
+        "AI Infrastructure",
+        "GPU Clusters",
+        "Scheduling",
+        "AI Costs"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Hugging Face / Ai2",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
       }
     }
   ],
   "sources": [
     {
-      "label": "OpenAI News RSS",
-      "url": "https://openai.com/index/gpt-6-for-everyone"
+      "name": "Zhipu AI",
+      "url": "https://www.zhipuai.cn/"
     },
     {
-      "label": "Anthropic",
-      "url": "https://www.anthropic.com/claude-haiku-5-5"
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
     },
     {
-      "label": "Cohere",
-      "url": "https://cohere.com/blog/introducing-north-2"
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/asana-browser-agent"
     },
     {
-      "label": "Hugging Face / LiquidAI",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+      "name": "Hugging Face / LightOn",
+      "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
     },
     {
-      "label": "Hugging Face / TII",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
+      "name": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news"
     },
     {
-      "label": "OpenAI",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      "name": "Hugging Face / Ai2",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
     }
   ]
 }
