@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-14",
+    "weekday": "Mittwoch",
+    "dateLabel": "Mittwoch, 14.10.2026",
+    "title": "Daily AI News — Mittwoch, 14.10.2026",
+    "summary": "Fünf AI-Updates mit Praxiswert: Gemini 4 Argon landet offiziell und in Copilot, AI-Video wird länger, LiquidAI schiebt private On-Device-Agenten an, ein arXiv-Paper zeigt bessere Trainingsumgebungen für lange Agentenläufe und OpenAI rahmt agentische AI als EU-Wirtschaftsthema.",
+    "file": "pages/2026-10-14.html",
+    "markdownFile": "news/2026-10-14.md",
+    "tags": [
+      "Google",
+      "Gemini 4 Argon",
+      "Frontier Models",
+      "GitHub Copilot",
+      "Coding Agents",
+      "Model Choice",
+      "OpenAI",
+      "Higgsfield",
+      "AI Video",
+      "Creator Tools",
+      "Voice AI",
+      "Marketing",
+      "Hugging Face",
+      "LiquidAI",
+      "On-device AI",
+      "Private Agents",
+      "Local AI",
+      "Automation",
+      "arXiv",
+      "AI Agents",
+      "Long-Horizon Tasks",
+      "Evaluation",
+      "Training Data",
+      "Agentic AI",
+      "Europe",
+      "Small Business",
+      "Productivity",
+      "Workflow Automation"
+    ],
+    "sources": [
+      {
+        "label": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      },
+      {
+        "label": "GitHub Changelog",
+        "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+      },
+      {
+        "label": "Hugging Face / LiquidAI",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2610.18868v1"
+      },
+      {
+        "label": "OpenAI News RSS",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "weekday": "Dienstag",
     "dateLabel": "Dienstag, 13.10.2026",

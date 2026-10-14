@@ -1,200 +1,202 @@
 {
   "schema_version": "1.0",
-  "id": "2026-10-13",
-  "date": "2026-10-13",
-  "weekday": "Dienstag",
-  "date_label": "Dienstag, 13.10.2026",
-  "title": "Daily AI News — Dienstag, 13.10.2026",
-  "dek": "Fünf AI-Updates mit Praxiswert: GLM-5.3 schiebt offene Coding-Agenten nach vorn, Asana zeigt die Kostenfrage bei Browser-Agenten, ColGrep-Agent spart Kontext, Anthropic justiert Cyber-Zugänge und Ai2 erinnert daran, dass GPUs auch geplant werden wollen.",
-  "summary": "Heute geht es weniger um glänzende Chat-Demos und mehr um Betrieb: offene Coding-Modelle mit langem Kontext, Browser-Agenten mit realen Kostenkurven, bessere Code-Suche vor dem Prompt, kontrollierter Security-Zugang und Infrastruktur, die entscheidet, welche AI-Arbeit überhaupt bezahlbar läuft.",
+  "id": "2026-10-14",
+  "date": "2026-10-14",
+  "weekday": "Mittwoch",
+  "date_label": "Mittwoch, 14.10.2026",
+  "title": "Daily AI News — Mittwoch, 14.10.2026",
+  "dek": "Fünf AI-Updates mit Praxiswert: Gemini 4 Argon landet offiziell und in Copilot, AI-Video wird länger, LiquidAI schiebt private On-Device-Agenten an, ein arXiv-Paper zeigt bessere Trainingsumgebungen für lange Agentenläufe und OpenAI rahmt agentische AI als EU-Wirtschaftsthema.",
+  "summary": "Heute geht es um AI, die näher an echte Arbeit rückt: neue Modellwahl im Coding-Alltag, längere Videoformate für Creator, private Agenten auf Geräten, bessere Trainingsumgebungen für lange Aufgaben und die Frage, wie agentische AI in europäischen Unternehmen praktisch nutzbar wird.",
   "language": "de",
   "status": "published",
-  "generated_at": "2026-10-13T15:53:43Z",
+  "generated_at": "2026-10-14T14:13:58Z",
   "tags": [
-    "Zhipu AI",
-    "GLM-5.3",
-    "Open Weights",
+    "Google",
+    "Gemini 4 Argon",
+    "Frontier Models",
+    "GitHub Copilot",
     "Coding Agents",
-    "Long Context",
-    "Developer Tools",
+    "Model Choice",
     "OpenAI",
-    "Asana",
-    "Browser Agents",
-    "Codex",
-    "GPT-6 Astra",
-    "AI Costs",
+    "Higgsfield",
+    "AI Video",
+    "Creator Tools",
+    "Voice AI",
+    "Marketing",
     "Hugging Face",
-    "LightOn",
-    "Code Search",
-    "Token Costs",
-    "Anthropic",
-    "Cybersecurity",
-    "AI Safety",
-    "Access Control",
-    "Enterprise AI",
-    "Governance",
-    "Ai2",
-    "AI Infrastructure",
-    "GPU Clusters",
-    "Scheduling"
+    "LiquidAI",
+    "On-device AI",
+    "Private Agents",
+    "Local AI",
+    "Automation",
+    "arXiv",
+    "AI Agents",
+    "Long-Horizon Tasks",
+    "Evaluation",
+    "Training Data",
+    "Agentic AI",
+    "Europe",
+    "Small Business",
+    "Productivity",
+    "Workflow Automation"
   ],
   "hero": {
-    "topic": "AI wird betrieblicher: offene Coding-Agenten, Agenten-Kosten, Kontextsuche, Cyber-Zugang und GPU-Planung",
+    "topic": "AI wird greifbarer: Frontier-Modelle im Coding-Alltag, längere Video-Workflows, private On-Device-Agenten, Agenten-Training und EU-Produktivität",
     "accent": "#7c3aed",
-    "image_alt": "Abstrakte AI-News-Karte für Dienstag, 13.10.2026"
+    "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 14.10.2026"
   },
-  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-13.json",
-  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-13.html",
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-14.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-14.html",
   "items": [
     {
-      "title": "GLM-5.3 macht lange Coding-Agenten wieder zum offenen Rennen",
-      "summary": "Zhipu AI führt GLM-5.3 auf seiner offiziellen Seite als Coding-Modell mit 1 Million Kontext-Tokens, stärkerer Tool-Nutzung und einem eigenen Agent-Harness namens ZCode. THE DECODER ordnet das Modell zusätzlich als Open-Weights-Konkurrent für Coding-Agenten ein. Das ist kein nettes Modellkarten-Detail, sondern ein Signal: Lange Softwareaufgaben wandern weiter aus der reinen Closed-Model-Ecke heraus.",
-      "why_it_matters": "Für Teams und Automatisierer wird spannend, ob offene Modelle bei großen Repos, langen Fehlerketten und mehrstufigen Agentenläufen zuverlässig genug werden. 1 Million Kontext klingt groß, löst aber nicht automatisch Planung, Tests und Review. Der praktische Punkt ist eher: Wer sensible Codebasen nicht komplett an externe APIs geben will, bekommt mehr ernstzunehmende Optionen.",
+      "title": "Gemini 4 Argon macht den Modellvergleich wieder praktischer",
+      "summary": "Google hat Gemini 4 Argon offiziell vorgestellt und beschreibt es als neues Frontier-Modell für Entwickler, Unternehmen, Wissenschaft und Endnutzer. Parallel meldet GitHub, dass Argon in Copilot allgemein verfügbar ist. Das macht die Ankündigung weniger abstrakt: Das Modell landet direkt dort, wo viele Teams Code schreiben, reviewen und Agentenläufe testen.",
+      "why_it_matters": "Für Teams wird Modellwahl wieder konkreter. Wenn Gemini 4 Argon in Copilot und über Googles eigene Plattformen verfügbar ist, können Entwickler nicht nur Benchmark-Tabellen vergleichen, sondern echte Aufgaben dagegenhalten: Refactoring, Tests, Recherche im Repo, längere Planungsaufgaben. Offen bleibt, wie stabil Argon bei mehrstufiger Agentenarbeit bleibt, wenn der Code nicht aus einer Demo, sondern aus einem gewachsenen Projekt kommt.",
       "sources": [
         {
-          "name": "Zhipu AI",
-          "url": "https://www.zhipuai.cn/"
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
         },
         {
-          "name": "THE DECODER",
-          "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+          "name": "GitHub Changelog",
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
         }
       ],
       "tags": [
-        "Zhipu AI",
-        "GLM-5.3",
-        "Open Weights",
+        "Google",
+        "Gemini 4 Argon",
+        "Frontier Models",
+        "GitHub Copilot",
         "Coding Agents",
-        "Long Context",
-        "Developer Tools"
+        "Model Choice"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "source": {
-        "name": "Zhipu AI",
-        "url": "https://www.zhipuai.cn/"
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
       }
     },
     {
-      "title": "Asanas Browser-Agent zeigt, warum Modellkosten über Agenten entscheiden",
-      "summary": "OpenAI beschreibt im offiziellen News-RSS, dass Asana mit GPT-6 Astra in Codex einen Browser-Agenten in Tests 76-mal günstiger und 5-mal schneller gemacht hat. Die Fallstudie ist kein neutraler Benchmark, aber sie trifft einen wunden Punkt echter Agenten: Jede Browseraktion, jeder Fehlversuch und jede Wiederholung kostet Zeit und Tokens.",
-      "why_it_matters": "Für Produktteams zählt bei Agenten nicht nur, ob die Demo einmal funktioniert. Entscheidend ist, ob sie hundertmal am Tag bezahlbar und halbwegs berechenbar läuft. Wenn günstigere Modellrouten einfache Browserarbeit übernehmen, können mehr Firmen Agenten testen, ohne dass die Monatsrechnung aussieht wie ein sehr motivierter Praktikant mit Firmenkarte.",
+      "title": "AI-Video rutscht von der Demo in längere Creator-Formate",
+      "summary": "OpenAI meldet im offiziellen News-RSS, dass Higgsfield AI-Videos von einer Minute auf über zehn Minuten erweitert und dafür GPT-6 Astra, GPT-Image-2.5 und GPT-Live nutzt. Das ist keine reine Modellmeldung, sondern ein Produktsignal: AI-Video soll weniger Clip-Spielzeug sein und näher an Kampagnen, Storyboards und Voice-Workflows rücken.",
+      "why_it_matters": "Für Creator und Marketingteams wird spannend, ob längere Clips die Lücke zwischen schneller Idee und brauchbarem Rohschnitt verkleinern. Zehn Minuten sind lang genug für Erklärvideos, Produktstories oder interne Schulungen, aber auch lang genug, damit Konsistenzprobleme auffallen. Die praktische Frage ist deshalb nicht nur: Kann die AI länger rendern? Sondern: Bleiben Figuren, Stimme, Schnittlogik und Markenstil über mehrere Szenen brauchbar zusammen?",
       "sources": [
         {
           "name": "OpenAI News RSS",
-          "url": "https://openai.com/index/asana-browser-agent"
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice"
         }
       ],
       "tags": [
         "OpenAI",
-        "Asana",
-        "Browser Agents",
-        "Codex",
-        "GPT-6 Astra",
-        "AI Costs"
+        "Higgsfield",
+        "AI Video",
+        "Creator Tools",
+        "Voice AI",
+        "Marketing"
       ],
       "confidence": "medium",
       "source": {
         "name": "OpenAI News RSS",
-        "url": "https://openai.com/index/asana-browser-agent"
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice"
       }
     },
     {
-      "title": "ColGrep-Agent will Coding-Agenten weniger Token verbrennen lassen",
-      "summary": "LightOn stellt auf Hugging Face ColGrep-Agent vor und verspricht, Frontier-Coding-Agenten beim Durchsuchen großer Codebasen um etwa ein Drittel Tokenverbrauch zu entlasten. Der Ansatz zielt nicht auf ein neues Chatmodell, sondern auf die langweilige Vorarbeit: relevante Stellen finden, bevor ein teures Modell lange über falschen Kontext nachdenkt.",
-      "why_it_matters": "Für Entwicklerteams ist das praktisch, weil Agenten oft nicht an fehlender Intelligenz scheitern, sondern an Kontext-Müll. Bessere Suche vor dem Prompt kann Läufe billiger, schneller und prüfbarer machen. Die Einschränkung bleibt: Weniger Tokens sind nur dann ein Gewinn, wenn der Agent dadurch nicht die eine Datei übersieht, in der der Fehler wirklich sitzt.",
+      "title": "Private Agenten auf dem Gerät werden wieder ein ernstes Thema",
+      "summary": "LiquidAI stellt auf Hugging Face LFM2.5-24B-A2B als Modell für schnelle, private On-Device-Agenten vor. Der Beitrag positioniert das Modell nicht als Chatbot für alles, sondern als Baustein für Agenten, die lokal laufen und sensible Aufgaben näher am Gerät halten können.",
+      "why_it_matters": "Für Unternehmen, Selbstständige und Toolbauer ist das interessant, weil nicht jeder Agent dauerhaft Daten an eine Cloud schicken soll. Lokale Agenten könnten bei Dateien, Geräteaktionen, Kundenlisten oder internen Workflows helfen, ohne dass jedes Detail das Haus verlässt. Der Haken bleibt klassisch: On-device klingt nach Kontrolle, aber nur wenn Geschwindigkeit, Speicherbedarf, Toolzugriff und Updates im Alltag nicht nerven wie ein Druckertreiber mit Doktortitel.",
       "sources": [
         {
-          "name": "Hugging Face / LightOn",
-          "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+          "name": "Hugging Face / LiquidAI",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
         }
       ],
       "tags": [
         "Hugging Face",
-        "LightOn",
-        "Coding Agents",
-        "Code Search",
-        "Token Costs",
-        "Developer Tools"
+        "LiquidAI",
+        "On-device AI",
+        "Private Agents",
+        "Local AI",
+        "Automation"
       ],
       "confidence": "medium",
       "source": {
-        "name": "Hugging Face / LightOn",
-        "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+        "name": "Hugging Face / LiquidAI",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
       }
     },
     {
-      "title": "Anthropic öffnet Cyber-Funktionen kontrollierter für Sicherheitsprofis",
-      "summary": "Anthropic meldet in seinem Newsroom ein erweitertes Cyber Verification Program. Qualifizierte Sicherheitsprofis sollen damit mehr Cyber-Fähigkeiten und weniger blockierende Klassifikatoren nutzen können. Das ist eine heikle Balance: dieselben Modelle, die Angriffe erleichtern könnten, helfen auch bei Abwehr, Tests und Incident Response.",
-      "why_it_matters": "Für Unternehmen zeigt sich hier ein Muster, das wichtiger wird als einzelne Modellnamen: AI-Anbieter bauen Zugangsstufen statt nur Ein/Aus-Sicherungen. Für Security-Teams kann das nützlich sein, weil zu harte Blockaden echte Arbeit behindern. Für alle anderen bleibt die Frage, wie sauber Anbieter prüfen, wer solche erweiterten Fähigkeiten bekommt und wie Missbrauch auffällt.",
+      "title": "Lange Agentenläufe brauchen Trainingsumgebungen, nicht nur größere Modelle",
+      "summary": "Ein neues arXiv-Paper zu Tev beschreibt 1.170 verifizierte Long-Horizon-Agenten-Umgebungen mit dichteren Fortschrittsbelohnungen. Übersetzt heißt das: Agenten sollen nicht nur am Ende einer langen Aufgabe erfahren, ob alles gescheitert ist, sondern unterwegs messbar lernen, welche Zwischenschritte helfen.",
+      "why_it_matters": "Für Automatisierer ist das ein nüchterner, aber wichtiger Punkt. Viele Agenten wirken beeindruckend, solange Aufgaben kurz sind. Bei mehrstündigen Workflows, Rechercheketten oder Softwareprojekten reicht ein finales Erfolg/Fehler-Signal kaum aus. Solche Forschungsumgebungen können helfen, Agenten auf lange Arbeit zu trainieren und zu testen, bevor man sie auf echte Kundendaten oder Produktionssysteme loslässt.",
       "sources": [
         {
-          "name": "Anthropic Newsroom",
-          "url": "https://www.anthropic.com/news"
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2610.18868v1"
         }
       ],
       "tags": [
-        "Anthropic",
-        "Cybersecurity",
-        "AI Safety",
-        "Access Control",
-        "Enterprise AI",
-        "Governance"
+        "arXiv",
+        "AI Agents",
+        "Long-Horizon Tasks",
+        "Evaluation",
+        "Training Data",
+        "Automation"
       ],
       "confidence": "medium",
       "source": {
-        "name": "Anthropic Newsroom",
-        "url": "https://www.anthropic.com/news"
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2610.18868v1"
       }
     },
     {
-      "title": "GPU-Planung wird zum versteckten Hebel der AI-Kosten",
-      "summary": "Ai2 schreibt auf Hugging Face über impactful scheduling für GPU-Cluster. Das Thema klingt nach Rechenzentrums-Kleingedrucktem, ist aber nah am Alltag vieler AI-Teams: Nicht jede Trainings- oder Inferenzaufgabe ist gleich dringend, gleich wertvoll oder gleich gut für knappe GPUs geeignet.",
-      "why_it_matters": "Für Labs, Startups und größere Unternehmen wird Infrastruktur zur Produktfrage. Wer GPUs besser priorisiert, kann Experimente schneller drehen und weniger Rechenzeit in Jobs stecken, die wenig bringen. Das ist weniger glamourös als ein neues Modell, spart aber oft mehr Geld als die nächste Prompt-Optimierung.",
+      "title": "OpenAI rückt agentische AI als EU-Wirtschaftsthema nach vorn",
+      "summary": "OpenAI veröffentlichte im News-RSS eine Analyse zur agentischen AI-Nutzung in Europa, mit Fokus auf Unternehmen und kleine Betriebe. Der Beitrag ist klar Anbieterperspektive, aber das Signal passt zur Marktlage: Agenten werden nicht mehr nur als Entwicklerdemo erzählt, sondern als Produktivitätsfrage für Office, Service, Vertrieb und interne Abläufe.",
+      "why_it_matters": "Für kleine Unternehmen ist die spannende Frage weniger, welches Modell gerade vorne liegt, sondern welche Routine endlich delegierbar wird: Angebote vorbereiten, Kundenanfragen sortieren, Recherche verdichten, Dokumente prüfen. Gleichzeitig braucht diese Debatte mehr als schöne Adoptionskurven. Agentische Systeme müssen Rechte, Datenzugriff, Fehlerkontrolle und Kosten sauber erklären, sonst bleibt aus dem Produktivitätsversprechen schnell ein weiterer unkontrollierter Softwareprozess.",
       "sources": [
         {
-          "name": "Hugging Face / Ai2",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
         }
       ],
       "tags": [
-        "Hugging Face",
-        "Ai2",
-        "AI Infrastructure",
-        "GPU Clusters",
-        "Scheduling",
-        "AI Costs"
+        "OpenAI",
+        "Agentic AI",
+        "Europe",
+        "Small Business",
+        "Productivity",
+        "Workflow Automation"
       ],
       "confidence": "medium",
       "source": {
-        "name": "Hugging Face / Ai2",
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
       }
     }
   ],
   "sources": [
     {
-      "name": "Zhipu AI",
-      "url": "https://www.zhipuai.cn/"
+      "name": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
     },
     {
-      "name": "THE DECODER",
-      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
     },
     {
       "name": "OpenAI News RSS",
-      "url": "https://openai.com/index/asana-browser-agent"
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
     },
     {
-      "name": "Hugging Face / LightOn",
-      "url": "https://huggingface.co/blog/lightonai/colgrep-agent"
+      "name": "Hugging Face / LiquidAI",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
     },
     {
-      "name": "Anthropic Newsroom",
-      "url": "https://www.anthropic.com/news"
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2610.18868v1"
     },
     {
-      "name": "Hugging Face / Ai2",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
     }
   ]
 }

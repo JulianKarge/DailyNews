@@ -1,0 +1,202 @@
+{
+  "schema_version": "1.0",
+  "id": "2026-10-14",
+  "date": "2026-10-14",
+  "weekday": "Mittwoch",
+  "date_label": "Mittwoch, 14.10.2026",
+  "title": "Daily AI News — Mittwoch, 14.10.2026",
+  "dek": "Fünf AI-Updates mit Praxiswert: Gemini 4 Argon landet offiziell und in Copilot, AI-Video wird länger, LiquidAI schiebt private On-Device-Agenten an, ein arXiv-Paper zeigt bessere Trainingsumgebungen für lange Agentenläufe und OpenAI rahmt agentische AI als EU-Wirtschaftsthema.",
+  "summary": "Heute geht es um AI, die näher an echte Arbeit rückt: neue Modellwahl im Coding-Alltag, längere Videoformate für Creator, private Agenten auf Geräten, bessere Trainingsumgebungen für lange Aufgaben und die Frage, wie agentische AI in europäischen Unternehmen praktisch nutzbar wird.",
+  "language": "de",
+  "status": "published",
+  "generated_at": "2026-10-14T14:13:58Z",
+  "tags": [
+    "Google",
+    "Gemini 4 Argon",
+    "Frontier Models",
+    "GitHub Copilot",
+    "Coding Agents",
+    "Model Choice",
+    "OpenAI",
+    "Higgsfield",
+    "AI Video",
+    "Creator Tools",
+    "Voice AI",
+    "Marketing",
+    "Hugging Face",
+    "LiquidAI",
+    "On-device AI",
+    "Private Agents",
+    "Local AI",
+    "Automation",
+    "arXiv",
+    "AI Agents",
+    "Long-Horizon Tasks",
+    "Evaluation",
+    "Training Data",
+    "Agentic AI",
+    "Europe",
+    "Small Business",
+    "Productivity",
+    "Workflow Automation"
+  ],
+  "hero": {
+    "topic": "AI wird greifbarer: Frontier-Modelle im Coding-Alltag, längere Video-Workflows, private On-Device-Agenten, Agenten-Training und EU-Produktivität",
+    "accent": "#7c3aed",
+    "image_alt": "Abstrakte AI-News-Karte für Mittwoch, 14.10.2026"
+  },
+  "canonical_url": "https://juliankarge.github.io/DailyNews/data/api/days/2026-10-14.json",
+  "web_url": "https://juliankarge.github.io/DailyNews/pages/2026-10-14.html",
+  "items": [
+    {
+      "title": "Gemini 4 Argon macht den Modellvergleich wieder praktischer",
+      "summary": "Google hat Gemini 4 Argon offiziell vorgestellt und beschreibt es als neues Frontier-Modell für Entwickler, Unternehmen, Wissenschaft und Endnutzer. Parallel meldet GitHub, dass Argon in Copilot allgemein verfügbar ist. Das macht die Ankündigung weniger abstrakt: Das Modell landet direkt dort, wo viele Teams Code schreiben, reviewen und Agentenläufe testen.",
+      "why_it_matters": "Für Teams wird Modellwahl wieder konkreter. Wenn Gemini 4 Argon in Copilot und über Googles eigene Plattformen verfügbar ist, können Entwickler nicht nur Benchmark-Tabellen vergleichen, sondern echte Aufgaben dagegenhalten: Refactoring, Tests, Recherche im Repo, längere Planungsaufgaben. Offen bleibt, wie stabil Argon bei mehrstufiger Agentenarbeit bleibt, wenn der Code nicht aus einer Demo, sondern aus einem gewachsenen Projekt kommt.",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        },
+        {
+          "name": "GitHub Changelog",
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
+        }
+      ],
+      "tags": [
+        "Google",
+        "Gemini 4 Argon",
+        "Frontier Models",
+        "GitHub Copilot",
+        "Coding Agents",
+        "Model Choice"
+      ],
+      "confidence": "high",
+      "source": {
+        "name": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      }
+    },
+    {
+      "title": "AI-Video rutscht von der Demo in längere Creator-Formate",
+      "summary": "OpenAI meldet im offiziellen News-RSS, dass Higgsfield AI-Videos von einer Minute auf über zehn Minuten erweitert und dafür GPT-6 Astra, GPT-Image-2.5 und GPT-Live nutzt. Das ist keine reine Modellmeldung, sondern ein Produktsignal: AI-Video soll weniger Clip-Spielzeug sein und näher an Kampagnen, Storyboards und Voice-Workflows rücken.",
+      "why_it_matters": "Für Creator und Marketingteams wird spannend, ob längere Clips die Lücke zwischen schneller Idee und brauchbarem Rohschnitt verkleinern. Zehn Minuten sind lang genug für Erklärvideos, Produktstories oder interne Schulungen, aber auch lang genug, damit Konsistenzprobleme auffallen. Die praktische Frage ist deshalb nicht nur: Kann die AI länger rendern? Sondern: Bleiben Figuren, Stimme, Schnittlogik und Markenstil über mehrere Szenen brauchbar zusammen?",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Higgsfield",
+        "AI Video",
+        "Creator Tools",
+        "Voice AI",
+        "Marketing"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+      }
+    },
+    {
+      "title": "Private Agenten auf dem Gerät werden wieder ein ernstes Thema",
+      "summary": "LiquidAI stellt auf Hugging Face LFM2.5-24B-A2B als Modell für schnelle, private On-Device-Agenten vor. Der Beitrag positioniert das Modell nicht als Chatbot für alles, sondern als Baustein für Agenten, die lokal laufen und sensible Aufgaben näher am Gerät halten können.",
+      "why_it_matters": "Für Unternehmen, Selbstständige und Toolbauer ist das interessant, weil nicht jeder Agent dauerhaft Daten an eine Cloud schicken soll. Lokale Agenten könnten bei Dateien, Geräteaktionen, Kundenlisten oder internen Workflows helfen, ohne dass jedes Detail das Haus verlässt. Der Haken bleibt klassisch: On-device klingt nach Kontrolle, aber nur wenn Geschwindigkeit, Speicherbedarf, Toolzugriff und Updates im Alltag nicht nerven wie ein Druckertreiber mit Doktortitel.",
+      "sources": [
+        {
+          "name": "Hugging Face / LiquidAI",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+        }
+      ],
+      "tags": [
+        "Hugging Face",
+        "LiquidAI",
+        "On-device AI",
+        "Private Agents",
+        "Local AI",
+        "Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "Hugging Face / LiquidAI",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      }
+    },
+    {
+      "title": "Lange Agentenläufe brauchen Trainingsumgebungen, nicht nur größere Modelle",
+      "summary": "Ein neues arXiv-Paper zu Tev beschreibt 1.170 verifizierte Long-Horizon-Agenten-Umgebungen mit dichteren Fortschrittsbelohnungen. Übersetzt heißt das: Agenten sollen nicht nur am Ende einer langen Aufgabe erfahren, ob alles gescheitert ist, sondern unterwegs messbar lernen, welche Zwischenschritte helfen.",
+      "why_it_matters": "Für Automatisierer ist das ein nüchterner, aber wichtiger Punkt. Viele Agenten wirken beeindruckend, solange Aufgaben kurz sind. Bei mehrstündigen Workflows, Rechercheketten oder Softwareprojekten reicht ein finales Erfolg/Fehler-Signal kaum aus. Solche Forschungsumgebungen können helfen, Agenten auf lange Arbeit zu trainieren und zu testen, bevor man sie auf echte Kundendaten oder Produktionssysteme loslässt.",
+      "sources": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/abs/2610.18868v1"
+        }
+      ],
+      "tags": [
+        "arXiv",
+        "AI Agents",
+        "Long-Horizon Tasks",
+        "Evaluation",
+        "Training Data",
+        "Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "arXiv",
+        "url": "https://arxiv.org/abs/2610.18868v1"
+      }
+    },
+    {
+      "title": "OpenAI rückt agentische AI als EU-Wirtschaftsthema nach vorn",
+      "summary": "OpenAI veröffentlichte im News-RSS eine Analyse zur agentischen AI-Nutzung in Europa, mit Fokus auf Unternehmen und kleine Betriebe. Der Beitrag ist klar Anbieterperspektive, aber das Signal passt zur Marktlage: Agenten werden nicht mehr nur als Entwicklerdemo erzählt, sondern als Produktivitätsfrage für Office, Service, Vertrieb und interne Abläufe.",
+      "why_it_matters": "Für kleine Unternehmen ist die spannende Frage weniger, welches Modell gerade vorne liegt, sondern welche Routine endlich delegierbar wird: Angebote vorbereiten, Kundenanfragen sortieren, Recherche verdichten, Dokumente prüfen. Gleichzeitig braucht diese Debatte mehr als schöne Adoptionskurven. Agentische Systeme müssen Rechte, Datenzugriff, Fehlerkontrolle und Kosten sauber erklären, sonst bleibt aus dem Produktivitätsversprechen schnell ein weiterer unkontrollierter Softwareprozess.",
+      "sources": [
+        {
+          "name": "OpenAI News RSS",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        }
+      ],
+      "tags": [
+        "OpenAI",
+        "Agentic AI",
+        "Europe",
+        "Small Business",
+        "Productivity",
+        "Workflow Automation"
+      ],
+      "confidence": "medium",
+      "source": {
+        "name": "OpenAI News RSS",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    },
+    {
+      "name": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+    },
+    {
+      "name": "Hugging Face / LiquidAI",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+    },
+    {
+      "name": "arXiv",
+      "url": "https://arxiv.org/abs/2610.18868v1"
+    },
+    {
+      "name": "OpenAI News RSS",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+    }
+  ]
+}
